@@ -1,0 +1,51 @@
+# Planeación General
+
+## Tramas:
+
+### A.                                                                               
+Encontró a un Atropal en sus viajes y lo ha estado alimentando  través de los años.
+
+A través de devorar las almas de los muertos con el Devorador de Almas. Recientemente encontró la manera de evitar que los muertos revivan con la Maldición.
+
+Para asegurar que sus planes se cumplan ha manipulado a las facciones para que el sirvan y pelean entre ellas.
+
+ ### B.
+ La invasión Yuan Ti
+ 
+Ras Nsi sufre de la maldición. Acererak le ha prometido al cura y si protege Omu.
+
+Ras Gliss cree que Ras Nsi es débil, y a sus espaldas se ha convertido en en un Anathema para reconquistar la gloria de Mezro.
+
+Acererak se ha hecho pasar por Dendar para manipularlo, le ha advertido no mate a Ras Nsi, hasta que el se lo indique.
+
+---
+## Actos
+| fuente | Temporada 1 | Temporada 2 | Temporada 3 | Temporada 4 | Temporada 5 |
+| ------| ------------| ------------| ------------|-------------|-------------|
+| Libro | Port Nyanzaru | Chult | Omu | Fano de la serpiente | Tumba de los nueve dioses |
+|Campaña | Port Nyanzaru    | Selva | Selva 2 |  | |
+
+---
+## Arcos
+
+---
+## Sesiones
+
+---
+## Música
+Batalla final Acererak
+https://www.youtube.com/watch?v=S1VFqsew26c
+
+Ending final de la campaña
+https://www.youtube.com/watch?v=epv4UVrq6rQ
+Road of resisitance de Babymetal
+
+---
+### Pendientes:
+
+04/08/2021
+
+- [ ] Una nota para todos lo presagios que han visto los personajes.
+- [ ] Una nota de toda la información de las carreras junta en una sola nota
+
+---
