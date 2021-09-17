@@ -19,7 +19,7 @@
  
  ---
  
- ## Libros [[Libros]]
+ ## [[Libros]]
  El nombre de la rosa [[020320210339 - El nombre de la rosa]]
  El evangelio segun Jesucristo [[020320210320 - Evangelio segun Jesuscristo]]
  Caín [[040320210254 - Caín]]

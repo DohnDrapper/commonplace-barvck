@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "22436515945f36ae",
+        "id": "5b744c80eb61df61",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -90,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "22436515945f36ae",
+  "active": "5b744c80eb61df61",
   "lastOpenFiles": [
+    "000 Indice.md",
     "Blog/Reflexión de los 2010.md",
     "Blog/Neuromante.md",
     "Blog/Naruto.md",
@@ -100,7 +101,6 @@
     "Blog/Demon slayer.md",
     "Personal/GTD - On going.md",
     "Top 10.md",
-    "Rol/TDA/Sesión 27 TDA - Preparacion.md",
-    "Untitled.md"
+    "Rol/TDA/Sesión 27 TDA - Preparacion.md"
   ]
 }
