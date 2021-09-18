@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "5b744c80eb61df61",
+        "id": "af1e3737c4aff92e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Placebo.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Placebo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Placebo.md"
+              }
             }
           }
         ]
@@ -90,8 +96,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b744c80eb61df61",
+  "active": "af1e3737c4aff92e",
   "lastOpenFiles": [
+    "Personal/Placebo.md",
+    "Personal/GTD - On going.md",
     "000 Indice.md",
     "Blog/Reflexión de los 2010.md",
     "Blog/Neuromante.md",
@@ -99,8 +107,6 @@
     "Blog/Mad men.md",
     "Blog/Fyre Festival.md",
     "Blog/Demon slayer.md",
-    "Personal/GTD - On going.md",
-    "Top 10.md",
-    "Rol/TDA/Sesión 27 TDA - Preparacion.md"
+    "Top 10.md"
   ]
 }
