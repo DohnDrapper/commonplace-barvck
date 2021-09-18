@@ -57,7 +57,8 @@ _RESOLUCIÓN: El party vence al dragón._
 &nbsp
 
 **Música:**
-+ Fondo para conversación con Tinder 
++ Fondo para conversación con Tinder
+https://www.youtube.com/watch?v=kRTV_BMPW8I
 
 + Música de fondo Tinder en el piso
 https://www.youtube.com/watch?v=g5IUUOXtz6A

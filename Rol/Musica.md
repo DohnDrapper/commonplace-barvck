@@ -73,6 +73,23 @@ D&D Ambience | Medieval Siege Battle https://youtu.be/EspwQ6Phw0g
 'BFG Division' - medieval hardcore https://youtu.be/HfDDgekcoS8
 Epic Dark Battle Music - Escape https://youtu.be/KsZAnfR4ON4
 
+My players fought Tzindelor (Tinder) and i use this thre songs:
+[Coral music](https://www.youtube.com/watch?v=kRTV_BMPW8I)
+[level 1](https://www.youtube.com/watch?v=g5IUUOXtz6A)
+[level 2](https://www.youtube.com/watch?v=ejyBcX_gUNQ)
+[level 3](https://www.youtube.com/watch?v=O_49H_N43jQ)
+
+Some classic music:
+[Bringer of war](https://youtu.be/EWwe4UTHlDI)
+[Polovtsian dances](https://youtu.be/PUrcY61QUnA)
+[Dias Irae](https://youtu.be/pExZ6b3rN0M)
+[Mozart Dias Irae](https://youtu.be/n2PuGfRoAu4)
+[Gossec](https://youtu.be/NdynLzEpxYY)
+[Pulenc Gloria](https://youtu.be/-KxmLwnkPGk)
+[Misere mei](https://youtu.be/H3v9unphfi0)
+[Agnus dei](https://youtu.be/AiuC_CaObbI)
+
+
 	°Menor
 <https://www.youtube.com/watch?v=M\_hrNDhLwvE> 
 <https://www.youtube.com/watch?v=ZcNyPdipjeU> 

@@ -40,6 +40,30 @@ Ending final de la campaña
 https://www.youtube.com/watch?v=epv4UVrq6rQ
 Road of resisitance de Babymetal
 
+Holst: The Planets, Op.32 - 1. Mars, The Bringer Of War
+https://www.youtube.com/watch?v=EWwe4UTHlDI
+
+Polovtsian dances
+https://youtu.be/PUrcY61QUnA
+
+Dias Irae
+https://youtu.be/pExZ6b3rN0M
+
+Mozart Dias Irae
+https://youtu.be/n2PuGfRoAu4
+
+Gossec
+https://youtu.be/NdynLzEpxYY
+
+Pulenc Gloria
+https://youtu.be/-KxmLwnkPGk
+
+Misere mei
+https://youtu.be/H3v9unphfi0
+
+Agnus dei
+https://youtu.be/AiuC_CaObbI
+
 ---
 ### Pendientes:
 
