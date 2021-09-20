@@ -7,8 +7,11 @@
         "id": "c149041938fb3693",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Cyberpunk El apartamento.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "nightwalker",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Cyberpunk El apartamento.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Cyberpunk El apartamento.md"
+              }
             }
           }
         ]
@@ -93,15 +98,15 @@
   },
   "active": "c149041938fb3693",
   "lastOpenFiles": [
+    "Cyberpunk El apartamento.md",
+    "Rol/Cyberpunk Entrega Especial.md",
+    "Rol/TDA/Sesión 27 TDA - Preparacion.md",
+    "Untitled.md",
+    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
     "Rol/Musica.md",
     "Rol/TDA/Planeación general TDA  1.md",
     "Rol/TDA/Sesión 20 - Log.md",
     "Rol/TDA/Sesión 19 TDA - Log.md",
-    "Rol/TDA/Sesión 27 TDA - Preparacion.md",
-    "Blog/Escuadrón Suicida (2021).md",
-    "Personal/210420211057 - Exlibris.md",
-    "Blog/Untitled.md",
-    "Blog/030320210338.md",
-    "Personal/Placebo.md"
+    "Blog/Escuadrón Suicida (2021).md"
   ]
 }
