@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "abf6737c264365bf",
+        "id": "c22ca0398f62fc5d",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -69,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -97,7 +91,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abf6737c264365bf",
+  "active": "c22ca0398f62fc5d",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "Referencia Mark down.md",
