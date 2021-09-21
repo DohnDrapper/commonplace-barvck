@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "1568f391b683f0e9",
+        "id": "abf6737c264365bf",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908
+    "width": 318.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           }
         ]
@@ -90,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1568f391b683f0e9",
+  "active": "abf6737c264365bf",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
+    "Referencia Mark down.md",
+    "Personal/210420211057 - Exlibris.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
     "Blog/Escuadrón Suicida (2021).md",
+    "Blog/Demon slayer.md",
     "Untitled.md",
     "Cyberpunk El apartamento.md",
-    "Rol/Cyberpunk Entrega Especial.md",
-    "Rol/TDA/Sesión 27 TDA - Preparacion.md",
-    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
-    "Rol/Musica.md",
-    "Rol/TDA/Planeación general TDA  1.md",
-    "Rol/TDA/Sesión 20 - Log.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md"
+    "Rol/Cyberpunk Entrega Especial.md"
   ]
 }

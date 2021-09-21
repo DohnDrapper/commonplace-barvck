@@ -57,7 +57,7 @@ La javalina de Harley
 - Los gringos tomando acción siempre y cuando no sea abiertamente hostil para los gringos  
 - La República Bananera de Colto Maltés  
 - Peacemaker es el capitán América de la vida real, no me hagas elegir entre mi país y Goofy.  
-  
+	
 **La absurdez del comic**
 - Peace maker hace lo mismo que Bloodsport  
 - La escena del principio con la masacre es exactamente lo que pasaría en realidad si envías a juan cuerdas a una misión militar  
