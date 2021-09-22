@@ -19,6 +19,14 @@ Ras Gliss cree que Ras Nsi es débil, y a sus espaldas se ha convertido en en un
 Acererak se ha hecho pasar por Dendar para manipularlo, le ha advertido no mate a Ras Nsi, hasta que el se lo indique.
 
 ---
+
+### C. 
+Los favoritos de Ubtao
+
+Hace muchos años en Chult Ubtao le otorgo dititos dones a varias personas entre ellos: Artus, Otirianne, Ye, Ara Anoi y Gran Wakanga.
+
+En algun punto dendar lo tentó ahora es un anciano decrepito.
+
 ## Actos
 | fuente | Temporada 1 | Temporada 2 | Temporada 3 | Temporada 4 | Temporada 5 |
 | ------| ------------| ------------| ------------|-------------|-------------|
@@ -30,6 +38,10 @@ Acererak se ha hecho pasar por Dendar para manipularlo, le ha advertido no mate 
 
 ---
 ## Sesiones
+
+Sesión de Musical.
+
+Sesión del cambio de cuerpos.
 
 ---
 ## Música

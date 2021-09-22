@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "93b5376d758524bf",
+        "id": "b9037300986f1531",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -91,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "93b5376d758524bf",
+  "active": "b9037300986f1531",
   "lastOpenFiles": [
-    "Referencia Mark down.md",
+    "Sesion 28.md",
     "Rol/TDA/Planeación general TDA  1.md",
+    "Untitled.md",
+    "Referencia Mark down.md",
     "Personal/Bolsas de trabajo.md",
     "Personal/210420211057 - Exlibris.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
     "Blog/Escuadrón Suicida (2021).md",
-    "Blog/Demon slayer.md",
-    "Untitled.md",
-    "Cyberpunk El apartamento.md"
+    "Blog/Demon slayer.md"
   ]
 }
