@@ -9,8 +9,7 @@ alias:
 ### Preparación
 
 + El Warforged
-+ Hallan un personaje que se esta convirtiendo en un yuan ti
-+ 
++ Hallan un personaje que se esta convirtiendo en un yuan ti.
 
 ---
 
@@ -39,62 +38,23 @@ You have [resistance](https://www.5esrd.com/gamemastering/combat#TOC-Damage-Resi
 |d10| Damage Type|Gem|
 |---|---|---|
 |1|Acid|Pearl|
+|2 |Cold| Tourmaline|
 
-2
+3 Fire Garnet
 
-Cold
+4 Force Sapphire
 
-Tourmaline
+5 Lightning Citrine
 
-3
+6 Necrotic Jet
 
-Fire
+7 Poison Amethyst
 
-Garnet
+8 Psychic Jade
 
-4
+9 Radiant Topaz
 
-Force
-
-Sapphire
-
-5
-
-Lightning
-
-Citrine
-
-6
-
-Necrotic
-
-Jet
-
-7
-
-Poison
-
-Amethyst
-
-8
-
-Psychic
-
-Jade
-
-9
-
-Radiant
-
-Topaz
-
-10
-
-Thunder
-
-Spinel
-
-
+10 Thunder Spinel
 
 
 #### $A$. El Warforged se presenta
