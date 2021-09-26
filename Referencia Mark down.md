@@ -2,6 +2,17 @@
 alias: [Referencia Markdown]
 ---
 
+[[#Separador]]
+[[#Espacio]]
+[[#Copyrigt]]
+[[#Fondo negro]]
+[[#Subinidice y Superindice]]
+[[#Alinear]]
+[[#Tablas]]
+[[#Comentarios]]
+[[#YAML header]]
+[[#Alfabeto griego]]
+
 
 ## Markdown útil
 ---

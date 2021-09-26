@@ -40,7 +40,7 @@ _Al principio de oirlo mensuena muy jazz. _
   
 + The nile song: Para la campaña de SDC  
 + Ibiza bar: Interesante  
-+ Quicksilver: Para uan exploración en algún lugar.  
++ Quicksilver: Para una exploración en algún lugar.  
 + Dramatic theme: Cim un interludio entre narraciones.
 
 ---

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "b9037300986f1531",
+        "id": "a9b04a23243825a2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Sesion 28 TDA -.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/TDA/Sesion 28 TDA -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/TDA/Sesion 28 TDA -.md"
+              }
             }
           }
         ]
@@ -91,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b9037300986f1531",
+  "active": "a9b04a23243825a2",
   "lastOpenFiles": [
-    "Sesion 28.md",
-    "Rol/TDA/Planeación general TDA  1.md",
-    "Untitled.md",
+    "Rol/TDA/Sesion 28 TDA -.md",
+    "Rol/TDA/Sesión 27 TDA - Preparacion.md",
     "Referencia Mark down.md",
-    "Personal/Bolsas de trabajo.md",
-    "Personal/210420211057 - Exlibris.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
-    "Blog/Escuadrón Suicida (2021).md",
-    "Blog/Demon slayer.md"
+    "Blog/030320210338.md",
+    "Personal/Pink Floyd.md",
+    "Sesion 28 TDA -.md",
+    "Sesion 28.md",
+    "Rol/TDA/Sesión 23 TDA - Preparación.md",
+    "Rol/TDA/Planeación general TDA  1.md",
+    "Untitled.md"
   ]
 }
