@@ -1,5 +1,6 @@
 ---
 alias: [Sesión 1, SDC S1]
+
 ---
 
 ## Sesión 1 "El nido de las serpientes"
@@ -14,15 +15,25 @@ _Fecha interna en la campaña: 7 de Marzo de 1934_
 ***Probables eventos  que podrían pasar en la sesión anterior***
 + Llega a la propiedad y aprovecho para describirla desde fuera. 
 	+ (Se habla de la fama de Walter y su hija)
+
+
 + En otra parte de la propiedad se encuentra sentado otro personaje que describe los jardines de la misma y que esta llena de bosques.
 	+ (Aqui se describe por donde entrará el matón)
+
+
 + Alguien esta sentado en una mesa con el Dr. Gonzalvez, Ted "Teddy" Ross, 
 	+ (que le habla de la organización en general de que existen los cuarteles) 
+
+
 + En otra mesa de cerca al pulpito un hombre puede ver a las dos figuras centrales, Walter y Rose, y a Canning un tipo enorme.
 	+ (en algun punto empieza a hablar el tipo de como buscan lo mejor y de como la misión se llevará a cabo, dice el lema de la organización y llama a su hija a que hable igual. Es notorio que lo hace con un gesto de desagrado.)
+
+
 + Un tipo entra se levanta de la mesa e intenta disparar al señor Nedham
 	+ (esto puede evitarlo varios de los personajes)
 	+ De entre los arbustos aparece aparece otro que se lanza sobre él.
+
+
 + Se toca la música para continuar con la celebracíon.
 
 #### Orden del día:
