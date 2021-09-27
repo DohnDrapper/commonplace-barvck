@@ -1,5 +1,6 @@
-# "ENTREGA ESPECIAL"
+## "ENTREGA ESPECIAL"
 ---
+
 **Inicio**
 Reglas
 Stats copiar
@@ -49,6 +50,9 @@ Collar, quien da el trabajo.
 
 Logo de la organización.
 
+<div align='center'>
+<h3> *** </h3>
+</div>
 
 **MUSICA**
 Intro/Chill: 
@@ -77,9 +81,9 @@ Música para club:
 Combate:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F4eccPBFEjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<div align='center'>
-	<h3> * * * </h3>
-</div>
+&thinsp;
+
+---
 
  ## SESION 2
 
@@ -103,7 +107,9 @@ Las ventanas del automovil bajan todas, y de repente una lluvia de disparos cae 
 Disparos:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/muM5RKfZGkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-==**ESCENA 1**==
+&thinsp;
+
+#### ESCENA 1
 Unos tipo jalan al rockerboy "Cody" estrella alada, al escenario.
 
 > Venga tío que todos estamos igual. Ya ponte al cien, espabila. ¿Donde esta tu holoframe?
@@ -119,8 +125,9 @@ Musica de la coregografía:
 
 https://youtu.be/7XZvN-EuW2g
 
+&thinsp;
 
-==***ESCENA 2***==
+#### ESCENA 2
  se encontró con una replica de "DMTr", quien realidad es un hologrma que imita su apariencia.
 
 Baño: Un baño que no tan limpio como uno desearía, tiene tres escusados, dos abiertos uno cerrado. Los abiertos no tienen nada de especial, el cerrado se ve golpeado.
@@ -134,7 +141,9 @@ Tech media: Puede ver uno,actua raro, y dos, no tiene el tatuaje de los "Aqueos"
 - En caso de que descubra que es una falsa, el tipo cambiará de apariencia y lo atacará.
 -Si Harry gana podrá llevarse en brazos a "DMTr", o en su momento curarla.
 
-==***ESCENA 3***==
+&thinsp;
+
+#### ESCENA 3
 Música fondo:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Nv-ZiL6E_r8?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -144,16 +153,18 @@ Puedes oir una pelea de un tipo por la entrada:
 
 >¡Eh! ¿Pero como que ya he llegado? ¡Que soy de los miembros del crew del espectaculo! ¡Dejenme pasar!
 
-Puede los de Chaqueta morada oirlos hablar sobre que la fue una coincidencia que ya hubieran encontrado a Trucker, que muy pronto alguien vendría a apoyarlos. 
+Puede los de Chaqueta morada oirlos hablar sobre que la fue una coincidencia que ya hubieran encontrado a Trucker, que muy pronto alguien vendría a apoyarlos.
 
-==***ESCENA 4***==
+&thinsp;
+
+#### ESCENA 4
 Mientras estas buscando porno alemán y puliendo la llave de baño:
 
 >Email: A todas la unidades dirijanse al Club Atlantis, tenemos un 36-12. Se dirije un grupo de N1-P0N armados.
 
 Puedes ver que llega un grupo de Yakuza, al club.
 
-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.-.
+___
 
 ### CONCLUSIONES:
 

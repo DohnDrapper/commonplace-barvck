@@ -1,6 +1,7 @@
 [[000 Indice]] 
 
 ### El nombre de la rosa
+---
 
 + Quienes durante siglos, han querido y sostenido esta abadía estaban firme y santamente persuadidos de que incluso en los libros que contienen mentiras el lector sagaz, puede percibir un pálido resplandor de la sabiduria divina.
 

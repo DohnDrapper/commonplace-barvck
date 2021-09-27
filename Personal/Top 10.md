@@ -2,9 +2,9 @@
 alias: [Top 10]
 ---
 
-## Top 10
+### Top 10
 
-10 artistas de comic
+*10 artistas de comic*
 -   Frank Quitely
 -   Phil Noto
 -   Neil Addams
@@ -13,7 +13,7 @@ alias: [Top 10]
    <h3> * * * </h3>
 </div>
 
-10 Series Live Action
+_10 Series Live Action_
 -   Mad Men
 -   That 70s show
 -   The office

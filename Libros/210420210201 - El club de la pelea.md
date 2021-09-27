@@ -1,6 +1,7 @@
 [[000 Indice]]
 
 ### El club de la pelea
+---
 
 "Estoy rompiendo las ataduras a la fuerza física y las posesiones terrenales -susurraba Tyler - que solo mediante la autodestrucción llegaré a descubrir el poder superior del espiritu."   [^1]
 

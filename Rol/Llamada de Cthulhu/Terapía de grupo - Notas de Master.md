@@ -3,6 +3,7 @@ alias: Terapía de grupo
 ---
 
 # Terapía de grupo
+---
 
 #### Pendientes
 
@@ -108,7 +109,9 @@ https://cutt.ly/WQaIa3M
 16. Lo que sabe el Inspector Shaw
 
 ### Pesadillas
-1.    Es de noche y hace un frio atroz. La  
+
+<kbd>
+Es de noche y hace un frio atroz. La  
 niebla y pequeñas gotas de lluvia calan  
 hasta los huesos. La tenue luz de una  
 farola de gas es lo poco que ilumina el  
@@ -135,8 +138,12 @@ su vida llega a su fin. Su sangre se
 vierte en el suelo del callejón,  
 fundiéndose con el barro y el agua  
 sucia de los charcos.
+</kbd>
 
-2. Es de noche y hace un frio atroz. La  
+&ensp;
+
+<kbd>
+Es de noche y hace un frio atroz. La  
 niebla y pequeñas gotas de lluvia calan  
 hasta los huesos. La tenue luz de una  
 farola de gas es lo poco que ilumina el  
@@ -174,6 +181,8 @@ en vano quién o qué te ha atacado, solo
 ves una silueta oscura abultada y  
 amorfa reflejada en el charco, mientras  
 escuchas un gemido agudo, parecido al
+</kbd>
+
 
 ###    El anuncio
 > El doctor Johan Millner, de la  

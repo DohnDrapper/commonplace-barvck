@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "70d3eb313156b064",
+        "id": "caf26fc530590a24",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "referencia",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -91,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70d3eb313156b064",
+  "active": "caf26fc530590a24",
   "lastOpenFiles": [
-    "Rol/SDC/120820210151 - Serpiente de dos cabezas General.md",
-    "Rol/SDC/Sesión 3 SDC - Log.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/SDC/SDC - A.md",
-    "Rol/SDC/Sesión 2 SDC - Log.md",
-    "Rol/SDC/Sesión 1 SDC - Log.md",
-    "Rol/SDC/Sesión 3 - Log.md",
-    "Rol/Musica.md",
     "Referencia Mark down.md",
-    "Sesión 3 - Log.md"
+    "Cyberpunk El apartamento.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
+    "Recursos gratuitos.md",
+    "Zizek.md",
+    "200 Juegos de Rol.md",
+    "000 Indice.md",
+    "video/190320210246 - The Big Bang Theory What Went Wrong - Wisecrack Edition.md",
+    "video/190320210224 - Let’s talk about the Japanese Schoolgirl.md",
+    "Rol/Resultados Bolillos parlantes 2019 -2020.md"
   ]
 }

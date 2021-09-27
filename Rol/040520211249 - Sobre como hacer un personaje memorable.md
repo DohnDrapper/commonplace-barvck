@@ -1,6 +1,6 @@
 # Como hacer un personaje memorable
 
-***
+---
 
 ### A. Personaje: Rengoku en Demon Slayer: La película"
 
@@ -14,7 +14,9 @@ Este espadachin en especial, comparte un vínculo con Tanjiro el personaje princ
 
 Lamentablemente, trás una batalla muy épica con una de las lunas crescientes muere. Su deceso resulta en un mometo demasiado drámatico y que marca a los tres protagonistas.
 
-***
+<div align='center'>
+<h3> *** </h3>
+</div>
 
 ### B. Momentos clave:
 
@@ -31,14 +33,17 @@ _El autor usa está escena para establecer varias cosas. Rengoku es un tipo entr
 3.  La muerte de Rengoku deja una enseñanza para los heroes y les da un rumbo.
 _Tanjiro aprende de al crueldad de los jugadores._
 
-
-***
+<div align='center'>
+<h3> *** </h3>
+</div>
 
 ### C. ¿Aplicable en D&D?
 
 - Escena de presentación donde demuestre sus habilidades a los jugadores _delimita sus alcances lo que puede hacer e incluso puede servir para que más adelante los jugadores intenten usar sus habilidades).
 - Usar retrospectivas para establecer carácter de los personajes, motivaciones e incluso dar peso dramatico a las acciones que tome este NPC, (_podría aplicarse en los descansos que el personaje cunete su historia, que diga alguna frase celebre o un koan).
 - Darle una muerte que tenga un peso dramatico (_lo destruya un enemigo del grupo, marque el nivel de poder de un enemigo que se enfrentarán mas delante._).
+
+---
 
 [[Notas de GM]]
 

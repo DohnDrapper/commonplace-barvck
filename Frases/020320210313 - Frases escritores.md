@@ -1,6 +1,8 @@
 [[000 Indice]]
 
 ## Frases
+---
+
 
 Hay hombres que luchan un dia y son buenos hay son buenos, hay otros que luchan un año y son mejores, pero hay los que luchan toda la vida: esos son imprescindibles.
 

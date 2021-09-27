@@ -1,6 +1,7 @@
 [[000 Indice]]
 
 ### El hombre duplicado
+---
 
 "Hubo ya quien afirmo que todos las grandes verdades son absolutamente triviales y que tendremos que expresarlos de una manera nueva y, si es posible, paradójica, para que no caigan en el olvido, Quien dijo eso, Un alemán, un tal Schelgel, pero lo más seguro es que otros antes que él también lo hayan dicho, Hare pensar, Si, pero a mí lo que sobre todo me atrae es la fascinante declaración de que las grandes verdades no pasan de trivialidades, el resto, la supuesta necesidad de un expresión nueva y paradojica que les prolongue la existencia y la sustantivo, ya no me atañe, soy solo un profesor de Historia de enseñanza secundaria" [^1]
 

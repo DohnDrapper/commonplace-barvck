@@ -1,10 +1,15 @@
-# Proyecto "One Shot" 15 de Mayo de 2021
+---
+alias: [Sobre dirigir un One Shot]
+---
+
+
+## Proyecto "One Shot" 15 de Mayo de 2021
 
 ---
 
 ### Diferencias entre dirigir _D&D_ y _Llamada de Cthulhu_
 
-#### *05/05/2021*
+*05/05/2021*
 
 A partir de la confimación de que un miembro del grupo vendría a León desde la CDMX, se habló de que querían que yo dirigierá un _One Shot_ del juego de rol de "Llamada de Cthulhu". Cosa que si bien me entusiasmaba, también me ponía nervioso. Debpia desarrollar unas habilidades distintas a las que ya tenía.
 
@@ -16,11 +21,15 @@ En contraste _D&D_ se inspira en la alta fantasía o fantasía clásica (Tolkien
  
  Por lo que, la atmosfera y la sensación de juego no pueden ser mas diferentes. Aspi que las habilidades que el Master necesita son distintas, y por ende la preparación es distinta.
  
- ---
+
+<div align='center'>
+<h3> *** </h3>
+</div>
+
  
  ### Pros del módulo de One Shot
  
-####  *06/05/2021*
+ *06/05/2021*
  
  Por ser la primera vez, que dirigiría decidí que lo mejor sería usar un modulo de One Shot, por lo menos esta sesión. Pregunté al Master regular de la mesa que ONe Shot ya había leido par aque fueran una sopresa y no pudiera recordar o tomar ventaja. de la nbusqueda que ya habia realizado en ese momento (reddit), ya había leído los claves. Por lo que por un lado fue bueno aun no decidierá uno de ellos y no lo haya leído en profundidad, pero tuve que buscar más opciones.
  
@@ -32,8 +41,15 @@ En contraste _D&D_ se inspira en la alta fantasía o fantasía clásica (Tolkien
  - La maquetación del modulo me pareció muy bien realizada.
  
  Entre los que deseche, se halla uno que me parece muy interesante para poder dirigir mpas adelante llamado "Colmillos de serpiente" que se prestaría para una mini campaña.
+ 
+ 
+<div align='center'>
+<h3> *** </h3>
+</div>
 
-#### *07/05/2021*
+### Por que no se eligió el One Shot
+
+*07/05/2021*
 
 En virtud de que leí varios análisis del módulo "Más frío que el acero de una Thompson" que hablaban de que se jugaría mejor en varias sesiones, decidí revisar que tan largo era y si en verdad funcionaria como un One Shot. Cosa que determiné que no es el mejor modulo para lo que planeo:
 * Primero, si bien el one shot solo tiene diez páginas es larguísimo. Hay por lo menos cinco cambios de escena, hay una escena en la calle, en una mansión, en un casino, otra en un tren y en un manicomio, para llegar a una mansión de nuevo. 
@@ -43,6 +59,10 @@ En virtud de que leí varios análisis del módulo "Más frío que el acero de u
 * Tercero, creo que el ritmo que el modulo necesita para jugarse, aún no lo poseo para poder lanzarme a algo como este modulo.
 
 Aunque, definitvamente deseo dirigirlo más adelante.
+
+<div align='center'>
+<h3> *** </h3>
+</div>
 
 ### Conclusiones
  
@@ -54,7 +74,7 @@ Aunque, definitvamente deseo dirigirlo más adelante.
  * Me parece que el enfrentamieto es un buen climáx. Es el único enfrentamiento en el One Shot  y como última escena está bien planteada.
 
 %% 
-Al final esto no se ocupo, el Diagram de flujo lo senti innnecesario al ya tener subrayado el libro, las fotos las crei igual impracticas, solo existia un mapa de combate y ese fue narrado, y el de reglas se uso el libro que e presto uno de lso jugadores
+Al final esto no se ocupo, el Diagrama de flujo lo senti innnecesario al ya tener subrayado el libro, las fotos las crei igual impracticas, solo existia un mapa de combate y ese fue narrado, y el de reglas se uso el libro que me prestó uno de los jugadores
 
 ~~¿Cual es el siguiente paso?
 - [ ] Hacer un diagrama de flujo de la campaña.
@@ -69,18 +89,15 @@ Al final esto no se ocupo, el Diagram de flujo lo senti innnecesario al ya tener
 ![[Terapía de grupo - Notas de Master|Terapía de grupo]]
  
 ---
-## A mejorar
+### A mejorar
 
-#### 03/08/2021*
-
- _Sesión en fecha 31 de Julio de 2021_
-
+*03/08/2021*
 
  La sesión se llevo a cabo en dia viernes 30 de Julio debido a  adiversos retrasos dle grupo de calabozos.
  
- - Valdría la pena conocieran a Lord Andrew desde el principio, por ejemplo es alguine importante en la localidad o es el mencenas que les invita o les patrocina la sesión
+ - Valdría la pena conocieran a Lord Andrew desde el principio, por ejemplo es alguine importante en la localidad o es el mencenas que les invita o les patrocina la sesión.
 - Siento las hipnosis podrían dar hacia algo más místico: ultilzarlas para revelar partes de la trama, o por ejemlo recuerdos del bebe y del asesinato.
-- Sería interesante el despacho del doctor Millner diera muchas más pistas de las que da: Yo incluí una fotografía con Lord Andrew y un bebe atrapado en un frasco, tal vez por ejemplo algo que digan los libros (un manual sobre resurreccion o como obtener la vida eterna, algo relacionado a extender la vida, algun mito de alguien que haya vivido mucho tiempo)
+- Sería interesante el despacho del doctor Millner diera muchas más pistas de las que da: Yo incluí una fotografía con Lord Andrew y un bebe atrapado en un frasco, tal vez por ejemplo algo que digan los libros (un manual sobre resurreccion o como obtener la vida eterna, algo relacionado a extender la vida, algun mito de alguien que haya vivido mucho tiempo).
 - Siento Edwina debería ser un poco más útil revelar más info, no solo agregar drama.
 - Uno de los jugadores intentó no ser hipnotizado, debería verse la posibilidad de que esto afecte mucho más la trama.
 - Ir a la casa de Andrew Newham es un poco anodino, no hallan nada y el mayordomo no les revela nada, podria mejorarse ese aspecto.
