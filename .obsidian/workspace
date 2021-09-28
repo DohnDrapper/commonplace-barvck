@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "caf26fc530590a24",
+        "id": "4454f87a2c23ae6e",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rol/Musica.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/Musica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/Musica.md"
+              }
             }
           }
         ]
@@ -90,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "caf26fc530590a24",
+  "active": "4454f87a2c23ae6e",
   "lastOpenFiles": [
-    "Referencia Mark down.md",
-    "Cyberpunk El apartamento.md",
-    "240820211841 - Sánchez Lozano Abogados.md",
-    "Recursos gratuitos.md",
-    "Zizek.md",
-    "200 Juegos de Rol.md",
-    "000 Indice.md",
-    "video/190320210246 - The Big Bang Theory What Went Wrong - Wisecrack Edition.md",
-    "video/190320210224 - Let’s talk about the Japanese Schoolgirl.md",
-    "Rol/Resultados Bolillos parlantes 2019 -2020.md"
+    "Rol/Musica.md",
+    "Personal/Bolsas de trabajo.md",
+    "Artículos/Prueba 1.md",
+    "Frases/290420211131 - Frases de Mad Men.md",
+    "Frases/200820210423 - Freedumb.md",
+    "Frases/080520210128 - Anthony Jeselnik Thought and prayers.md",
+    "Frases/020320210313 - Frases escritores.md",
+    "Blog/Viajeros del tiempo.md",
+    "Blog/Sobre cumplir 25.md",
+    "Blog/Reflexión de los 2010.md"
   ]
 }
