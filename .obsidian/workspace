@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4454f87a2c23ae6e",
+        "id": "cc4ce689d17bebe9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/Musica.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/Musica.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rol/Musica.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -96,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4454f87a2c23ae6e",
+  "active": "cc4ce689d17bebe9",
   "lastOpenFiles": [
+    "reusar/Semillero.md",
     "Rol/Musica.md",
     "Personal/Bolsas de trabajo.md",
     "Artículos/Prueba 1.md",
@@ -106,7 +101,6 @@
     "Frases/080520210128 - Anthony Jeselnik Thought and prayers.md",
     "Frases/020320210313 - Frases escritores.md",
     "Blog/Viajeros del tiempo.md",
-    "Blog/Sobre cumplir 25.md",
-    "Blog/Reflexión de los 2010.md"
+    "Blog/Sobre cumplir 25.md"
   ]
 }
