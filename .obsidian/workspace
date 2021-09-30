@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "cc4ce689d17bebe9",
+        "id": "cb7ba0179e710555",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Formatos/Sesión en blanco.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -49,7 +52,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908
+    "width": 318.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Formatos/Sesión en blanco.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Formatos/Sesión en blanco.md"
+              }
             }
           }
         ]
@@ -90,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "cc4ce689d17bebe9",
+  "active": "cb7ba0179e710555",
   "lastOpenFiles": [
-    "reusar/Semillero.md",
+    "Formatos/Sesión en blanco.md",
+    "Rol/TDA/Planeación general TDA  1.md",
     "Rol/Musica.md",
-    "Personal/Bolsas de trabajo.md",
-    "Artículos/Prueba 1.md",
-    "Frases/290420211131 - Frases de Mad Men.md",
-    "Frases/200820210423 - Freedumb.md",
-    "Frases/080520210128 - Anthony Jeselnik Thought and prayers.md",
-    "Frases/020320210313 - Frases escritores.md",
-    "Blog/Viajeros del tiempo.md",
-    "Blog/Sobre cumplir 25.md"
+    "Rol/TDA/TDA - A.md",
+    "Rol/TDA/Sesión 1 TDA - Log.md",
+    "Seión 4 SDC - Log.md",
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Untitled.md",
+    "Rol/TDA/Sesion 28 TDA -.md",
+    "Referencia Mark down.md"
   ]
 }

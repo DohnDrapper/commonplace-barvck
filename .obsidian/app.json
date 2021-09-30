@@ -9,5 +9,6 @@
   },
   "foldHeading": true,
   "foldIndent": true,
-  "showFrontmatter": true
+  "showFrontmatter": true,
+  "communityPluginSortOrder": "alphabetical"
 }

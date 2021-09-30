@@ -1,5 +1,5 @@
 ---
-alias:
+alias: [Sesión 28, TDA S28]
 ---
 
 ## Sesión 28
@@ -57,7 +57,7 @@ You have [resistance](https://www.5esrd.com/gamemastering/combat#TOC-Damage-Resi
 10 Thunder Spinel
 
 
-#### $A$. El Warforged se presenta
+#### $B$. El Warforged se presenta
 
 >El party pude notar que esta parte de la selva es diferente de lo que ya habían recorrido. Las hojas de los arboles ahora son de un color mas bien oscuro, y los arboles son aún mas altos que lo que eran normalmente en etapas anteriores.
 
@@ -65,7 +65,7 @@ El Party recuerda que tienen una parte de un robot  y deciden conectarlo.
 
 &nbsp
 
-#### $B$. El Kamadan
+#### $\Gamma$. El Kamadan
 
 El party se da cuenta de que algo los vigila pero en su primera tirada no pueden determinar que es por más que lo intenten.
 
@@ -75,7 +75,7 @@ A pesar de lo anterior el equipo no puede dejar de percibir la presencia de que 
 
 &nbsp
 
-#### $\Gamma$. Los sueños
+#### $\Delta$. Los sueños
 
 **Rhin**
 + Puedes ver que en el cielo nocturno hay varias cosas que te parecen interesantes:
@@ -88,7 +88,7 @@ A pesar de lo anterior el equipo no puede dejar de percibir la presencia de que 
 
 &nbsp
 
-#### $\Delta$. Los Froghemoth
+#### $E$. Los Froghemoth
 
 Stats del Froghemoth pág. 221 (ocupa 9 cuadros)
 
@@ -117,7 +117,7 @@ Mahali
 
 &nbsp
 
-#### $E$. Ahmad ibn Fadlan
+#### $Z$. Ahmad ibn Fadlan
 
 A la mañana siguiente pueden ver que un triceratops se acerca al campamento y desea que lo sigan, los lleva donde esta un tipo colgado de un arbol que es muy claro que cayó en un trampa por alguien.
 
