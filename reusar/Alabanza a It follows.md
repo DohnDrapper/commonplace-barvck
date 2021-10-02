@@ -1,14 +1,3 @@
-[-Ixca-](https://medium.com/@ixca?source=post_page-----9fbcdf02a9f0--------------------------------)
-
-[88 Followers](https://medium.com/@ixca/followers?source=post_page-----9fbcdf02a9f0--------------------------------)
-
-[Lists](https://medium.com/@ixca/lists?source=post_page-----9fbcdf02a9f0--------------------------------)
-
-[About](https://medium.com/@ixca/about?source=post_page-----9fbcdf02a9f0--------------------------------)
-
-[](https://medium.com/?source=post_page-----9fbcdf02a9f0--------------------------------)
-
-[](https://policy.medium.com/medium-rules-30e5502c4eb4?source=responses-----9fbcdf02a9f0--------------------------------)
 
 # Alabanza a It _Follows_
 

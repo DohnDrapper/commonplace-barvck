@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e69f18dde3cb42ce",
+        "id": "4849006fb1f92877",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -90,8 +90,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e69f18dde3cb42ce",
+  "active": "4849006fb1f92877",
   "lastOpenFiles": [
+    "reusar/Alabanza a It follows.md",
     "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
     "Formatos/Sesión en blanco.md",
     "Rol/TDA/Planeación general TDA  1.md",
@@ -100,7 +101,6 @@
     "Rol/TDA/Sesión 1 TDA - Log.md",
     "Seión 4 SDC - Log.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Untitled.md",
-    "Rol/TDA/Sesion 28 TDA -.md"
+    "Untitled.md"
   ]
 }
