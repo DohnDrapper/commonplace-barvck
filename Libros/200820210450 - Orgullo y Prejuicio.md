@@ -1,4 +1,6 @@
-[[000 Indice]]
+---
+alias: [Orgullo y prejuicio]
+---
 
 ### Orgullo y prejuicio
 ---

@@ -1,3 +1,7 @@
+---
+aliases: [La conquista de la felicidad]
+---
+
 ### La conquista de la felicidad
 ---
 

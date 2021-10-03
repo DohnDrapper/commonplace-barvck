@@ -36,8 +36,9 @@ aliases: [Sesión 29, TDA S29]
 
 #### _Orden del día_
 
-1. Explicar reglas del combate marino, lair actions.
-2. 
+1. ![[Sobre la encuesta T4]]
+2. Explicar reglas del combate marino, 
+
 
 
 **Música**

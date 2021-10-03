@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4849006fb1f92877",
+        "id": "137c5588cd3610ea",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "referencia",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4849006fb1f92877",
+  "active": "137c5588cd3610ea",
   "lastOpenFiles": [
-    "reusar/Alabanza a It follows.md",
-    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
-    "Formatos/Sesión en blanco.md",
-    "Rol/TDA/Planeación general TDA  1.md",
-    "Rol/Musica.md",
-    "Rol/TDA/TDA - A.md",
-    "Rol/TDA/Sesión 1 TDA - Log.md",
-    "Seión 4 SDC - Log.md",
-    "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Untitled.md"
+    "000 Indice.md",
+    "Referencia Mark down.md",
+    "Recursos gratuitos.md",
+    "Libros/Libros.md",
+    "Libros/200820211600 -El hombre duplicado.md",
+    "Libros/29042021110 - Trainspotting.md",
+    "Libros/290420211109 - El gran gatsby.md",
+    "Libros/220420210242 - Los juegos del destino.md",
+    "Libros/210420210134 - Las memorias del porvenir.md",
+    "Libros/020320210320 - Evangelio segun Jesuscristo.md"
   ]
 }
