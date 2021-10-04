@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "53d3a2dfaf513d33",
+        "id": "8209ef5d886db701",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/TDA/Planeación general TDA  1.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/TDA/Planeación general TDA  1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rol/TDA/Planeación general TDA  1.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -96,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "53d3a2dfaf513d33",
+  "active": "8209ef5d886db701",
   "lastOpenFiles": [
-    "Rol/TDA/Planeación general TDA  1.md",
-    "Rol/TDA/Post Mortem TDA.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md",
-    "Rol/SDC/Sesión 3 SDC - Log.md",
-    "Rol/SDC/Sesión 2 SDC - Log.md",
+    "Rol/TDA/Sesión 2 TDA - Log.md",
+    "Rol/TDA/Sesión 1 TDA - Log.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
-    "Rol/SDC/SDC - A.md",
-    "Libros/290420211109 - El gran gatsby.md",
-    "Libros/041020210247 - Cumbres borrascosas.md",
-    "Untitled.md"
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Planeación general TDA  1.md",
+    "Rol/TDA/Sesión 5 TDA - Log.md",
+    "Rol/TDA/Sesión 4 TDA - Log.md",
+    "Rol/TDA/Post Mortem TDA.md",
+    "Rol/SDC/Sesión 4 SDC - Log.md"
   ]
 }

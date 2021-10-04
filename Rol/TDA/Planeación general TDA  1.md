@@ -2,15 +2,15 @@
 
 ## Tramas:
 
-### A.                                                                               
+### A.                                   
 Encontró a un Atropal en sus viajes y lo ha estado alimentando  través de los años.
 
 A través de devorar las almas de los muertos con el Devorador de Almas. Recientemente encontró la manera de evitar que los muertos revivan con la Maldición.
 
 Para asegurar que sus planes se cumplan ha manipulado a las facciones para que el sirvan y pelean entre ellas.
 
- ### B.
- La invasión Yuan Ti
+### B.
+La invasión Yuan Ti
  
 Ras Nsi sufre de la maldición. Acererak le ha prometido al cura y si protege Omu.
 

@@ -161,7 +161,7 @@ b) El tipo de túnica del calabozo
 
 ### Presagios del Abuelo Zitembe
 
-[[Sesión 4 TDA - Log#^c9f4cd|TDA S4]]
+[[Sesión 4 TDA - Log#^c9f4cd|TDA S4]] Primer acercamiento
 
 
 ___
