@@ -6,8 +6,6 @@ aliases: [Libros]
 
 ---
 
-%%! [alt](https://upload.wikimedia.org/wikipedia/commons/4/4c/O_Evangelho_Segundo_Jesus_Cristo.jpg)%%
-
 [[020320210320 - Evangelio segun Jesuscristo|El evangelio segun Jesuscristo]]
 
 [[020320210339 - El nombre de la rosa|El nombre de la rosa]]

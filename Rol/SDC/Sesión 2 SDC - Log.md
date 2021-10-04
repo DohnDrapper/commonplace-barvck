@@ -23,3 +23,7 @@ _Fecha interna de la campaña: 12 de Marzo de 1934_
 <div align='center'>
 	<h3> * * * </h3>
 </div>
+
+---
+
+[[SDC - A]]

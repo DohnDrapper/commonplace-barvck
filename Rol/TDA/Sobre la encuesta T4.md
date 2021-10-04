@@ -7,11 +7,14 @@ aliases: [encuesta t4]
 
 ---
 
+
 ### Notas generales
 
--   Me sería más útil que las respuesta fueran específicamente de esta temporada.
+- Me sería más útil que las respuesta fueran específicamente de esta temporada.
 
 &nbsp;
+
+---
 
 ### ¿Se aplicaron lo cambios?
 
@@ -24,6 +27,8 @@ El consenso es poco cambios reflejados
 -   Los combates no hubo un cambio aparente.
 
 &nbsp;
+
+---
 
 ### ¿Es la trama clara?
 
@@ -50,11 +55,15 @@ El consenso es que sí. Sin embargo, alguien considera no.
 
 &nbsp;
 
+---
+
 ### ¿Qué se ha desarrollado mejor?
 
-Lore o mitología
+Lore o mitología.
 
 &nbsp;
+
+---
 
 ### ¿Qué se ha desarrollado peor?
 
@@ -109,3 +118,7 @@ La guarida de Tinder / Cuando descubrimos como desplazarnos por los teletranspor
 #### El cuadro
 
 Tramas, Lugares, Personajes, Pistas, Grupos o Facciones
+
+---
+
+[[TDA - A]]

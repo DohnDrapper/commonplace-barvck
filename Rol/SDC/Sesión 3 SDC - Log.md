@@ -49,6 +49,11 @@ Encuentran un campo de batalla lleno de cadaveres y en especial les parece extra
 Cuando esten los investigadores revisando la tercer columna, aparecerá el _Formless Spawn_ (pág. 43).
 
 
+---
+
+[[SDC - A]]
+
+
 
 
 

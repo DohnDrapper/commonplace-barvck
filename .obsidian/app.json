@@ -10,5 +10,6 @@
   "foldHeading": true,
   "foldIndent": true,
   "showFrontmatter": true,
-  "communityPluginSortOrder": "alphabetical"
+  "communityPluginSortOrder": "alphabetical",
+  "attachmentFolderPath": "reusar"
 }
