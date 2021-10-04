@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "137c5588cd3610ea",
+        "id": "ca4eb86a7a4142f8",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -90,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "137c5588cd3610ea",
+  "active": "ca4eb86a7a4142f8",
   "lastOpenFiles": [
-    "000 Indice.md",
     "Referencia Mark down.md",
-    "Recursos gratuitos.md",
-    "Libros/Libros.md",
-    "Libros/200820211600 -El hombre duplicado.md",
-    "Libros/29042021110 - Trainspotting.md",
-    "Libros/290420211109 - El gran gatsby.md",
-    "Libros/220420210242 - Los juegos del destino.md",
-    "Libros/210420210134 - Las memorias del porvenir.md",
-    "Libros/020320210320 - Evangelio segun Jesuscristo.md"
+    "Personal/210420211057 - Exlibris.md",
+    "Rol/Llamada de Cthulhu/070520211946 - One Shot llamada de Cthulhu.md",
+    "Rol/Llamada de Cthulhu/060520212231 - Más frío que el acero de una Thompson.md",
+    "Rol/040520210151 - Ideas para Bolillos parlantes.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
+    "Cyberpunk El apartamento.md",
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Rol/TDA/Sesión 1 TDA - Log.md",
+    "Blog/Fyre Festival.md"
   ]
 }

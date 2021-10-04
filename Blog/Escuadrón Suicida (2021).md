@@ -92,5 +92,10 @@ La javalina de Harley
 #### REFERENCIAS:  
 Rick Flagg es Roscharch y Peacemaker es el Dr. Manhattan  
 Las ratas son las bacterias que matan a la los alien, como en la guerra de los mundos.  
-  
+
+<https://www.espinof.com/otros/escuadron-suicida-vs-escuadron-suicida-que-creatividad-libertad-mucho-importantes-que-calculadoras-estudios-mercado>
+
+<https://filmschoolrejects.com/the-suicide-squad-box-office/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+FilmSchoolRejects+%28Film+School+Rejects%29#utm_source=rss&utm_medium=rss&utm_campaign=the-suicide-squad-box-office>
+
+
 ---

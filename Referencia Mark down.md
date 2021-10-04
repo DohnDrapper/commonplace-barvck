@@ -31,6 +31,16 @@ alias: [Referencia Markdown]
 
 ---
 
+#### Salto de página
+
+```
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+```
+
+---
+
 #### Espacio
 
 Creates four spaces between the text- `&emsp;`

@@ -15,11 +15,11 @@ A partir de la confimación de que un miembro del grupo vendría a León desde l
 
 En contraste _D&D_ se inspira en la alta fantasía o fantasía clásica (Tolkien, cuentos de espada y hechicería). Es una fantasía de poder, los personajes son tipos extraordinarios enfrentandose a retos para ser heroes de armadura brillante. Aquí la investigación es poca, los combates constantes y es claro que el universo del juego conspira para que lso jugadores obtengan el mejor resultado posible.
  
-  Llevó un tiempo dirigiendo la campaña "Tumba de la Aniquilación" en el sistema _Dungeons and Dragons(D&D)_. Mi gestión como director estaba teniendo resultados regulares. Me eché a cargo una campaña muy larga y complicada para mis muy noveles habilidades de Master. Por un lado decidí incluir demasiadas tramas, por otro no he podido integrar ese sentimiento de tensión necesario y el colmo, mis combates resultan simplones y fáciles. 
+Llevó un tiempo dirigiendo la campaña "Tumba de la Aniquilación" en el sistema _Dungeons and Dragons(D&D)_. Mi gestión como director estaba teniendo resultados regulares. Me eché a cargo una campaña muy larga y complicada para mis muy noveles habilidades de Master. Por un lado decidí incluir demasiadas tramas, por otro no he podido integrar ese sentimiento de tensión necesario y el colmo, mis combates resultan simplones y fáciles. 
  
- Ahora la idea era dirigir una sesión de un juego que es completamente distinto a _D&D_. "Llamada de Cthulhu" se inspira en los cuntos de H. P. Lovecraft y el ciclo de los Mithos. Aquí lo personajes son gente normal enfrentandose a cosas fuera de su comprensión. Las mecánicas del juego reflejan esa sensación de insignificancia del ser humano, por lo que aquí los desenlaces son trágicos. Nada de heroes ni armaduras brillantes.
+Ahora la idea era dirigir una sesión de un juego que es completamente distinto a _D&D_. "Llamada de Cthulhu" se inspira en los cuntos de H. P. Lovecraft y el ciclo de los Mithos. Aquí lo personajes son gente normal enfrentandose a cosas fuera de su comprensión. Las mecánicas del juego reflejan esa sensación de insignificancia del ser humano, por lo que aquí los desenlaces son trágicos. Nada de heroes ni armaduras brillantes.
  
- Por lo que, la atmosfera y la sensación de juego no pueden ser mas diferentes. Aspi que las habilidades que el Master necesita son distintas, y por ende la preparación es distinta.
+Por lo que, la atmosfera y la sensación de juego no pueden ser mas diferentes. Aspi que las habilidades que el Master necesita son distintas, y por ende la preparación es distinta.
  
 
 <div align='center'>
@@ -96,6 +96,7 @@ Al final esto no se ocupo, el Diagrama de flujo lo senti innnecesario al ya tene
  La sesión se llevo a cabo en dia viernes 30 de Julio debido a  adiversos retrasos dle grupo de calabozos.
  
  - Valdría la pena conocieran a Lord Andrew desde el principio, por ejemplo es alguine importante en la localidad o es el mencenas que les invita o les patrocina la sesión.
+
 - Siento las hipnosis podrían dar hacia algo más místico: ultilzarlas para revelar partes de la trama, o por ejemlo recuerdos del bebe y del asesinato.
 - Sería interesante el despacho del doctor Millner diera muchas más pistas de las que da: Yo incluí una fotografía con Lord Andrew y un bebe atrapado en un frasco, tal vez por ejemplo algo que digan los libros (un manual sobre resurreccion o como obtener la vida eterna, algo relacionado a extender la vida, algun mito de alguien que haya vivido mucho tiempo).
 - Siento Edwina debería ser un poco más útil revelar más info, no solo agregar drama.
