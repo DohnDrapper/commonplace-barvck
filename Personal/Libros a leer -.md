@@ -5,33 +5,35 @@ alias: [Libros a leer]
 ## Libros a leer
 ---
 ### Ensayos
--   Derecho a la pereza - Paul Lafergue
--   Los fantasmas de mi vida - Mark Fischer
--   We need new stories - Nesrine Malik
--   La exclusión de lo distinto - Byun Chul Han
--   Vivir eticamente - Peter Singer
--   Liberación animal - Peter Singer
--   El ocaso de la fantasía - Slavoj Zizek
--   La permanencia en lo negativo - Slavoj Zizek
--   How to be conservative - Roger Scruton
--   Justicia ¿hacemos lo que debemos? - Michael J Sandel
--   Lo que el dinero no puede comprar - Michael J Sandel
--   Alain Finkielkraut - La derrota del pensamiento
--   La tentación de la inocencia - Pascal Bruckner
--   Miseria de la prosperidad La religión del mercado y sus enemigos - Pascal Bruckner
--   The unreality of memories - Elisa Gabbett
--   Ideas radicales para México - Humberto Beck/Rafael Lemus
--   Desobediencia civil - Henry David Thoreau
--   Movies (and other things) - Shea Serrano
--   Ece Temelkuran - Como perder un país
--   Andrew murphy, publicos fantasma: el colectivo no reconocido en la transformación contemporánea de la circulación de las ideas; janneke adema y gary hall, la naturaleza política del libro: sobre libros de artista y acceso abierto radical; Alessandro Ludovico, la red: transformando la cultura, transformando el universo editorial
+- Fragmentar el futuro - Yuk Hui  
+- Derecho a la pereza - Paul Lafergue
+- Los fantasmas de mi vida - Mark Fischer
+- We need new stories - Nesrine Malik
+- La exclusión de lo distinto - Byun Chul Han
+- Vivir eticamente - Peter Singer
+- Liberación animal - Peter Singer
+- El ocaso de la fantasía - Slavoj Zizek
+- La permanencia en lo negativo - Slavoj Zizek
+- How to be conservative - Roger Scruton
+- Justicia ¿hacemos lo que debemos? - Michael J Sandel
+- Lo que el dinero no puede comprar - Michael J Sandel
+- Alain Finkielkraut - La derrota del pensamiento
+- La tentación de la inocencia - Pascal Bruckner
+- Miseria de la prosperidad La religión del mercado y sus enemigos - Pascal Bruckner
+- The unreality of memories - Elisa Gabbett
+- Ideas radicales para México - Humberto Beck/Rafael Lemus
+- Desobediencia civil - Henry David Thoreau
+- Movies (and other things) - Shea Serrano
+- Ece Temelkuran - Como perder un país
+- Andrew murphy, publicos fantasma: el colectivo no reconocido en la transformación contemporánea de la circulación de las ideas; janneke adema y gary hall, la naturaleza política del libro: sobre libros de artista y acceso abierto radical; Alessandro Ludovico, la red: transformando la cultura, transformando el universo editorial
 + Del buen salvaje al buen revolucionario - Carlos Rangel Guevara
-+   Política revolucionaria, contribución a la crítica socialista, Escritos contemporáneos - José Carlos Mariategui
++ Política revolucionaria, contribución a la crítica socialista, Escritos contemporáneos - José Carlos Mariategui
 + Materiales para un auto retrato - Walter Benjamin
 + El laberinto del mundo - Marguerite Yourcenar
 + The Mythic Imagination: The Quest for Meaning Through Personal Mythology - Stephen Larsen
-+  Serie de circunstancias posibles en torno a una mujer mexicana de clase trabajadora - yolanda segura
-        
++ Serie de circunstancias posibles en torno a una mujer mexicana de clase trabajadora - yolanda segura
+
+
 ### Comics
 + Promethea - Alan Moore
 + Zero - Ales Kot
