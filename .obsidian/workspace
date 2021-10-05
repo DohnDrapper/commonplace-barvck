@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "8209ef5d886db701",
+        "id": "aa6117025eaf349a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -90,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8209ef5d886db701",
+  "active": "aa6117025eaf349a",
   "lastOpenFiles": [
-    "Rol/TDA/Sesión 2 TDA - Log.md",
+    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
+    "Rol/040520211249 - Sobre como hacer un personaje memorable.md",
+    "Personal/210420211057 - Exlibris.md",
+    "Personal/Bolsas de trabajo.md",
     "Rol/TDA/Sesión 1 TDA - Log.md",
+    "Rol/TDA/Post Mortem TDA.md",
+    "Rol/TDA/Sesión 2 TDA - Log.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Planeación general TDA  1.md",
-    "Rol/TDA/Sesión 5 TDA - Log.md",
-    "Rol/TDA/Sesión 4 TDA - Log.md",
-    "Rol/TDA/Post Mortem TDA.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md"
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
   ]
 }
