@@ -10,3 +10,6 @@ alias: [mad men]
 -   Las mujeres de los 60's
 -   Roger Sterling
 -   Don Draper/Dick Whitman
+
+---
+[[290420211131 - Frases de Mad Men]]

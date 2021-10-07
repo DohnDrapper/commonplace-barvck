@@ -6,14 +6,14 @@ alias: [Johny Decimal]
 ---
 
 #### _El acercamiento_
+
 **17/06/2021**  
 
 Desde hace un rato he intentado organizarme mejor pero no lo he logrado en gran medida. Una razón, es mi poco compormiso, y otra es que me parece una idea inabarcable por todos los datos que se deben ordenar. Aún así es posible que si haya esperanza para lograr lo anteior, a traves de un Sitema de Manajo de Conocimiento, o Personal Knowledge Management.
 
-Elegí el sistema de JohnnyDecimal, por que estab basado en el Dewey de la sbibliotecas qu eme parece muy facil de enrender. El sistema se encontró en un subreddital repseto de Knowledge Management, por lo que se intentara como primer cosa ordenar los links existentes en la página personal de Raindrop.io. 
+Elegí el sistema de JohnnyDecimal, por que estab basado en el Dewey de la sbibliotecas qu eme parece muy facil de enrender. El sistema se encontró en un subreddital repseto de Knowledge Management, por lo que se intentara como primer cosa ordenar los links existentes en la página personal de Raindrop.io.
 
-Para empezar se hará un lluvia de conceptos de los artículos  y partir de ahÍ se hará una lista de prelación, para poder relacionar conceptos y decidir  cuales son las areas, cuales las categoria y como de hara el index principal.
-
+Para empezar se hará un lluvia de conceptos de los artículos y partir de ahÍ se hará una lista de prelación, para poder relacionar conceptos y decidir  cuales son las areas, cuales las categoria y como de hara el index principal.
 
 <div align='center'>
    <h3> * * * </h3>
@@ -34,7 +34,6 @@ Empece por acomodar mis marcadores guardados en Raindrop.io. Me di cuenta que mu
 
 #### _Ordenar en las diez categorias_
 **23/08/2021**
-
 
 El día de ayer termine de acomodar mis marcadores de _Raindrop.io_ en las 10 categorias principales de _Dewey decimal_, aunque no en todas la categorias tengo marcadores ni abarco todos temas de algunas. 
 

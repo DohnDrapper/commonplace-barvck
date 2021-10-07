@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c419081e0c797756",
+        "id": "c15958f1b58bb501",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -49,8 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -91,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c419081e0c797756",
+  "active": "c15958f1b58bb501",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
-    "Personal/Rammstein.md",
     "Recursos gratuitos.md",
-    "Cyberpunk El apartamento.md",
-    "Personal/Libros a leer -.md",
-    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
-    "Rol/040520211249 - Sobre como hacer un personaje memorable.md",
-    "Personal/210420211057 - Exlibris.md",
-    "Rol/TDA/Sesión 1 TDA - Log.md",
-    "Rol/TDA/Post Mortem TDA.md"
+    "Referencia Mark down.md",
+    "Representacion de la mujer en los medios.md",
+    "000 Indice.md",
+    "ejemplo.md",
+    "Blog/Mad men.md",
+    "Blog/Fyre Festival.md",
+    "Blog/030320210338.md",
+    "Zizek.md",
+    "200 Juegos de Rol.md"
   ]
 }
