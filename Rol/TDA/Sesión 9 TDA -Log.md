@@ -1,15 +1,21 @@
 ---
-alias: Sesión 9
+alias: [Sesión 9, TDA S9]
 ---
 
-## Sesión  9   “Los dinosaurios del lago” 
+## Sesión 9 “Los dinosaurios del lago”
 
-*fecha de la sesión: 22/08/2020*
-*Fecha Interna en la Campaña: 3 día de viaje*
+---
+
+*Fecha de la sesión: 22/08/2020*
+*Fecha Interna en la Campaña: 4° día de viaje*
+
+<div align='center'>
+<h3> *** </h3>
+</div>
 
 ### Sucesos:
 
-**DIA 1 SELVA**
+#### &Alpha;. DIA 1 SELVA
 
 _Mañana_
 + El party encontró un árbol con fruta que el Bárbaro logró tumbar.

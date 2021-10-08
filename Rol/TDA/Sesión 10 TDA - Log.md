@@ -1,26 +1,35 @@
 ---
-Alias: Sesión 10
+Alias: [Sesión 10, TDA S10]
 ---
 
-## SESIÓN   10   “El ataque zombie” 
+## Sesión   10   “El ataque zombie”
+
 ---
-*fecha de la sesión: 5/09/2020
-*Fecha Interna en la Campaña: Aventura 6 Dia 3 en la selva
+
+_Fecha de la sesión: 5/09/2020_
+_Fecha Interna en la Campaña: Aventura Día 5° aventura día 2 en la selva_
+
+
+<div align='center'>
+<h3> *** </h3>
+</div>
 
 ### Sucesos:
 
- **Madrugada**
-+ El grupo es atacado por un grupo de zombies. Atraídos por la sangre llegan un par de Girallons. Batalla fácil para los jugadores.
-  
-**Mediodía**
-+ El party encuentro un grupo de conejos que son una delicia en Chult.
+#### &Alpha;. Día 2 Selva
 
-**Tarde**
+_Madrugada_
++ El grupo es atacado por un grupo de zombies. Atraídos por la sangre llegan un par de Girallons. Batalla fácil para los jugadores.
+
+_Mediodía_
++ El party encontró un grupo de conejos que son una delicia en Chult.
+
+_Tarde_
 + Otirianne les dice que puede guiar a Bala, de la presencia que existe y que él quiere darle el último golpe.
 + Encuentran una parte de la selva que está congelada. Al llegar ven un pterafolk congelado y pueden ver que otros dos llegan, les dicen valoran muchos los cuernos de almiraj.
 
-**Noche:**
-+ Furg puede ver unas manos enormes que cortan los árboles como si fueran mantequilla.
+_Noche_
++ Frug puede ver unas manos enormes que cortan los árboles como si fueran mantequilla.
 
 ---
 [[TDA - A|IndiceTDA]]

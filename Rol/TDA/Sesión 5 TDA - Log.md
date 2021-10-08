@@ -14,7 +14,9 @@ Fecha interna de la campaña: No especificada_
 
 Primera parte de la aventura del Túnel [[Sesión 4 TDA - Log#^758531]]
 
----
+<div align='center'>
+   <h3> * * * </h3>
+</div>
 
 ### Sucesos
 
@@ -50,12 +52,12 @@ Reona se dio cuenta que en el cuarto 4 había más cajas y más guardias:
 
 | Jugador | Items |
 |---|---|
-| KASHAK |Helm of Warning: Casco de metal con cuernos en espiral a los lados, que alerta a su portador del peligro. Le permite al portador usar “Dodge/esquivar una vez al día” durante el combate.|
-| MAHALI |Fire guard: Banda con grabados de llamas que protege del daño de fuego a quien lo usa. | 
-| REONA |A-Peering: Lupa encantada  con el hechizo “Comprehender lenguajes”. The usuario puede entender texto no importa el lenguaje cuando lo ve a través de la lupa.|
+| KASHAK |**Helm of Warning:** Casco de metal con cuernos en espiral a los lados, que alerta a su portador del peligro. Le permite al portador usar “Dodge/esquivar una vez al día” durante el combate.|
+| MAHALI |**Fire guard:** Banda con grabados de llamas que protege del daño de fuego a quien lo usa. | 
+| REONA |**A-Peering:** Lupa encantada  con el hechizo “Comprehender lenguajes”. The usuario puede entender texto no importa el lenguaje cuando lo ve a través de la lupa.|
 | FRUG |4 pociones para curar envenenamiento <br/> Granada mágica: Ciego por 2 turnos, fuego hace 3d6 de daño, invisibilidad por 2 turnos, pocion superior 8d4+8.|
-| ANCALAGON |Huggy Wuggy: Waifu pillow que al abrazarla otorga 2d4+3 HP una vez al dia.|
-| STOICORO |Smiter: Maza de acero negra  y símbolos religiosos en ella. Cuando usas “Channel divinity” el mazo gana una carga y la siguiente criatura golpeada toma 3d4 de daño radiante.|
+| ANCALAGON |**Huggy Wuggy:** Waifu pillow que al abrazarla otorga 2d4+3 HP una vez al dia.|
+| STOICORO |**Smiter:** Maza de acero negra  y símbolos religiosos en ella. Cuando usas “Channel divinity” el mazo gana una carga y la siguiente criatura golpeada toma 3d4 de daño radiante.|
 
 ^7a43e8
 

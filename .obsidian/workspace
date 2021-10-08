@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "c15958f1b58bb501",
+        "id": "ee5df9e12d338c1e",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "referenci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -49,7 +49,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908
+    "width": 318.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -90,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c15958f1b58bb501",
+  "active": "ee5df9e12d338c1e",
   "lastOpenFiles": [
-    "Recursos gratuitos.md",
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Sesión 15 TDA - Log.md",
+    "Rol/TDA/Sesión 2 TDA - Log.md",
+    "Rol/TDA/Sesión 14 TDA - Log.md",
     "Referencia Mark down.md",
-    "Representacion de la mujer en los medios.md",
-    "000 Indice.md",
-    "ejemplo.md",
-    "Blog/Mad men.md",
-    "Blog/Fyre Festival.md",
-    "Blog/030320210338.md",
-    "Zizek.md",
-    "200 Juegos de Rol.md"
+    "Rol/TDA/Sesión 13 TDA - Log.md",
+    "Rol/TDA/Sesión 12 TDA - Log.md",
+    "Rol/TDA/Sesión 11 TDA - Log.md",
+    "Rol/TDA/Sesión 10 TDA - Log.md",
+    "Rol/TDA/Sesión 9 TDA -Log.md"
   ]
 }

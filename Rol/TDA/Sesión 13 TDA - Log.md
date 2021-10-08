@@ -2,17 +2,27 @@
 alias: [Sesion 13, TDA S13]
 ---
 
-## SESIÓN   13   “El portal del laberinto” 
+## Sesión 13   “El portal del laberinto”
+
+---
 
 *Fecha de la sesión: 5/09/2020*
 *Fecha Interna en la Campaña: Aventura 8 Dia 5 en la selva*
 
+<div align='center'>
+<h3> *** </h3>
+</div>
+
 ### Sucesos:
 
-**Mañana**
+#### &Alpha;. Día 5 Selva
+
+_Mañana_
+
 Undril les comenta sobre la situación de “Campamento Justicia”, está invadido de zombies, hay una estatua. Les dice que un dispositivo crea zombies de manera mágica.
 
-**Tarde**
+_Tarde_
+
 Hallan un grupo de 4 estatuas de dinosaurios, y al verter sangre aparece un símbolo de un laberinto. 
 
 >“Solo hay un dios = Stegosaurus
@@ -24,13 +34,14 @@ Pueden ver al utilizar partes de dinosaurio que Kashak es teletransportado al te
 
 Al volver la party alinea todos los dinosaurios hacia el centro lo que provoca aparezca un tiranosaurio rex, al que enfrentan pero el mismo desaparece unos momentos después.
   
-**Noche**
+_Noche_
+
 El party descansa y Reona tiene visiones del Nightwalker que está en Bala. “Otiriane” le dice que sabe lo que vio.
 
-#### Dia 9
+#### &Beta;. Dia 6 Selva
 El party utiliza el día para preparar Agua Bendita y Frug crea la Frasquipulta.
 
-#### Dia 10 
+#### &Gamma;. Dia 7 Selva
 Llegan hasta el puerto de Campamento Justicia, pueden ver la impresionante estatua más cerca.
 
 ---

@@ -6,6 +6,7 @@ alias: [Referencia Markdown]
 [[#Espacio]]
 [[#Copyrigt]]
 [[#Fondo negro]]
+[[#Teletipo]]
 [[#Subinidice y Superindice]]
 [[#Alinear]]
 [[#Tablas]]
@@ -81,6 +82,16 @@ Superscript \<sup>The quick brown fox jumps over the lazy dog.\</sup>
 ```
 Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
 Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>
+```
+
+---
+
+### Teletipo
+
+<TT> Este es un ejemplo </TT>
+
+```
+<TT> Este es un ejemplo </TT>
 ```
 
 ---

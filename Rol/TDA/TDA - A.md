@@ -13,7 +13,7 @@ alias: [IndiceTDA]
 [[Sesión 4 TDA - Log|Sesión 4]]
 [[Sesión 5 TDA - Log|Sesión 5]]
 [[Sesión 6 TDA - Log|Sesión 6]]
-[[Sesión 7 TDA -Log|Sesión 7]]
+[[Sesión 7 TDA - Log|Sesión 7]]
 
 ###### _Temporada “2”_
 [[Sesión 8 TDA - Log|Sesión 8]]

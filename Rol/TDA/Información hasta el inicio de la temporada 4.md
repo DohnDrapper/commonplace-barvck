@@ -17,9 +17,13 @@ c) Si completan el mapa que les da les promete provisiones y una canoa.
 
 d) Ir a Wyrmhearth a destruir al dragón rojo que ocupa las minas de los enanos
 
-e) Capturar barcos piratas
+e) Encontrar a Artus cimber y traerlo a los magos rojos
 
-f) Investigar la carga de contrabando
+f) Capturar barcos piratas
+
+g) Investigar la carga de contrabando
+
+h) Matar al Anathema, Recompensa un arma mágica a cada uno
 
 ---
 
@@ -39,7 +43,7 @@ E. Artus Cimber y los gigantes de Hielo
 
 ### NPCs
 
-
+Ardilla Manyiu
 
 ___
 
@@ -55,6 +59,12 @@ Fort Belurian
 
 El lagarto atronador
 
+La bodega en Malar's Throath
+
+Templo de Anthea
+
+Bala
+
 ___
 
 ### Pistas
@@ -65,7 +75,11 @@ ___
 
 [[Sesión 3 TDA - Log#^0ef03f]] Devorador
 
+[[Sesión 7 TDA - Log#Beta Ekene Afa se halla con Reona y Mahali]] Donde se halla Omu
 
+[[Sesión 7 TDA - Log#Gamma Kashak se ve a un Kobold]] Le habla d euna ciudad en la selva
+
+[[Sesión 7 TDA - Log#Epsilon Wakanga y Jobal se reúnen con el grupo|Sesión 7]] Les hablan de la tablilla
 
 ---
 
@@ -107,6 +121,20 @@ Arix Kobold Rojo
 
 Abuelo Zitembe
 
+Xandala
+
+(Yuta, Zaidi, Wadizi)
+
+Otirianne Mann
+
+Thyra Permafrost
+
+Artus Cimber
+
+Pedacito
+
+Dorothy e trieratops
+
 ___
 
 ### Facciones / Grupos
@@ -129,6 +157,12 @@ Kobolds azules de la Mina
 
 Heel
 
+Ponty el Mercader
+
+Olbur
+
+Niles Baldor
+
 ___
 
 ### Objetos
@@ -141,13 +175,43 @@ Kit de cartografía:
 
 ![[Sesión 5 TDA - Log#^7a43e8]]
 
+Tablilla con el dibujo de un mono
+
+Llave de la ciudad
+
+Figurine of wondrous power "Cuervo plata"
+
+Pergamino mensaje Thyra
+
+Frasquipulta
+
+Estatua del hombre lagarto
+
 ---
 
 ### Tiempo
 
 Día 1: S1, S2, S3
 
-Día 2: S4, S5
+Día 2: S4, S5, S6
+
+Día 3: S7, S8
+
+_Selva_
+
+Día 4 Selva 1: S9
+
+Día 5 Selva 2: S10
+
+Día 6 Selva 3: S11
+
+Día 7 Selva 4: S12
+
+Día 8 selva 5: S13
+
+Día 9 selva 6: S13
+
+Día 10 selva 7: S13, S14, S15
 
 ---
 
@@ -157,11 +221,36 @@ a) Los chiwa
 
 b) El tipo de túnica del calabozo
 
+c) Monty el mercader [[Sesión 11 TDA - Log|TDA S11]]
+
+d) Alguna patrulla del Guantelete
+
 ---
 
 ### Presagios del Abuelo Zitembe
 
 [[Sesión 4 TDA - Log#^c9f4cd|TDA S4]] Primer acercamiento
 
+[[Sesión 7 TDA - Log#Eta Reona]] Una visión sonbre un lugar llamado Bala
 
 ___
+
+### Dinosaurios
+
+Cuello largo
+
+
+---
+
+### Animales de la Selva
+
+Girallons
+
+Zombies
+
+Almiraj
+
+Pterafolk
+
+---
+

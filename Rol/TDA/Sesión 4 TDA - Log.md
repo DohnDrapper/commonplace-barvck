@@ -47,6 +47,7 @@ Ekene Afa no los puede recibir pues está investigando un contrabando, Jobal los
 #### &Gamma;. El grupo fue a ver una carrera de Dinosaurios
 - Conocieron que son violentas  y hay un corredor muy dominante llamado Terry Crews 
 - Terry Crews avienta dinero a la audiencia.
+^terrycrews2
 
 &nbsp
 
