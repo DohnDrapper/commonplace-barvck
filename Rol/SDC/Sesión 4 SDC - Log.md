@@ -23,7 +23,7 @@ alias: [Sesión 4, SDC S4]
 #### _Orden del día_
 
 1. Recordar cuantas cargas de dinamita tienen.
-2. 
+2. Sergio mastica de diversas maneras.
 
 
 **Música**

@@ -88,6 +88,23 @@ https://youtu.be/TbN_4ynFuWU
 04/08/2021
 
 - [ ] Una nota para todos lo presagios que han visto los personajes.
-- [ ] Una nota de toda la información de las carreras junta en una sola nota
+- [ ] Una nota de toda la información de las carreras junta en una sola nota-
+- [ ] Varios titulos para lo personajes
+- [ ] Pensar frases para iniciar la campaña
 
 ---
+ ### Información
+ 
+ Mural
+ 
+ Leyenda
+ 
+ Obras de teatro
+ 
+ Conversaciones de los NPC
+ 
+ Libros
+ 
+ Canciones
+ 
+ 

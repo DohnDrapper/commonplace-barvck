@@ -30,6 +30,9 @@ aliases: [Sesión 29, TDA S29]
 3. Dark pide a Mahali y Wes que la sigan y les muestra la ballesta 
 4. Dark les muestra el "cañon de agua"
 
+**En sesión**
+6. Los marineros le enseñan a Rhin sobre los astros y como medir el tiempo
+
 <div align='center'>
    <h3> * * * </h3>
 </div>
@@ -47,3 +50,5 @@ aliases: [Sesión 29, TDA S29]
 ---
 
 ### _Sesión_
+
+>"En las tierras que un dia Ubtao camino, los siete buscan cumplir la misión que La dama enmascarada les dió, aqui sus cronicas. La sesión pasada nuestros heroes..."

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5e2c224452b946f7",
+        "id": "cc13fbd9f426874a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -91,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5e2c224452b946f7",
+  "active": "cc13fbd9f426874a",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Rol/TDA/Planeación general TDA  1.md",
+    "Rol/SDC/Sesión 4 SDC - Log.md",
+    "Untitled/TDA sS20.md",
+    "Formatos/Sesión en blanco.md",
+    "TDA sS20.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 20 - Log.md",
     "Sesión 20 - Planeacion.md",
-    "TDA sS20.md",
-    "Rol/TDA/Sesion 28 TDA -.md",
-    "Rol/TDA/Sesión 2 TDA - Log.md",
-    "Rol/TDA/Sesión 18 TDA - Log.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md",
-    "Rol/TDA/Sesión 17 TDA - Log.md",
-    "Rol/TDA/Sesión 16 TDA - Log.md"
+    "Rol/TDA/Sesion 28 TDA -.md"
   ]
 }
