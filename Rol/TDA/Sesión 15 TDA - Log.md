@@ -7,7 +7,7 @@ alias: [Sesión 15, TDA S15]
 ---
  
 *fecha de la sesión: 14/11/2020
-Fecha Interna en la Campaña:  Día de viaje 10 Selva 8 *
+Fecha Interna en la Campaña:  Día de viaje 10 Selva 7 *
 
 <div align='center'>
 <h3> *** </h3>

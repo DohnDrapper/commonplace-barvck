@@ -25,6 +25,10 @@ g) Investigar la carga de contrabando
 
 h) Matar al Anathema, Recompensa un arma mágica a cada uno
 
+i) Acercarse a lso aaracockra y lograr una alianza con ellos
+
+j) Traeme una garra de Kamadan
+
 ---
 
 ### Tramas
@@ -80,6 +84,12 @@ ___
 [[Sesión 7 TDA - Log#Gamma Kashak se ve a un Kobold]] Le habla d euna ciudad en la selva
 
 [[Sesión 7 TDA - Log#Epsilon Wakanga y Jobal se reúnen con el grupo|Sesión 7]] Les hablan de la tablilla
+
+[[Sesión 16 TDA - Log#Beta “Artus Cimber”|TDA S16]] Sobre Artus Cimber y el anillo
+
+[[Sesión 20 - Log#^65d13b|Sesión 20]] El dedo de fuego y el Kamadan
+
+[[Sesión 20 - Log#^97341e]] Primera mención de Acererak
 
 ---
 
@@ -163,6 +173,8 @@ Olbur
 
 Niles Baldor
 
+[[Sesión 16 TDA - Log#^b2233c]] Equipo Campamento Justicia
+
 ___
 
 ### Objetos
@@ -186,6 +198,16 @@ Pergamino mensaje Thyra
 Frasquipulta
 
 Estatua del hombre lagarto
+
+Alchemy jug
+
+La rupia de Campamento Justicia
+
+"Blanquita" Pterodactilo
+
+![[Sesión 20 - Log#^99b329]]
+
+Bolsa para Perne en Campamento Veganza
 
 ---
 
@@ -213,6 +235,14 @@ Día 9 selva 6: S13
 
 Día 10 selva 7: S13, S14, S15
 
+Día 11 selva 8: S16, S17
+
+Día 12 selva 9: S17, S18, 19
+
+Día 13 selva 10:
+
+Día 
+
 ---
 
 ### Para referir
@@ -224,6 +254,8 @@ b) El tipo de túnica del calabozo
 c) Monty el mercader [[Sesión 11 TDA - Log|TDA S11]]
 
 d) Alguna patrulla del Guantelete
+
+e) La recuperación de Campamento Justicia
 
 ---
 
@@ -238,6 +270,10 @@ ___
 ### Dinosaurios
 
 Cuello largo
+
+Tiranosaurio
+
+T- Rex Zombi
 
 
 ---
@@ -254,3 +290,10 @@ Pterafolk
 
 ---
 
+### Leyendas
+
+[[Sesión 14 TDA - Log#Gamma La estatua|Sesión 14]] El hombre y el lagarto
+
+[[Sesión 17 TDA - Log#Alpha Noche en el campamento|TDA S17]] Historia de Ubtao
+
+---
