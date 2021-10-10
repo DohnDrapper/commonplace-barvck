@@ -207,7 +207,9 @@ La rupia de Campamento Justicia
 
 ![[Sesión 20 - Log#^99b329]]
 
-Bolsa para Perne en Campamento Veganza
+Bolsa para Perne en Campamento Venganza
+
+![[Sesion 28 TDA - Log#^db4f6c|Sesión 28]]
 
 ---
 

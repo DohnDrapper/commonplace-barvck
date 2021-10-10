@@ -1,17 +1,25 @@
+---
+aliases: []
+---
+
 ## PLANEACION SESIÓN VIGESIMA SEGUNDA
 
-- ### Pendientes
+### Pendientes
+
 - [ ] Desmarcar el mapa
 - [ ] Planear sesiones más adelantadas
 - [ ] Mordiquitos el conejo que inyecta veneno.
 
+
 ### Referencias
+
 [1](https://www.reddit.com/r/Tombofannihilation/comments/bnjcxx/ideas_for_firefinger_boss/en8d37m?utm_medium=android_app&utm_source=share&context=3)
 [2](https://www.reddit.com/r/battlemaps/comments/g7rr7y/firefinger_maps_by_level_for_tomb_of_annihilation/?utm_medium=android_app&utm_source=share)
 [3](https://www.reddit.com/r/Tombofannihilation/comments/dx8l7x/literal_firefinger_cliffhanger/f7o6n5a?utm_medium=android_app&utm_source=share&context=3)
 [4](https://www.reddit.com/r/Tombofannihilation/comments/lrnpx6/just_finished_the_campaign_levels_111_some_notes/?utm_medium=android_app&utm_source=share)
 [5](https://www.reddit.com/r/Tombofannihilation/comments/iawnuq/adventure_completed_2_years_spoilers/?utm_medium=android_app&utm_source=share)
 [6](https://www.reddit.com/r/Tombofannihilation/comments/fel8w8/acererak_as_a_hilarious_supervillain_part_2/?utm_medium=android_app&utm_source=share)
+
 
 ### Ideas para Firefinger
 
@@ -27,6 +35,7 @@
 - [ ] El dragón tumba el dedo de fuego.
 
 ### Orden del día:
+
 1. Se actualizó el "Como tirar"
 2. Se agregaron los documentos de referencia en español y que peudo hcaer en mi turno.
 3. Hay un canal para el fanart

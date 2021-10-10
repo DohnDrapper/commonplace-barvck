@@ -29,7 +29,7 @@ alias: [Sesión 28, TDA S28]
 
 
 #### $A$. Los anillos
-#### Ring of Resistance
+##### Ring of Resistance
 
 Ring, rare (requires attunement)
 
@@ -39,22 +39,14 @@ You have [resistance](https://www.5esrd.com/gamemastering/combat#TOC-Damage-Resi
 |---|---|---|
 |1|Acid|Pearl|
 |2 |Cold| Tourmaline|
-
-3 Fire Garnet
-
-4 Force Sapphire
-
-5 Lightning Citrine
-
-6 Necrotic Jet
-
-7 Poison Amethyst
-
-8 Psychic Jade
-
-9 Radiant Topaz
-
-10 Thunder Spinel
+|3| Fire| Garnet|
+|4| Force| Sapphire|
+|5 |Lightning| Citrine|
+|6 |Necrotic| Jet|
+|7 |Poison |Amethyst|
+|8 |Psychic| Jade|
+|9| Radiant| Topaz|
+|10| Thunder| Spinel|
 
 
 #### $B$. El Warforged se presenta
@@ -122,3 +114,20 @@ Mahali
 A la mañana siguiente pueden ver que un triceratops se acerca al campamento y desea que lo sigan, los lleva donde esta un tipo colgado de un arbol que es muy claro que cayó en un trampa por alguien.
 
 ---
+
+### Anillos de cada uno
+
+
+|Anillos| |
+|---|---|
+|Personaje|Resistencia|
+|Mahali|Lightning|
+|Ancalagón|Poison|
+|Rhin|Fuego|
+|Reona|Ácido|
+|Estoicoro|Radiant|
+|Wes|Contundente|
+
+^db4f6c
+
+

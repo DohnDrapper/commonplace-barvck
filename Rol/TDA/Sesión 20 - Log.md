@@ -92,13 +92,14 @@ Fecha Interna en la Campaña: Aventura 12 Dia 9 en la selva*
 
 Kashak vuelve en sí. Mahali necesita de que Estoicoro lo despierte de una cachetada.
 
+>Nanny Pupu:
 >No se han dado cuenta soy el mal menor en esta situación. Ustedes no notaron que Otirianne no me siguió. Otirianne sabe que en Bala yo soy el mal menor. (Risa) creo que muy pronto lo encontraran.
 
 Reona y Rhin, a las 7 de la noche pueden ver a una critura que sale de entre la oscuridad. Y aparecé el Nightwalker. Otirianne les pide se oculten. Reona puede deducir que es la criatura que vió en sus sueños.
 
 &nbsp
 
-Nanny pupu:
+>**Nanny pupu:**
 >Eso necesita mi señor muchas más almas. Aquel que revivió, aquel no esta muerto, aquel que manda sobre los demás.
 >Voy a ser piadosa ocn ustedes y les voya decir algo que les puede servir. A veces hay cosas que son mas poderosas que los dioses. Y a veces los dioses se doblegan ante ellos.
 >Cuando esté completó su ira será nuclear.

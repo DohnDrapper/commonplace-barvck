@@ -2,7 +2,9 @@
 alias: [Sesión 19, TDA S19]
 ---
 
-## Sesión 19 “La guerra que se viene” 
+## Sesión 19 “La guerra que se viene”
+
+---
   
 *fecha de la sesión: 27/03/2021
 Fecha Interna en la Campaña: Aventura 12 Dia 9 en la selva*
