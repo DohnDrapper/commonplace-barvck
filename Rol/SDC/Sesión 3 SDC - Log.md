@@ -52,9 +52,3 @@ Cuando esten los investigadores revisando la tercer columna, aparecerá el _Form
 ---
 
 [[SDC - A]]
-
-
-
-
-
-

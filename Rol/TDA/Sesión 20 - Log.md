@@ -32,7 +32,7 @@ Fecha Interna en la Campaña: Aventura 12 Dia 9 en la selva*
 
 ### **$A$.  Escena Port Nyanzaru:**
 
-***Jobal y Wakanga hablan con Rhin y Reona:***
+#### $a$. *Jobal y Wakanga hablan con Rhin y Reona:*
 + Les da 4 pergaminos de "Wind Walk"
 + La maldición se esta volviendo más fuerte.
 + Alguien sabe de su presencia y los esta investigando al party.
@@ -43,7 +43,7 @@ Fecha Interna en la Campaña: Aventura 12 Dia 9 en la selva*
 
 &nbsp
 
-***Reona en el Templo de Savras:*** ^65d13b
+#### $b$. *Reona en el Templo de Savras:* ^65d13b
 + Ultimamente, ha habido ataques a la ciudad.
 + Busca al Kamadan y traeme una de sus garras.
 + Cuidado con Nanny Pupu.
@@ -55,7 +55,7 @@ Fecha Interna en la Campaña: Aventura 12 Dia 9 en la selva*
 
 &nbsp
 
-***Rhin en Port Nyanzaru:***
+#### $\gamma$. Rhin en Port Nyanzaru:*
 + Compra comida para el Pterodactilo "Blanquita"
 + Conoce a Dela Agolo.
 

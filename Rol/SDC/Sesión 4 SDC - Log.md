@@ -28,6 +28,17 @@ alias: [Sesión 4, SDC S4]
 
 **Música**
 
+Intro
+<https://www.youtube.com/watch?v=eeqGuaAl6Ic>
+Ending
+<https://youtu.be/51kMlM6YcH4>
+
+Música para combate
+<https://youtu.be/sOamrmqR-Qk>
+
+Música exploración ene la selva
+<https://youtu.be/M8ZDNLO2mOo>
+
 
 ---
 
@@ -36,7 +47,7 @@ alias: [Sesión 4, SDC S4]
 Esto es un texto de ejemplo
 
 
-#### $a$. Escena 1
+#### $a$. El enfrentamiento con el "engendro sin forma"
 
 Tirar cordura al ver el engendro sin forma.
 

@@ -4,7 +4,17 @@ alias: [Sesión 21, TDA S21]
 
 ## Sesión 21 "El Night walker"
 
-### Enfrentamiento con el Nightwalker
+---
+
+_Fecha de la sesión: 17/04/2021
+Fecha interna de la campaña: Primer día Port Nyanzaru_
+
+<div align='center'>
+<h3> *** </h3>
+</div>
+
+
+### $A$. Enfrentamiento con el Nightwalker
 
 El nightwalker intimidó a los jugadores quienes huyeron (Ancalagón, Mahali, Estoicoro, Kashak, Frug). El miedo terminó cuando Reona logró aprisionar al Nightwalker, dentro de un circulo mágico. Frug y Mahali, golpean la piedra que pertenecía a Nanny pupu.
 
@@ -17,9 +27,11 @@ Otirianne les señalo que deben destruir el objeto de quien lo invocó, para que
 El party hace un funeral simbolico para Otirianne, propuesto por Kashak.
 Rhin hace que brote una plantita en el lugar donde desaparecio Otirianne.
 
->Estoicoro: Cuando la vida te separa de un ser querido, y el recuerdo de su sonrisa es la mayor manera de seguir adelante, es mejor recordar que, como dice Gruumsh: "Lo imortante es encontrar a lso responsables, sacarles los ojos, arrancar su cabezas, cortarlas en estacas, par que todos sepan que no se deben de meter con los aervidores de Gruumsh."
+>Estoicoro: Cuando la vida te separa de un ser querido, y el recuerdo de su sonrisa es la mayor manera de seguir adelante, es mejor recordar que, como dice Gruumsh: "Lo importante es encontrar a los responsables, sacarles los ojos, arrancar su cabezas, cortarlas en estacas, para que todos sepan que no se deben de meter con los servidores de Gruumsh."
 
-### La fogata
+&nbsp
+
+### $B$. La fogata
 Frug: En la guerra, había noches clara y oscuras, con su compañeros
 >Se lo que se siente perder a un compañero de forma violenta. 
 
@@ -35,14 +47,20 @@ Se me olvidó Estoicoro.
 
 Respuesta del Mensaje de Frug: El gremio debe ser neutral.
 
----
 
-### Información de Bala
+<div align='center'>
+   <h3> * * * </h3>
+</div>
+
+
+### $A$. Información de Bala
 El Party decide ir a Firefinger, después de revisar el mapa.
 
 Reona descubre las figuras de los 9 dioses de Chult. Lo relaciona con su visión de los nueve colores distintos.
 
-### Viaje a Firefinger
+&nbsp
+
+### $B$. Viaje a Firefinger
 Lo lleve a acabo en un montaje. Creo que les pareció bueno.
 
 
@@ -54,8 +72,5 @@ Los jugadores:
 * Los hombres serpeinte se hallan resguardados en el Fano de la Serpiente Nocturna, Ras Nsi por alguna razón esta encerrado en dicho templo.
 
 ---
+
 [[TDA - A|IndiceTDA]]
-
-
-
-

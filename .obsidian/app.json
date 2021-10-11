@@ -11,5 +11,6 @@
   "foldIndent": true,
   "showFrontmatter": true,
   "communityPluginSortOrder": "alphabetical",
-  "attachmentFolderPath": "reusar"
+  "attachmentFolderPath": "reusar",
+  "showLineNumber": true
 }

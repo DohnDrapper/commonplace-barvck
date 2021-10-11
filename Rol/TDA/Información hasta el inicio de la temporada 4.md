@@ -239,7 +239,7 @@ Día 10 selva 7: S13, S14, S15
 
 Día 11 selva 8: S16, S17
 
-Día 12 selva 9: S17, S18, 19
+Día 12 selva 9: S17, S18, s19, S20
 
 Día 13 selva 10:
 

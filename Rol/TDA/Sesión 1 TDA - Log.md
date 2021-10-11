@@ -18,7 +18,7 @@ Fecha Interna en la Campaña: 4 días de viaje_
 
 ### Sucesos:
 
-#### &Alpha;. Syndra
+#### $A$. Syndra
 - Personajes asistieron al funeral de Sigfrid y dieron unas palabras.
 
 - Syndra Sylvane los contacta y los invitó a su casa donde comieron un banquete y al final les propone la expedición.
@@ -27,13 +27,13 @@ Fecha Interna en la Campaña: 4 días de viaje_
 
 &nbsp
 
-#### &Beta;. Puerta de Baldur
+#### $B$. Puerta de Baldur
 - Frug fue con Azuil Chiwa miembro de su gremio quien le indicó en Chult encontrará a Atuar Ngore un herrero de 4 dedos.
 - Reona fue a la biblioteca a investigar sobre Chult no halló nada.
 
 &nbsp
 
-#### &Gamma;. Pegaso Abrazado
+#### $\Gamma$. Pegaso Abrazado
 
 - Los personajes salieron de Puerta de Baldur en el “Pegaso Abrazado” pagado por Syndra.
 
