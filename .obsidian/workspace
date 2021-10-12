@@ -7,8 +7,11 @@
         "id": "19602db6c892bd64",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           }
         ]
@@ -92,6 +98,7 @@
   },
   "active": "19602db6c892bd64",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Untitled/ejemplo.md",
     "Untitled/TDA sS20.md",
     "Untitled/200 Juegos de Rol.md",
@@ -100,7 +107,6 @@
     "Rol/TDA/Sesión 21 TDA - Log.md",
     "Rol/TDA/Sesión 2 TDA - Log.md",
     "Rol/TDA/Sesión 20 - Log.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md",
-    "Rol/TDA/Sesión 20 - Planeacion.md"
+    "Rol/TDA/Sesión 19 TDA - Log.md"
   ]
 }
