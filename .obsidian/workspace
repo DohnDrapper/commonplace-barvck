@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "19602db6c892bd64",
+        "id": "1b662bdaeb5313b3",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +80,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -96,17 +90,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "19602db6c892bd64",
+  "active": "1b662bdaeb5313b3",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
-    "Untitled/ejemplo.md",
-    "Untitled/TDA sS20.md",
-    "Untitled/200 Juegos de Rol.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 22 TDA - Preparación.md",
+    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
+    "Rol/TDA/Sesión 1 TDA - Log.md",
+    "Rol/TDA/Sesión 19 TDA - Log.md",
     "Rol/TDA/Sesión 21 TDA - Log.md",
-    "Rol/TDA/Sesión 2 TDA - Log.md",
+    "Rol/TDA/Sesión 21 TDA - Preparación.md",
+    "Rol/TDA/Sesión 18 TDA - Log.md",
+    "Rol/TDA/Sesión 16 TDA - Log.md",
     "Rol/TDA/Sesión 20 - Log.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md"
+    "Rol/TDA/Sesión 20 - Planeacion.md",
+    "Rol/TDA/Sesión 22 TDA - Preparación.md"
   ]
 }

@@ -53,14 +53,14 @@ Respuesta del Mensaje de Frug: El gremio debe ser neutral.
 </div>
 
 
-### $A$. Información de Bala
+### $a$. Información de Bala
 El Party decide ir a Firefinger, después de revisar el mapa.
 
 Reona descubre las figuras de los 9 dioses de Chult. Lo relaciona con su visión de los nueve colores distintos.
 
 &nbsp
 
-### $B$. Viaje a Firefinger
+### $b$. Viaje a Firefinger
 Lo lleve a acabo en un montaje. Creo que les pareció bueno.
 
 

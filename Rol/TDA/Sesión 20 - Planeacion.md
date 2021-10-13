@@ -1,5 +1,5 @@
 ---
-aliases: [Sesión 20, TDA S20 P]
+aliases: [Sesión 20, TDA P20]
 ---
 
 ### Planeación Sesión Vigesima

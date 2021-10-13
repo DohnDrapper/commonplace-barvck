@@ -1,5 +1,5 @@
 ---
-alias: [sesión 21, TDA S21]
+aliases: [Sesión 21, TDA P21]
 ---
 
 ## PLANEACIÓN SESIÓN VIGESIMA PRIMERA
