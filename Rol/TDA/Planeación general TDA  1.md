@@ -43,6 +43,10 @@ Sesión de Musical.
 
 Sesión del cambio de cuerpos.
 
+Una de las hermanas cosidas les ofrce que les dará la sabidurpia que necesitan para pasar la tumba de la aniquilación.
+
+
+
 ---
 ## Música
 Batalla final Acererak

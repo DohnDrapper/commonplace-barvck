@@ -4,11 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "1b662bdaeb5313b3",
+        "id": "90a178a9285a4a7c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "kanban",
+          "state": {
+            "file": "Personal/Para ver.md"
+          }
         }
       }
     ],
@@ -49,7 +51,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908
+    "width": 318.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -80,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Para ver.md"
+              }
             }
           }
         ]
@@ -90,17 +96,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1b662bdaeb5313b3",
+  "active": "90a178a9285a4a7c",
   "lastOpenFiles": [
-    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
-    "Rol/TDA/Sesión 1 TDA - Log.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md",
-    "Rol/TDA/Sesión 21 TDA - Log.md",
-    "Rol/TDA/Sesión 21 TDA - Preparación.md",
-    "Rol/TDA/Sesión 18 TDA - Log.md",
-    "Rol/TDA/Sesión 16 TDA - Log.md",
-    "Rol/TDA/Sesión 20 - Log.md",
-    "Rol/TDA/Sesión 20 - Planeacion.md",
-    "Rol/TDA/Sesión 22 TDA - Preparación.md"
+    "Personal/Para ver.md",
+    "Sesión 30 TDA - Log.md",
+    "Formatos/Sesión en blanco.md",
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Untitled 1.md",
+    "Rol/TDA/Planeación general TDA  1.md",
+    "Personal/Untitled Kanban.md",
+    "Personal/Libros a leer -.md",
+    "Untitled.md",
+    "Personal/GTD - On going.md"
   ]
 }
