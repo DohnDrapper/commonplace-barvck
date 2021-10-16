@@ -14,11 +14,11 @@ kanban-plugin: basic
 - [ ] Never rarely sometimes always (2020)
 - [ ] Undine (2020)
 - [ ] Possessor (2020)
-- [ ] [Peaky blinders](https://documentaryheaven.com/real-peaky-blinders/)
 
 
 ## Documentales
 
+- [ ] [Peaky blinders](https://documentaryheaven.com/real-peaky-blinders/)
 
 
 ## Series

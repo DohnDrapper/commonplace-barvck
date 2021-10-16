@@ -4,13 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90a178a9285a4a7c",
+        "id": "461d91de2182b9a3",
         "type": "leaf",
         "state": {
-          "type": "kanban",
-          "state": {
-            "file": "Personal/Para ver.md"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -68,7 +66,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,9 +81,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Para ver.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -96,7 +91,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "90a178a9285a4a7c",
+  "active": "461d91de2182b9a3",
   "lastOpenFiles": [
     "Personal/Para ver.md",
     "Sesión 30 TDA - Log.md",
