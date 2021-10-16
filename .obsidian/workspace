@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "461d91de2182b9a3",
+        "id": "3d3de73ea4c90a02",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -91,8 +91,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "461d91de2182b9a3",
+  "active": "3d3de73ea4c90a02",
   "lastOpenFiles": [
+    "Personal/100820211442 - 2021 Resumen del Año.md",
+    "Referencia Mark down.md",
     "Personal/Para ver.md",
     "Sesión 30 TDA - Log.md",
     "Formatos/Sesión en blanco.md",
@@ -100,8 +102,6 @@
     "Untitled 1.md",
     "Rol/TDA/Planeación general TDA  1.md",
     "Personal/Untitled Kanban.md",
-    "Personal/Libros a leer -.md",
-    "Untitled.md",
-    "Personal/GTD - On going.md"
+    "Personal/Libros a leer -.md"
   ]
 }
