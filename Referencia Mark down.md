@@ -303,6 +303,39 @@ You can leave off the author and date if you want; you can leave off the title, 
 
 #### Alfabeto griego
 
+![[Pasted image 20211016142034.png]]
+
+[Fuente](https://programmerclick.com/article/9139292621/)
+
+|Mayúscula |Código |En minúscula |Código|
+|---|---|---|---|
+|A|	$A$ \$A$| 	α \alpha α |	\$\alpha$|
+|B B B 	$B$ 	β \beta β 	$\beta$
+|Γ \Gamma Γ 	$\Gamma$ 	γ \gamma γ 	$\gamma$
+|Δ \Delta Δ 	$\Delta$ 	δ \delta δ 	$\delta$
+|E E E 	$E$ 	ϵ \epsilon ϵ 	$\epsilon$
+		ε \varepsilon ε 	$\varepsilon$
+Z Z Z 	$Z$ 	ζ \zeta ζ 	$\zeta$
+H H H 	$H$ 	η \eta η 	$\eta$
+Θ \Theta Θ 	$\Theta$ 	θ \theta θ 	$\theta$
+I I I 	$I$ 	ι \iota ι 	$\iota$
+K K K 	$K$ 	κ \kappa κ 	$\kappa$
+Λ \Lambda Λ 	$\Lambda$ 	λ \lambda λ 	$\lambda$
+M M M 	$M$ 	μ \mu μ 	$\mu$
+N N N 	$N$ 	ν \nu ν 	$\nu$
+Ξ \Xi Ξ 	$\Xi$ 	ξ \xi ξ 	$\xi$
+O O O 	$O$ 	ο \omicron ο 	$\omicron$
+Π \Pi Π 	$\Pi$ 	π \pi π 	$\pi$
+P P P 	$P$ 	ρ \rho ρ 	$\rho$
+Σ \Sigma Σ 	\Sigma$ 	σ \sigma σ 	$\sigma$
+T T T 	$T$ 	τ \tau τ 	$\tau$
+Υ \Upsilon Υ 	$\Upsilon$ 	υ \upsilon υ 	$\upsilon$
+Φ \Phi Φ 	$\Phi$ 	ϕ \phi ϕ 	$\phi$
+X X X 	$X$ 	χ \chi χ 	$\chi$
+Ψ \Psi Ψ 	$\Psi$ 	ψ \psi ψ 	$\psi$
+Ω \Omega Ω 	$\Omega$ 	ω \omega ω 	$\omega$
+
+
 ```
 Α &Alpha; GREEK CAPITAL LETTER ALPHA
 

@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3d3de73ea4c90a02",
+        "id": "70b7e6cdaa7a28f2",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Sesión 22 TDA - Log.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/TDA/Sesión 22 TDA - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/TDA/Sesión 22 TDA - Log.md"
+              }
             }
           }
         ]
@@ -91,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d3de73ea4c90a02",
+  "active": "70b7e6cdaa7a28f2",
   "lastOpenFiles": [
-    "Personal/100820211442 - 2021 Resumen del Año.md",
+    "Rol/TDA/Sesión 22 TDA - Log.md",
+    "Rol/TDA/Sesión 22 TDA - Preparación.md",
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Referencia Mark down.md",
-    "Personal/Para ver.md",
-    "Sesión 30 TDA - Log.md",
-    "Formatos/Sesión en blanco.md",
-    "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Untitled 1.md",
-    "Rol/TDA/Planeación general TDA  1.md",
-    "Personal/Untitled Kanban.md",
-    "Personal/Libros a leer -.md"
+    "Untitled.md",
+    "Pasted image 20211016142034.png",
+    "Rol/TDA/Sesión 20 - Planeacion.md",
+    "Rol/TDA/Sesión 21 TDA - Log.md",
+    "Rol/TDA/Sesión 21 TDA - Preparación.md",
+    "Rol/TDA/Sesión 20 - Log.md"
   ]
 }

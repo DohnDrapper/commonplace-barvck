@@ -17,7 +17,7 @@ c) Si completan el mapa que les da les promete provisiones y una canoa.
 
 d) Ir a Wyrmhearth a destruir al dragón rojo que ocupa las minas de los enanos
 
-e) Encontrar a Artus cimber y traerlo a los magos rojos
+e) Encontrar a Artus cimber y traerlo a los Arperos
 
 f) Capturar barcos piratas
 
@@ -26,6 +26,8 @@ g) Investigar la carga de contrabando
 h) Matar al Anathema, Recompensa un arma mágica a cada uno
 
 i) Acercarse a lso aaracockra y lograr una alianza con ellos
+
+j) Acercarse a los Magos Rojos y ofrecerles el hechizo de deseo
 
 j) Traeme una garra de Kamadan
 
@@ -87,9 +89,13 @@ ___
 
 [[Sesión 16 TDA - Log#Beta “Artus Cimber”|TDA S16]] Sobre Artus Cimber y el anillo
 
+[[Sesión 17 TDA - Log#^ace7fa|TDA S17]] Mahali vio el Fano e a Serpiente Nocturna
+
 [[Sesión 20 - Log#^65d13b|Sesión 20]] El dedo de fuego y el Kamadan
 
 [[Sesión 20 - Log#^97341e]] Primera mención de Acererak
+
+[[Sesión 21 TDA - Log#^66e820|TDA S21]] Las nueve figuras de los dioses
 
 ---
 
@@ -211,6 +217,8 @@ Bolsa para Perne en Campamento Venganza
 
 ![[Sesion 28 TDA - Log#^db4f6c|Sesión 28]]
 
+![[Sesión 22 TDA - Log#^d82385|TDA S22]]
+
 ---
 
 ### Tiempo
@@ -241,9 +249,13 @@ Día 11 selva 8: S16, S17
 
 Día 12 selva 9: S17, S18, s19, S20
 
-Día 13 selva 10:
+Día 13 selva 10: S21
 
-Día 
+Día 14 selva 11: S21
+
+Día 15 selva 12: S21
+
+Día 16 selva 13: S21
 
 ---
 
@@ -258,6 +270,8 @@ c) Monty el mercader [[Sesión 11 TDA - Log|TDA S11]]
 d) Alguna patrulla del Guantelete
 
 e) La recuperación de Campamento Justicia
+
+f) Mencionar que lo magos rojos buscan la "Perla de la Luna"
 
 ---
 

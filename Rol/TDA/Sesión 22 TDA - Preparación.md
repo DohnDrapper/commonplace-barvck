@@ -1,3 +1,9 @@
+---
+aliases: [Sesión 22, TDA P22]
+---
+
+
+
 ## PLANEACION SESIÓN VIGESIMA SEGUNDA
 
 - ### Pendientes

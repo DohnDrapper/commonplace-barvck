@@ -66,3 +66,5 @@ Visitarán a Wakanga O’tamu y el personaje de Chris visitará a su gremio
 
 ---
 [[TDA - A|IndiceTDA]] 
+
+[[Sesión 2 TDA - Log|TDA S2]]

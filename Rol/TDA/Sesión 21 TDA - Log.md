@@ -6,8 +6,8 @@ alias: [Sesión 21, TDA S21]
 
 ---
 
-_Fecha de la sesión: 17/04/2021
-Fecha interna de la campaña: Primer día Port Nyanzaru_
+_Fecha de la sesión: 24/04/2021
+Fecha interna de la campaña: Aventura 12 Día 9 en la Selva_
 
 <div align='center'>
 <h3> *** </h3>
@@ -41,7 +41,7 @@ Kashak: Mira su simbolo mágico y al cielo con rabia.
 
 Rhin: El brote seguirá ahí, una parte de ti, una de los demás, y como te han aceptado.
 
-Mahali: Recuerdas en esta noche aqupi en Chult, a tu madre, ves aquí en tus compañeros a unos aliados.
+Mahali: Recuerdas en esta noche aquÍ en Chult, a tu madre, ves aquí en tus compañeros a unos aliados.
 
 Se me olvidó Estoicoro. 
 
@@ -56,12 +56,16 @@ Respuesta del Mensaje de Frug: El gremio debe ser neutral.
 ### $a$. Información de Bala
 El Party decide ir a Firefinger, después de revisar el mapa.
 
-Reona descubre las figuras de los 9 dioses de Chult. Lo relaciona con su visión de los nueve colores distintos.
+Reona descubre las figuras de los 9 dioses de Chult. Lo relaciona con su visión de los nueve colores distintos. ^66e820
 
 &nbsp
 
 ### $b$. Viaje a Firefinger
-Lo lleve a acabo en un montaje. Creo que les pareció bueno.
+Lo lleve a acabo en un montaje. 
+
+Creo que les pareció bueno.
+
+Les tom 3 dias llegar viajando por la selva.
 
 
 Los jugadores:

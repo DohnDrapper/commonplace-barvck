@@ -15,19 +15,19 @@ Fecha interna de la campaña: Primer día Port Nyanzaru_
 
 ### Sucesos:
 
-#### &Alpha;. Llegada a Port Nyanzaru
+#### $A$. Llegada a Port Nyanzaru
 - Kashak pierde unas vencidas con Mahali
 - Lucha grecorromana, ganó Mahali
 - Mahali ganó 45 piezas de oro
 
 &nbsp
 
-#### &Beta;. Frug va al gremio
+#### $B$. Frug va al gremio
 - Se reporta con Atuar Ngore
 
 &nbsp
 
-#### &Gamma;. Encuentro con Wakanga O’tumbe en la Viila del Prinicipe
+#### $\Gamma$. Encuentro con Wakanga O’tumbe en la Viila del Prinicipe
 
 - Sabe que el Devorador de Almas está en la selva y ya ^784ac2
 - Los Magos Rojos de Thay controlan la jungla
@@ -46,18 +46,18 @@ Fecha interna de la campaña: Primer día Port Nyanzaru_
 
 &nbsp
 
-#### &Delta;. Encuentro con bandidos
+#### $\Delta$. Encuentro con bandidos
 - Resulta que Reona durmió a todos en el primer enfrentamiento
 - Amarraron al Bullywug.
 
 &nbsp
 
-#### &Epsilon;. Ancalagon va al muelle a buscar a los Magos Rojos
+#### $E$. Ancalagon va al muelle a buscar a los Magos Rojos
 - Encuentra a un ladrón que no tiene un ojo y varias marcas de cortadas le dice puede hallar a los Magos Rojos después.
 
 &nbsp
 
-#### &Zeta;. Encuentro con Etombe Anuk en el Lagarto Atronador
+#### $Z$. Encuentro con Etombe Anuk en el Lagarto Atronador
 + Les ofrece una canoa y un equipo de cartografía, cuando la ocupen.
 + Si completan el mapa que les da les promete
 + Les hablo de la fruta del “mono volador” que se la vendieran a él}
@@ -93,3 +93,7 @@ Salak Akmar - Etombe Anuk - Magos Rojos de Thai - Vorn - Salak Akmar - Jobal - E
 ---
 
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 1 TDA - Log|Sesión 1]]
+
+[[Sesión 3 TDA - Log|Sesión 3]]

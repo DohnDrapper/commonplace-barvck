@@ -29,7 +29,7 @@ Charla en general:
 
 Kwa Mahali y Perne:
 - Mahali comió una fruta del “mono loco”. 
-- Pudo ver el Fano de la serpiente nocturna.
+- Pudo ver el Fano de la serpiente nocturna. ^ace7fa
 - Vió la sala del trono de Ras Nsi, y su templo.
 
 &nbsp
