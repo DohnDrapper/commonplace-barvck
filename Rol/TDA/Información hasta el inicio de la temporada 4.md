@@ -2,8 +2,28 @@
 aliases: [Información T4]
 ---
 
-
 ## Información hasta el inicio de la temporada 4
+
+---
+
+### Indice
+
+[[#Misiones]]
+[[#Tramas]]
+[[#NPCs]]
+[[#Lugares]]
+[[#Pistas]]
+[[#Personajes]]
+[[#Facciones Grupos]]
+[[#Objetos]]
+[[#Tiempo]]
+[[#Para referir]]
+[[#Presagios del Abuelo Zitembe]]
+[[#Dinosaurios]]
+[[#Animales de la Selva]]
+[[#Leyendas]]
+[[#Usos de Wind Walk]]
+
 
 ---
 
@@ -71,6 +91,10 @@ Templo de Anthea
 
 Bala
 
+Dedo de fuego
+
+Kir Sabal
+
 ___
 
 ### Pistas
@@ -96,6 +120,12 @@ ___
 [[Sesión 20 - Log#^97341e]] Primera mención de Acererak
 
 [[Sesión 21 TDA - Log#^66e820|TDA S21]] Las nueve figuras de los dioses
+
+[[Sesión 23 TDA - Log#^c82b67]] La primera mención de la "Tumba de la Aniquilación"
+
+[[Sesión 24 TDA  - Log#B La llegada a Kir Sabal]] Tinder consume la llama del 'Dedo de Fuego'
+
+[[Sesión 24 TDA  - Log#^345623]] El espía de los aaracockra en el 'Fano de la serpiente nocturna'.
 
 ---
 
@@ -149,7 +179,17 @@ Artus Cimber
 
 Pedacito
 
-Dorothy e trieratops
+Dorothy el triceratops
+
+Nendoreik
+
+Tzindelor
+
+Ashara
+
+Reini, herrero aaracockra
+
+Ainur, aaracockra amigo de Rhin
 
 ___
 
@@ -273,6 +313,12 @@ e) La recuperación de Campamento Justicia
 
 f) Mencionar que lo magos rojos buscan la "Perla de la Luna"
 
+g) Nendoreik tiene la armadura rallada por un ataque de Kashak
+
+h) Reona encuentra a Cangrejin en la playa
+
+i) No olvidar mencionar a 'Blanquita'
+
 ---
 
 ### Presagios del Abuelo Zitembe
@@ -304,6 +350,8 @@ Almiraj
 
 Pterafolk
 
+Flying monkey
+
 ---
 
 ### Leyendas
@@ -311,5 +359,16 @@ Pterafolk
 [[Sesión 14 TDA - Log#Gamma La estatua|Sesión 14]] El hombre y el lagarto
 
 [[Sesión 17 TDA - Log#Alpha Noche en el campamento|TDA S17]] Historia de Ubtao
+
+[[Sesión 24 TDA  - Log#^fb1670]] Los 9 dioses eran unos oportunistas
+
+
+
+---
+
+### Usos de "Wind Walk"
+
++ Sesión 21 "Para llegar a Fire Finger"
++ Sesión 23 "Para llegar a Kir Sabal"
 
 ---

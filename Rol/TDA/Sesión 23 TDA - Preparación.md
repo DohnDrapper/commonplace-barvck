@@ -1,5 +1,5 @@
 ---
-aliases: []
+aliases: [Sesión 23, TDA P23]
 ---
 
 ## PLANEACION SESIÓN VIGESIMA SEGUNDA

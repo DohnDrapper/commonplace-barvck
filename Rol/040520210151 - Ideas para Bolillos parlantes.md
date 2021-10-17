@@ -54,7 +54,7 @@ _Otorgado a los One Shot que la mayoría de su contenido es un libro/modulo_
 * Fiasco
 	
 2. **MEJOR ONE SHOT ORIGINAL**
-_Otorgado a los One Shot que la mayoria de su contenido es original del GM_
+_Otorgado a los One Shot que la mayoría de su contenido es original del GM_
 * Lolis 2020
 * Llamada en Rusia
 * Llamada Guerra Civil Española

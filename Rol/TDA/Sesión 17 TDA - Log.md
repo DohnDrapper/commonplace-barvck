@@ -64,4 +64,8 @@ Rhin habla con un herrero, el objetivo del guantelete es destruir a los Zombis.
 [Sesión 17](https://docs.google.com/presentation/d/1jghY4bht-tNUl-Nge4FHBEUpa_ATve16Dzv3icXVPPA/edit?usp=sharing)
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 16 TDA - Log|TDA S16]]
+[[Sesión 18 TDA - Log|TDA S18]]

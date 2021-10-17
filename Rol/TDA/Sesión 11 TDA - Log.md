@@ -31,4 +31,8 @@ _Tarde_
 + De entre los árboles aparece un Tiranosaurio Rex.
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 10 TDA - Log|TDA S10]]
+[[Sesión 12 TDA - Log|TDA S12]]

@@ -36,3 +36,6 @@ Los demás del grupo, se encuentran directamente con la bruja en medio de la jun
 ---
 
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 17 TDA - Log|TDA S17]]
+[[Sesión 19 TDA - Log|TDA S19]]

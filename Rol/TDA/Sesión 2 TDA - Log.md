@@ -69,7 +69,7 @@ Fecha interna de la campaña: Primer día Port Nyanzaru_
 
 &nbsp
 
-#### &Eta;. En la barra del Lagarto Atronador
+#### $H$. En la barra del Lagarto Atronador
 - Estoicoro habló con Undril Silverstuck:Le dijo quería la acompañaran a Campamento Venganza, pues Campamento Justicia fue tomado por Zombies.
 
 <div align='center'>

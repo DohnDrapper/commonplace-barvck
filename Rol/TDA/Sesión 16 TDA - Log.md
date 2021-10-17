@@ -59,4 +59,8 @@ Ayudan a Santa Claus cantando un villancico para que regrese a casa.
 [Sesión 16](https://docs.google.com/presentation/d/1PuWZRvYhmN69hEXBSZHhcZb8kYy21b9bt3p8Xw6wnkw/edit?usp=sharing)
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 15 TDA - Log|TDA S15]]
+[[Sesión 17 TDA - Log|TDA S17]]

@@ -105,4 +105,8 @@ Al lado de la estatua miran un aparato como una rupia enorme que le falta una pa
 [Sesión 14](https://docs.google.com/presentation/d/1JIrJatC_aUL6L6Zk06TaYHhD2CHIZ4N7B4eDButUl_c/edit?usp=sharing)
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 13 TDA - Log|TDA S13]]
+[[Sesión 15 TDA - Log|TDA S15]]

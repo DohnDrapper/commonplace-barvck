@@ -24,3 +24,6 @@ _Tarde_
 
 ---
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 11 TDA - Log|TDA S11]]
+[[Sesión 13 TDA - Log|TDA S13]]

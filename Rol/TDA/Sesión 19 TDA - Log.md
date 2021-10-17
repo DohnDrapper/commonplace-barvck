@@ -73,4 +73,8 @@ Para subir deben evitar tocar o molestar a los nidos de Pterafolk. Si no lo logr
 El Party sube por la meseta de Bala, encuentra que la ladera está llena de pterafolk, pero logra pasar sin ser detectada. Cuando llega a Bala ve una aventura. Kashak detecta que es la Hag, disfrazada. Pueden ver la ciudad bajo un hechizo para parecer mejor de lo que se ve.
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 18 TDA - Log|TDA S18]]
+[[Sesión 20 - Log|TDA S20]]

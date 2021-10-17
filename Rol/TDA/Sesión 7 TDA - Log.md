@@ -55,5 +55,9 @@ alias: [Sesión 7, TDA S7]
 - Acude con el Padre Zitembe quien le muestra una visión de un lugar llamado Bala. 
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 6 TDA - Log|TDA S6]]
+[[Sesión 8 TDA - Log|TDA S8]]
   

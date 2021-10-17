@@ -74,3 +74,7 @@ Tras tres turnos el yuan-ti en sangre absorbe toda la sangre y se transforma en 
 ---
 
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 4 TDA - Log|TDA S4]]
+
+[[Sesión 6 TDA - Log|TDA S6]]

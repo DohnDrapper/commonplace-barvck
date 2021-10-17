@@ -40,4 +40,8 @@ El grupo toma el artefacto mágico que produce zombies y decide llevárselo a Ca
 [Sesión 15](https://docs.google.com/presentation/d/1wUwDm_x2IxEiUEdjWG7a_eH4r5meshGypQEVfX41v28/edit?usp=sharing)
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 14 TDA - Log|TDA S14]]
+[[Sesión 16 TDA - Log|TDA S16]]

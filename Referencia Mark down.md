@@ -1,5 +1,5 @@
 ---
-alias: [Referencia Markdown]
+aliases: [Referencia Markdown]
 ---
 
 [[#Separador]]

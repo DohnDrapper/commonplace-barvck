@@ -22,3 +22,6 @@ DIA 1
 ---
 
 [[TDA - A]]
+
+[[Sesión 7 TDA - Log|TDA S7]]
+[[Sesión 9 TDA -Log|TDA S9]]

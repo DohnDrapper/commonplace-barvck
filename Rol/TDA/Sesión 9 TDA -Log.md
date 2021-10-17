@@ -36,3 +36,6 @@ _Noche_
 
 ---
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 8 TDA - Log|TDA S8]]
+[[Sesión 10 TDA - Log|TDA S10]]

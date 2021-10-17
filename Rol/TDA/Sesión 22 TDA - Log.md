@@ -6,7 +6,7 @@ aliases: [Sesión 22, TDA S22]
 
 ---
 
-_Fecha de la sesión: 01/05/2021
+_Fecha de la sesión: 01/05/2021_
 
 _Fecha interna de la campaña: Aventura 15 Día 9 en la selva_
 
@@ -65,7 +65,8 @@ _Fecha interna de la campaña: Aventura 15 Día 9 en la selva_
 <tr>
 	<th>Personaje</th>
 	<th>Compra</th>
-</tr>	
+</tr>
+<tr>	
 <td width="50%">  
 Sawaa  
 </td>  
@@ -107,13 +108,15 @@ El pináculo rocoso llamado Firefinger es una antigua torre de señales de Chult
 Hace años estaba dedicado a Ubtao pero con su desaparición, ahora esta abandonado.
 Se dice se sido reclamado por alguien indeteminado, que la utiliza para sus rituales.
 
+&nbsp;
 
-#### $\gamma$. Piso 1 Dedo de Fuego
+#### $\Gamma$. Piso 1 Dedo de Fuego
 
 El Party lucha contra unas arañas lobo y logra vencerlas.
 
-
+Encuentra que el símbolo de Ubtao es posible usarlo en distintos lugares de la selva en su beneficio.
 
 
 ---
 
+[[TDA - A|IndiceTDA]]

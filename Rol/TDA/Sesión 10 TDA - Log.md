@@ -32,4 +32,8 @@ _Noche_
 + Frug puede ver unas manos enormes que cortan los árboles como si fueran mantequilla.
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 9 TDA -Log|TDA S9]]
+[[Sesión 11 TDA - Log|TDA S11]]

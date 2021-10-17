@@ -63,3 +63,7 @@ Ancalagón y Stoicoro participaron en la carrera con Terry Crews de rival. Estoi
 [[TDA - A|IndiceTDA]]
 [[Sesión 4 TDA - Log|Sesión 4]]
 [[Sesión 2 TDA - Log|Sesión 2]]
+
+
+[[Sesión 5 TDA - Log|TDA S5]]
+[[Sesión 7 TDA - Log|TDA S7]]

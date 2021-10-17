@@ -4,12 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "70b7e6cdaa7a28f2",
+        "id": "799169a85712589b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rol/TDA/Sesión 22 TDA - Log.md",
+            "file": "Rol/TDA/Sesión 24 TDA  - Log.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "ca292cc5a6f35093",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Sesión 2 TDA - Log.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "8138bccdabe498a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md",
             "mode": "source"
           }
         }
@@ -69,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/TDA/Sesión 22 TDA - Log.md",
+                "file": "Rol/TDA/Sesión 24 TDA  - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/TDA/Sesión 22 TDA - Log.md"
+                "file": "Rol/TDA/Sesión 24 TDA  - Log.md"
               }
             }
           }
@@ -97,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "70b7e6cdaa7a28f2",
+  "active": "799169a85712589b",
   "lastOpenFiles": [
-    "Rol/TDA/Sesión 22 TDA - Log.md",
-    "Rol/TDA/Sesión 22 TDA - Preparación.md",
+    "Rol/TDA/Sesión 24 TDA  - Log.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Sesión 2 TDA - Log.md",
+    "Rol/040520210151 - Ideas para Bolillos parlantes.md",
     "Referencia Mark down.md",
-    "Untitled.md",
-    "Pasted image 20211016142034.png",
-    "Rol/TDA/Sesión 20 - Planeacion.md",
-    "Rol/TDA/Sesión 21 TDA - Log.md",
-    "Rol/TDA/Sesión 21 TDA - Preparación.md",
-    "Rol/TDA/Sesión 20 - Log.md"
+    "Rol/TDA/Sesión 3 TDA - Log.md",
+    "Rol/TDA/Sesión 19 TDA - Log.md",
+    "Rol/TDA/Sesión 18 TDA - Log.md",
+    "Rol/TDA/Sesión 17 TDA - Log.md",
+    "Rol/TDA/Sesión 16 TDA - Log.md"
   ]
 }

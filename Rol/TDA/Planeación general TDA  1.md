@@ -37,17 +37,17 @@ En algun punto dendar lo tentó ahora es un anciano decrepito.
 ## Arcos
 
 ---
+
 ## Sesiones
 
 Sesión de Musical.
 
 Sesión del cambio de cuerpos.
 
-Una de las hermanas cosidas les ofrce que les dará la sabidurpia que necesitan para pasar la tumba de la aniquilación.
-
-
+Una de las hermanas cosidas les ofrece que les dará la sabidurpia que necesitan para pasar la tumba de la aniquilación.
 
 ---
+
 ## Música
 Batalla final Acererak
 https://www.youtube.com/watch?v=S1VFqsew26c
@@ -91,12 +91,13 @@ https://youtu.be/TbN_4ynFuWU
 
 04/08/2021
 
-- [ ] Una nota para todos lo presagios que han visto los personajes.
-- [ ] Una nota de toda la información de las carreras junta en una sola nota-
+- [x] Una nota para todos lo presagios que han visto los personajes.
+- [x] Una nota de toda la información de las carreras junta en una sola nota-
 - [ ] Varios titulos para lo personajes
 - [ ] Pensar frases para iniciar la campaña
 
 ---
+
  ### Información
  
  Mural
@@ -111,4 +112,14 @@ https://youtu.be/TbN_4ynFuWU
  
  Canciones
  
+ ---
  
+ ### Intros
+ 
+ "Hola a todos sean binevenidos a esta sesión número X. Soy el Director de Juego de esta campaña 'Tumba de la Aniquilación' Aquí les presentó a nuestro jugadores."
+ 
+ "En la sesión anterior, dejamos a nuestros heroes caminando por el laberinto de la vida, aquel que una vez recorrió Ubtao..."
+ 
+ "Como cada semana nuestros heroés, buscarán cumplir la misión que les encomendó la Dama enmascarada: acabar con el Devorador de Almas, la última vez que los dejamos estaban..."
+ 
+ ---

@@ -45,4 +45,8 @@ El party utiliza el día para preparar Agua Bendita y Frug crea la Frasquipulta.
 Llegan hasta el puerto de Campamento Justicia, pueden ver la impresionante estatua más cerca.
 
 ---
+
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 12 TDA - Log|TDA S12]]
+[[Sesión 14 TDA - Log|TDA S14]]

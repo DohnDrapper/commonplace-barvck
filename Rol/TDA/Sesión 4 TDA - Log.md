@@ -94,3 +94,7 @@ Ekene Afa no los puede recibir pues está investigando un contrabando, Jobal los
 ---
 
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 3 TDA - Log|TDA S3]]
+
+[[Sesión 5 TDA - Log|TDA S5]]
