@@ -1,3 +1,8 @@
+---
+aliases: [TDA P25]
+---
+
+
 Fecha: 31/07/2021
 
 ## PLANEACIÓN SESIÓN VIGESIMA QUINTA
@@ -5,7 +10,7 @@ Fecha: 31/07/2021
 ### Orden del día
 Ejemplo 1
 
-###                                                                       
+                                            
 Mahali: Reconoce junto al portal la formación que vio
 
 Ancalagón: reconoce Jahaka Anchorage
@@ -22,11 +27,11 @@ Ancalagón: reconoce Jahaka Anchorage
 7. Firefinger
 
 + Mezro
-	Ciudad Abandonada.
+	Ciudad Abandonada. Aquí esta la vidente.
 	
 + Nangalore
     Aquí estuvo Estoicoro.
 
 + Orolunga
-	Aquí esta el Naga adivino.
-	Es la ciudad que se rumaora que desapareció.
+	Aquí estuvo Ubtao.
+	Es la ciudad que se rumora que desapareció.

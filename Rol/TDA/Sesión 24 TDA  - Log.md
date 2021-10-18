@@ -78,12 +78,32 @@ Un día algo los hizo desaparecer.
 
 ^fb1670
 
-Les muestra una imagen del ejercito de no muertos.
+Les muestra una imagen del ejercito de no muertos. Y es adempas la primera vez que ven a Acererak. ^3b1121
+
+Cuando la ciudad de Omu fue tomada por los Yuan - ti, se volvió una ciudad fantasma.
+
+##### Lugares importantes:
+
+Orolunga: Aquí estuvo Ubtao.
+Mezro: Vidente Naga. Ciudad abandonada.
+Nangalore: Ciudad importante donde estuvo Estoicoro. ^6655d3
+
+
+##### Los teletransportadores:
+
+La civilización de Orolunga, se movía entre la selva muy rapidamente. Solo se necesita que un dinosaurio los acompañe. ^d52908
+
 
 ---
 
 Ya callate, callate al principio de la sesión
 
+Don Tumba de la Aniquilación
+
 [[TDA - A]]
 
+
 [[Sesión 23 TDA - Log|TDA S23]]
+[[Sesión 25 TDA -Log|TDA S25]]
+
+

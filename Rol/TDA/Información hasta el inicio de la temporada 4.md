@@ -23,6 +23,7 @@ aliases: [Información T4]
 [[#Animales de la Selva]]
 [[#Leyendas]]
 [[#Usos de Wind Walk]]
+[[#Portales importantes]]
 
 
 ---
@@ -126,6 +127,8 @@ ___
 [[Sesión 24 TDA  - Log#B La llegada a Kir Sabal]] Tinder consume la llama del 'Dedo de Fuego'
 
 [[Sesión 24 TDA  - Log#^345623]] El espía de los aaracockra en el 'Fano de la serpiente nocturna'.
+
+[[Sesión 24 TDA  - Log#^3b1121]] Primer imágen de uno de los avatares de la serpeinte nocturna.
 
 ---
 
@@ -259,6 +262,10 @@ Bolsa para Perne en Campamento Venganza
 
 ![[Sesión 22 TDA - Log#^d82385|TDA S22]]
 
+![[Sesión 24 TDA  - Log#^6655d3]]
+
+![[Sesión 24 TDA  - Log#^d52908]]
+
 ---
 
 ### Tiempo
@@ -319,6 +326,8 @@ h) Reona encuentra a Cangrejin en la playa
 
 i) No olvidar mencionar a 'Blanquita'
 
+j) Ancalagón envió una carta a los Magos Rojos (si o no)
+
 ---
 
 ### Presagios del Abuelo Zitembe
@@ -370,5 +379,31 @@ Flying monkey
 
 + Sesión 21 "Para llegar a Fire Finger"
 + Sesión 23 "Para llegar a Kir Sabal"
+
+---
+
+### Portales importantes
+
+1.  Puerto Nyanzaru
+
+-   Casualmente el Portal lleva a la zona más pobre de la ciudad
+
+2.  Campamento Justicia
+3.  Kir Sabal
+4.  Druli (Drungrunglung)
+5.  Mbala
+6.  Hrakhamar
+7.  Firefinger
+
+-   Mezro  
+    Ciudad Abandonada.
+    
+-   Nangalore  
+    Aquí estuvo Estoicoro.
+    
+-   Orolunga  
+    Aquí esta el Naga adivino.  
+    Es la ciudad que se rumaora que desapareció.
+
 
 ---
