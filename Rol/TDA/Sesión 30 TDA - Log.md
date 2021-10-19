@@ -25,6 +25,7 @@ https://screenrant.com/dnd-most-powerful-spells/
 
 1. Wes vino comisionado por los Principes Mercaderes. ¿Cuál de ellos?
 2. Darle más información a Estoicoro sobre Ubtao.
+3. 
 
 **Música**
 

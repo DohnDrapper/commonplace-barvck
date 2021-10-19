@@ -50,9 +50,14 @@ i) Acercarse a lso aaracockra y lograr una alianza con ellos
 
 j) Acercarse a los Magos Rojos y ofrecerles el hechizo de deseo
 
-j) Traeme una garra de Kamadan
+k) Traeme una garra de Kamadan
 
-k) Completar el pergamino de "A través de la Peninsula"
+l) Completar el pergamino de "A través de la Peninsula"
+
+m) Acabar con Tinder, pedido por Ashara.
+
+n) Conseguir el Caliz con forma de cráneo, pedido por Xanaré.
+
 
 ---
 
@@ -130,9 +135,13 @@ ___
 
 [[Sesión 24 TDA  - Log#B La llegada a Kir Sabal]] Tinder consume la llama del 'Dedo de Fuego'
 
-[[Sesión 24 TDA  - Log#^345623]] El espía de los aaracockra en el 'Fano de la serpiente nocturna'.
+[[Sesión 24 TDA  - Log#^345623]] El espía de los aaracockra en el 'Fano de la serpiente nocturna'
 
-[[Sesión 24 TDA  - Log#^3b1121]] Primer imágen de uno de los avatares de la serpiente nocturna.
+[[Sesión 24 TDA  - Log#^3b1121]] Primer imágen de uno de los avatares de la serpiente nocturna
+
+[[Sesión 25 TDA - Log#^7df286]] Xanaré, la ultima heredera
+
+[[Sesión 25 TDA - Log#^8c15f1]] Whithers sobre las llaves
 
 
 ---
@@ -199,6 +208,7 @@ Reini, herrero aaracockra
 
 Ainur, aaracockra amigo de Rhin
 
+Xeli, aaracockra chef
 
 ___
 
@@ -233,7 +243,6 @@ Niles Baldor
 Sefiro
 
 Ashara, líder aaracockra
-
 
 
 ___
@@ -284,6 +293,8 @@ Bolsa para Perne en Campamento Venganza
 
 "Libro de las Ciudades Perdidas" Prestamo de un aaracockra.
 
+Pan Sagrado: Un pan que cura la condición.
+
 ---
 
 ### Tiempo
@@ -322,6 +333,7 @@ Día 15 selva 12: S21
 
 Día 16 selva 13: S21
 
+
 ---
 
 ### Para referir
@@ -348,6 +360,11 @@ j) Ancalagón envió una carta a los Magos Rojos (si o no)
 
 k) Ahora hay patrullas de Aaracockra, patrullando la jungla.
 
+l) Alguien usa zombis para limpiar en la selva
+
+m) Recordar a su amiga Sigfried
+
+
 ---
 
 ### Presagios del Abuelo Zitembe
@@ -355,6 +372,7 @@ k) Ahora hay patrullas de Aaracockra, patrullando la jungla.
 [[Sesión 4 TDA - Log#^c9f4cd|TDA S4]] Primer acercamiento
 
 [[Sesión 7 TDA - Log#Eta Reona]] Una visión sonbre un lugar llamado Bala
+
 
 ___
 
@@ -390,7 +408,6 @@ Flying monkey
 [[Sesión 17 TDA - Log#Alpha Noche en el campamento|TDA S17]] Historia de Ubtao
 
 [[Sesión 24 TDA  - Log#^fb1670]] Los 9 dioses eran unos oportunistas
-
 
 
 ---

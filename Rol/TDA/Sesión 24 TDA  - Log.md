@@ -104,6 +104,6 @@ Don Tumba de la Aniquilación
 
 
 [[Sesión 23 TDA - Log|TDA S23]]
-[[Sesión 25 TDA -Log|TDA S25]]
+[[Sesión 25 TDA - Log|TDA S25]]
 
 
