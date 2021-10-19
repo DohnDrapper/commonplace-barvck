@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "f4c1845db7fb7dc8",
+        "id": "94b05ddaf8be0264",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -49,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -66,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +84,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           }
         ]
@@ -91,8 +96,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f4c1845db7fb7dc8",
+  "active": "94b05ddaf8be0264",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
     "Sesión 25 TDA -Log.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 24 TDA  - Log.md",
@@ -100,8 +107,6 @@
     "Formatos/Sesión en blanco.md",
     "Untitled.md",
     "Rol/TDA/Sesión 2 TDA - Log.md",
-    "Rol/040520210151 - Ideas para Bolillos parlantes.md",
-    "Referencia Mark down.md",
-    "Rol/TDA/Sesión 3 TDA - Log.md"
+    "Rol/040520210151 - Ideas para Bolillos parlantes.md"
   ]
 }
