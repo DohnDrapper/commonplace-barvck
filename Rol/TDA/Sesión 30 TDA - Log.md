@@ -12,7 +12,7 @@ aliases: [Sesión 30, TDA S30]
 </div>
 
 ### _Preparación_
-HEchizo ojo de Estoicoro
+Hechizo ojo de Estoicoro
 https://screenrant.com/dnd-most-powerful-spells/
 
 **Titulo 1**
@@ -23,9 +23,8 @@ https://screenrant.com/dnd-most-powerful-spells/
 
 #### _Orden del día_
 
-1. Ejemplo
-2. Ejemplo 2
-
+1. Wes vino comisionado por los Principes Mercaderes. ¿Cuál de ellos?
+2. Darle más información a Estoicoro sobre Ubtao.
 
 **Música**
 

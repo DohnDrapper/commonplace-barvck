@@ -84,7 +84,7 @@ Cuando la ciudad de Omu fue tomada por los Yuan - ti, se volvió una ciudad fant
 
 ##### Lugares importantes:
 
-Orolunga: Aquí estuvo Ubtao.
+Orolunga: Aquí estuvo Ubtao. 
 Mezro: Vidente Naga. Ciudad abandonada.
 Nangalore: Ciudad importante donde estuvo Estoicoro. ^6655d3
 

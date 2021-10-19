@@ -52,6 +52,8 @@ j) Acercarse a los Magos Rojos y ofrecerles el hechizo de deseo
 
 j) Traeme una garra de Kamadan
 
+k) Completar el pergamino de "A través de la Peninsula"
+
 ---
 
 ### Tramas
@@ -96,6 +98,8 @@ Dedo de fuego
 
 Kir Sabal
 
+Druli
+
 ___
 
 ### Pistas
@@ -128,7 +132,8 @@ ___
 
 [[Sesión 24 TDA  - Log#^345623]] El espía de los aaracockra en el 'Fano de la serpiente nocturna'.
 
-[[Sesión 24 TDA  - Log#^3b1121]] Primer imágen de uno de los avatares de la serpeinte nocturna.
+[[Sesión 24 TDA  - Log#^3b1121]] Primer imágen de uno de los avatares de la serpiente nocturna.
+
 
 ---
 
@@ -194,6 +199,7 @@ Reini, herrero aaracockra
 
 Ainur, aaracockra amigo de Rhin
 
+
 ___
 
 ### Facciones / Grupos
@@ -223,6 +229,12 @@ Olbur
 Niles Baldor
 
 [[Sesión 16 TDA - Log#^b2233c]] Equipo Campamento Justicia
+
+Sefiro
+
+Ashara, líder aaracockra
+
+
 
 ___
 
@@ -265,6 +277,12 @@ Bolsa para Perne en Campamento Venganza
 ![[Sesión 24 TDA  - Log#^6655d3]]
 
 ![[Sesión 24 TDA  - Log#^d52908]]
+
+"Diario de un Mago": Información sobre Ubtao, obtenida de la Biblioteca Aaracockra.
+
+"A través de la Penisula": Diario de viaje, obtenida de la Biblioteca Aaracockra. (Frug tiene una copia)
+
+"Libro de las Ciudades Perdidas" Prestamo de un aaracockra.
 
 ---
 
@@ -327,6 +345,8 @@ h) Reona encuentra a Cangrejin en la playa
 i) No olvidar mencionar a 'Blanquita'
 
 j) Ancalagón envió una carta a los Magos Rojos (si o no)
+
+k) Ahora hay patrullas de Aaracockra, patrullando la jungla.
 
 ---
 

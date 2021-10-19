@@ -24,9 +24,8 @@ _Fecha Interna en la Campaña: 15 días de viaje 9 selva_
 #### _Orden del día_
 
 1. Mahali: Reconoce junto al portal la formación que vio
-2. Ancalagón: reconoce Jahaka Anchorage
-
-
+2. Ancalagón: reconoce Jahaka Anchorage.
+3. Wes vino comisionado por los Principes Mercaderes. ¿Cuál de ellos?
 
 **Música**
 
@@ -35,23 +34,51 @@ _Fecha Interna en la Campaña: 15 días de viaje 9 selva_
 
 ### _Sesión_
 
-Esto es un texto de ejemplo
+#### $a$. Biblioteca de los Aaracockra
+
+Estoicoro:
+'Quiero saber sobre Ubtao'
+Encontró: "Diario de un Mago", dibujos sobre Ubtao y dinosaurios.
+Dedujo: Ubtao fue una vez alguien físico.
+
+Wes:
+'Quiero saber como se hace el Tej'
+Encontró: Pergaminos que hablan de relatan sobre el Tej
+
+Kashak:
+'Quiero saber sobre la niebla'
+Dedujo: La niebla se produce por una planta llamada "Na"
+
+Aaracockra les ofrece el "Libro de las ciudades perdidas". 
+
+Reona: Orolunga la ciudad de un día para otro desapareció, se cree fue teletransportada.
 
 
-#### $a$. Escena 1
+#### $b$. Reunión con Ashara
 
-Este es otro texto de ejemplo.
+Wes conoce a Xanáe y a su hermano.
 
+Les señala de Orolunga, Mezro, Nangalore.
 
-#### $b$. Escena 2
-
-Este es otro texto de ejemplo.
+Wakanga 
 
 
 #### $\gamma$. Escena 3
 
 Un texto de ejmplo más.
 
+<div align='center'>
+   <h3> * * * </h3>
+</div>
+
+### Misiones:
+
+a) Aaracockra le pidierona Wes complete el libro "A través de la Penpinsula"
+
+
+### Momentos del Bolillo
+
+"Viene aquí la 'X', debe estar ahí el Devorador"
 
 ---
 

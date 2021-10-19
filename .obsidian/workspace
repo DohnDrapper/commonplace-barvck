@@ -4,13 +4,46 @@
     "type": "split",
     "children": [
       {
-        "id": "94b05ddaf8be0264",
+        "id": "882a7ce5bd4a7be3",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
+            "file": "Rol/TDA/Sesión 25 TDA -Log.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "32342eb693abb5a6",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Sesión 30 TDA - Log.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6178bd28a1e66bc2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Sesión 24 TDA  - Log.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "7c2e53afb83dd0e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+            "mode": "source"
           }
         }
       }
@@ -52,7 +85,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908
+    "width": 318.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -68,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Rol/TDA/Sesión 25 TDA -Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "Rol/TDA/Sesión 25 TDA -Log.md"
               }
             }
           }
@@ -96,17 +130,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "94b05ddaf8be0264",
+  "active": "882a7ce5bd4a7be3",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 25 TDA -Log.md",
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Sesión 30 TDA - Log.md",
+    "Rol/TDA/Sesión 24 TDA  - Log.md",
+    "Rol/TDA/Sesión 3 TDA - Log.md",
+    "Rol/TDA/Sesión 2 TDA - Log.md",
     "Personal/Bolsas de trabajo.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Sesión 25 TDA -Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 24 TDA  - Log.md",
-    "Rol/TDA/Sesión 25 TDA - Preparación.md",
-    "Formatos/Sesión en blanco.md",
-    "Untitled.md",
-    "Rol/TDA/Sesión 2 TDA - Log.md",
-    "Rol/040520210151 - Ideas para Bolillos parlantes.md"
+    "Rol/TDA/Sesión 25 TDA - Preparación.md"
   ]
 }
