@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "dd9540a70225e904",
+    "id": "3cc6bee5a1d24c90",
     "type": "split",
     "children": [
       {
-        "id": "ce62a2d0dc88bc73",
+        "id": "52c65a5f8fd442c5",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -91,17 +91,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ce62a2d0dc88bc73",
+  "active": "52c65a5f8fd442c5",
   "lastOpenFiles": [
-    "Rol/TDA/Sesión 25 TDA - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 25 TDA -Log.md",
-    "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Rol/TDA/Sesión 24 TDA  - Log.md",
-    "Rol/TDA/Sesión 3 TDA - Log.md",
-    "Rol/TDA/Sesión 2 TDA - Log.md",
-    "Personal/Bolsas de trabajo.md",
-    "240820211841 - Sánchez Lozano Abogados.md",
-    "Sesión 25 TDA -Log.md"
+    "Introducción a Pulp Cthulhu.md",
+    "Rol/SDC/120820210151 - Serpiente de dos cabezas General.md",
+    "Rol/SDC/SDC - A.md",
+    "Rol/SDC/Sesión 1 SDC - Log.md",
+    "Rol/SDC/Sesión 4 SDC - Log.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+    "Rol/SDC/Sesión 3 SDC - Log.md",
+    "Rol/SDC/Sesión 2 SDC - Log.md",
+    "Rol/SDC/SDC -Probable organización.md",
+    "Personal/Bolsas de trabajo.md"
   ]
 }

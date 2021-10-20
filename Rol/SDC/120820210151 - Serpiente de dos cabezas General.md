@@ -2,34 +2,13 @@
 alias: [Sesión 0, SDC S0, Preparación general SDC]
 ---
 
-## Pulp Cthulhu
-
-##### D&D
-+ Aventura
-+ Combate
-+ Heroes de brillante armadura
-+ Fantasía Medieval
-
-_Ejemplos: El señor de los anillos, Willow_
-
-##### Llamada de Cthulhu
-+ Investigación
-+ Terror
-+ Indefensas personas comunes
-+ Decada de 1920's y otras épocas
-
-_Ejemplos: La cosa, En la boca del miedo, Master of Horror: Cigarrete Burns_
-
-##### Pulp Cthulhu
-+ Exploración
-+ Acción
-+ Mundo Lovecraftiano en general
-
-_Ejemplos: Indiana Jones, La momia, Capitan sky y el mundo del Mañana_
+## Serpiente de dos cabezas
 
 ---
 
-## Serpiente de dos cabezas
+[[Introducción a Pulp Cthulhu]]
+
+
 
 ### General
 + Basado en el libro: "Serpiente de dos cabezas"
