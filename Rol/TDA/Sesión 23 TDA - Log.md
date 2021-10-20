@@ -8,7 +8,7 @@ aliases: [Sesión 23, TDA S23]
 
 _Fecha de la sesión: 15/05/2021_
 
-_Fecha interna de la campaña: Aventura 15 Día 9 en la selva_
+_Fecha interna de la campaña: Aventura 17 Día 14 en la selva_
 
 <div align='center'>
    <h3> *** </h3>

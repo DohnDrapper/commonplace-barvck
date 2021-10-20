@@ -8,7 +8,7 @@ aliases: "Introducción a Pulp Cthulhu"
 
 ---
 
-### Pedir correo para emviar manuales
+### Pedir correo para enviar manuales
 
 ---
 
@@ -77,6 +77,7 @@ _Humanos_
 + Combate
 + Heroes de brillante armadura
 + Fantasía Medieval
++ Ventaja / Desventaja
 
 _Ejemplos: El señor de los anillos, Willow_,
 
@@ -139,3 +140,5 @@ _Ejemplos: Indiana Jones, La momia, Capitan sky y el mundo del Mañana_
 + ~~Dr. David: Inglés~~
 
 ---
+
+[[SDC - A]]

@@ -8,7 +8,7 @@ aliases: [Sesión 22, TDA S22]
 
 _Fecha de la sesión: 01/05/2021_
 
-_Fecha interna de la campaña: Aventura 15 Día 9 en la selva_
+_Fecha interna de la campaña: Aventura 17 Día 14 en la selva_
 
 <div align='center'>
    <h3> *** </h3>
@@ -120,3 +120,6 @@ Encuentra que el símbolo de Ubtao es posible usarlo en distintos lugares de la 
 ---
 
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 21 TDA - Log|TDA S21]]
+[[Sesión 23 TDA - Log|TDA S23]]

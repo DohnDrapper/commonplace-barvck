@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "3cc6bee5a1d24c90",
+    "id": "8a69d18091acef89",
     "type": "split",
     "children": [
       {
-        "id": "52c65a5f8fd442c5",
+        "id": "c9d6a6f301f89902",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rol/TDA/Sesión 26 TDA - Log.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/TDA/Sesión 26 TDA - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -81,7 +85,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/TDA/Sesión 26 TDA - Log.md"
+              }
             }
           }
         ]
@@ -91,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "52c65a5f8fd442c5",
+  "active": "c9d6a6f301f89902",
   "lastOpenFiles": [
-    "Introducción a Pulp Cthulhu.md",
-    "Rol/SDC/120820210151 - Serpiente de dos cabezas General.md",
-    "Rol/SDC/SDC - A.md",
-    "Rol/SDC/Sesión 1 SDC - Log.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/SDC/Sesión 3 SDC - Log.md",
-    "Rol/SDC/Sesión 2 SDC - Log.md",
-    "Rol/SDC/SDC -Probable organización.md",
-    "Personal/Bolsas de trabajo.md"
+    "Rol/TDA/Sesión 26 TDA - Log.md",
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Sesión 30 TDA - Log.md",
+    "Rol/TDA/Sesión 25 TDA - Log.md",
+    "Rol/TDA/Sesión 26 TDA - Preparación.md",
+    "Rol/TDA/Sesión 24 TDA  - Log.md",
+    "Rol/TDA/Sesión 23 TDA - Log.md",
+    "Rol/TDA/Sesión 22 TDA - Log.md",
+    "Personal/Top 10.md",
+    "Personal/GTD - On going.md"
   ]
 }

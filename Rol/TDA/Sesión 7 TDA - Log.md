@@ -52,7 +52,7 @@ alias: [Sesión 7, TDA S7]
 &nbsp
 
 #### &Eta;. Reona    
-- Acude con el Padre Zitembe quien le muestra una visión de un lugar llamado Bala. 
+- Acude con el Padre Zitembe quien le muestra una visión de un lugar llamado Bala.  ^24851d
 
 ---
 

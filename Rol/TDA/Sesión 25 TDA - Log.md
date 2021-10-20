@@ -95,6 +95,15 @@ Estoicoro pasa a cobrar su dinero a la Ciudad Vieja.
 
 Ganaron 80gp por cabeza por llevarle el mapa a Wakanga.
 
+Wes habla con Diesa Torum lider del gremio de los comerciantes. Deja el musgo amarillo para que lo cuide un druida.
+
+Mahali compro el aceite de golpe certero.
+
+Kashak compro el Estoque verde.
+
+Padre Zitembe:
+El edificio morado es donde se hallan los Yuna-ti, ahí encontrarán un aliado. ^c7dee9
+
 
 <div align='center'>
    <h3> * * * </h3>
@@ -109,9 +118,10 @@ a) Aaracockra le pidierona Wes complete el libro "A través de la Penpinsula"
 
 "Viene aquí la 'X', debe estar ahí el Devorador"
 
+Reona: "Me da una profecía, por favor"
+
 ---
 
 [[TDA - A]]
 
 [[Sesión 24 TDA  - Log|TDA S24]]
-

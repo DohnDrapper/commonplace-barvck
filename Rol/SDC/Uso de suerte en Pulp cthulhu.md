@@ -19,7 +19,7 @@ alias: [Suerte Pulp Cthulhu]
 |Salvarse de muerte segura (Recupera 1d6 +6 HP)| Toda la suerte (30 pts minimo)|
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
  ¿En que casos no aplica usar mis puntos de 'Suerte'?|
@@ -31,7 +31,7 @@ alias: [Suerte Pulp Cthulhu]
 |Modificar un '100' natural|
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
 |¿Como recupero 'Suerte'?|
@@ -54,7 +54,7 @@ alias: [Suerte Pulp Cthulhu]
 |Rango muy largo (x4)| Exito extremo|
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
 |Uso de arma de fuego|
@@ -66,7 +66,7 @@ alias: [Suerte Pulp Cthulhu]
 |El objetivo puede cubirse/Esquivar, pero contratacar|
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
 |Modificares arma de fuego|
@@ -85,7 +85,7 @@ alias: [Suerte Pulp Cthulhu]
 |Disparar a dos armas| Desventaja|
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
 | Otros casos |
@@ -95,7 +95,7 @@ alias: [Suerte Pulp Cthulhu]
 |Patear objetivo caido es con ventaja |
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
 |Zona de impacto|
@@ -109,7 +109,7 @@ alias: [Suerte Pulp Cthulhu]
 |20| Cabeza|
 
 <div align='center'>
-   <h3> * </h3>
+   <h3> *** </h3>
 </div>
 
 |Cobertura|Esto se reduce del daño que recibe el enemigo/jugador|
@@ -127,11 +127,3 @@ alias: [Suerte Pulp Cthulhu]
 [Referencia](https://drive.google.com/file/d/1uVA7OnjZFyTUl92lhildTbvwjGC02LoO/view)
 
 ---
-
-
-
-
-
-
-
-

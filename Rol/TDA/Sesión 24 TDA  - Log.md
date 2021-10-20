@@ -7,7 +7,7 @@ aliases: [Sesión 24, TDA S24]
 ---
 
 _Fecha de la sesión: 19/06/2021_
-_Fecha Interna en la Campaña: 15 días de viaje 9 selva_
+_Fecha Interna en la Campaña: 18 días de viaje 15 selva_
 
 
 <div align='center'>

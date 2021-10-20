@@ -105,6 +105,14 @@ Kir Sabal
 
 Druli
 
+Mezro
+
+Nangalore
+
+Orolunga
+
+Jahaka Bay
+
 ___
 
 ### Pistas
@@ -143,6 +151,11 @@ ___
 
 [[Sesión 25 TDA - Log#^8c15f1]] Whithers sobre las llaves
 
+[[Sesión 26 TDA - Log#^7c089c|TDA S26]] La tablilla es solo una parte para abrir la tumba.
+
+[[Sesión 26 TDA - Log#^819e8f]] Reona encuentra a Xandala.
+
+[[Sesión 26 TDA - Log#^a90a3d]] Artus Cimber es más viejo.
 
 ---
 
@@ -210,6 +223,9 @@ Ainur, aaracockra amigo de Rhin
 
 Xeli, aaracockra chef
 
+Diesa Torum, lider del grmio de los comerciantes
+
+
 ___
 
 ### Facciones / Grupos
@@ -244,7 +260,7 @@ Sefiro
 
 Ashara, líder aaracockra
 
-
+Enclave esmeralda
 ___
 
 ### Objetos
@@ -295,6 +311,13 @@ Bolsa para Perne en Campamento Venganza
 
 Pan Sagrado: Un pan que cura la condición.
 
+Planta "Musgo Amarillo"
+
+3 "Aceite del golpe certero", +2 en daño.
+
+Estoque verde: 
+"Si tu tirada de ataque pasa por 3 la AC de tu oponente, agrega +2 de daño "
+
 ---
 
 ### Tiempo
@@ -331,8 +354,11 @@ Día 14 selva 11: S21
 
 Día 15 selva 12: S21
 
-Día 16 selva 13: S21
+Día 16 selva 13: S21,
 
+Día 17 selva 14: S22, S23
+
+Día 18 selva 15: S24
 
 ---
 
@@ -364,6 +390,9 @@ l) Alguien usa zombis para limpiar en la selva
 
 m) Recordar a su amiga Sigfried
 
+n) Encuentren un conocedor de Tej al que Wes pueda venderle el Tej raro.
+
+ñ) El agua que halló Reona debe servirle a los elegidos de Ubtao.
 
 ---
 
@@ -371,8 +400,9 @@ m) Recordar a su amiga Sigfried
 
 [[Sesión 4 TDA - Log#^c9f4cd|TDA S4]] Primer acercamiento
 
-[[Sesión 7 TDA - Log#Eta Reona]] Una visión sonbre un lugar llamado Bala
+[[Sesión 7 TDA - Log#^24851d]] Una visión sonbre un lugar llamado Bala
 
+[[Sesión 25 TDA - Log#^c7dee9]] Sobre los Yuan-ti.
 
 ___
 
@@ -383,7 +413,6 @@ Cuello largo
 Tiranosaurio
 
 T- Rex Zombi
-
 
 ---
 
@@ -409,6 +438,7 @@ Flying monkey
 
 [[Sesión 24 TDA  - Log#^fb1670]] Los 9 dioses eran unos oportunistas
 
+[[Sesión 26 TDA - Log#^079f95|TDA S26]] Fragmento de los 9 dioses
 
 ---
 
