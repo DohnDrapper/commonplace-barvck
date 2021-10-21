@@ -14,6 +14,9 @@ kanban-plugin: basic
 - [ ] Never rarely sometimes always (2020)
 - [ ] Undine (2020)
 - [ ] Possessor (2020)
+- [ ] Queridos camaradas - Andréi Konchalovski (2020)
+- [ ] Cat's eye (1985)
+- [ ] Tales from the Darkside: The Movie (1990)
 
 
 ## Documentales

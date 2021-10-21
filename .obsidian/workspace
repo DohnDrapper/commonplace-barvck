@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "c9d6a6f301f89902",
+        "id": "28562130f707c305",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rol/TDA/Sesión 26 TDA - Log.md",
+            "file": "Untitled/calendario 2021.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/TDA/Sesión 26 TDA - Log.md",
+                "file": "Untitled/calendario 2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/TDA/Sesión 26 TDA - Log.md"
+                "file": "Untitled/calendario 2021.md"
               }
             }
           }
@@ -97,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c9d6a6f301f89902",
+  "active": "28562130f707c305",
   "lastOpenFiles": [
+    "Untitled/calendario 2021.md",
+    "Personal/Pink Floyd.md",
+    "Personal/Rammstein.md",
+    "Personal/Placebo.md",
+    "Personal/The strokes.md",
+    "Personal/Para ver.md",
+    "Artículos/030420210628 -  What pro wrestling can teach us about the quest for truth.md",
     "Rol/TDA/Sesión 26 TDA - Log.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Rol/TDA/Sesión 25 TDA - Log.md",
-    "Rol/TDA/Sesión 26 TDA - Preparación.md",
-    "Rol/TDA/Sesión 24 TDA  - Log.md",
-    "Rol/TDA/Sesión 23 TDA - Log.md",
-    "Rol/TDA/Sesión 22 TDA - Log.md",
-    "Personal/Top 10.md",
-    "Personal/GTD - On going.md"
+    "Rol/TDA/Sesión 30 TDA - Log.md"
   ]
 }

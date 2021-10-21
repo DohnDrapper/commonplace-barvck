@@ -24,4 +24,4 @@
 
 ---
 
-#Wrestling #Filosofia #Verdad [[Sesión 26 TDA - Log]]
+#Wrestling #Filosofia #Verdad
