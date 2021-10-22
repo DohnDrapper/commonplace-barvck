@@ -1,5 +1,5 @@
 ---
-alias: [Sesión 27, TDA S27]
+alias: [Sesión 27, TDA P27]
 ---
 
 ## Sesión 27 "In your house 2021: Tzindelor vs los Cinco de Syndra"

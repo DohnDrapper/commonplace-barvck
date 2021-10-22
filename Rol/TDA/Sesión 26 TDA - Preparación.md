@@ -1,5 +1,5 @@
 ---
-alias: [Sesión 26, TDA S26]
+alias: [Sesión 26, TDA P26]
 ---
 
 ## Sesión 26 "Llegada a la mina"

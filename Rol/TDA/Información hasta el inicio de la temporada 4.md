@@ -113,6 +113,10 @@ Orolunga
 
 Jahaka Bay
 
+Mina del corázon de Sierpe
+
+Hrakamar, Ciudad enana abandonada
+
 ___
 
 ### Pistas
@@ -225,8 +229,14 @@ Xeli, aaracockra chef
 
 Diesa Torum, lider del grmio de los comerciantes
 
+Fenthaza
+
+Caldos Heckingstone
+
+Heel
 
 ___
+
 
 ### Facciones / Grupos
 
@@ -261,7 +271,9 @@ Sefiro
 Ashara, líder aaracockra
 
 Enclave esmeralda
+
 ___
+
 
 ### Objetos
 
@@ -309,6 +321,8 @@ Bolsa para Perne en Campamento Venganza
 
 "Libro de las Ciudades Perdidas" Prestamo de un aaracockra.
 
+Caliz con forma de Cráneo.
+
 Pan Sagrado: Un pan que cura la condición.
 
 Planta "Musgo Amarillo"
@@ -316,7 +330,11 @@ Planta "Musgo Amarillo"
 3 "Aceite del golpe certero", +2 en daño.
 
 Estoque verde: 
-"Si tu tirada de ataque pasa por 3 la AC de tu oponente, agrega +2 de daño "
+"Si tu tirada de ataque pasa por 3 la AC de tu oponente, agrega +2 de daño"
+
+Corona de Opálo Negro
+
+Perla de la Luna/ Ombligo de la Luna
 
 ---
 
@@ -359,6 +377,10 @@ Día 16 selva 13: S21,
 Día 17 selva 14: S22, S23
 
 Día 18 selva 15: S24
+
+Día 19 selva 16: S25
+
+Día 20 selva 17: S26
 
 ---
 

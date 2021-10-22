@@ -1,15 +1,16 @@
 {
   "main": {
-    "id": "7ebcfc8d263a041b",
+    "id": "97aa73b5233c8b64",
     "type": "split",
     "children": [
       {
-        "id": "3d54ed35aeeff8aa",
+        "id": "f74cd15821f3bb6f",
         "type": "leaf",
         "state": {
-          "type": "kanban",
+          "type": "markdown",
           "state": {
-            "file": "Personal/Para ver.md"
+            "file": "Rol/TDA/Sesión 27 TDA - Log.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Para ver.md",
+                "file": "Rol/TDA/Sesión 27 TDA - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,7 +86,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Para ver.md"
+                "file": "Rol/TDA/Sesión 27 TDA - Log.md"
               }
             }
           }
@@ -96,17 +97,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3d54ed35aeeff8aa",
+  "active": "f74cd15821f3bb6f",
   "lastOpenFiles": [
-    "Personal/Para ver.md",
-    "Rol/TDA/Sesión 26 TDA - Log.md",
-    "Untitled/calendario 2021.md",
-    "Personal/Pink Floyd.md",
-    "Personal/Rammstein.md",
-    "Personal/Placebo.md",
-    "Personal/The strokes.md",
-    "Artículos/030420210628 -  What pro wrestling can teach us about the quest for truth.md",
+    "Rol/TDA/Sesión 27 TDA - Log.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 30 TDA - Log.md"
+    "Rol/TDA/Sesión 26 TDA - Log.md",
+    "Rol/TDA/Sesión 27 TDA - Preparacion.md",
+    "Rol/TDA/Sesión 25 TDA - Log.md",
+    "Rol/TDA/Sesión 26 TDA - Preparación.md",
+    "Rol/TDA/Sesión 24 TDA  - Log.md",
+    "Personal/Para ver.md",
+    "Untitled/calendario 2021.md",
+    "Personal/Pink Floyd.md"
   ]
 }

@@ -7,7 +7,7 @@ aliases: [Sesión 25, TDA S25]
 ---
 
 _Fecha de la sesión: 31/07/2021_
-_Fecha Interna en la Campaña: 15 días de viaje 9 selva_
+_Fecha Interna en la Campaña: 19 días de viaje 16 selva_
 
 <div align='center'>
    <h3> *** </h3>
@@ -125,3 +125,4 @@ Reona: "Me da una profecía, por favor"
 [[TDA - A]]
 
 [[Sesión 24 TDA  - Log|TDA S24]]
+[[Sesión 26 TDA - Log|TDA S26]]
