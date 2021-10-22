@@ -22,6 +22,7 @@ kanban-plugin: basic
 ## Documentales
 
 - [ ] [Peaky blinders](https://documentaryheaven.com/real-peaky-blinders/)
+- [ ] [The game](https://ensemblefilm.ch/portfolio/the-game/)
 
 
 ## Series
