@@ -77,4 +77,4 @@ El Party sube por la meseta de Bala, encuentra que la ladera está llena de pter
 [[TDA - A|IndiceTDA]]
 
 [[Sesión 18 TDA - Log|TDA S18]]
-[[Sesión 20 - Log|TDA S20]]
+[[Sesión 20 TDA - Log|TDA S20]]

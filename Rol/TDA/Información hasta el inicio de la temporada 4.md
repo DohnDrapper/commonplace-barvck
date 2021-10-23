@@ -137,11 +137,11 @@ ___
 
 [[Sesión 17 TDA - Log#^ace7fa|TDA S17]] Mahali vio el Fano e a Serpiente Nocturna
 
-[[Sesión 20 - Log#^65d13b|Sesión 20]] El dedo de fuego y el Kamadan
+[[Sesión 20 TDA - Log#^65d13b]] El dedo de fuego y el Kamadan
 
-[[Sesión 20 - Log#^97341e]] Primera mención de Acererak
+[[Sesión 20 TDA - Log#^97341e]] Primera mención de Acererak
 
-[[Sesión 21 TDA - Log#^66e820|TDA S21]] Las nueve figuras de los dioses
+[[Sesión 21 TDA - Log#^66e820]] Las nueve figuras de los dioses
 
 [[Sesión 23 TDA - Log#^c82b67]] La primera mención de la "Tumba de la Aniquilación"
 
@@ -155,11 +155,13 @@ ___
 
 [[Sesión 25 TDA - Log#^8c15f1]] Whithers sobre las llaves
 
-[[Sesión 26 TDA - Log#^7c089c|TDA S26]] La tablilla es solo una parte para abrir la tumba.
+[[Sesión 26 TDA - Log#^7c089c]] La tablilla es solo una parte para abrir la tumba.
 
 [[Sesión 26 TDA - Log#^819e8f]] Reona encuentra a Xandala.
 
 [[Sesión 26 TDA - Log#^a90a3d]] Artus Cimber es más viejo.
+
+[[Sesión 27 TDA - Log#^9ce9d2]] Tinder: Los Yuan - ti ya tienen 9 tablillas.
 
 ---
 
@@ -303,7 +305,7 @@ La rupia de Campamento Justicia
 
 "Blanquita" Pterodactilo
 
-![[Sesión 20 - Log#^99b329]]
+![[Sesión 20 TDA - Log#^99b329]]
 
 Bolsa para Perne en Campamento Venganza
 
@@ -335,6 +337,8 @@ Estoque verde:
 Corona de Opálo Negro
 
 Perla de la Luna/ Ombligo de la Luna
+
+_Draconis Fundamentum_
 
 ---
 
@@ -380,7 +384,9 @@ Día 18 selva 15: S24
 
 Día 19 selva 16: S25
 
-Día 20 selva 17: S26
+Día 20 selva 17: S26, S27
+
+Día 21 selva 18: S27
 
 ---
 

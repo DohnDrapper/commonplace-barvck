@@ -43,8 +43,12 @@ Diesa Torum hierve un tej, que salió de la popo de un triceratops. Le vende un 
 Estoicoro con Jobal:
 Se presenta cuando Wakanga se lo hace saber, ve a unos tipos con capucha. Le dice Jobal que la tablilla es una parte de la llave. ^7c089c
 
+&nbsp
+
 <tt> Hace mucho cuando Ubtao desaparecio del continente. Estaba fuera de control lleno de sequias y desastres naturales. Los nueve dioses se levantaron tomando forma de los animales de la selva. Para agradar a Ubtao decidieron hacerle un estofado. Más que ayudar a la gente eran crueles.
 </tt> ^079f95
+
+&nbsp
 
 Reona encuentra a Xandala:
 Quien los confronta les dice es su hija, no busca el anillo sino a él. Les dice que ya visitó a Mezro y ahora se dirige a Omu. ^819e8f
@@ -72,7 +76,7 @@ Mahali logra atrapar a un Kobold. Al principio intenta gritar pero luego de ser 
 
 Wes Puente de piedra habla con 'Olbur Puño de Hierro' quien le habla de un pasaje alternativo para entrar a la Mina.
 
-Repaso:
+>Repaso:
 Saben Tinder esta dormida, trampas de kobolds y kobolds vigilando. Un enano les reveló que había una entrada alternativa.
 
 El party tardó mucho tiempo en decidir que hacer con el Kobold después de que decidieron que seguirían a Olbur.
@@ -87,16 +91,19 @@ El campamento se hace fuera de la mina.
 	
 ### $\Gamma$. Camino a Hrakamar
 	
-**Día 20 Selva 17**
+***Día 20 Selva 17***
 
 Al amanecer ven que Tinder sale a cazar. Halla un tiranosaurio que fríe con su aliento de fuego.
 	
 En el camino pueden ver la ciudad de Hrakamar. La ciudad está derruida, fue invadida por los Yuan - ti, y la estatua de Moradir principal ahora está ahora convertida en Dendar, la serpiente nocturna. Los enanos desean recuperar la mina para poder reconstruir su ciudad.
 
+### $\Delta$. Túnel 
+
+En la entrada del túnel Reona encuentran un Warforged, que al parecer se halla desactivado. El party decide guardarlo en su "Barneybolsa".
+
 El party halla el tunel y a través de él llega a la parte baja de la mina, donde pueden ver a Tinder en toda su majestuosidad descansando sobre el oro.
 
 Mahali falla su tirada de Sigilo y aparentemente despierta a Tinder.
-
 
 <div align='center'>
    <h3> * * * </h3>
@@ -109,6 +116,8 @@ Estoicoro saca a Reona de una maleta.
 >Desde ese día me acosan pesadillas. No soy el mismo. Si algún día te mato Reona, perdoname. - Estoicoro
 
 >La lanza que atraviese tu corazon tendrá mas valor que esas monedas que cargas, avaro. - Estoicoro
+
+Tardar 48 minutos en decidir que hacer con el Kobold
 
 1:54:00 "Cosmos"
 

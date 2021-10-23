@@ -98,4 +98,4 @@ Será necesario que viajen más rápido: Wakanga les regala un pergamino con el 
 
 ---
 
-[[Sesión 20 - Log|Sesión 20]]
+[[Sesión 20 TDA - Log|Sesión 20]]

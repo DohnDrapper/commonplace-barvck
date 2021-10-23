@@ -14,14 +14,14 @@ Fecha Interna en la Campaña: Aventura 12 Dia 9 en la selva*
 
 
 #### _Indice_
-[[Sesión 20 - Planeacion|TDA S20 P]]
+[[Sesión 20 TDA - Preparación|TDA S20 P]]
 [[#SESIÓN 20 No hay marcha en Bala]]
 
 <div align='center'>
    <h3> * * * </h3>
 </div>
 
-[[Sesión 20 - Planeacion]]
+[[Sesión 20 TDA - Preparación]]
 
 
 ---
@@ -122,6 +122,9 @@ Kashak ve una rupia como la que ya habían visto antes en la entrada de la cueva
 
 ---
 [[TDA - A|IndiceTDA]]
+
+[[Sesión 19 TDA - Log|TDA S19]]
+[[Sesión 21 TDA - Log|TDA S21]]
 
 
 
