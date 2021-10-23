@@ -2,54 +2,33 @@
 alias: [Sesión 28, TDA S28]
 ---
 
-## Sesión 28
+## Sesión X ""
 
 ---
 
-### Preparación
+_Fecha de la sesión: 09/10/2021_
+_Fecha Interna en la Campaña: 20 días de viaje 17 selva_
 
-+ El Warforged
-+ Hallan un personaje que se esta convirtiendo en un yuan ti.
+<div align='center'>
+   <h3> *** </h3>
+</div>
 
 ---
 
-### Sesión
+## Sesión
 
-#### Orden del día
+### Orden del día
 1. Es cumpleaños de Aran: https://youtu.be/JEeQC0j4P8A
-
-1. Los anillos que les dio Kashak
-2. Ancalagon y el dragón
-3. Un pequeño resumen de la sesión anterior.  
-4. Nuevo Intro: https://youtu.be/uF8LqrvqqSg
+2. Los anillos que les dio Kashak
+3. Ancalagon y el dragón
+4. Un pequeño resumen de la sesión anterior. 
+5. Nuevo Intro: https://youtu.be/uF8LqrvqqSg
 
 <div align='center'>
    <h3> * * * </h3>
 </div>
 
-
-#### $A$. Los anillos
-##### Ring of Resistance
-
-Ring, rare (requires attunement)
-
-You have [resistance](https://www.5esrd.com/gamemastering/combat#TOC-Damage-Resistance-and-Vulnerability) to one damage type while wearing this ring. The gem in the ring indicates the type, which the GM chooses or determines randomly.
-
-|d10| Damage Type|Gem|
-|---|---|---|
-|1|Acid|Pearl|
-|2 |Cold| Tourmaline|
-|3| Fire| Garnet|
-|4| Force| Sapphire|
-|5 |Lightning| Citrine|
-|6 |Necrotic| Jet|
-|7 |Poison |Amethyst|
-|8 |Psychic| Jade|
-|9| Radiant| Topaz|
-|10| Thunder| Spinel|
-
-
-#### $B$. El Warforged se presenta
+#### $A$. El Warforged se presenta
 
 >El party pude notar que esta parte de la selva es diferente de lo que ya habían recorrido. Las hojas de los arboles ahora son de un color mas bien oscuro, y los arboles son aún mas altos que lo que eran normalmente en etapas anteriores.
 
@@ -57,7 +36,7 @@ El Party recuerda que tienen una parte de un robot  y deciden conectarlo.
 
 &nbsp
 
-#### $\Gamma$. El Kamadan
+#### $B$. El Kamadan
 
 El party se da cuenta de que algo los vigila pero en su primera tirada no pueden determinar que es por más que lo intenten.
 
@@ -134,3 +113,5 @@ A la mañana siguiente pueden ver que un triceratops se acerca al campamento y d
 ---
 
 [[TDA - A]]
+
+[[Sesión 27 TDA - Log|TDA S27]]

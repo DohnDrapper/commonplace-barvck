@@ -219,4 +219,3 @@ Les regala a cada uno un anillo con un efecto mágico distinto.
 [[TDA - A]]
 
 [[Sesión 26 TDA - Log|TDA S26]]
-[[reusar|TDA S27]]

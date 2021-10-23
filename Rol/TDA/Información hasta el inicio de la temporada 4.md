@@ -309,7 +309,7 @@ La rupia de Campamento Justicia
 
 Bolsa para Perne en Campamento Venganza
 
-![[Sesion 28 TDA - Log#^db4f6c|Sesión 28]]
+![[Sesión anterior a los Yuan - ti#^db4f6c|Sesión 28]]
 
 ![[Sesión 22 TDA - Log#^d82385|TDA S22]]
 
@@ -421,6 +421,11 @@ m) Recordar a su amiga Sigfried
 n) Encuentren un conocedor de Tej al que Wes pueda venderle el Tej raro.
 
 ñ) El agua que halló Reona debe servirle a los elegidos de Ubtao.
+
+o) La carrera de dinosaurios será en Día 24 de aventura.
+
+p) Rhin recuerda que el día _Dia 12 de aventura 9 en la selva_ les dijeron le quedaban 15 días a Syndra, el día de hoy siendo _20 días de viaje 17 selva_.  
+A Syndra le quedan 7 días.
 
 ---
 
