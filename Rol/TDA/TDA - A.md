@@ -3,6 +3,7 @@ alias: [Tumba de la Aniquilación, TDA Indice]
 ---
 
 # INDICE GENERAL DE CAMPAÑA "TUMBA DE LA ANIQUILACIÓN"
+
 ---
 
 ## Ideas
@@ -47,12 +48,14 @@ alias: [Tumba de la Aniquilación, TDA Indice]
 [[Sesión 25 TDA - Log|Sesión 25]]
 [[Sesión 26 TDA - Log|Sesión 26]]
 [[Sesión 27 TDA - Log|Sesión 27]]
+[[Sesión 28 TDA - Log|Sesión 28]]
 
 <div align='center'>
 <h3> * </h3>
 </div>
 
 [[Información hasta el inicio de la temporada 4]]
+[[Sobre la encuesta T4]]
 
 <div align='center'>
 <h3> *** </h3>

@@ -27,7 +27,7 @@ alias: [Sesión 0, SDC S0, Preparación general SDC]
 |Fecha|Suceso|
 |---|---|
 |4 de Marzo de 1934|Artillleríaencuntra piedra mágica|
-| 7 de Marzo de 1934|reportes hq|
+|7 de Marzo de 1934|reportes hq|
 
 ## Música general de la campaña
 

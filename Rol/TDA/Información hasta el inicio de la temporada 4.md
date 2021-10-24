@@ -229,13 +229,17 @@ Ainur, aaracockra amigo de Rhin
 
 Xeli, aaracockra chef
 
-Diesa Torum, lider del grmio de los comerciantes
+Diesa Torum, lider del gremio de los comerciantes
 
 Fenthaza
 
 Caldos Heckingstone
 
 Heel
+
+Jay Lai, valuador del gremio de raza dragonborn
+
+Aremag 
 
 ___
 
@@ -273,6 +277,8 @@ Sefiro
 Ashara, líder aaracockra
 
 Enclave esmeralda
+
+
 
 ___
 
@@ -426,6 +432,13 @@ o) La carrera de dinosaurios será en Día 24 de aventura.
 
 p) Rhin recuerda que el día _Dia 12 de aventura 9 en la selva_ les dijeron le quedaban 15 días a Syndra, el día de hoy siendo _20 días de viaje 17 selva_.  
 A Syndra le quedan 7 días.
+
+q) (1:16:00 tiempo aproximado en la grabación)
+(1:47:00 Kobold)
+(2:35:00 Decidieron que hace con el Kobold)
+(Se tardó 48 minutos en decidir que hacer con el Kobold.)
+
+r) (43:19 - 2:35:15, Tiempo total de pelea: 1:52:00)
 
 ---
 

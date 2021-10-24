@@ -1,8 +1,8 @@
 ---
-alias: [SDC Indice]
+alias: [Serpiente de dos cabezas, SDC Indice]
 ---
 
-# Indice general de campaña "Serpiente de dos cabezas"
+# "Serpiente de dos cabezas"
 ---
 
 ## Ideas

@@ -1,5 +1,5 @@
 ---
-alias: [Sesión 28, TDA S28]
+alias: []
 ---
 
 ## Sesión X ""

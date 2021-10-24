@@ -80,7 +80,6 @@ Wes Puente de piedra habla con 'Olbur Puño de Hierro' quien le habla de un pasa
 Saben Tinder esta dormida, trampas de kobolds y kobolds vigilando. Un enano les reveló que había una entrada alternativa.
 
 El party tardó mucho tiempo en decidir que hacer con el Kobold después de que decidieron que seguirían a Olbur.
-
 	
 (2:35:00 Decidieron que hace con el Kobold)
 (Se tardó 48 minutos en decidir que hacer con el Kobold.)
