@@ -1,6 +1,11 @@
+%%
+
 ---
 alias: [Suerte Pulp Cthulhu]
+
 ---
+
+%%
 
 ## Suerte en _Pulp cthulhu_
 

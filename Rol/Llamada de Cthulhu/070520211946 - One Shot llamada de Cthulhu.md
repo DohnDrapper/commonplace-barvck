@@ -1,7 +1,8 @@
+
 ---
 alias: [Sobre dirigir un One Shot]
----
 
+---
 
 ## Proyecto "One Shot" 15 de Mayo de 2021
 
@@ -47,7 +48,7 @@ Por lo que, la atmosfera y la sensación de juego no pueden ser mas diferentes. 
 <h3> *** </h3>
 </div>
 
-### Por que no se eligió el One Shot
+### Por que no se eligió "Más frío que el acero de una Thompson"
 
 *07/05/2021*
 
@@ -93,19 +94,26 @@ Al final esto no se ocupo, el Diagrama de flujo lo senti innnecesario al ya tene
 
 *03/08/2021*
 
- La sesión se llevo a cabo en dia viernes 30 de Julio debido a  adiversos retrasos dle grupo de calabozos.
+ La sesión se llevo a cabo en dia viernes 30 de Julio debido a  adiversos retrasos del grupo de calabozos.
  
- - Valdría la pena conocieran a Lord Andrew desde el principio, por ejemplo es alguine importante en la localidad o es el mencenas que les invita o les patrocina la sesión.
-
+ &nbsp
+ 
+ Sobre el preludio y la información:
++ Valdría la pena conocieran a Lord Andrew desde el principio, por ejemplo es alguien importante en la localidad o es el mencenas que les invita o les patrocina la sesión.
 - Siento las hipnosis podrían dar hacia algo más místico: ultilzarlas para revelar partes de la trama, o por ejemlo recuerdos del bebe y del asesinato.
 - Sería interesante el despacho del doctor Millner diera muchas más pistas de las que da: Yo incluí una fotografía con Lord Andrew y un bebe atrapado en un frasco, tal vez por ejemplo algo que digan los libros (un manual sobre resurreccion o como obtener la vida eterna, algo relacionado a extender la vida, algun mito de alguien que haya vivido mucho tiempo).
 - Siento Edwina debería ser un poco más útil revelar más info, no solo agregar drama.
 - Uno de los jugadores intentó no ser hipnotizado, debería verse la posibilidad de que esto afecte mucho más la trama.
 - Ir a la casa de Andrew Newham es un poco anodino, no hallan nada y el mayordomo no les revela nada, podria mejorarse ese aspecto.
-- Valdría la pena añadir un enfrentamiento intermedio en la campaña:
-	- Podria ser que haya un mini bebe en la iglesía, 
-	- Que el Doctor Millner tenga un brazo *a la Tetsuo* y lo utilice cuando lo aborden
-	- Que el Mayordomo les deje pasar pero al final se convierta en su enemigo.
+
+&nbsp
+
+Valdría la pena añadir un enfrentamiento intermedio en la campaña:
+- Que el Doctor Millner tenga un brazo *a la Tetsuo* y lo utilice cuando lo aborden
+- Que el Mayordomo les deje pasar pero al final se convierta en su enemigo.
+- Podria ser que haya un mini bebe en la iglesía, 
+
+&nbsp
 
 En otras cosas que resaltar:
 - Uno de los jugadores pidio se le hiciera un personaje pregenerado, pero al final no pudo estar en la sesión. Para resolver eso se había pensado en usar uno de los NPC's que vienen en el manual del Llamada de Cthulhu 7a. edición.

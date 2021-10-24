@@ -60,7 +60,7 @@ Fecha interna de la campaña: Primer día Port Nyanzaru_
 #### $Z$. Encuentro con Etombe Anuk en el Lagarto Atronador
 + Les ofrece una canoa y un equipo de cartografía, cuando la ocupen.
 + Si completan el mapa que les da les promete
-+ Les hablo de la fruta del “mono volador” que se la vendieran a él}
++ Les hablo de la fruta del “mono volador” que se la vendieran a él
 + Les hablo de las luchas de gladiadores
 + Les dice hay un templo de hombres pájaro en medio de la selva, que tienen algo más valioso que el oro alaban a los Dukes del viento de Aquaa (Kir Sabaal)
 + Le dijo a Kashak que la biblioteca está en el centro Templo de Savras

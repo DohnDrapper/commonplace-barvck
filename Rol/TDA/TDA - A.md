@@ -1,12 +1,21 @@
 ---
-alias: [IndiceTDA]
+alias: [Tumba de la Aniquilación, TDA Indice]
 ---
 
 # INDICE GENERAL DE CAMPAÑA "TUMBA DE LA ANIQUILACIÓN"
 ---
 
+## Ideas
+
+[[Planeación general TDA  1]]
+
+<div align='center'>
+<h3> *** </h3>
+</div>
+
 ## Sesiones
-###### _Temporada “1”_
+
+### _Temporada “1”_
 [[Sesión 1 TDA - Log|Sesión 1]]
 [[Sesión 2 TDA - Log|Sesión 2]]
 [[Sesión 3 TDA - Log|Sesión 3]]
@@ -15,7 +24,7 @@ alias: [IndiceTDA]
 [[Sesión 6 TDA - Log|Sesión 6]]
 [[Sesión 7 TDA - Log|Sesión 7]]
 
-###### _Temporada “2”_
+### _Temporada “2”_
 [[Sesión 8 TDA - Log|Sesión 8]]
 [[Sesión 9 TDA -Log|Sesión 9]]
 [[Sesión 10 TDA - Log|Sesión 10]]
@@ -26,7 +35,7 @@ alias: [IndiceTDA]
 [[Sesión 15 TDA - Log|Sesión 15]]
 [[Sesión 16 TDA - Log|Sesión 16]]
 
-###### _Temporada “3”_
+### _Temporada “3”_
 [[Sesión 17 TDA - Log|Sesión 17]]
 [[Sesión 18 TDA - Log|Sesión 18]]
 [[Sesión 19 TDA - Log|Sesión 19]]
@@ -38,3 +47,17 @@ alias: [IndiceTDA]
 [[Sesión 25 TDA - Log|Sesión 25]]
 [[Sesión 26 TDA - Log|Sesión 26]]
 [[Sesión 27 TDA - Log|Sesión 27]]
+
+<div align='center'>
+<h3> * </h3>
+</div>
+
+[[Información hasta el inicio de la temporada 4]]
+
+<div align='center'>
+<h3> *** </h3>
+</div>
+
+## Post campaña
+
+[[Post Mortem TDA]]

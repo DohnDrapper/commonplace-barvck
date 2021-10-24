@@ -1,8 +1,11 @@
----
-aliases: "Introducción a Pulp Cthulhu"
----
+%%
 
 ---
+aliases: "Introducción a Pulp Cthulhu"
+
+---
+
+%%
 
 ## Pulp Cthulhu
 
