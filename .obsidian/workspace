@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "25a153c869f2d38f",
+    "id": "15cadc54b816d84f",
     "type": "split",
     "children": [
       {
-        "id": "b612a39d58c5b28e",
+        "id": "92706d17eafc0318",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/160820210713 - Modelo CANVAS.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -36,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "the strokes",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -75,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/160820210713 - Modelo CANVAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/160820210713 - Modelo CANVAS.md"
+              }
             }
           },
           {
@@ -99,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/160820210713 - Modelo CANVAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b612a39d58c5b28e",
+  "active": "92706d17eafc0318",
   "lastOpenFiles": [
+    "Personal/160820210713 - Modelo CANVAS.md",
     "Personal/The strokes.md",
     "000 Indice.md",
     "Evolución font.md",
@@ -122,7 +128,6 @@
     "Rol/TDA/Sesión anterior a los Yuan - ti.md",
     "Rol/TDA/Sesión 28 TDA - Log.md",
     "Rol/TDA/Sesión 20 TDA - Log.md",
-    "Rol/TDA/Sesión 21 TDA - Log.md",
-    "Referencia Mark down.md"
+    "Rol/TDA/Sesión 21 TDA - Log.md"
   ]
 }
