@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "15cadc54b816d84f",
+    "id": "0dbbe2472ed6567c",
     "type": "split",
     "children": [
       {
-        "id": "98bbcd6cb088b80c",
+        "id": "16d468ec692e4703",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
+            "file": "Personal/160820210713 - Modelo CANVAS.md",
+            "mode": "source"
           }
         }
       }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Personal/160820210713 - Modelo CANVAS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "Personal/160820210713 - Modelo CANVAS.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Personal/160820210713 - Modelo CANVAS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,8 +118,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "98bbcd6cb088b80c",
+  "active": "16d468ec692e4703",
   "lastOpenFiles": [
+    "Personal/160820210713 - Modelo CANVAS.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 3 SDC - Log.md",
     "Rol/Música.md",
@@ -128,7 +129,6 @@
     "Rol/SDC/Sesión 2 SDC - Log.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
     "Rol/SDC/Sesión 0 SDC - Log.md",
-    "Rol/SDC/SDC -Probable organización.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
+    "Rol/SDC/SDC -Probable organización.md"
   ]
 }
