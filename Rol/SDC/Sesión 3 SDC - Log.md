@@ -7,10 +7,10 @@ alias: [Sesión 3, SDC S3]
 ---
 
 _Fecha de la sesión: 25/10/2021_
-
+_Fecha interna campaña: 14 de Marzo de 1934_
 
 <div align='center'>
-   <h3> * * * </h3>
+   <h3> *** </h3>
 </div>
 
 ### _Preparación_
@@ -26,7 +26,7 @@ _Fecha de la sesión: 25/10/2021_
 
 #### _Orden del día_
 
-1. Recordar cuantas cargas de dinamita tienen.
+1. Recordar cuantas cargas de dinamita tienen. ()
 2. Tirar la suerte que van a recuperar.
 3. Sergio mastica de diversas maneras.
 
@@ -78,3 +78,11 @@ Describir el templo como un pinaculo que sale de la tierra en espiral.
 ---
 
 [[Sesión 3 SDC - Log|SDC S4]]
+
+Sarah
+Abdul
+Ditto
+Indiane
+Antay
+
+---

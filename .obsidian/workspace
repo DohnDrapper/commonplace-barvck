@@ -9,19 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rol/SDC/Sesión 3 SDC - Log.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "5dc635bfe5f6f39b",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/Música.md",
-            "mode": "source"
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview"
           }
         }
       }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/Música.md",
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/Música.md"
+                "file": "Personal/Bolsas de trabajo.md"
               }
             }
           },
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/Música.md",
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5dc635bfe5f6f39b",
+  "active": "98bbcd6cb088b80c",
   "lastOpenFiles": [
-    "Rol/Música.md",
+    "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 3 SDC - Log.md",
+    "Rol/Música.md",
+    "Rol/SDC/Pleneación general SDC.md",
+    "Rol/SDC/SDC - A.md",
     "Rol/SDC/Sesión 2 SDC - Log.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
     "Rol/SDC/Sesión 0 SDC - Log.md",
-    "Personal/Bolsas de trabajo.md",
-    "Rol/SDC/Pleneación general SDC.md",
-    "Personal/Rammstein.md",
-    "Personal/Pink Floyd.md",
-    "Personal/Placebo.md"
+    "Rol/SDC/SDC -Probable organización.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
   ]
 }
