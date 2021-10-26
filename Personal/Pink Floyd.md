@@ -32,7 +32,7 @@ _Un disco más interesante que el primero._
 		* * *
 </div>
 
-## More  
+### More  
   
 _26/agosto/2021_  
   
@@ -41,7 +41,21 @@ _Al principio de oirlo mensuena muy jazz. _
 + The nile song: Para la campaña de SDC  
 + Ibiza bar: Interesante  
 + Quicksilver: Para una exploración en algún lugar.  
-+ Dramatic theme: Cim un interludio entre narraciones.
++ Dramatic theme: Como un interludio entre narraciones.
+
+<div align='center'>
+  <h3> * * * </h3>
+</div>
+ 
+### Ummagumma 
+
+_25/10/2021_
+
+_Puedo decir que este es el albúm que menos he entendido_
+
++ Caeful with that axe, Eugene: Una buena rola de fonda para esas sesiones donde se debe aclarar algo o platicar.
++ Sysyphus, pt.4 Es una canción muy interesante. el problema es que hasta la mitad de la canción empieza lo interesante.
++ Grantchester meadows: Una canción que podría parecer triste y es muy lenta.
 
 ---
 

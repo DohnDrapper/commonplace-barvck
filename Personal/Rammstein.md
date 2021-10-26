@@ -45,9 +45,16 @@ _Es el tercer album que escucho este año y es claro que Rammstein tien su formu
   <h3> * * * </h3>
 </div>
 
+#### "Reise, reise"
 
+_25/10/2021_
 
+_Antes de la escucha: Definitivamente es el alúm con el que más expectativas tengo. Desde la apertura con 'Reise, Reise' ya estoy sintiendo escalofríos.
+Me parece este es el disco con el que descubrí a Rammstein, es decir, recuerdo el video de 'Mein teil' en MTV en mi casa._
 
++ Canción favorita:
++ Sencillo: Reise, Reise
++ Canción que descubrí:
 
 ---
 

@@ -2,53 +2,79 @@
 alias: [Sesión 3, SDC S3]
 ---
 
-## Sesión 3 
 
-_Fecha de la seión 26/09/2021_
-_Fecga interna de la campaña: 13 de Marzo de 2021_
-
+## Sesión 3 "Engendro sin forma"
 ---
 
-### Preparación
+_Fecha de la sesión: 25/10/2021_
 
-1. 
-
-
-### Sesión
-
-#### Orden del día
-
-1. ¿Desean que les explique de nuevo las reglas de como usar la suerte en _Pulp Cthulhu_ ?
 
 <div align='center'>
-	<h3> * * * </h3>
+   <h3> * * * </h3>
 </div>
 
-### $a$. El mono con el lanzallamas
+### _Preparación_
 
-El party se enfrenta a un mono que tien un lanzallamas. El mono esta confuso y no entiende bien lo que sucede.
+**Posibles acontecimientos**
++ El party enfrenta un engendro sin forma.
++ Puede entren al túnel que desembocaría en otro enfrentamiento con un "Engendro sin forma"
++ El party activa la acción para que el templo sobresalga hacia la superficie.
 
-+ Podrían hacer varias cosas:
-	+ Pudieran asustarlo y que tire su arma.
-	+ Intentar dispararle de lejos.
-	+ Si tardan mucho en hacer algo el mono sufre una malfunción de su arma.
-	+ Puede que el mono simplemente se distraiga de su juego y suelte la pistola.
+<div align='center'>
+   <h3> * * * </h3>
+</div>
 
-&nbsp;
+#### _Orden del día_
 
-### $b$.  Conocer el campamento
+1. Recordar cuantas cargas de dinamita tienen.
+2. Tirar la suerte que van a recuperar.
+3. Sergio mastica de diversas maneras.
 
-Podrían conocer a distintas personas que están en el campamento.
 
-&nbsp;
+**Música**
 
-### $\gamma$. Sobre las cinco columnas
+Intro
+<https://www.youtube.com/watch?v=eeqGuaAl6Ic>
+Ending
+<https://youtu.be/51kMlM6YcH4>
 
-Encuentran un campo de batalla lleno de cadaveres y en especial les parece extraño que haya dos enormes agujeros, uno comletamente roto y otro parcialmente destruido.
 
-Cuando esten los investigadores revisando la tercer columna, aparecerá el _Formless Spawn_ (pág. 43).
+Música para combate
+<https://youtu.be/sOamrmqR-Qk>
+
+https://youtu.be/qte2TEJJ_8o
+
+Música exploración ene la selva
+<https://youtu.be/M8ZDNLO2mOo>
 
 
 ---
 
-[[SDC - A]]
+### _Sesión_
+
+Esto es un texto de ejemplo
+
+
+#### $a$. El enfrentamiento con el "engendro sin forma"
+
+Tirar cordura al ver el engendro sin forma.
+
+Tirar iniciativa.
+
+Descripción del templo.
+
+
+#### $b$. Daniel Hernández
+
+Armonica musica:
+https://youtu.be/CInTk3NR5X8
+
+
+#### $\gamma$. El templo
+
+Describir el templo como un pinaculo que sale de la tierra en espiral.
+
+
+---
+
+[[Sesión 3 SDC - Log|SDC S4]]

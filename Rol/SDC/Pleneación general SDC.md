@@ -36,6 +36,9 @@ Para las aberaciones:
 
 Para los encuentros con Nedhaam
 	Midnight, stars and you - The Shinning
+	
+Una música de pelea de Sherlock Holmes
+https://youtu.be/qte2TEJJ_8o
 
 
 Intros:
