@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "0dbbe2472ed6567c",
+    "id": "905f9eca473e7d91",
     "type": "split",
     "children": [
       {
-        "id": "fd4726b6930c639e",
+        "id": "2b66c58feac4a588",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
-            "mode": "preview"
+            "file": "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
+            "mode": "source"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "fd4726b6930c639e",
+  "active": "2b66c58feac4a588",
   "lastOpenFiles": [
-    "Untitled.md",
-    "2021-10-26.md",
-    "Notas diarias/2021-10-25 - Ace.md",
     "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
+    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md",
+    "Pruebas.md",
+    "Personal/210420211057 - Exlibris.md",
+    "Notas diarias/2021-10-27.md",
+    "Diario desarrollo juego de rol.md",
+    "Notas diarias/2021-10-26.md",
+    "Notas diarias/2021-10-25 - Ace.md",
     "Personal/100820211442 - 2021 Resumen del Año.md",
-    "Blog/La vida de las mujeres.md",
-    "Blog/Escuadrón Suicida (2021).md",
-    "Personal/160820210713 - Modelo CANVAS.md",
-    "Personal/Bolsas de trabajo.md",
-    "Rol/SDC/Sesión 3 SDC - Log.md"
+    "Blog/La vida de las mujeres.md"
   ]
 }

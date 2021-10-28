@@ -9,8 +9,9 @@
   },
   "foldHeading": true,
   "foldIndent": true,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "communityPluginSortOrder": "alphabetical",
   "attachmentFolderPath": "Adjuntos",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "strictLineBreaks": false
 }
