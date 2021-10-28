@@ -1,0 +1,33 @@
+---
+aliases: "PLaneación 2022"
+---
+
+# 2022
+
+El año del autoconocimiento.
+
+Si bien 2020 y 2021 fueron los años de la planeación, deseoq ue 2022 sea le año del autoconocimiento.
+
+Un año en que voya intentar saber más de mí para poder cambiar de carrera o delas cosa que no se de mi mismo creo que al mometo de cumplir 30 años, es el moeto clave de mi vida.
+
+<div align='center'>
+<h3> *** </h3>
+</div>
+
+## Ambitos
+
+### Laboral
+
+a) Planeación por cuatrimestres de campañas con un tema.
+b) Buscar llevar a cabo un program de apoyo en varios lugares
+c) Estudiar Francés y Japonés.
+
+
+### Artistico
+
+a) Ya este es el año que debo aprender a tocar la guitarra ¡Maldita sea!
+b) Grabar una película por mes
+c) Escribir mi juego de Rol
+d) Ecribir mi novela gráfica adaptada de la llamada de Cthulhu
+
+---

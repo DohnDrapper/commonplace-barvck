@@ -1,3 +1,8 @@
+___
+zettelkasten: "030420210628"
+
+---
+
 ### What pro wrestling can teach us about the quest for truth
 ---
 
