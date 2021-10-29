@@ -8,68 +8,109 @@ aliases: [Sesión 29, TDA S29]
 ---
 
 *Fecha de la sesión: 09/10/2021
-Fecha Interna en la Campaña: Pendiente*
+Fecha Interna en la Campaña: 20 días de viaje 17 en la selva*
 
 
 <div align='center'>
-   <h3> * * * </h3>
+   <h3> *** </h3>
 </div>
-
-### _Indice_
-
-&nbsp
 
 ### _Preparación_
 
-**Sobre el combate naval en _5ta edición_**
+[Encuesta](https://docs.google.com/spreadsheets/d/1o0FXLlTFaec4isWdU5wsDuJkbwPTixMGF1Z2QfP3HNc/edit?resourcekey#gid=408122441)
 
-[Naval Combat Rules for D&D 5th Edition](https://www.tribality.com/2014/12/26/naval-combat-rules-dd-5th-edition-part-1/)
-[Vocabulario Naval](https://www.escuelabalearnautica.com/diccionario-nautico-escuela-balear)
-[Vocabulario sencillo](https://www.balearia.com/es/blog/de-grumete-a-capitan-vocabulario-maritimo-basico-i)
+[[Sobre la encuesta T4]]
 
-[Ballesta](https://5e.tools/objects.html#ballista_dmg)
-
-<br>
-
-**Posibles acontecimientos**
-1. Dark  grita todos ¡A cubierta!
-2. Dark le pide a los marineros que a pesar de que puedan caminar por el agua se amarren fuertemente al barco.
-3. Dark pide a Mahali y Wes que la sigan y les muestra la ballesta 
-4. Dark les muestra el "cañon de agua"
-
-**En sesión**
-6. Los marineros le enseñan a Rhin sobre los astros y como medir el tiempo
+Se explicaron los resultados de la encuesta que se llevó a cabo.
 
 <div align='center'>
    <h3> * * * </h3>
 </div>
 
-#### _Orden del día_
-
-1. ![[Sobre la encuesta T4]]
-2. Explicar reglas del combate marino.
-3. Efecivamente, _Dark_ era una gnoma.
-
-
-
 **Música**
-INTRO CAPITULO 4: "Detrás de los cerros - Caifanes" 
-<https://youtu.be/KK12h0ctzpU>
 
-Canción marineros:
-<https://youtu.be/d1DGNh9fOmw>
-<https://youtu.be/Tvmj_-5YMpc>
-<https://youtu.be/naUyMmdCSQM>
-
+Gustav Holst - The Planets - Mars, the Bringer of War
+https://youtu.be/L0bcRCCg01I
 
 ---
 
-### _Sesión_
+## _Sesión_
 
->"En las tierras que un dia Ubtao caminó, los siete buscan cumplir la misión que La dama enmascarada les dió, aqui sus cronicas. La sesión pasada nuestros heroes dejamos a nuestros heroes en..."
+Esto es un texto de ejemplo
 
 
-![Partes de un barco](https://bit.ly/3aoxjaG)
+### $A$. Preparación antes de la batalla
+
+Dark les mostró el barco:
++ El barco tiene un sistema de propulsión que es lo que o vuelve muy rápido.
++ El barco tiene dos ballestas una por cada lado, aunque para dispararlo toma 3 acciones: cargar, apuntar, disparar.
+
+&nbsp
+
+### $B$. Batalla con Aremag
+
+(40:41 - 2:35:00, Tiempo total de pelea: 1:54:00)
+
+El party lucha contra Aremag, y tras una díficil batalla, logra vencerla, dando el último golpe Kwa Mahali.
+
+&nbsp
+
+### $\Gamma$. Tras la batalla
+
+Caparazón y dientes de tortuga se pueden vender a un muy buen precio. 
+
+Mahali:
+Le canta la canción "Only time" a la tortuga. 
+
+Wes:
+Se pone a beber con los marineros.
+
+Rhin: 
+Se acerca un marinero que tiene un cuadrante para navegar.
+
+Ancalagón:
+Puede ver la inmensidad del continente de Chult cuando se sube al carajo de la nave.
+
+Estoicoro y Mahali:
+Estoicoro usa _Speak with the dead_ para hablar con Aremag, y permite a Mahali sea quien haga 3 primeras preguntas. 
+
+>>1. _¿Qué sabes del tesoro que esta en este barco?_
+>>El mar es mi territorio, yo pido tributo a todo el que pase.
+>>2. _¿Dónde almacenas tanta acumulación?_
+>>En lo más profundo de su guarida.
+>>3. _¿Dónde está tu guarida?_
+>>Existe una isla conocida como "El guerrero del amanecer", al este de Chult. 
+>>4. _¿Hay algo que podamos hacer para honrar tu memoria?_
+>>Lleven su craneo a la de "El guerrero del amanecer"
+
+Dark se sienta junto a Mahali. Recuerdan viejos tiempos y tienen una bonita noche juntos.
+
+&nbsp
+
+<div align='center'>
+   <h3> * * * </h3>
+</div>
+
+### Momentos bolillo:
+
+El ataque sextuple de Ancalagón apoyado por Estoicoro. (Hizo 66 dmg)
+
+Ataqye combinado de Estoicoro y Reona.
+
+<div align='center'>
+   <h3> * * * </h3>
+</div>
+
+### Puede agregarse:
+
++ Aremag ataca al barco en una ronda, de distintas maneras lo embiste, ataca con sus aletas el barco.
++ Aremag pelea una parte de la pelea sumergida y los jugadores deben detectar donde se encuentra a través de tiradas.
++ A pesar de tener el hechizo de caminar sobr el agua es posible caigan al agua con el golpe de Aremag.
++ Aremag puedde sumergir a uno de lso jugadores.
++ El juego de la música representa el oleaje.
 
 ---
 
+[[TDA - A]]
+
+[[Sesión 28 TDA - Log|TDA S28]]

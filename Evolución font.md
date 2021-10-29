@@ -22,6 +22,7 @@ Este fue el primer c처digo de CSS que use en la vista de Obsidian.
 
 ```
 
+---
 
 #### 2da combinaci처n de fuentes
 
@@ -40,3 +41,23 @@ Esta segunda combinaci처n se hizo buscando una maera de diferenciar de manera m�
 
 ```
 
+---
+
+#### 3ra combinaci처n de fuentes
+
+28/10/2021
+
+Esta tercera combinaci처n se hizo buscando un contraste entre letra 'cuadrada' para la _Edici처n_ y letra 'redonda' para la _previsucalizaci처n_.
+
+```
+.markdown-source-view {
+  font-family: 'Jetbrains mono', monospace !important;
+}
+
+.markdown-preview-view {
+  font-family: 'Space Mono' !important;
+}
+
+```
+
+---

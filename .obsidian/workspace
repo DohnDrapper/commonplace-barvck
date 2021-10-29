@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "dc055d87c18e730a",
+    "id": "d0d8910846aa3f4c",
     "type": "split",
     "children": [
       {
-        "id": "c99ebaec9a77dd68",
+        "id": "dc7a00a91e7baa5b",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Untitled.md",
+            "file": "Rol/TDA/Sesión 29 TDA - Log.md",
             "mode": "source"
           }
         }
@@ -56,12 +56,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908
+    "width": 318.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Rol/TDA/Sesión 29 TDA - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Rol/TDA/Sesión 29 TDA - Log.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Rol/TDA/Sesión 29 TDA - Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c99ebaec9a77dd68",
+  "active": "dc7a00a91e7baa5b",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Referencia Mark down.md",
-    "Byung-Chul Han radiografía de una sociedad intolerante al dolor.md",
-    "Artículos/030420210628 -  What pro wrestling can teach us about the quest for truth.md",
-    "2021-10-28.md",
-    "Libros/29042021110 - Trainspotting.md",
-    "Libros/041020210247 - Cumbres borrascosas.md",
-    "Libros/040320210254 - Caín.md",
-    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
-    "Personal/17062021 - Sobre el sistema JohnnyDecimal.md"
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Rol/TDA/Sesión 27 TDA - Log.md",
+    "Notas diarias/2021-10-26 - Organizar obsidian.md",
+    "Personal/100820211442 - 2021 Resumen del Año.md",
+    "Rol/TDA/Sesión 29 TDA - Preparación.md",
+    "Evolución font.md",
+    "Personal/210420211057 - Exlibris.md",
+    "Formatos/Sesión en blanco.md",
+    "Rol/TDA/Sesión 28 TDA - Log.md",
+    "Rol/TDA/Sobre la encuesta T4.md"
   ]
 }

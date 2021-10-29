@@ -81,7 +81,7 @@ Bastión:
 
 &nbsp
 
-### $\Gamma$. Armero
+##### $b$. Armero
 
 |Jugador|Días|Artículo|Precio|
 |---|---|---|---|
@@ -100,7 +100,7 @@ Recoge los donativos de la "Ciudad Vieja"
 
 &nbsp
 
-### $\Delta$. El pegazo abrazado
+### $\Gamma$. El pegazo abrazado
 
 Wes:
 Es más divertido acabar con los piratas llegando en barco.
@@ -134,4 +134,4 @@ Estoicoro lanza el hechizo de "Augurio" y puede interpretar en las señales de l
 [[TDA - A]]
 
 [[Sesión 27 TDA - Log|TDA S27]]
-[[Sesión 29 TDA - Log|TDA S29]]
+[[Sesión 29 TDA - Preparación|TDA S29]]
