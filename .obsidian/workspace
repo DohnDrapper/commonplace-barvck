@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "d0d8910846aa3f4c",
+    "id": "ea38fb34686ffc3c",
     "type": "split",
     "children": [
       {
-        "id": "a4a3f76e0da6732f",
+        "id": "e8027561dd12d80c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2022.md",
+            "file": "Referencia Mark down.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022.md",
+                "file": "Referencia Mark down.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022.md"
+                "file": "Referencia Mark down.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022.md",
+                "file": "Referencia Mark down.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a4a3f76e0da6732f",
+  "active": "e8027561dd12d80c",
   "lastOpenFiles": [
+    "Referencia Mark down.md",
+    "lectura tarot.md",
+    "Notas diarias/2021-10-31 - Crush.md",
+    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
     "2022.md",
     "Notas diarias/2021-10-26 - Organizar obsidian.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Personal/100820211442 - 2021 Resumen del Año.md",
-    "Rol/TDA/Sesión 29 TDA - Preparación.md",
-    "Evolución font.md",
-    "Personal/210420211057 - Exlibris.md",
-    "Formatos/Sesión en blanco.md"
+    "Personal/100820211442 - 2021 Resumen del Año.md"
   ]
 }
