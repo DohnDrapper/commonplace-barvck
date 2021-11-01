@@ -85,6 +85,10 @@ Estoicoro usa _Speak with the dead_ para hablar con Aremag, y permite a Mahali s
 
 Dark se sienta junto a Mahali. Recuerdan viejos tiempos y tienen una bonita noche juntos.
 
+Bastión prueba sus habilidades de chef con la tripulación.
+
+Ancalagón se encuentra con Estoicoro con quien se sincera, aunque Estoicoro en realidad estaba dormido de pie.
+
 &nbsp
 
 <div align='center'>
@@ -95,8 +99,10 @@ Dark se sienta junto a Mahali. Recuerdan viejos tiempos y tienen una bonita noch
 
 El ataque sextuple de Ancalagón apoyado por Estoicoro. (Hizo 66 dmg)
 
-Ataqye combinado de Estoicoro y Reona.
+Ataque combinado de Estoicoro y Reona.
 
+_Up all night to get lucky!_ de Mahali y Dark.
+ 
 <div align='center'>
    <h3> * * * </h3>
 </div>
