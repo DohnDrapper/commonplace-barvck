@@ -23,3 +23,12 @@ https://www.linkedin.com/jobs/view/2771882052/?eBP=JOB_SEARCH_ORGANIC&refId=pJdI
 
 https://mx.indeed.com/viewjob?jk=570b52395672174e&tk=1fisrhldun59u800&from=serp&vjs=3
 
+---
+
+Habilidades:
+
+Excel
+GIS
+Pyhton
+Java
+
