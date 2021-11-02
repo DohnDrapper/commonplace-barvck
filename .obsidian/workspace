@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "ea38fb34686ffc3c",
+    "id": "dae4bcc3353bd9fb",
     "type": "split",
     "children": [
       {
-        "id": "1cd0eb958ef9f3b9",
+        "id": "180a7d790db02dea",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
+            "file": "lectura tarot.md",
+            "mode": "source"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
-    "collapsed": true
+    "width": 318.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "lectura tarot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "lectura tarot.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "lectura tarot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,11 +117,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1cd0eb958ef9f3b9",
+  "active": "180a7d790db02dea",
   "lastOpenFiles": [
+    "lectura tarot.md",
     "Personal/Bolsas de trabajo.md",
     "Referencia Mark down.md",
-    "lectura tarot.md",
     "Notas diarias/2021-10-31 - Crush.md",
     "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
     "2022.md",
