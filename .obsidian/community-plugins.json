@@ -5,5 +5,7 @@
   "obsidian-outliner",
   "obsidian-kanban",
   "css-snippets",
-  "obsidian-vault-statistics-plugin"
+  "obsidian-vault-statistics-plugin",
+  "graph-analysis",
+  "wikilinks-to-mdlinks-obsidian"
 ]

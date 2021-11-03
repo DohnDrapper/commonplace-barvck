@@ -490,3 +490,11 @@ oO `$o O$` (omicron)
 ```
 
 ---
+
+#### Barra de progreso
+
+<progress value="6" max="10"></progress>
+
+```
+<progress value="6" max="10"></progress>
+```
