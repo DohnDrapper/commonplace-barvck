@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "dae4bcc3353bd9fb",
+    "id": "36aaae7d7a834698",
     "type": "split",
     "children": [
       {
-        "id": "180a7d790db02dea",
+        "id": "e85caad556fe0f11",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "lectura tarot.md",
+            "file": "Para redactar en Discord.md",
             "mode": "source"
           }
         }
@@ -76,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lectura tarot.md",
+                "file": "Para redactar en Discord.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lectura tarot.md"
+                "file": "Para redactar en Discord.md"
               }
             }
           },
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lectura tarot.md",
+                "file": "Para redactar en Discord.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "180a7d790db02dea",
+  "active": "e85caad556fe0f11",
   "lastOpenFiles": [
+    "Para redactar en Discord.md",
     "lectura tarot.md",
     "Personal/Bolsas de trabajo.md",
     "Referencia Mark down.md",
@@ -127,7 +128,6 @@
     "2022.md",
     "Notas diarias/2021-10-26 - Organizar obsidian.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 27 TDA - Log.md"
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
   ]
 }
