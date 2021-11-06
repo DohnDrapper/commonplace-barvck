@@ -89,10 +89,38 @@ Libro terciario:
 - [ ] Desigualdad de derechos de la Mujeres
 	- [ ] Aborto
 	- [ ] Matrimonio
+
+
 - [ ] Derechos digitales y sus posibles repercusiones en el futuro
 	- [ ] Derecho al olvido
 	- [ ] Sobre una correcta legislación sobre Regulación de redes sociales
-- [ ] Derechos de autor sobre propieda intelectual intangible
-	- [ ] 
 
 
+- [ ] Derechos de autor sobre propiedad intelectual intangible
+	- [ ] Sobre unna regulación sobre los CC
+
+
+- [ ] Sobre la libertad en méxico
+	- [ ] Libertad de expresion
+
+- [ ] Derecho a la privacidad
+
+- [ ] Redes digitales
+	- [ ] Sobre el derecho en México en la era de la información
+
+- [ ] México y la necesidad de una justicia accesible economicamente
+
++ [ ] Derechos humanos en al era de la información: Sobre lo que se viene
+	+ [ ] El teletrabajo
+	+ [ ] Las relaciones parasociales
+	+ [ ] Derechos humanos es peligro.
+
+---
+
+#### Fuentes:
+
+[Freedom House](https://freedomhouse.org/country/mexico/freedom-world/2021)
+
+[Derechos digitales](https://www.derechosdigitales.org/wp-content/uploads/Internet-en-Mx-2016.pdf)
+
+[Derechos digitales](https://www.derechosdigitales.org/tipo_publicacion/publicaciones/)

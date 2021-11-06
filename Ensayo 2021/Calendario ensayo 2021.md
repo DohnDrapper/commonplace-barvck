@@ -42,6 +42,8 @@ Esqueleto
 \*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*\-\*
 
 
+"Ejecer al libertad en México es díficil."
+
  ---
  
 #### 6 de Noviembre:
