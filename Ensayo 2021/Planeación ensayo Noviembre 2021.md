@@ -116,7 +116,24 @@ Libro terciario:
 	+ [ ] Derechos humanos es peligro.
 
 
-+ [ ] Análisis de un articulo del código civil de guanjuato respecto de sus versiones anteriores 
++ [ ] Análisis de un articulo del código civil de guanjuato respecto de sus versiones anteriores
+
+
++ [ ] Sobre la necesidad de un acercamiento a la informática en el Derecho en el Derecho
+
+
++ [ ] _In dubio pro informatione:_ El derecho a la información en la era digital
+
+
++ [ ] El horizonte digital: Sobre la 4 generación de Derechos humanos en México: Anonimato
+
+
++ [ ] Sobre el derecho a la información en México
+
+
++ [ ] Principios constitucionales del Derecho Octavo y Décimo cuarto constitucional
+
+
 ---
 
 #### Fuentes:
