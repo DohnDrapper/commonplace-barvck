@@ -115,6 +115,8 @@ Libro terciario:
 	+ [ ] Las relaciones parasociales
 	+ [ ] Derechos humanos es peligro.
 
+
++ [ ] Análisis de un articulo del código civil de guanjuato respecto de sus versiones anteriores 
 ---
 
 #### Fuentes:
