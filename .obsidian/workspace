@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "a6d17b672aa92633",
+    "id": "dfbd9906a37cf58f",
     "type": "split",
     "children": [
       {
-        "id": "443f82244a90adff",
+        "id": "f25dd325241a4e38",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-11-07.md",
-            "mode": "source"
+            "file": "240820211841 - Sánchez Lozano Abogados.md",
+            "mode": "preview"
           }
         }
       }
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "joker",
+                "query": "mision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.0007801055908,
+    "width": 315,
     "collapsed": true
   },
   "right": {
@@ -78,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-07.md",
+                "file": "240820211841 - Sánchez Lozano Abogados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-11-07.md"
+                "file": "240820211841 - Sánchez Lozano Abogados.md"
               }
             }
           },
@@ -105,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-11-07.md",
+                "file": "240820211841 - Sánchez Lozano Abogados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "443f82244a90adff",
+  "active": "f25dd325241a4e38",
   "lastOpenFiles": [
+    "240820211841 - Sánchez Lozano Abogados.md",
+    "Rol/SDC/Sesión 4 SDC - Log.md",
+    "Rol/SDC/Sesión 3 SDC - Log.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "2021-11-07.md",
     "Notas diarias/2021-10-28 Odio Joker.md",
     "Notas - Watson.md",
     "Referencia Mark down.md",
-    "Formatos/Sesión 4 SDC - Log.md",
-    "Rol/SDC/Sesión 3 SDC - Log.md",
     "Para redactar en Discord.md",
-    "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
-    "Ensayo 2021/Calendario ensayo 2021.md",
-    "Rol/TDA/Planeación general TDA  1.md"
+    "Ensayo 2021/Planeación ensayo Noviembre 2021.md"
   ]
 }

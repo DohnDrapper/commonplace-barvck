@@ -26,7 +26,7 @@ _Fecha interna de la campaña: 14 de Marzo de 1934_
 + Cuando el party entra el templo mira como igual está lleno de serpeintes que se encuentran como congeladas. 
 	+ A la mitad de su camino tendrá que hacer uan tirada de Climb para poder escapar de ellas.
 
-+ El party puede ver el templo decorado con ditintos  motivos que no pueden entender pues se hallan en Naacal. Entre ellos pueden ver un volcán que está haciendo erupción, varios de entes humanoides pero con cabeza de sespiente que la parece se hallan, y en el cielo una agujero negro o un gran circulo.
++ El party puede ver el templo decorado con ditintos  motivos que no pueden entender pues se hallan en Naacal. Entre ellos pueden ver un volcán que está haciendo erupción, varios de entes humanoides pero con cabeza de serpiente que la parece se hallan, y en el cielo una agujero negro o un gran circulo.
 
 + Los heroes llegan a un puerta flanqueada por dos enormes serpientes con la cabeza a la mitad de la puerta que miran hacia la entrada. Al parecer peracen talladas con la misma piedra.
 	+ Ver como lo resuelven
