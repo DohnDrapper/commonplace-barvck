@@ -7,6 +7,7 @@ aliases:
 
 ---
 
+#### Chapter 1 Burn Down the Internet: Why the Online Left is Failing 
 
 ```ad-quote
 
@@ -31,6 +32,10 @@ pp.12
 
 Capitalismo realimo es la incapacidad para pensar fuera de la capacidad del capitalismo.
 
+Es muy claro ver esto, yo lo he visto en Instagram, siempre que alguein habla o critica al mismo, sale el bato que te contesta: "Estonces vete", como si esa respuesta produjera más solución.
+
+Lo que se relaciona un poco con Byun Chul Han, al ser nosotros mismos lo que perpetuamos esta economía.
+
 ```ad-quote
 Namely, that the left matches the right’s claim that America be made great again through a focus on individual grit by emphasizing the individual role we can all play in fostering a society managed for the benefit of the many, not the few. This would rise to the challenge of building a sense of purpose for the left that meets the heroic narrative of the right, predicated on the idea of dispelling enemy hordes and individually embodying the fate of the nation or race. Against this, what could
 be more heroic and necessary than having an individual role in creating the first society that is truly open to races and nations, while giving an opportunity for all to develop their talents through gainful employment? Sanders and Corbyn could even have doubled down on the idea of a bogeyman in the form of the super-rich, or the 1 per cent, as both Sanders and Corbyn did to some degree. 
@@ -40,7 +45,7 @@ pp. 14
 
 ```
 
-Bernie debió de apelar a un mencanismo distinto para ganerle a Trump.
+Bernie debió de apelar a un mencanismo distinto para ganerle a Trump. Como se mencion más adelante, en lugar buscar imitar sus protesta o apelar la voluntad individual debio apelar a la reflexión lenta.
 
 ```ad-quote
 
@@ -77,9 +82,39 @@ pp. 16
 
 ```
 
-El algoritmo no ayuda al provocar los efecos contrarios en la gente.
+El algoritmo no ayuda al provocar los efectos contrarios en la gente.
 
-==> SEGUIR PÁGINA 17
+```ad-quote
+
+It barely needs saying that if we are to use the internet to build a movement that will challenge the hegemony of major corporations we need to rewire it toward education, organization, and reflection. And to achieve this, we need memes that challenge the breakneck speed that platforms encourage us to browse at. It is for this reason I propose a “slow meme” movement that encourages use of the internet’s great resources in a considered way that challenges the data economy while building a community that can also function and meet offline. 
+
+pp. 17
+
+```
+
+Para contrarrestar el avance tan rápido y conn simbolos ya consolidados de la derecha, la ozquierda debe usar "el meme lento". Un meme que en lugar de ser de fácil consumo es un meme que busca una reflexión.
+
+```ad-quote
+
+In forging a new path, we have much to learn from historical absurdist and abstract movements such as Dada, Surrealism, Fluxus, Cubism, and Abstract Expressionism, that while facing down heinous right-wing and industrialist capitalist movements, sought
+answers in reflective works appealing to the subconscious or to some nonsensical abstract language that resisted the rationalist and capitalist injunction to produce ever more stuff, ever quicker. The efficacy of such movements can be seen in attempts to stifle them by totalitarian regimes or in the US government’s efforts to co-opt abstraction in the 1950s and 1960s, despite Pollock’s communism. 
+
+pp. 17
+
+```
+
+La izquierda contemporanea tiene que aprender de movimientos como el Dada, y Fluxus que lucharon contra el orden capitalista y movimientos afines.
+
+```ad-quote
+
+While this will rightly be seen as indicative of a brazenly benign strategy of undermining truth and encouraging QAnon fantasy on the part of the Republican elite, led by Trump, there is a more profound long-term trend underlying the events of January 6. Simply, the increasingly horizontalized diffusion of culture, giving people unprecedented access to images, texts, movies, music, and code, which they can enjoy, reconfigure, parody, and appropriate in their own social media publications (as “content”), has left a great expectancy. Everyone feels they now have the right to consume and relate information and anyone can be an arbiter of “truth.” Yet this has led to less, not more, truth, as the only thing that matters is the growth of data and of profit margins for a class of data owners and finance speculators. 
+
+pp. 18
+
+```
+
+Lo anterior responde a esa sensación de que al vivir en un cultura horizontal podemos tener acceso a imagenes y videos y producir "contenido" para compartir con nuestros conocidos al final lo que importa es la producción.
 
 ---
 
+Es como la ira rápida del "Joker", la solucion es salir a las calles a destruir cosas y dispararle a la gente que no te gusta como te trata.

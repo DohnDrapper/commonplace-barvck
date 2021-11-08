@@ -26,7 +26,7 @@ _Fecha interna campaña: 14 de Marzo de 1934_
 
 #### _Orden del día_
 
-1. Recordar cuantas cargas de dinamita tienen. ()
+1. Recordar cuantas cargas de dinamita tienen.
 2. Tirar la suerte que van a recuperar.
 3. Sergio mastica de diversas maneras.
 

@@ -23,10 +23,11 @@ Porque la respuesta a mi problema no es matar al tipo que me dice que soy un per
 
 Al final el Joker es solo otro loco que encierran en manicomio, un juguete más del poder contra el que dice que lucha.
 
+---
+
 Como diria Byun Chul Han:
 
 >Han advierte: nosotros mismos sostenemos el poder a través del uso de las redes sociales, del empleo de tarjetas bancarias, de la aceptación de que nos graben en casi cualquier lugar como viandantes, de nuestra no-resistencia ante los poderes económicos y los emporios empresariales, etc. Nos hemos convertido en el poder. No somos sus instrumentos: somos sus ejecutores.[^1]
-
 
 ---
 [^1]: https://www.filco.es/byung-chul-han-intolerancia-al-dolor/
