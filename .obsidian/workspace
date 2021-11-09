@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Blog/La vida de las mujeres.md",
-            "mode": "source"
+            "file": "Notas - Watson.md",
+            "mode": "preview"
           }
         }
       }
@@ -56,11 +56,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -76,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Blog/La vida de las mujeres.md",
+                "file": "Notas - Watson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Blog/La vida de las mujeres.md"
+                "file": "Notas - Watson.md"
               }
             }
           },
@@ -103,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Blog/La vida de las mujeres.md",
+                "file": "Notas - Watson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,15 +129,15 @@
   },
   "active": "b3502256832eeb48",
   "lastOpenFiles": [
+    "Notas - Watson.md",
+    "Referencia Mark down.md",
+    "Rol/TDA/Sesión 27 TDA - Log.md",
+    "Rol/TDA/TDA - A.md",
+    "Rol/TDA/Sesión 1 TDA - Log.md",
     "Blog/La vida de las mujeres.md",
     "Personal/Bolsas de trabajo.md",
     "2021-11-08.md",
     "240820211841 - Sánchez Lozano Abogados.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md",
-    "Rol/SDC/Sesión 3 SDC - Log.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "2021-11-07.md",
-    "Notas diarias/2021-10-28 Odio Joker.md",
-    "Notas - Watson.md"
+    "Rol/SDC/Sesión 4 SDC - Log.md"
   ]
 }
