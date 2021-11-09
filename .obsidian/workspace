@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "dfbd9906a37cf58f",
+    "id": "f73e0d9619f995fb",
     "type": "split",
     "children": [
       {
-        "id": "f25dd325241a4e38",
+        "id": "b3502256832eeb48",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "240820211841 - Sánchez Lozano Abogados.md",
-            "mode": "preview"
+            "file": "Blog/La vida de las mujeres.md",
+            "mode": "source"
           }
         }
       }
@@ -56,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240820211841 - Sánchez Lozano Abogados.md",
+                "file": "Blog/La vida de las mujeres.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "240820211841 - Sánchez Lozano Abogados.md"
+                "file": "Blog/La vida de las mujeres.md"
               }
             }
           },
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240820211841 - Sánchez Lozano Abogados.md",
+                "file": "Blog/La vida de las mujeres.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f25dd325241a4e38",
+  "active": "b3502256832eeb48",
   "lastOpenFiles": [
+    "Blog/La vida de las mujeres.md",
+    "Personal/Bolsas de trabajo.md",
+    "2021-11-08.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Rol/SDC/Sesión 4 SDC - Log.md",
     "Rol/SDC/Sesión 3 SDC - Log.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "2021-11-07.md",
     "Notas diarias/2021-10-28 Odio Joker.md",
-    "Notas - Watson.md",
-    "Referencia Mark down.md",
-    "Para redactar en Discord.md",
-    "Ensayo 2021/Planeación ensayo Noviembre 2021.md"
+    "Notas - Watson.md"
   ]
 }
