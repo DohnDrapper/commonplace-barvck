@@ -47,20 +47,37 @@ Los derechos de autor en la era digital y la legislacion mexicana: Una propuesta
 
 ---
 
+### Indice 2
+
 El horizonte digital: Sobre la cuarte generación de Derechos Humanos en México.
 
 "En los tiempos en que vivimos ya puede hablarse de una cuarta generación de derechos humanos: los digitales. Si bien puede argumentarse que son una extensión de los ya existentes su ejercicio cuenta con diversas implicaciones. Derivado de esto la legislación mexicana debe contemplar una manera de regularlo más no de legislarlo."
 
 1. El horizonte digital: Sobre la 4 generación de Derechos humanos en México
 	1. Introducción
-		1. Sobre como el internet ha cambiado nuestra vida.
+		1. Sobre como el internet ha cambiado nuestras vida.
 		2. Sobre el Covid-19 
+		3. Si bien la ley de comunicaciones regula el funcionamiento del internet en la parte técnica; nuncac habla de lso usuarios y sus derechos
 	2. Antecedentes
 		1. Sobre las tres generaciones anteriores de Derechos Humanos
-		2. Sobre porque los acpectos que diferecnia o definen al cuarta geneeración derechos humanos.
+		2. Sobre cuales son los aspectos que diferencian o definen la cuarta geneeración derechos humanos.
 		3. Sobre que derechos humanos pueden considerarse en la cuarta generación de Derechos Humanos.
-	3. 
+	3. Sobre la imperiosa necesidad de regular estos Derechos en la crisis que vivimos
+		1. El virus que vino a cambiarlo todo
+			1. Problematicas generales de Covid
+			2. La necesaria presencia digital
+		2. El teletrabajo como medio para salir a flote
+			1. Lo malo es estar disponible a todas horas
+		3. La generación app
+			1. La crisis en la educación en México
+		4. Sobre el entorno digital como reflejo del mundo
+			1. Libertad de expresión y protesta
+			2. Sobre el derecho a la información.
+	4. Sobre una propuesta de ley
 
+
+
+___
 
 + [ ] Derechos humanos en la era de la información: Sobre lo que se viene
 	+ [ ] El teletrabajo

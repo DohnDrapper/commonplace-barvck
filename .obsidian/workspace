@@ -1,15 +1,26 @@
 {
   "main": {
-    "id": "0eb2587d873b5922",
+    "id": "f6b35a585de984ef",
     "type": "split",
     "children": [
       {
-        "id": "c539d90cfe77e59f",
+        "id": "6e252892e8a69515",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Sobre el esqueleto u estructura del ensayo.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "fd8d5551eb9d6a55",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
             "mode": "source"
           }
         }
@@ -126,15 +137,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c539d90cfe77e59f",
+  "active": "6e252892e8a69515",
   "lastOpenFiles": [
     "Sobre el esqueleto u estructura del ensayo.md",
     "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
-    "Ensayo 2021/Calendario ensayo 2021.md",
+    "2021-11-07.md",
     "Notas - Watson.md",
+    "Ensayo 2021/Calendario ensayo 2021.md",
     "Blog/La vida de las mujeres.md",
     "Sobre el 2022.md",
-    "2021-11-07.md",
     "Referencia Mark down.md",
     "Rol/TDA/Sesión 27 TDA - Log.md",
     "Rol/TDA/TDA - A.md"

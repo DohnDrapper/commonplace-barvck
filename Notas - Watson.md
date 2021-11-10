@@ -25,7 +25,7 @@ pp. 11
 
 ```
 
-Se relaciona un poco con lo de Wisexrack del club de la pelea de que todo debe de tener un propodito y al finall es iposible escapar del capitalismo, pues de todo necesitas ser bueno u obtener un beneficio.
+Se relaciona un poco con lo de Wisecrack del club de la pelea de que todo debe de tener un proposito y al final es imposible escapar del capitalismo, pues de todo necesitas ser bueno u obtener un beneficio.
 
 <div align='center'>
 <h3> * </h3>
@@ -42,7 +42,7 @@ pp.12
 
 Capitalismo realimo es la incapacidad para pensar fuera de la capacidad del capitalismo.
 
-Es muy claro ver esto, yo lo he visto en Instagram, siempre que alguein habla o critica al mismo, sale el bato que te contesta: "Estonces vete", como si esa respuesta produjera más solución.
+Es muy claro ver esto, yo lo he visto en Instagram, siempre que alguein habla o critica al mismo, sale el bato que te contesta: "Entonces vete", como si esa respuesta produjera más solución.
 
 Lo que se relaciona un poco con Byun Chul Han, al ser nosotros mismos lo que perpetuamos esta economía.
 
@@ -112,7 +112,7 @@ pp. 17
 
 ```
 
-Para contrarrestar el avance tan rápido y con simbolos ya consolidados de la derecha, la ozquierda debe usar "el meme lento". Un meme que en lugar de ser de fácil consumo es un meme que busca una reflexión.
+Para contrarrestar el avance tan rápido y con simbolos ya consolidados de la derecha, la izquierda debe usar "el meme lento". Un meme que en lugar de ser de fácil consumo es un meme que busca una reflexión.
 
 &nbsp
 
