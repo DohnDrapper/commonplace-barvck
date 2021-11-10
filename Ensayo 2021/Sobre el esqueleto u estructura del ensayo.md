@@ -1,6 +1,8 @@
 ---
-alias:
-- Esqueleto ensayo
+alias: [Esqueleto ensayo]
+
+date: "09/11/2021"
+
 ---
 
 Sobre la necesidad de una regulación más no una normativa en las nuevas tecnologías
@@ -68,16 +70,50 @@ El horizonte digital: Sobre la cuarte generación de Derechos Humanos en México
 			2. La necesaria presencia digital
 		2. El teletrabajo como medio para salir a flote
 			1. Lo malo es estar disponible a todas horas
-		3. La generación app
-			1. La crisis en la educación en México
-		4. Sobre el entorno digital como reflejo del mundo
+		3. Sobre el entorno digital como reflejo del mundo
 			1. Libertad de expresión y protesta
 			2. Sobre el derecho a la información.
+		4. La generación app
+			1. La crisis en la educación en México
 	4. Sobre una propuesta de ley
-
-
+		1. Una ley anunciativa más no limitativa
+			1. Debe ser una ley flexible y que no sea obsoleto 
+			2. Debe partir de conceptos claros y aparit de ah´i ve su extensión en el mundo digital
+			3. Una ley con miras al futuro, no con ejemplos dle pasado.
+	5. Conclusiones
+		1. Es claro que en mexico ya se puede habalrse de una cuarta generacion de Derechos Humanos.
+		2. En México es imperioso una ley que regule los Derechos anteriores para proteger los derechos de quienes sehan visto afectados por al pandemia, de los que se han visto inmersos en él, y de lso jovenes que ven el internet como su habitat.
+		3. Si bien una ley que regula el internet serái un a tarea titánica. Es viable y necesaria
 
 ___
+
+### Indice 3
+
+La imperiosa necesidad de una ley que regule los DDHH en la era digital: Una propuesta
+
+"México "
+
+1. Introduccion
+	1. Sobre que regularía
+	2. Sobre como lo regularía
+	3. Sobre quien lo regularía
+2. Sobre que regularía
+	1. Sobre las tres generaciones anteriores de Derechos Humanos
+	2. Sobre que derechos humanos pueden considerarse en la cuarta generación de Derechos Humanos.
+	3. Sobre cuales son los aspectos que diferencian o definen la cuarta geneeración derechos humanos.
+3. Sobre como lo regularía
+	1. Sobre los conceptos y definiciones
+	2. Sobre los derechos y obligaciones
+	3. Sobre las propiedades intangibles
+4. Sobre quien lo regularia
+	1. Sobre
+5. Conclusiones
+
+Introduccion
+
+
+
+
 
 + [ ] Derechos humanos en la era de la información: Sobre lo que se viene
 	+ [ ] El teletrabajo

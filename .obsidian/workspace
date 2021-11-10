@@ -1,26 +1,15 @@
 {
   "main": {
-    "id": "f6b35a585de984ef",
+    "id": "52159fe4a423f1b1",
     "type": "split",
     "children": [
       {
-        "id": "6e252892e8a69515",
+        "id": "cf81e69a8ed5ed67",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Sobre el esqueleto u estructura del ensayo.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "fd8d5551eb9d6a55",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
+            "file": "Blog/Viajeros del tiempo.md",
             "mode": "source"
           }
         }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sobre el esqueleto u estructura del ensayo.md",
+                "file": "Blog/Viajeros del tiempo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sobre el esqueleto u estructura del ensayo.md"
+                "file": "Blog/Viajeros del tiempo.md"
               }
             }
           },
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sobre el esqueleto u estructura del ensayo.md",
+                "file": "Blog/Viajeros del tiempo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "6e252892e8a69515",
+  "active": "cf81e69a8ed5ed67",
   "lastOpenFiles": [
-    "Sobre el esqueleto u estructura del ensayo.md",
+    "Blog/Viajeros del tiempo.md",
+    "Blog/Demon slayer.md",
+    "Blog/Escuadrón Suicida (2021).md",
+    "Ensayo 2021/Calendario ensayo 2021.md",
+    "Ensayo 2021/Sobre el esqueleto u estructura del ensayo.md",
     "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
     "2021-11-07.md",
     "Notas - Watson.md",
-    "Ensayo 2021/Calendario ensayo 2021.md",
     "Blog/La vida de las mujeres.md",
-    "Sobre el 2022.md",
-    "Referencia Mark down.md",
-    "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Rol/TDA/TDA - A.md"
+    "Sobre el 2022.md"
   ]
 }

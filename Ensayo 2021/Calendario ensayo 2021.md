@@ -1,4 +1,10 @@
- ## Calendario ensayo 2021
+---
+aliases: [calendario ensayo 2021]
+
+date: "06/11/2021"
+---
+
+## Calendario ensayo 2021
  
 |Fecha|Día|Tarea|
 |---|---|---|

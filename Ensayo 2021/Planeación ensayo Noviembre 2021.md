@@ -1,6 +1,8 @@
 ---
-alias:
-- Planeación ensayo
+alias: [Planeacion ensayo]
+
+date: "05/11/2021"
+
 ---
 
 

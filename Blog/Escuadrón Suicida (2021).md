@@ -66,7 +66,8 @@ La javalina de Harley
   
 **La ultra violencia y James Gunn**
 - La Troma  
-- James Gunn sabe escribir un guión (linsay ellis payoff)  
+- James Gunn sabe escribir un guión (linsay ellis payoff)
+- El cine de autor contra cine corporativo
   
 **El doblaje latino**
 - Debo decir que he visto la película ya 3 veces doblada y subtitulada y de verdad el trabajo de "tropicalización" es genial.  
