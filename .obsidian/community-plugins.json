@@ -1,5 +1,4 @@
 [
-  "obsidian-git",
   "better-word-count",
   "note-refactor-obsidian",
   "obsidian-outliner",
@@ -8,5 +7,6 @@
   "obsidian-vault-statistics-plugin",
   "graph-analysis",
   "wikilinks-to-mdlinks-obsidian",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-git"
 ]

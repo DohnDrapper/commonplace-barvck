@@ -43,7 +43,7 @@ Tener una extensión de 15 cuartillas como mínimo y 20 como
 máximo, sin incluir: portada, índice y bibliografía.  
 
 • Deberá contener los siguientes apartados: a) Portada, b) índice,  
-c) introducción, d) cuerpo del ensayo y e) bibliograf ía.  
+c) introducción, d) cuerpo del ensayo y e) bibliografía.  
 
 • Escrito con letra Arial 12 e interlineado de 1.5, en párrafos justificados, con las páginas numeradas.
 
@@ -70,7 +70,7 @@ Titulo:
 
 Fecha de entrega: 12 de Noviembre de 2021
 
-Cuenta de palabras: 18 pagians mínimo.
+Cuenta de palabras: 18 paginas mínimo.
 
 ---
 
@@ -86,53 +86,59 @@ Libro terciario:
 
 #### Posibles temas para ensayo
 
-- [ ] Desigualdad de derechos de la Mujeres
+##### _Previstos no usados:_
+
+1. [x] Desigualdad de derechos de la Mujeres
 	- [ ] Aborto
 	- [ ] Matrimonio
 
+Si bien es un tema que podrái ser muy interesante, considero que la investigaciónq ue necesitarpai de hacerse requeriría muchos más timepo del que poseo en este momento.
 
-- [ ] Derechos digitales y sus posibles repercusiones en el futuro
-	- [ ] Derecho al olvido
-	- [ ] Sobre una correcta legislación sobre Regulación de redes sociales
-
-
-- [ ] Derechos de autor sobre propiedad intelectual intangible
+2. [ ] Derechos de autor sobre propiedad intelectual intangible
 	- [ ] Sobre unna regulación sobre los CC
 
+Si bien esrte tema me parece interesante. creo que de igual mmanera le investigación que necesitarái de hacer ocuparía más tiempo del que poseo.
 
-- [ ] Sobre la libertad en méxico
+3. [ ] Sobre la libertad en méxico
 	- [ ] Libertad de expresion
 
+Tema muchísimo my amplio que debo de delimitar de una manera clara, ¿Libertad de expresión digital? ¿Liberta de publicar  o de anonimato?
+
+
+4. [ ] Análisis de un articulo del código civil de Guanajuato respecto de sus versiones anteriores
+
+Este tema sería interesante sin embargo consideroe el tener que conseguir las ditintas versiones del código civil serái un reto de mucho tiempo.
+
+
+5. [ ] México y la necesidad de una justicia accesible economicamente
+	
+El tema tendría que revisarlo junto con un enfonque algo más de marxismo jurídico.
+
+
+6. [ ] Principios constitucionales del Archivo Octavo y Décimo cuarto constitucional.
+
+Un tema que si ebie suna manido deberái de cosiderar explorarlo.
+
+
+##### _Integrados:_
+
+- A. [ ] Derechos digitales y sus posibles repercusiones en el futuro
+- [ ] Derecho al olvido
+- [ ] Sobre una correcta legislación sobre Regulación de redes sociales
+
+Este tema considero puede integrarse en uno mayor. Pues es parte de lo mencionado.
+
+- B. [ ] Redes digitales
+- [ ] Sobre el derecho en México en la era de la información
 - [ ] Derecho a la privacidad
 
-- [ ] Redes digitales
-	- [ ] Sobre el derecho en México en la era de la información
+Más que un ensayo solo podría acomodarse entre las partes del ensayo principal.
 
-- [ ] México y la necesidad de una justicia accesible economicamente
++ C. [ ] Sobre la necesidad de un acercamiento a la informática en el Derecho
 
-+ [ ] Derechos humanos en al era de la información: Sobre lo que se viene
-	+ [ ] El teletrabajo
-	+ [ ] Las relaciones parasociales
-	+ [ ] Derechos humanos es peligro.
++ D. [ ] _In dubio pro informatione:_ El derecho a la información en la era digital
 
-
-+ [ ] Análisis de un articulo del código civil de guanjuato respecto de sus versiones anteriores
-
-
-+ [ ] Sobre la necesidad de un acercamiento a la informática en el Derecho en el Derecho
-
-
-+ [ ] _In dubio pro informatione:_ El derecho a la información en la era digital
-
-
-+ [ ] El horizonte digital: Sobre la 4 generación de Derechos humanos en México: Anonimato
-
-
-+ [ ] Sobre el derecho a la información en México
-
-
-+ [ ] Principios constitucionales del Derecho Octavo y Décimo cuarto constitucional
-
++ E. [ ] El horizonte digital: Sobre la 4 generación de Derechos humanos en México: Anonimato
 
 ---
 
@@ -143,3 +149,5 @@ Libro terciario:
 [Derechos digitales](https://www.derechosdigitales.org/wp-content/uploads/Internet-en-Mx-2016.pdf)
 
 [Derechos digitales](https://www.derechosdigitales.org/tipo_publicacion/publicaciones/)
+
+#### Quotes

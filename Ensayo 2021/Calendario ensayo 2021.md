@@ -17,7 +17,7 @@
 
 Esqueleto
 
-"Las nuevas tecnologias rebasan nuestras leyes actuales. LAs relaciones humanas han cambiado claramente, la manera de trabajar y producir lo ha hecho igual, así como la manera en la que somos vigilados. de ahpi la necesidad de una regulación clara y acorde."
+"Las nuevas tecnologias rebasan nuestras leyes actuales. Las relaciones humanas han cambiado claramente, la manera de trabajar y producir lo ha hecho igual, así como la manera en la que somos vigilados. de ahpi la necesidad de una regulación clara y acorde."
 
 1. introducción
 	1. Sobre el caso Joss Stop

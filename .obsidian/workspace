@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "f73e0d9619f995fb",
+    "id": "0eb2587d873b5922",
     "type": "split",
     "children": [
       {
-        "id": "b3502256832eeb48",
+        "id": "c539d90cfe77e59f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Notas - Watson.md",
-            "mode": "preview"
+            "file": "Sobre el esqueleto u estructura del ensayo.md",
+            "mode": "source"
           }
         }
       }
@@ -56,8 +56,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -78,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas - Watson.md",
+                "file": "Sobre el esqueleto u estructura del ensayo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas - Watson.md"
+                "file": "Sobre el esqueleto u estructura del ensayo.md"
               }
             }
           },
@@ -105,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas - Watson.md",
+                "file": "Sobre el esqueleto u estructura del ensayo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3502256832eeb48",
+  "active": "c539d90cfe77e59f",
   "lastOpenFiles": [
+    "Sobre el esqueleto u estructura del ensayo.md",
+    "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
+    "Ensayo 2021/Calendario ensayo 2021.md",
     "Notas - Watson.md",
+    "Blog/La vida de las mujeres.md",
+    "Sobre el 2022.md",
+    "2021-11-07.md",
     "Referencia Mark down.md",
     "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Rol/TDA/TDA - A.md",
-    "Rol/TDA/Sesión 1 TDA - Log.md",
-    "Blog/La vida de las mujeres.md",
-    "Personal/Bolsas de trabajo.md",
-    "2021-11-08.md",
-    "240820211841 - Sánchez Lozano Abogados.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md"
+    "Rol/TDA/TDA - A.md"
   ]
 }

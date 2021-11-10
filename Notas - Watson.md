@@ -27,7 +27,9 @@ pp. 11
 
 Se relaciona un poco con lo de Wisexrack del club de la pelea de que todo debe de tener un propodito y al finall es iposible escapar del capitalismo, pues de todo necesitas ser bueno u obtener un beneficio.
 
-&nbsp
+<div align='center'>
+<h3> * </h3>
+</div>
 
 ```ad-note
 
@@ -62,8 +64,7 @@ Bernie debió de apelar a un mencanismo distinto para ganerle a Trump. Como se m
 
 ```ad-note
 
-The meme production of the Yang Gang is just one incarnation of “shitposting,” which is essentially the practice of producing lo-fi montage images to deliberately disparage or undermine a cause. The tendency in itself has become more of an aesthetic than a
-political tactic, inspiring a descent into a trash visual culture whereby jokey, low resolution, and glitched productions are seen as inherently more valuable than the serious and polished output of the mainstream media. 
+The meme production of the Yang Gang is just one incarnation of “shitposting,” which is essentially the practice of producing lo-fi montage images to deliberately disparage or undermine a cause. The tendency in itself has become more of an aesthetic than a political tactic, inspiring a descent into a trash visual culture whereby jokey, low resolution, and glitched productions are seen as inherently more valuable than the serious and polished output of the mainstream media. 
 
 pp.15
 
