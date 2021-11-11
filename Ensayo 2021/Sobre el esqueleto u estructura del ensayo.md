@@ -55,7 +55,9 @@ El horizonte digital: Sobre la cuarte generación de Derechos Humanos en México
 
 "En los tiempos en que vivimos ya puede hablarse de una cuarta generación de derechos humanos: los digitales. Si bien puede argumentarse que son una extensión de los ya existentes su ejercicio cuenta con diversas implicaciones. Derivado de esto la legislación mexicana debe contemplar una manera de regularlo más no de legislarlo."
 
-1. El horizonte digital: Sobre la 4 generación de Derechos humanos en México
+[[Articulos primer borrador]]
+
+El horizonte digital: Sobre la 4 generación de Derechos humanos en México
 	1. Introducción
 		1. Sobre como el internet ha cambiado nuestras vida.
 		2. Sobre el Covid-19 
@@ -109,11 +111,9 @@ La imperiosa necesidad de una ley que regule los DDHH en la era digital: Una pro
 	1. Sobre
 5. Conclusiones
 
+---
+
 Introduccion
-
-
-
-
 
 + [ ] Derechos humanos en la era de la información: Sobre lo que se viene
 	+ [ ] El teletrabajo
@@ -137,4 +137,4 @@ Introduccion
 
 + [ ] _In dubio pro informatione:_ El derecho a la información en la era digital
 
-
+---
