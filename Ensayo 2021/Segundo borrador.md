@@ -1,9 +1,9 @@
 
-## Primer borrador
+## Segundo borrador
 
 ---
 
-### Antecedentes
+### Posible introduccion
 
 Durante la historia de la humanidad hemos pasado por disitintas epocas y peridodos histroicos. Hemos avanzado de la edad de piedra, un perido relativamente primitivo; al feudalismo, un periodo marcado por las relaciones de producción entre señores feudales y siervos; o la era pos industrial basada en la economía de servicios. Lo anterior trayendo cambios que son omposibels de revertir.
 
@@ -17,7 +17,20 @@ Es claro ha surgido nuevos derechos y obligaciones que deben reconocerse. El enc
 
 ### DDHH
 
-Hablar de un nuevo grupo de Derechos Huumanos resulta algo complicado. Las tres olas de Derechos Humasno obedecen aun criterio objetivo de clasificasión o a un elemento que noes permita diferenciarlos de la ola anterior. 
+Hablar de un nuevo grupo de Derechos Huumanos resulta algo complicado. Empecemos por establecer que si bien las clasificacioens de lso derechos humanso varían de fuente a fuente, si existe una teroría qu eprodminapor sobre las demás. 
+
+Susana Nuñez Palacios en su ensayo "Clasificación de los derechos humanos" (1988), lo expone de la siguiente manera:
+
+"[...] 
+La clasificación que se maneja de una manera más general cada vez es la de los derechos de la primera, segunda y tercera generación, esta clasificación tiene que ver con la expansión de los derechos humanos** en su contenido. Los derechos civiles y políticos corresponden a la primera generación, los económicos, sociales
+y culturales son los de la segunda y los de solidaridad son de la tercera generación. pág. 106[^1]
+[...]"
+
+Como se enuncia aquellos derechos que son considerados inherentes al hombre en las constituciónes como base del Estado Moderno: derechos a la vida, derecho a al integridad, derecho a la libertad, etc., son los de la llamada Primera Generación. Podemos notar que estos derechos en  palicacion son individuales.
+
+En la Segunda Generación se habla del siguiente paso en el desarrollo, pues contempla aquellos que buscan lograr condiciones de vida dignas en el abito social, economico y cultural. 
+
+LA tercera generación surge de manera reciente. Esta generación contempla en su aplicación derechos que afectan a varios individuos o a un colectivo social. El más representativo es el derecho a un M
 
 Atendiendo a lo expuesto por Riofrio J., las olas de derechos humaso deben obedecer dos criterios: un criterio objetivo y un criterio subjetivo.  La primera ola refirmó la individualidad (vida, integridad física, a la propiedad), la segunda ola aseguró derechos de grupoos de personas (empleo, seguridad social cultura) y la tercer ola protegió a grupos especificos (ambiente, etnias,).
 
@@ -59,12 +72,6 @@ Derivado de las caracteristicas anteriores, podemos destacar como derehos humano
 Con el surgimiento del COVID 2019, la vida de todos los habitantes de la tierra sufrió una sacudida. Se impusieron aislameitos forzosos en la mayoría de los países, medidas de restricción para grandes grupos y espacios cerrados, y prohibiciones varias. 
 
 Lo anterior llevó a tener que cambiar la manera en que la vida se llevaba a cabo, auna mut neesaria presencia digital. Las convivecias con las persoans se hicieron a través de programas especializados y redes sociales. Y la paqueteria fue clave para poder obtener productos.
-
-	En el entorno laboral aparecio la figura del teletrabajo, que si bien ya existía, en este periodo se volvió ubicua. Era imposible trabajar en entornos cerrados como las oficinas comunes, o restaurantes. 
-
-	Lo anterior trajo tanot consecuenias malas como buenas. Si en mexico ya existe la cultura de "ponerse al camiseta" lo anteior aumento con el llamado "micro managing", las itermianbles llamadas de zoom, y el no fin dela jornada de trabaoj virtual. 
-
-	Es claro que si bien ya existe un regulación de la jornada, debería tomarse en cuenta.
 
 El entorno digital resulta un reflejo del real. Pues acciones tomadas en uno afectan al otro, y viceversa.  De ahí que el espacio digital este palagado de conflictos y discusiones sobre situaciones del mutnodo real y vicecersa.
 
@@ -120,5 +127,6 @@ Si bien una ley que regula el internet serái un a tarea titánica. Es viable y 
 
 
 ---
+[^1]: 
 
-
+ 

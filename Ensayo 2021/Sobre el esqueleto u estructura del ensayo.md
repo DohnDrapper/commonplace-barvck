@@ -137,4 +137,9 @@ Introduccion
 
 + [ ] _In dubio pro informatione:_ El derecho a la información en la era digital
 
++ [ ] México es el buque insignia del contenido digital en indioma español.
+
+"Méxioc deberá dei ser el princial pís en materia de legislacion digital en México."
+
+
 ---
