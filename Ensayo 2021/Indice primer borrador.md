@@ -12,11 +12,11 @@ El horizonte digital: Sobre la 4 generación de Derechos humanos en México
 		1. Problematicas generales de Covid
 		2. La necesaria presencia digital
 	2. El teletrabajo como medio para salir a flote
-		1. Lo malo es estar disponible a todas horas
-	3. Sobre el entorno digital como reflejo del mundo
+	3. Lo malo es estar disponible a todas horas
+	4. Sobre el entorno digital como reflejo del mundo
 		1. Libertad de expresión y protesta
 		2. Sobre el derecho a la información.
-	4. La generación app
+	5. La generación app
 		1. La crisis en la educación en México
 4. Sobre una propuesta de ley
 	1. Una ley anunciativa más no limitativa

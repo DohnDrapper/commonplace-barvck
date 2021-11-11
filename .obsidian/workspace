@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "1888735bac5fe895",
+    "id": "b9de1da175396e47",
     "type": "split",
     "children": [
       {
-        "id": "411789e79ab2fd89",
+        "id": "23d1dd633f0ebf5c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ensayo 2021/Articulos primer borrador.md",
+            "file": "Ensayo 2021/Indice primer borrador.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ensayo 2021/Articulos primer borrador.md",
+                "file": "Ensayo 2021/Indice primer borrador.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ensayo 2021/Articulos primer borrador.md"
+                "file": "Ensayo 2021/Indice primer borrador.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ensayo 2021/Articulos primer borrador.md",
+                "file": "Ensayo 2021/Indice primer borrador.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "411789e79ab2fd89",
+  "active": "23d1dd633f0ebf5c",
   "lastOpenFiles": [
-    "Ensayo 2021/Articulos primer borrador.md",
-    "Untitled.md",
+    "Ensayo 2021/Indice primer borrador.md",
+    "Ensayo 2021/Primer borrador.md",
+    "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
     "Ensayo 2021/Sobre el esqueleto u estructura del ensayo.md",
     "Rol/TDA/Sesión 27 TDA - Log.md",
     "Blog/Viajeros del tiempo.md",
     "Blog/Demon slayer.md",
     "Blog/Escuadrón Suicida (2021).md",
     "Ensayo 2021/Calendario ensayo 2021.md",
-    "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
     "2021-11-07.md"
   ]
 }
