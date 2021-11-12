@@ -3,6 +3,14 @@
 
 ---
 
+### Epigrafe
+
+"Are we being watched by the apps and devices we use? Yes, but so are our politicians, leading to greater transparency. Are we subject to a constant bombardment of images and information? Yes, but we can also all make and disseminate info and images constantly. Are we constantly making money for the capitalist system? Yes, but we have the tools to monetize our own creative output like never before. The list of simultaneous gains and losses goes on and on."
+
+Watson, Mike (2021) pp. 22
+
+
+
 ### Posible introduccion
 
 Durante la historia de la humanidad hemos pasado por disitintas epocas y peridodos histroicos. Hemos avanzado de la edad de piedra, un perido relativamente primitivo; al feudalismo, un periodo marcado por las relaciones de producción entre señores feudales y siervos; o la era pos industrial basada en la economía de servicios. Lo anterior trayendo cambios que son omposibels de revertir.
@@ -17,30 +25,39 @@ Es claro ha surgido nuevos derechos y obligaciones que deben reconocerse. El enc
 
 ### DDHH
 
-Hablar de un nuevo grupo de Derechos Huumanos resulta algo complicado. Empecemos por establecer que si bien las clasificacioens de lso derechos humanso varían de fuente a fuente, si existe una teroría qu eprodminapor sobre las demás. 
+#### Sobre las tres generaciones anteriores de Derechos Humanos
+
+Hablar de un nuevo grupo de Derechos Huumanos resulta algo complicado. Empecemos por establecer que si bien las clasificacioens de lso derechos humanso varían de fuente a fuente, si existe una teroría que predomina por sobre las demás. 
 
 Susana Nuñez Palacios en su ensayo "Clasificación de los derechos humanos" (1988), lo expone de la siguiente manera:
 
 "[...] 
-La clasificación que se maneja de una manera más general cada vez es la de los derechos de la primera, segunda y tercera generación, esta clasificación tiene que ver con la expansión de los derechos humanos** en su contenido. Los derechos civiles y políticos corresponden a la primera generación, los económicos, sociales
-y culturales son los de la segunda y los de solidaridad son de la tercera generación. pág. 106[^1]
-[...]"
+La clasificación que se maneja de una manera más general cada vez es la de los derechos de la primera, segunda y tercera generación, esta clasificación tiene que ver con la expansión de los derechos humanos** en su contenido. Los derechos civiles y políticos corresponden a la primera generación, los económicos, sociales y culturales son los de la segunda y los de solidaridad son de la tercera generación. pág. 106[^1]
+[...]" 
 
-Como se enuncia aquellos derechos que son considerados inherentes al hombre en las constituciónes como base del Estado Moderno: derechos a la vida, derecho a al integridad, derecho a la libertad, etc., son los de la llamada Primera Generación. Podemos notar que estos derechos en  palicacion son individuales.
+Esta clasificacion es aceptada por la doctrina en general y por los Organismos Internacionales, de ahí su preminencia. 
 
-En la Segunda Generación se habla del siguiente paso en el desarrollo, pues contempla aquellos que buscan lograr condiciones de vida dignas en el abito social, economico y cultural. 
+Cpmplementando lo anterior podemos citar igual lo expuesto por Riofrio J. (2014) [^2], las olas de derechos humanos deben obedecer dos criterios: un criterio objetivo  y un criterio subjetivo. Primero, hablar de criterio objetivo refiere a un criterio que los define. Segundo, hablar de un criterio subjetivo es el sector de la sociedad al que amplia o asegura su proetección. 
 
-LA tercera generación surge de manera reciente. Esta generación contempla en su aplicación derechos que afectan a varios individuos o a un colectivo social. El más representativo es el derecho a un M
+La primera ola refirmó la individualidad (criterio objetivo). Incluye quellos derechos que son considerados inherentes al hombre en las constituciónes base del Estado Moderno (criterio subjetivo): derechos a la vida, derecho a al integridad, derecho a la libertad, etc., son los de la llamada Primera Generación. .
 
-Atendiendo a lo expuesto por Riofrio J., las olas de derechos humaso deben obedecer dos criterios: un criterio objetivo y un criterio subjetivo.  La primera ola refirmó la individualidad (vida, integridad física, a la propiedad), la segunda ola aseguró derechos de grupoos de personas (empleo, seguridad social cultura) y la tercer ola protegió a grupos especificos (ambiente, etnias,).
+En la Segunda Generación se habla del siguiente paso en el desarrollo, pues contempla aquellos que buscan lograr condiciones de vida dignas en el ambito social (objetivo), economico y cultural.La segunda generación aseguró derechos de grupos de personas: empleo, seguridad social cultura (usbjetivo).
 
-En este mismo sentido postula que la cuarta ola de Derechos Humanos cumpleo con ambos criterios. En cunato al objetivo que por un lado su aparación obedecer aun entorno nuevo: _el digital_. Y encuato al subejtivo por reivindicar al grupo de los cibrnautas
+La Tercera Generación surge de manera reciente. Esta generación contempla en su aplicación derechos que difusos o que afectan a varios individuos (objetivo). La tercer ola protegió a grupos especificos; ambiente, etnias (subjetivo).
 
-En la actualidad el porcentaje tal tiene acceso a internet en su casa. De ese porcentaje un porcentaje tal lo usa para trabajar o para ir ala escuela. Un porcentaje tal lo usa de manera activa durante el día. 
+En este mismo sentido Riofrío J. postula que la cuarta ola (así la denomina el mísmo) de Derechos Humanos ya ha aparecido y cumple con ambos criterios. Por un lado en cuanto al criterio objetivo su aparación obedece a un entorno nuevo: _el internet_ del que se habalra mas a profundidad más adelante. En cuanto al subjetivo por que intenta proteger un nuevo colectivo: los cibernautas.
 
-El entorno del internet ya es en sí mismo una realidad alterna de la vida real. 
+### El ciberespacio
 
-Louise Drulhe en su "Critical Atlas of Internet", realiza un analisis del internet que produjo 15 hipotesis de su manera de funcionary de sus consecuencias socio politicas. 
+La Fundéu se refiera al temrino _ciber-_ de la siguitne manera: "El elemento compositivo ciber– significa ‘cibernético’ y en el diccionario académico aparecen: ciberespacio y sus derivados ciberespacial, cibernauta, cibernética y cibernético. Por lo que podríaos deducir que ciberbauta es aquel que navega por la Internet. [^3] 
+
+Según estudios de la Asociación de Internet MX [^4]:
+
++ al 2020 existen 84.1 millones de internautas en nuestro país. 
++ Lo anterior representa 72.0% de la población de seis años o mas. 
++ En el último año 73% de los usuarios reporte haber realizado llamadas en línea.= pp. 18 =, tanto para realizar teletrabajo como para asisitir a clases en línea. 
+
+El entorno del internet ya es en sí mismo una realidad anexa de la vida real. Lo anteriore deido a las caracteristicas que hacen especial. Louise Drulhe en su "Critical Atlas of Internet", realiza un analisis del internet que produjo 15 hipotesis de su manera de funcionar y de sus consecuencias socio politicas. 
 
 + Destaca entre ellas su concepto de _"soncrorización"_ que describe el concepto de sincronizacion de tiempo pero aplicado al espacio. Es decir, si la sincronizacion son eventos temorales sucediendo al mismo tiempo, la sincrorizacion son espacios concentrados en un solo punto. El internet concentra todo el espacio terreste en si mismo.
 
@@ -55,6 +72,8 @@ Louise Drulhe en su "Critical Atlas of Internet", realiza un analisis del intern
 + Una computadora no prioriza una información en particular, ni toma registro de ella, no la altera, ni toma registro de su destino o inicio. Esa es la llamada neutralidad de la red.
 
 Las anteriores caracteristicas del internet representan oportunidades en el area del derecho que no sean cubierto y que generan conflicto en el mundo actual.
+
+Checar aqupi otra clasificacion dsititna de la del artículo primero.
 
 Derivado de las caracteristicas anteriores, podemos destacar como derehos humanos perteneiceintes a esta varios importantes:
 
@@ -127,6 +146,10 @@ Si bien una ley que regula el internet serái un a tarea titánica. Es viable y 
 
 
 ---
-[^1]: 
+[^1]: Nuñez, P. (1998, abril). Clasificación de los Derechos Humanos. Derechos humanos, 30, 106. 11/11/2021, De https://bit.ly/3n9Rroh Base de datos.
 
- 
+[^2]:Riofrío, J. (2014). La cuarta ola de Derechos Humanos: los derechos digitales. _Revista Latinoamericana de Derechos Humanos_, 25, 15 - 45. 10/11/2021, De https://biblioteca.corteidh.or.cr/documento/68770 Base de datos.
+
+[^3]: García, M. (2014). El español nuestro. 11/11/2021, de Fundéu RAE Sitio web: https://bit.ly/3wC26eu
+
+[^4]: Asociación de Internet MX. (2021, Mayo). 17° Estudio sobre los Hábitos de los Usuarios de Internet en México 2021. 11/11/2021, de Asociación de Internet MX Sitio web: https://bit.ly/3DcefZX
