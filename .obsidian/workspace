@@ -13,6 +13,28 @@
             "mode": "source"
           }
         }
+      },
+      {
+        "id": "738755efbda53b2b",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Referencias ensayo 2021.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "aa74da48386834ec",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Libros/Notas - Watson.md",
+            "mode": "source"
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -39,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bolsonaro",
+                "query": "horizontal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,14 +150,14 @@
   "active": "b213ce2a0d2ecf03",
   "lastOpenFiles": [
     "Ensayo 2021/Segundo borrador.md",
+    "Libros/Notas - Watson.md",
+    "Referencias ensayo 2021.md",
     "Ensayo 2021/Indice primer borrador.md",
     "Ensayo 2021/Primer borrador.md",
-    "Libros/Notas - Watson.md",
     "Libros/020320210339 - El nombre de la rosa.md",
     "Libros/020320210320 - Evangelio segun Jesuscristo.md",
     "Ensayo 2021/Sobre el esqueleto u estructura del ensayo.md",
     "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
-    "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Blog/Viajeros del tiempo.md"
+    "Rol/TDA/Sesión 27 TDA - Log.md"
   ]
 }
