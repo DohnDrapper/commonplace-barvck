@@ -144,13 +144,13 @@ Lo anterior llevó a tener que cambiar la manera en que la vida se llevaba a cab
 
 El entorno digital resulta un reflejo del real. Pues acciones tomadas en uno afectan al otro, y viceversa.  De ahí que el espacio digital este plagado de conflictos y discusiones sobre situaciones del mutnodo real y vicecersa.
 
-Lo establece Mike Watson (2021) [^8], al permitir el internet un acceso horizontal a la cultura, el da al ciudadadno común una capacidad sin precedentes para obtener impagenes, textos, etcetera y hacer de ellos lo que les parezca mejor ya sea una parodia o apropiarse de la cultura a su muy particular manera.
+Al permitir el internet un acceso horizontal a la cultura, el da al ciudadadno común una capacidad sin precedentes para obtener impagenes, textos, etcetera y hacer de ellos lo que les parezca mejor ya sea una parodia o apropiarse de la cultura a su muy particular manera (Watson, 2002, pp.18) [^8].
 
-Debido a que en el Internet el acceso a imagenes y medios diversos es horizontal ha democratizado al creaciónde contenido. Los usuarios han tomado los espacios digitales ocmo un medio de expresion des us visiones tanto politicas coomo cultrales, produciendo contenido de diversas formas.
+Debido a que en el Internet el acceso a imagenes y medios diversos es horizontal ha democratizado la creaciónde contenido. Los usuarios han tomado los espacios digitales ocmo un medio de expresion des us visiones tanto politicas coomo cultrales, produciendo contenido de diversas formas.
 
 ### El México y el Internet
 
-Según estudios de la Asociación de Internet MX (2019) [^8], el uso de Internet y la cantidad de Intenautas/cibernautas, en nuestro país solo tiende a la alza con el paso del tiempo:
+Según estudios de la Asociación de Internet MX (2019) [^9], el uso de Internet y la cantidad de Intenautas/cibernautas, en nuestro país solo tiende a la alza con el paso del tiempo:
 
 	" [...]
 	México alcanza un 71% de penetración entre la población de personas de 6 años en adelante, con 79.1 millones de usuarios conectados.
@@ -183,10 +183,10 @@ Comparando estas estadisticas con las porporcionadas por este mismo estudio pero
 
 	pp. 22
 
-Asociación de Internet MX (2021) [^9]
+Asociación de Internet MX (2021) [^10]
 [...]"
 
-Además, México es el buque insignia del contenido en indioma español. México (aquí citar a Ophelia pastrana) tiene una base de intenauts de por lo menso  tal cantidad. Mientras España posee un total de tal cantidad de cibernautas, seguido de tal apís y tal país. Además Lusisitocomunica, Yuyacst y Kimberly Loaiza, los tres canales en español con más suscriptores a nivel mundial.
+Además, México ocupa el segundo lugar en México el buque insignia del contenido en indioma español. México (aquí citar a Ophelia pastrana) tiene una base de intenauts de por lo menso  tal cantidad. Mientras España posee un total de tal cantidad de cibernautas, seguido de tal apís y tal país. Además Lusisitocomunica, Yuyacst y Kimberly Loaiza, los tres canales en español con más suscriptores a nivel mundial.
 
 Tambien debemos de reccordar que la generación más joven, la llamada Genración App es una genración de nativos digitales. Los miembros de esta generación nacidos a partir del año tal, no concocieron el mundo antes de la existencia de los telefonos inteligentes y al ahora omnipresente interconectividad.
 
@@ -267,6 +267,6 @@ Si bien una ley que regula el internet serái un a tarea titánica. Es viable y 
 
 [^8]: Watson, M. (2002). _The memeing of mark fisher how the frankfurt school foresaw capitalist realism and what to do about it_. Zero books.
 
-Asociación del Internet MX. (2019, 31 de julio). _15° estudio sobre los hábitos de los usuarios de internet en méxico 2018_. https://www.asociaciondeinternet.mx/estudios/habitos-de-internet201. [https://bit.ly/3wDE8j3](https://bit.ly/3wDE8j3)
+[^9]:Asociación del Internet MX. (2019, 31 de julio). _15° estudio sobre los hábitos de los usuarios de internet en méxico 2018_. https://www.asociaciondeinternet.mx/estudios/habitos-de-internet201. [https://bit.ly/3wDE8j3](https://bit.ly/3wDE8j3)
 
-[^9]: Asociación de Internet MX. (2021, Mayo). 17° Estudio sobre los Hábitos de los Usuarios de Internet en México 2021. 11/11/2021, de Asociación de Internet MX Sitio web: https://bit.ly/3DcefZX
+[^10]: Asociación de Internet MX. (2021, Mayo). 17° Estudio sobre los Hábitos de los Usuarios de Internet en México 2021. 11/11/2021, de Asociación de Internet MX Sitio web: https://bit.ly/3DcefZX
