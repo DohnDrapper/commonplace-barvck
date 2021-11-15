@@ -17,6 +17,13 @@ kanban-plugin: basic
 - [ ] Queridos camaradas - Andréi Konchalovski (2020)
 - [ ] Cat's eye (1985)
 - [ ] Tales from the Darkside: The Movie (1990)
+- [ ] Queridos camaradas 2020 Andrei Konchalovski
+- [ ] https://documentaryheaven.com/tiktoks-dark-side/
+- [ ] [https://documentaryheaven.com/what-really-happened-in-wuhan/](https://documentaryheaven.com/what-really-happened-in-wuhan/)
+- [ ] Censor 2021
+- [ ] Mad god 2021
+- [ ] Man bites dog
+- [ ] Sekimatsu Occult Gaukin
 
 
 ## Documentales

@@ -1,15 +1,15 @@
 {
   "main": {
-    "id": "6959d02454e73862",
+    "id": "89e007c541019740",
     "type": "split",
     "children": [
       {
-        "id": "a3f162f3a95213d9",
+        "id": "e7516c6aa074021a",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "2021-11-12.md",
+            "file": "Untitled.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021-11-12.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021-11-12.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021-11-12.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "a3f162f3a95213d9",
+  "active": "e7516c6aa074021a",
   "lastOpenFiles": [
-    "2021-11-12.md",
-    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
-    "Enviado a concurso ensayo 2021.md",
-    "Ensayo 2021/Segundo borrador.md",
-    "Ensayo 2021/Indice primer borrador.md",
-    "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
-    "Ensayo 2021/Calendario ensayo 2021.md",
-    "Libros/Notas - Watson.md",
-    "Referencias ensayo 2021.md",
-    "Ensayo 2021/Primer borrador.md"
+    "Untitled.md",
+    "141120213020 - Rick y Morty.md",
+    "Libros/080320210244 - La conquista de la felicidad.md",
+    "Personal/Para ver.md",
+    "Libros/13112021 - Memeing Mark Fisher.md",
+    "Artículos/13112021 - Los dank memes, la reacción a una Internet invivible.md",
+    "Artículos/030420210628 -  What pro wrestling can teach us about the quest for truth.md",
+    "Blog/030320210338.md",
+    "Notas diarias/2021-11-12 - Ensayo 2021.md",
+    "Notas diarias/2021-11-07 - Sobre el Joker II.md"
   ]
 }

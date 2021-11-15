@@ -12,6 +12,7 @@ aliases:
 [[#Capítulo 2 The Work of Art in the Age of the Subscription Economy]]
 [[#Capítulo 3 Adorno and Horkheimer Elements of QAnon]]
 
+[[]]
 
 ---
 
@@ -277,4 +278,13 @@ Aunque lo anterior no significa que las elites esten alentando la expresión, a�
 &ensp;
 
 ### Capítulo 3 Adorno and Horkheimer: Elements of QAnon 
+
+
+
+---
+
+Algunos artpciulso de referencia:
+
+[[13112021 - Los dank memes, la reacción a una Internet invivible#^21f5c1]] :
+
 
