@@ -17,12 +17,6 @@
 
 ---
 
-Para cambiar el currículum a uno enfocado:
-
-https://www.linkedin.com/jobs/view/2771882052/?eBP=JOB_SEARCH_ORGANIC&refId=pJdIwjiDhtGATWJ7pd7weg%3D%3D&trackingId=t2AEuBS8IlWf7hAtPPgabw%3D%3D&trk=flagship3_search_srp_jobs
-
----
-
 Habilidades:
 
 Excel
