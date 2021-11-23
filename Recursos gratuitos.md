@@ -26,7 +26,6 @@ Youtube (Música que solo pide acreditación en el video)
 + [Cryo Chamber](https://www.youtube.com/c/cryochamberlabel/featured)
 + [FreeMusic109 - No Copyright Music](https://www.youtube.com/channel/UCpCICmVGoV3Hxe9zC4W7IjQ)
 	
-
 Youtube (Algunas con Licencia) 
 + [Jacob Lizotte](https://www.youtube.com/user/Thrasher726)
 + [Aim To Head Official](https://www.youtube.com/channel/UC1KJEk-EZMmDF9DJKMK5OCQ)
@@ -40,7 +39,9 @@ Canales de Youtube (Efectos)
 + [AV Productions](https://www.youtube.com/user/JustAudio2008/videos)
 
 ---
-### Imágenes 
+### Imágenes
+
+Imágenes Creative Commons
 + [CC del Met](https://www.metmuseum.org/art/collection)
 + [CC de la Galeria Nacional de Dinamarca](https://www.smk.dk/es/)
 + [CC del Rijksstudio](https://www.rijksmuseum.nl/en)
@@ -53,3 +54,23 @@ Canales de Youtube (Efectos)
 + [Visual Freedom](https://www.youtube.com/channel/UCBF3PzstDFVBCxb6RwHJfYQ)
 
 ---
+
+### Libros
+
++ [Steal this book](http://tenant.net/Community/steal/steal.html#2.01.0)
++ [Freeditoral](https://freeditorial.com/)
++ 
+
+
+
+---
+
+### DIY
+
+
+---
+
+### Cursos Online
+
++ [Taquigrafía](http://www.mailxmail.com/curso-taquigrafia)
++ [Mecanografía](https://www.mecanografia-online.com/)
