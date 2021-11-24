@@ -39,6 +39,7 @@ Canales de Youtube (Efectos)
 + [AV Productions](https://www.youtube.com/user/JustAudio2008/videos)
 
 ---
+
 ### Imágenes
 
 Imágenes Creative Commons
@@ -50,17 +51,28 @@ Imágenes Creative Commons
 ---
 
 ### Video
+
+Video sin Derechos reservados
 + [NoCopyrightVideoHD](https://www.youtube.com/channel/UC0T9mnsMtb9X0SGX3Uy1hew)
 + [Visual Freedom](https://www.youtube.com/channel/UCBF3PzstDFVBCxb6RwHJfYQ)
+
+Ensayos
++ [Archivo Centro de Cultura Contemporanea de Barcelona](https://www.cccb.org/es/multimedia/listas-reproduccion)
 
 ---
 
 ### Libros
 
+Español
++ [70 libros sobre feminismo](https://malsalvaje.com/2018/10/05/megapost-70-libros-gratuitos-sobre-feminismo-cultura-y-estudios-de-genero/) ~~algunos caidos~~
++ [Elejandría](https://www.elejandria.com/)
++ [Lectulandia](https://www.lectulandia.co/)
++ [OpenLibra](https://openlibra.com/es/)
+
+Inglés
++ [The Anarchist library](https://theanarchistlibrary.org/special/index)
 + [Steal this book](http://tenant.net/Community/steal/steal.html#2.01.0)
 + [Freeditoral](https://freeditorial.com/)
-+ 
-
 
 
 ---
@@ -74,3 +86,33 @@ Imágenes Creative Commons
 
 + [Taquigrafía](http://www.mailxmail.com/curso-taquigrafia)
 + [Mecanografía](https://www.mecanografia-online.com/)
++ [C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989)
+
+
+---
+
+### Juegos de mesa
+
++ [Jot Down](https://www.jotdown.es/2020/03/descarga-este-juego-de-mesa-gratuito-y-quedateencasa/)
+
+
+---
+
+### Videojuegos
+
++ [Ren'Py (Motor de novela visual)](https://www.renpy.org/)
+
+
+---
+
+### Audio
+
+Programas de grabación de audio
++ [Cleanfeed](https://cleanfeed.net/)
+
+
+---
+
+### Varios
+
+[Calendarios](https://incompetech.com/gallimaufry/)
