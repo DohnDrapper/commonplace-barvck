@@ -87,6 +87,7 @@ Inglés
 + [Taquigrafía](http://www.mailxmail.com/curso-taquigrafia)
 + [Mecanografía](https://www.mecanografia-online.com/)
 + [C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989)
++ [Odin project](https://www.theodinproject.com/)
 
 
 ---

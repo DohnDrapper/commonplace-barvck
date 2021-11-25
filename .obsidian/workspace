@@ -1,10 +1,10 @@
 {
   "main": {
-    "id": "5a4a9ec3d93ae07d",
+    "id": "80f594f96acd11b4",
     "type": "split",
     "children": [
       {
-        "id": "51506b8102d0cb88",
+        "id": "26e8e517223f9852",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -39,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bolill",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -56,7 +56,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -111,7 +112,7 @@
             }
           },
           {
-            "id": "9082ca9e40a07877",
+            "id": "2c8a412bcce3f47a",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -125,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "51506b8102d0cb88",
+  "active": "26e8e517223f9852",
   "lastOpenFiles": [
     "Recursos gratuitos.md",
-    "Personal/Bolsas de trabajo.md",
-    "Formatos/Sesión 5 SDC - Log.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md",
-    "Rol/151120211725 - Bolillos parlantes redux.md",
-    "Rol/040520210151 - Ideas para Bolillos parlantes.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 1 TDA - Log.md",
-    "Untitled.md",
-    "141120213020 - Rick y Morty.md"
+    "Libros/El hombre duplicado.md",
+    "Libros/241120211729 - Cumbres Borrascosas.md",
+    "lectura tarot.md",
+    "Blog/Fyre Festival.md",
+    "Blog/Escuadrón Suicida (2021).md",
+    "Blog/Demon slayer.md",
+    "Blog/Alabanza a It follows.md",
+    "Blog/030320210338.md",
+    "Personal/Bolsas de trabajo.md"
   ]
 }
