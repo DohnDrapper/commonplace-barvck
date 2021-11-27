@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "26e8e517223f9852",
+        "id": "b3123d776ee6f6b1",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Recursos gratuitos.md",
+            "file": "Nombres asociación.md",
             "mode": "source"
           }
         }
@@ -56,13 +56,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -78,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Recursos gratuitos.md",
+                "file": "Nombres asociación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Recursos gratuitos.md"
+                "file": "Nombres asociación.md"
               }
             }
           },
@@ -105,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Recursos gratuitos.md",
+                "file": "Nombres asociación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +124,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "26e8e517223f9852",
+  "active": "b3123d776ee6f6b1",
   "lastOpenFiles": [
+    "Nombres asociación.md",
+    "Servicos que brinda la asociación.md",
+    "Indice asociacion.md",
+    "Personal/Para ver.md",
     "Recursos gratuitos.md",
     "Libros/El hombre duplicado.md",
     "Libros/241120211729 - Cumbres Borrascosas.md",
     "lectura tarot.md",
     "Blog/Fyre Festival.md",
-    "Blog/Escuadrón Suicida (2021).md",
-    "Blog/Demon slayer.md",
-    "Blog/Alabanza a It follows.md",
-    "Blog/030320210338.md",
-    "Personal/Bolsas de trabajo.md"
+    "Blog/Escuadrón Suicida (2021).md"
   ]
 }
