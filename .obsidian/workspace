@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "b3123d776ee6f6b1",
+        "id": "d4dc2ace58398a12",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Nombres asociación.md",
-            "mode": "source"
+            "file": "Rol/151120211725 - Bolillos parlantes redux.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nombres asociación.md",
+                "file": "Rol/151120211725 - Bolillos parlantes redux.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nombres asociación.md"
+                "file": "Rol/151120211725 - Bolillos parlantes redux.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nombres asociación.md",
+                "file": "Rol/151120211725 - Bolillos parlantes redux.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b3123d776ee6f6b1",
+  "active": "d4dc2ace58398a12",
   "lastOpenFiles": [
+    "Rol/151120211725 - Bolillos parlantes redux.md",
     "Nombres asociación.md",
     "Servicos que brinda la asociación.md",
     "Indice asociacion.md",
@@ -134,7 +136,6 @@
     "Libros/El hombre duplicado.md",
     "Libros/241120211729 - Cumbres Borrascosas.md",
     "lectura tarot.md",
-    "Blog/Fyre Festival.md",
-    "Blog/Escuadrón Suicida (2021).md"
+    "Blog/Fyre Festival.md"
   ]
 }

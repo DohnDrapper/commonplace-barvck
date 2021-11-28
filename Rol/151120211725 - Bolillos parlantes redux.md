@@ -134,7 +134,6 @@ El dedo de Fuego
 La balada del Clan Lei
 La guerra de los Yuan ti
 	
-
 4. **MOMENTO MÁS EPICO INDIVIDUAL EN COMBATE**
 _Otorgado a un momento sobresaliente de las sesiones logrado por un jugador especifico dntro de una pelea_
 * Las habilidades con las agujas del personaje de Mel

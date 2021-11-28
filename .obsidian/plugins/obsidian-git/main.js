@@ -6528,8 +6528,8 @@ var ObsidianGitSettingsTab = class extends import_obsidian.PluginSettingTab {
       cb.setPlaceholder("git");
       cb.onChange((value) => {
         plugin.settings.gitPath = value;
-        plugin.gitManager.updateGitPath(value || "git");
         plugin.saveSettings();
+        plugin.gitManager.updateGitPath(value || "git");
       });
     });
   }
@@ -6759,9 +6759,12 @@ var GitManager = class {
 var SimpleGit = class extends GitManager {
   constructor(plugin) {
     super(plugin);
-    const adapter = this.app.vault.adapter;
-    const path3 = adapter.getBasePath();
+    this.setGitInstance();
+  }
+  setGitInstance() {
     if (this.isGitInstalled()) {
+      const adapter = this.app.vault.adapter;
+      const path3 = adapter.getBasePath();
       this.git = (0, simple.default)({
         baseDir: path3,
         binary: this.plugin.settings.gitPath || void 0
@@ -7003,10 +7006,10 @@ var SimpleGit = class extends GitManager {
     });
   }
   updateGitPath(gitPath) {
-    return this.git.customBinary(gitPath);
+    this.setGitInstance();
   }
   isGitInstalled() {
-    const command = (0, import_child_process.spawnSync)("git", ["--version"], {
+    const command = (0, import_child_process.spawnSync)(this.plugin.settings.gitPath || "git", ["--version"], {
       stdio: "ignore"
     });
     if (command.error) {
@@ -7052,32 +7055,22 @@ function createNewMDNote(app, newName, currFilePath = "") {
   });
 }
 var addMD = (noteName) => {
-  let withMD = noteName.slice();
-  if (!withMD.endsWith(".md")) {
-    withMD += ".md";
-  }
-  return withMD;
-};
-var stripMD = (noteName) => {
-  if (noteName.endsWith(".md")) {
-    return noteName.split(".md").slice(0, -1).join(".md");
-  } else
-    return noteName;
+  return noteName.endsWith(".md") ? noteName : noteName + ".md";
 };
 function openOrSwitch(_0, _1, _2) {
   return __async(this, arguments, function* (app, dest, event, options = { createNewFile: true }) {
     const { workspace } = app;
-    const destStripped = stripMD(dest);
-    let destFile = app.metadataCache.getFirstLinkpathDest(destStripped, "");
+    let destFile = app.metadataCache.getFirstLinkpathDest(dest, "");
     if (!destFile && options.createNewFile) {
-      destFile = yield createNewMDNote(app, destStripped);
-    } else if (!destFile && options.createNewFile)
+      destFile = yield createNewMDNote(app, dest);
+    } else if (!destFile && !options.createNewFile)
       return;
     const leavesWithDestAlreadyOpen = [];
     workspace.iterateAllLeaves((leaf) => {
-      var _a, _b;
+      var _a;
       if (leaf.view instanceof import_obsidian4.MarkdownView) {
-        if (((_b = (_a = leaf.view) === null || _a === void 0 ? void 0 : _a.file) === null || _b === void 0 ? void 0 : _b.basename) === destStripped) {
+        const file = (_a = leaf.view) === null || _a === void 0 ? void 0 : _a.file;
+        if (file && file.basename + "." + file.extension === dest) {
           leavesWithDestAlreadyOpen.push(leaf);
         }
       }
