@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "80f594f96acd11b4",
+    "id": "e9f05b74d74769a3",
     "type": "split",
     "children": [
       {
-        "id": "d4dc2ace58398a12",
+        "id": "a126627f3f1c5bc5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Rol/151120211725 - Bolillos parlantes redux.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -125,9 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d4dc2ace58398a12",
+  "active": "a126627f3f1c5bc5",
   "lastOpenFiles": [
     "Rol/151120211725 - Bolillos parlantes redux.md",
+    "Rol/040520210151 - Ideas para Bolillos parlantes.md",
     "Nombres asociación.md",
     "Servicos que brinda la asociación.md",
     "Indice asociacion.md",
@@ -135,7 +136,6 @@
     "Recursos gratuitos.md",
     "Libros/El hombre duplicado.md",
     "Libros/241120211729 - Cumbres Borrascosas.md",
-    "lectura tarot.md",
-    "Blog/Fyre Festival.md"
+    "lectura tarot.md"
   ]
 }

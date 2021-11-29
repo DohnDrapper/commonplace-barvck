@@ -35,7 +35,7 @@ Lauren (Llamada)%%
 
 ### Votables
 
-TRAMA SIN RESOLVER
+1. **TRAMA SIN RESOLVER**
 _Otorgado a aquellas historias que quedaron sin una resolución clara_
 * ¿Que era la criatura que trasportamos en Vampiro?
 * ¿Quien era en verdad el tipo que secuestro a Matsuda Chan?
