@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "e9f05b74d74769a3",
+    "id": "d5b328c2d56397b1",
     "type": "split",
     "children": [
       {
-        "id": "e3368a36815c90a3",
+        "id": "d79e0e1fb2ccd9a5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -124,7 +124,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e3368a36815c90a3",
+  "active": "d79e0e1fb2ccd9a5",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "Rol/151120211725 - Bolillos parlantes redux.md",
