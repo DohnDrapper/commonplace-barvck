@@ -34,7 +34,7 @@ aliases: [Nombre de la Asociacion]
 
 13. Estudios, Servicios y Acciones para el Bienestar del Bajío (ESABB, ESABIB)
 
-14. Centro de Estudios, Servicios y Acciones para el Bienestar del Bajío (CESABIB)
+14. *Centro de Estudios, Servicios y Acciones para el Bienestar del Bajío (CESABIB)
 
 15. Grupo de Estudios, Servicios y Acciones para el Bienestar del Bajío (GESABIB)
 
