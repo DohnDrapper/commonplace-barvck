@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "1f24b1e920d76c9b",
+        "id": "fc52cd01c281ca37",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rol/151120211725 - Bolillos parlantes redux.md",
+            "file": "Rol/SDC/Sesión 5 SDC - Log.md",
             "mode": "source"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/151120211725 - Bolillos parlantes redux.md",
+                "file": "Rol/SDC/Sesión 5 SDC - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/151120211725 - Bolillos parlantes redux.md"
+                "file": "Rol/SDC/Sesión 5 SDC - Log.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/151120211725 - Bolillos parlantes redux.md",
+                "file": "Rol/SDC/Sesión 5 SDC - Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1f24b1e920d76c9b",
+  "active": "fc52cd01c281ca37",
   "lastOpenFiles": [
+    "Rol/SDC/Sesión 5 SDC - Log.md",
+    "Rol/SDC/Sesión 4 SDC - Log.md",
     "Rol/151120211725 - Bolillos parlantes redux.md",
     "000 Indice.md",
     "Asociación civil/Servicios que brinda la asociación.md",
@@ -134,8 +136,6 @@
     "Asociación civil/Indice asociacion.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/040520210151 - Ideas para Bolillos parlantes.md",
-    "Personal/Para ver.md",
-    "Recursos gratuitos.md",
-    "Libros/El hombre duplicado.md"
+    "Personal/Para ver.md"
   ]
 }

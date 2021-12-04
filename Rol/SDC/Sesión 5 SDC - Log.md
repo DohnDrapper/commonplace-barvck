@@ -55,6 +55,9 @@ _Fecha interna de la campaña: 14 de Marzo de 1934_
 Intro
 https://youtu.be/8FgPVd472IE
 
+Música para el templo
+https://youtu.be/x7ps0wc8OK0
+
 Música por si llegan a encontrar a Tyrannis:
 https://youtu.be/noZJARt6uuQ
 
@@ -62,8 +65,7 @@ Música para la pelea:
 
 
 Música para la persecución:
-
-
+https://youtu.be/V4pQM2PKX-k
 
 Outro:
 https://youtu.be/51kMlM6YcH4
