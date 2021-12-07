@@ -1,14 +1,17 @@
 {
   "main": {
-    "id": "5ef8d9305106a7aa",
+    "id": "c88a5d9a18df0a5d",
     "type": "split",
     "children": [
       {
-        "id": "10392ae6c2c2ac69",
+        "id": "c420c5d200de541b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +124,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "10392ae6c2c2ac69",
+  "active": "c420c5d200de541b",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "Rol/TDA/Sesión 21 TDA - Log.md",
