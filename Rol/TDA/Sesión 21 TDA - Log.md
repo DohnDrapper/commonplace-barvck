@@ -20,7 +20,7 @@ El nightwalker intimidó a los jugadores quienes huyeron (Ancalagón, Mahali, Es
 
 Otirianne les señalo que deben destruir el objeto de quien lo invocó, para que desaparezca y que se llevaba un sacrifició. El sacrificio fue él.
 
->Otitianne: El nightwalker necesitab de un sacrificio. Muchas gracias por todo, Ancalagón.
+>Otitianne: El nightwalker necesitaba de un sacrificio. Muchas gracias por todo, Ancalagón.
 >Ancalagón: ¿POR QUE HICISTE ESTO?
 >Otirianne: Ustedes lo destruyeron. Solamente evito que el Nightwalker se lleve a alguno de ustedes.
 
