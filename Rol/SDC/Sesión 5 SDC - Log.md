@@ -62,10 +62,13 @@ Música por si llegan a encontrar a Tyrannis:
 https://youtu.be/noZJARt6uuQ
 
 Música para la pelea:
-
+https://youtu.be/6fAICchfPWE
 
 Música para la persecución:
 https://youtu.be/V4pQM2PKX-k
+
+Música para el epílogo:
+https://youtu.be/Dm1BigJoK00
 
 Outro:
 https://youtu.be/51kMlM6YcH4
@@ -108,3 +111,24 @@ Un texto de ejmplo más.
 
 ---
 
+### Epílogo
+
+Más de un año después de la actuación de la ayuda humanitaria de Caduceo, la geurra terminó el 14 de Julio de 1935.
+
+El campamento que el grupo apoyó siguió apoyando a los soldados colombianos hasta el finales de 1935, unos meses después del cese a las hotilidades entre ambos países.
+
+ Para llegar a la paz se llegó a un acuerdo secreto firmado con apoyo de los EE UU, donde Paraguay perdió 110 000 km2 ocupados por su ejercito.
+ La guerra terminó con la paz en 27 de Abril de 1938. Aunnque de los limites entre Colombia y Paraguay en el tratado no quedarían totalmente claros hasta el 27 de abril de 2009.
+ 
+ Nuestro heroes habian decubierto que en este mundo se estaba librando otra guerra. Y al parecer ahora eran parte de ella.
+ 
+ ----
+ 
+ Davis 80
+ Serpiente 
+ Sarah 75
+ Chris 70
+ Harry 70
+ Agnos 65
+ 
+ 12-21-26-32-41-58-

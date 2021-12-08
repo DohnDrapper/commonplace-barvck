@@ -32,15 +32,15 @@ aliases: [Nombre de la Asociacion]
 
 12. Servicios y Estudios Comunitarios para el Bienestar del Bajío (SECOBIB, SECOB, SECBIB)
 
-13. Estudios, Servicios y Acciones para el Bienestar del Bajío (ESABB, ESABIB)
+13. *Estudios, Servicios y Acciones para el Bienestar del Bajío (ESABB, ESABIB)*
 
 14. *Centro de Estudios, Servicios y Acciones para el Bienestar del Bajío (CESABIB)
 
-15. Grupo de Estudios, Servicios y Acciones para el Bienestar del Bajío (GESABIB)
+15. *Grupo de Estudios, Servicios y Acciones para el Bienestar del Bajío (GESABIB)*
 
 16. Colectivo Transformando el Futuro de la Región Bajío (CTFRB, COTFURB)
 
 17. Colectivo Contruyendo el Futuro del Bajío (COCOFUB)
 
-18. Colectivo de Apoyo, Estudios y Servicios del Bajío (CAESBA)
+18. *Colectivo de Apoyo, Estudios y Servicios del Bajío (CAESBA)
 
