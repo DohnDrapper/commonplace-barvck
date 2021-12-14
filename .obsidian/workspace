@@ -1,27 +1,16 @@
 {
   "main": {
-    "id": "c88a5d9a18df0a5d",
+    "id": "e4bad171e0bc9dd7",
     "type": "split",
     "children": [
       {
-        "id": "49aaad368184be1c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/SDC/Sesión 5 SDC - Log.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "c8d812bf662b0a6d",
+        "id": "c129fd06c87fa60e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-            "mode": "preview"
+            "mode": "source"
           }
         }
       }
@@ -88,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/SDC/Sesión 5 SDC - Log.md",
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/SDC/Sesión 5 SDC - Log.md"
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
               }
             }
           },
@@ -115,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/SDC/Sesión 5 SDC - Log.md",
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,10 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49aaad368184be1c",
+  "active": "c129fd06c87fa60e",
   "lastOpenFiles": [
-    "Rol/SDC/Sesión 5 SDC - Log.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+    "Rol/SDC/Sesión 5 SDC - Log.md",
     "Asociación civil/Nombres asociación.md",
     "Rol/Premiaciones/2021/151120211725 - Bolillos parlantes redux.md",
     "Rol/Premiaciones/Resultados Bolillos parlantes 2019 -2020.md",

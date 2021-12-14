@@ -125,10 +125,14 @@ El campamento que el grupo apoyó siguió apoyando a los soldados colombianos ha
  ----
  
  Davis 80
- Serpiente 
+ Soldado 1 7- 6
  Sarah 75
  Chris 70
  Harry 70
+ soldado 2 
+ soldado 3
  Agnos 65
  
  12-21-26-32-41-58-
+ 
+ 
