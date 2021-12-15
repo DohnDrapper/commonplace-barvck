@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "e4bad171e0bc9dd7",
+    "id": "2a8bfa5235992238",
     "type": "split",
     "children": [
       {
-        "id": "c129fd06c87fa60e",
+        "id": "04e390920fc08eec",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-            "mode": "source"
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview"
           }
         }
       }
@@ -60,8 +60,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +93,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
+                "file": "Personal/Bolsas de trabajo.md"
               }
             }
           },
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,15 +124,15 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "c129fd06c87fa60e",
+  "active": "04e390920fc08eec",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
     "Asociación civil/Nombres asociación.md",
     "Rol/Premiaciones/2021/151120211725 - Bolillos parlantes redux.md",
     "Rol/Premiaciones/Resultados Bolillos parlantes 2019 -2020.md",
     "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
-    "Personal/Bolsas de trabajo.md",
     "Rol/TDA/Sesión 21 TDA - Log.md",
     "Rol/SDC/Sesión 4 SDC - Log.md",
     "Rol/151120211725 - Bolillos parlantes redux.md"
