@@ -1,16 +1,16 @@
 {
   "main": {
-    "id": "2a8bfa5235992238",
+    "id": "07d19f8afb4e7ad2",
     "type": "split",
     "children": [
       {
-        "id": "04e390920fc08eec",
+        "id": "b67edf4df5e195ff",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
+            "file": "Personal/100820211442 - 2021 Resumen del Año.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Personal/100820211442 - 2021 Resumen del Año.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "Personal/100820211442 - 2021 Resumen del Año.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Personal/100820211442 - 2021 Resumen del Año.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "04e390920fc08eec",
+  "active": "b67edf4df5e195ff",
   "lastOpenFiles": [
+    "Personal/100820211442 - 2021 Resumen del Año.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
@@ -134,7 +136,6 @@
     "Rol/Premiaciones/Resultados Bolillos parlantes 2019 -2020.md",
     "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
     "Rol/TDA/Sesión 21 TDA - Log.md",
-    "Rol/SDC/Sesión 4 SDC - Log.md",
-    "Rol/151120211725 - Bolillos parlantes redux.md"
+    "Rol/SDC/Sesión 4 SDC - Log.md"
   ]
 }
