@@ -13,5 +13,7 @@
   "communityPluginSortOrder": "alphabetical",
   "attachmentFolderPath": "Adjuntos",
   "showLineNumber": true,
-  "strictLineBreaks": false
+  "strictLineBreaks": false,
+  "legacyEditor": false,
+  "livePreview": true
 }

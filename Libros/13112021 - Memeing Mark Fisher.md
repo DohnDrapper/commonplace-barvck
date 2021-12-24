@@ -269,7 +269,7 @@ Es una paradoja que las mismas armas que sirven para la libertad de expresión m
 
 #### Conclusión Capitulo 2
 
-Es posible usar als marmas del capitalismo en su contra. El ejmplo de _Patreon_ y _Twitch_ como un medio de expresión fuera de la cademia y el mercado de arte es claro. 
+Es posible usar lAs marmas del capitalismo en su contra. El ejmplo de _Patreon_ y _Twitch_ como un medio de expresión fuera de la Academia y el mercado de arte es claro. 
 
 Aunque lo anterior no significa que las elites esten alentando la expresión, aún el Internet es controlado por las grandes corporaciones capitalsitas y cadad click beneficia al capitalismo.
 
@@ -278,6 +278,14 @@ Aunque lo anterior no significa que las elites esten alentando la expresión, a�
 &ensp;
 
 ### Capítulo 3 Adorno and Horkheimer: Elements of QAnon 
+
+```ad-note
+"Just as Benjamin argued that the populist right in the 1930s diverted people away from aspirations for increased wealth, they also diverted people away from their aspiration for increased knowledge (the two being effectively linked). As stated earlier, this was achieved via propaganda through military-style parades, posters, radio addresses, and so on. Today, it is achieved through a diversion of attention through social media advertising and the infiltration of the far right into Chan image boards and social media memes pages. Though the tendency is essentially the same, leading the elite to try to shut down the impulse toward the attainment of skills that might allow people to challenge power. " pág.34
+
+```
+
+En la época en que vivimos no es muy difici entender los motivos por los que la Derecha se ha intentado apropiar de la definición de verdad. A partir d ela paropicacion de la verdad, controla como la gente puede oponerse a las estructuras de poder dominantes.
+
 
 
 
