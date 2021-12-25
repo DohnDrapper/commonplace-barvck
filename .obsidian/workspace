@@ -7,8 +7,12 @@
         "id": "88e6d5c1f184d262",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Libros/13112021 - Memeing Mark Fisher.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -57,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md"
+              }
             }
           },
           {
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
