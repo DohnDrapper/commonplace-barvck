@@ -1,5 +1,9 @@
 ---
 aliases:
+- Mememing of Mark Fisher
+- 
+
+Categoría:
 - Círculo de lectura
 ---
 
@@ -302,7 +306,7 @@ El origen de Qanon, viene como no de una serie de memes. a partir de distintos m
 
 Relacionarlo con el video de Wisecrack de la narrativa de los horoscopos. <==
 
-La gente crea o piensa que su vida sigue una narativa, así Qanon lena un vacio existecial y le daun sentido a su vida.
+La gente crea o piensa que su vida sigue una narativa, así Qanon llena un vacio existecial y le daun sentido a su vida.
 
 ```ad-note
 It is the all-encompassing nature of QAnon that sets it apart from the initially disturbing yet ultimately dated and anyhow limited practice of the alt-right meme kid.
@@ -324,17 +328,37 @@ pág. 19
 
 ```
 
+El poder dominante usa la naartiva para impedir la radicalización de la población.
 
 ```ad-note
 
 The grimace was one of a series of facial expressions or contortions that for Adorno and Horkheimer in the Dialectic of Enlightenment express in physical form the difficulty the human subject has in accepting its basic link to nature and the inevitability that it will finish up as lifeless as the ground to which he or she is destined. From the primordial scream in the face of fearful nature, to the laughter in the face of the Culture Industry’s products, to the grimace of angst and resignation at our fate and the impossibility of its escape, the fallibility of humanity’s attempts to overcome nature is made clear: we cannot, because we are nature. As such, any attempt to try to evade nature by “othering” it through the scapegoating of, for example, Jews, will ultimately fail, however far-reaching and tragic the effects of antisemitism were and are. 
-For Adorno and Horkheimer, the grimace comes about as our attempt to “other” nature and its decaying effects rebound back upon us, because we are nature. The result is immense tension turned inward, as we have seen in the countless videos of Trump supporters, or anti-mask protestors. Their stooped Chad-like muscular forms, minimal gestures, and clenched teeth screams signifying, against all their best efforts, a fundamental emasculation (or perhaps dehumanization). Adorno and Horkheimer would describe this as a “mimesis” — of nature and death, undertaken to ward off the latter. After all, one of the most fundamental moves in self-defense, played out instinctively from pre-school, involves laying completely still: “playing dead.” The armed Trump supporters who protested on the steps of
-the Michigan State Capitol building against lockdown measures in April 2020, wearing gun belts, padded vests, and combat boots sported the exoskeletal look for precisely this reason: nothing, not covid, not even the national guard can kill an 80kg cockroach holding a semi-automatic. And yet, what is a cockroach if not precisely the horrific dead-man-walking that we all wish to avoid being?
+For Adorno and Horkheimer, the grimace comes about as our attempt to “other” nature and its decaying effects rebound back upon us, because we are nature. The result is immense tension turned inward, as we have seen in the countless videos of Trump supporters, or anti-mask protestors. Their stooped Chad-like muscular forms, minimal gestures, and clenched teeth screams signifying, against all their best efforts, a fundamental emasculation (or perhaps dehumanization). Adorno and Horkheimer would describe this as a “mimesis” — of nature and death, undertaken to ward off the latter. After all, one of the most fundamental moves in self-defense, played out instinctively from pre-school, involves laying completely still: “playing dead.” The armed Trump supporters who protested on the steps of the Michigan State Capitol building against lockdown measures in April 2020, wearing gun belts, padded vests, and combat boots sported the exoskeletal look for precisely this reason: nothing, not covid, not even the national guard can kill an 80kg cockroach holding a semi-automatic. And yet, what is a cockroach if not precisely the horrific dead-man-walking that we all wish to avoid being?
 
 pág. 19
 
 ```
 
+El fascismo viene como una rebelión a la naturaleza de lo que no podemos cambiar, como un esfuerzo para evadir una situación que no es imposible evitar. 
+Resulta interesante como los protestantes del capitolio iban armados como una especie de escudo contra nada.
+
+```ad-note
+
+In this light, movements such as QAnon can be seen as an attempt to force the “new.” Indeed narratives — so essential to human self-perception — are impossible without new moments to propel a story along and give us purpose. QAnon has perhaps been so successful as a viral message because it involves individuals in the construction of its narrative as it unfolds, allowing it to gain traction in the mind of its followers as they feel active in the process of creating a much-needed “story for our times.” Ultimately, of course, if the Enlightenment Project had run its full course it would not be necessary to seek solace from our fear of mortality in myths. Yet, as Adorno and Horkheimer argue in Dialectic of Enlightenment, rationalization reverts back to mythic thinking due to the innate human tendency to “identify” and control nature and other humans so as to ward off danger. The alternative, “non-identity” thinking, was to be sought in abstract art and music, which resist narration in their thoroughgoing obscurity. 
+
+pág. 20-21
+```
+
+El exito de un movimiento como QAnon resulta de la sensación de triunfo de individuo que cree estar participando en la creación de un narrativa para nuestros días.
+La racionalización viene de la necesidad del ser humano de control e identificar la naturaleza y a los demás.
+Lo alternativo, "la no identidad"  que se resiste a tener una narrativa se halla en lo abstracto y música.
+
+#### Conclusión cápitulo 4
+
+Qanon es el máximo esponente del uso del internet por parte de la derecha contemporanea. Qanon utiliza por un lado el manejo de la verdad, a su conveniencia, como un instrumento paar robarles a la gente la capacidad de opornerse al orden existente.
+Además, ha creado una especie de narativa colectiva que atrae a la gente que busca una guía y una identidad.
+Al darle a la gente una identidad, Qanon, logra que la gente sienta que esta logrando algo en contra de la muerte y al naturaleza, cosas que no puede controlar.
+Adorno y H consideran que la respuesta a esta manera de pensar debe provenir de "la no identidad".
 
 
 ---

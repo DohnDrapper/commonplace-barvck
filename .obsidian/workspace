@@ -4,11 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "3fd580787cbd457b",
+        "id": "3f19d741786b6131",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "20212812 - Modernidad liquida.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "20212812 - Modernidad liquida.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "20212812 - Modernidad liquida.md"
+              }
             }
           },
           {
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "20212812 - Modernidad liquida.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3fd580787cbd457b",
+  "active": "3f19d741786b6131",
   "lastOpenFiles": [
+    "20212812 - Modernidad liquida.md",
     "Libros/13112021 - Memeing Mark Fisher.md",
+    "Personal/Bolsas de trabajo.md",
     "Representacion de la mujer en los medios.md",
     "2022.md",
     "Rol/TDA/Sesión 1 TDA - Log.md",
     "Ensayo 2021/Calendario ensayo 2021.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
-    "Personal/Bolsas de trabajo.md",
     "Blog/Escuadrón Suicida (2021).md",
-    "Rol/SDC/Sesión 0 SDC - Log.md",
-    "Personal/100820211442 - 2021 Resumen del Año.md"
+    "Rol/SDC/Sesión 0 SDC - Log.md"
   ]
 }
