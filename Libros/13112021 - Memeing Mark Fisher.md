@@ -4,7 +4,7 @@ aliases:
 - 
 
 Categoría:
-- Círculo de lectura
+- Círculo de lectura 2021
 ---
 
 # The memeing of Mark Fisher
