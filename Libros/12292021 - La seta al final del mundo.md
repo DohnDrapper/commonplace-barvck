@@ -196,3 +196,154 @@ pág. 32
 ```
 
 Nuestra autora pone de ejemplo un grupo etnico para resaltar la importancia de como las distintas uniones o colaboraciones osn necesarias en el mundo y de como es que dan forma a nuestra identidad, cultura y mundo.
+
+```ad-note
+
+Worse yet, contaminated diversity is recalcitrant to the kind of
+“summing up” that has become the hallmark of modern knowledge.
+Contaminated diversity is not only particular and historical, ever
+changing, but also relational. It has no self-contained units; its units
+are encounter-based collaborations. Without self-contained units, it is
+impossible to compute costs and benefits, or functionality, to any “one”
+involved. No self-contained individuals or groups assure their self--
+interests oblivious to the encounter. Without algorithms based on self--
+containment, scholars and policymakers might have to learn something
+about the cultural and natural histories at stake. That takes time, and
+too much time, perhaps, for those who dream of grasping the whole in
+an equation. But who put them in charge? If a rush of troubled stories is
+the best way to tell about contaminated diversity, then it’s time to make
+that rush part of our knowledge practices. Perhaps, like the war survi-
+vors themselves, we need to tell and tell until all our stories of death and
+near-death and gratuitous life are standing with us to face the chal-
+lenges of the present. It is in listening to that cacophony of troubled sto-
+ries that we might encounter our best hopes for precarious survival.
+
+
+pág. 34
+
+```
+
+El proceso de contamianción y colaboracion desafía el algoritmo, un algortimo resulve de manera fácil y rápida, mientras el porceos de unión lleva tiempo. Es producto deuna serie de circunstacias especificas.
+
+### Conclusión Capítulo 2
+
+Parar nuestra autora la contamionción y unoion de procesos es calve en el mundo, aqupi pone el ejemplo de dos grupos que colectan hongos que si bien sosn disitntos comparten caracteriticas que los relacionan y unen. 
+
+---
+
+## Capitulo 3 
+
+```ad-note
+
+A scalable business, for example, does not change its organization as it
+expands. This is possible only if business relations are not transforma-
+tive, changing the business as new relations are added. Similarly, a scal-
+able research project admits only data that already fit the research frame.
+Scalability requires that project elements be oblivious to the indetermi-
+nacies of encounter; that’s how they allow smooth expansion. Thus, too,
+scalability banishes meaningful diversity, that is, diversity that might
+change things.
+Scalability is not an ordinary feature of nature. Making projects scal-
+able takes a lot of work. Even after that work, there will still be interac-
+tions between scalable and nonscalable project elements. Yet, despite
+the contributions of thinkers such as Braudel and Bohr, the connection
+between scaling up and the advancement of humanity has been so
+strong that scalable elements receive the lion’s share of attention. The
+nonscalable becomes an impediment. It is time to turn attention to the
+nonscalable, not only as objects for description but also as incitements
+to theory.
+
+pág. 38
+
+```
+
+Nuestra utora habld e como al escalabilidad es muy dificil de lograr en la naturaleza. Aunque sin embargo se ha vuelto una pregunta importante en loscirculos academicos al buscar que tod puedad ser escalable. 
+Nuestra uotra acalra que lo escala es controlabe porque solo se retroalimenta de cosas ya existen. No admite cambios.
+
+```ad-note
+
+tations expanded and spread across the warm regions of the world. Their
+contingent components—cloned planting stock, coerced labor, con-
+quered and thus open land—showed how alienation, interchangeabil-
+ity, and expansion could lead to unprecedented profits. This formula
+shaped the dreams we have come to call progress and modernity. As
+Sidney Mintz has argued, sugarcane plantations were the model for
+factories during industrialization; factories built plantation-style alien-
+ation into their plans.3 The success of expansion through scalability
+shaped capitalist modernization. By envisioning more and more of the
+world through the lens of the plantation, investors devised all kinds of
+new commodities. Eventually, they posited that everything on earth—-
+and beyond—might be scalable, and thus exchangeable at market val-
+ues. This was utilitarianism, which eventually congealed as modern
+economics and contributed to forging more scalability—or at least its
+appearance.
+
+pág. 39 y 40
+```
+
+Las plantaciones portuguesas de caña, devien en el ejemplo de escalabilidad por excelencia. Siendo uniformes y fáciles de reproducir se volvieron lapalntila apra la industrialización; (las fabricas de la revolucion industrial están basadas en ellas). Y de este modo pusieron los cimeintos para el capitalismo.
+
+```ad-note
+
+Contrast the matsutake forest: unlike sugarcane clones, matsutake
+make it evident that they cannot live without transformative relations
+with other species. Matsutake mushrooms are the fruiting bodies of an
+underground fungus associated with certain forest trees. The fungus
+gets its carbohydrates from mutualistic relations with the roots of its
+host trees, for whom it also forages. Matsutake make it possible for host
+trees to live in poor soils, without fertile humus. In turn, they are nour-
+ished by the trees. This transformative mutualism has made it impossi-
+ble for humans to cultivate matsutake. Japanese research institutions
+have thrown millions of yen into making matsutake cultivation possi-
+ble, but so far without success. Matsutake resist the conditions of the
+plantation. They require the dynamic multispecies diversity of the for-
+est—with its contaminating relationality.4
+Furthermore, matsutake foragers are far from the disciplined, inter-
+changeable laborers of the cane fields. Without disciplined alienation,
+no scalable corporations form in the forest. In the U.S. Pacific North-
+west, foragers flock to the forest following “mushroom fever.” They are
+independent, finding their way without formal employment.
+
+
+pág. 40
+```
+
+El cultivo del hongo Matdutake no puede darseun forma uniforme por sus ccaracteriticas especificas.
+
+```ad-note
+
+The challenge for thinking with precarity is to understand the ways
+projects for making scalability have transformed landscape and society,
+while also seeing where scalability fails—and where nonscalable ecolog-
+ical and economic relations erupt. It is key to take note of the careers of
+both scalability and nonscalability. But it would be a huge mistake to
+assume that scalability is bad and nonscalability is good. Nonscalable
+projects can be as terrible in their effects as scalable ones. Unregulated
+loggers destroy forests more rapidly than scientific foresters. The main
+distinguishing feature between scalable and nonscalable projects is not
+ethical conduct but rather that the latter are more diverse because they
+are not geared up for expansion. Nonscalable projects can be terrible or
+benign; they run the range.
+
+pág. 42
+```
+
+Sobre las diferecias de la escalabilidad y lo no escalable.
+
+### Conclusión Capítulo 3
+
+Nuestra utoridad señal como la esclabilidad es parte fundaenteal de la economía capitalista. En general, un projecyto que eresulta escalabel es rentable y útil.
+La capacidad de escalra llevo de las palantaciones de caña de azucar a las fabricas que conocemos el dái de hoy. En general son expandibles
+La escalabilidad es un proceso controlado y uniforme. Lo no escalable necesariamente es diverso y dificil de controlar.
+
+----
+
+## Capítulo 4 
+
+
+==> Pág. 45 del libro
+
+
+## Conclusión del libro
+
+El hongo es un ejemplo de como existen alternativas al cappitalismo dominante. Por como el hong se enfrenta a las preconcepciones que tenemos de cultivar y trabajo. Asi como de la naturaleza al ser un ejemplo de lo que la autora llama "assemblages" (ensambles)  para salir de neustro horrible sistemas capitalista individualista.
