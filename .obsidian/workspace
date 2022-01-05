@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4ab20d80d516481b",
+        "id": "8eedc0699199019c",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
+            "file": "Libros/12292021 - La seta al final del mundo.md",
+            "mode": "source"
           }
         }
       }
@@ -60,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -76,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "Libros/12292021 - La seta al final del mundo.md"
               }
             }
           },
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4ab20d80d516481b",
+  "active": "8eedc0699199019c",
   "lastOpenFiles": [
+    "Libros/12292021 - La seta al final del mundo.md",
+    "Libros/20212812 - Modernidad liquida.md",
+    "Libros/13112021 - Memeing Mark Fisher.md",
+    "Ensayo 2021/Segundo borrador.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
     "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Libros/12292021 - La seta al fianld el mundo.md",
-    "Libros/20212812 - Modernidad liquida.md",
-    "Libros/13112021 - Memeing Mark Fisher.md",
     "Referencia Mark down.md",
-    "Representacion de la mujer en los medios.md",
-    "2022.md"
+    "Representacion de la mujer en los medios.md"
   ]
 }
