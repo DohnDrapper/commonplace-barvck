@@ -12,6 +12,11 @@ Categoría:
 
 
 ## Index
+[[#Prólogo]]
+[[#Capítulo 1 Art of noticing Arte de darte cuenta]]
+[[#Capítulo 2 Contamianción como colaboración]]
+[[#Capitulo 3]]
+
 
 ---
 
@@ -24,6 +29,12 @@ When Hiroshima was destroyed by an atomic bomb in 1945, it is said, the first li
 pág. 3
 
 ```
+
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
+
+---
 
 ### Capítulo 1 "Art of noticing" "Arte de darte cuenta"
 
@@ -143,6 +154,10 @@ El progresoe s un idea que ignora todos lao factores que influyen en nuestro ple
 El llamado progreso ah desctruido incintables manera de trabaja ry esta po niedono en peligro de susbsisitir.
 Nuestr autora creee que debdemos de revisar loq ue ella llama "assembles", es decir reuniones, dondeo distintos entes interacuan en su porpio porposito pero que se juxtaponen.
 
+<div align='center'>
+<h1> ●・○・●・○・● </h1>
+</div>
+
 ---
 
 ## Capítulo 2 "Contamianción como colaboración"
@@ -228,6 +243,10 @@ El proceso de contamianción y colaboracion desafía el algoritmo, un algortimo 
 ### Conclusión Capítulo 2
 
 Parar nuestra autora la contamionción y unoion de procesos es calve en el mundo, aqupi pone el ejemplo de dos grupos que colectan hongos que si bien sosn disitntos comparten caracteriticas que los relacionan y unen. 
+
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
 ---
 
@@ -338,6 +357,94 @@ La escalabilidad es un proceso controlado y uniforme. Lo no escalable necesariam
 
 ----
 
+## Smelling
+
+```ad-note
+
+ Fungi are
+famous for changing shape in relation to their encounters and environ-
+ments. Many are “potentially immortal,” meaning they die from disease,
+injury, or lack of resources, but not from old age. Even this little fact can
+alert us to how much our thoughts about knowledge and existence just
+assume determinate life form and old age. We rarely imagine life without
+such limits—and when we do we stray into magic. Rayner challenges us
+to think with mushrooms, otherwise. Some aspects of our lives are more
+comparable to fungal indeterminacy, he points out. Our daily habits are
+repetitive, but they are also open-ended, responding to opportunity and
+encounter. What if our indeterminate life form was not the shape of our
+bodies but rather the shape of our motions over time? Such indetermi-
+nacy expands our concept of human life, showing us how we are trans-
+formed by encounter. Humans and fungi share such here-and-now trans-
+formations through encounter. Sometimes they encounter each other. As
+another seventeenth-century haiku put it: “Matsutake / Taken by some-
+one else / Right in front of my nose.”5 What person? What mushroom?
+
+pág.47
+```
+
+Loa hongos estám abiertos a la indetermianción. Los seres humanoso vemos las cosas de una forma determinada. desde muy temprana edad, sabemoscomo seremsoe en el futuro pero que tal si como lso hongos pudieramos cambiar dependiendo de los encuentros que tengamos.
+
+```ad-note
+
+When
+Koreans expanded to Japan in the eighth century, they cut down for-
+ests. Pine forests sprung up from such deforestation, and with them
+matsutake. Koreans smelled the matsutake—and they thought of home.
+The first nostalgia: the first love of matsutake. It was in longing for
+Korea that Japan’s new aristocracy first glorified the now famous au-
+tumn aroma, Dr. Ogawa told us. No wonder, too, that Japanese abroad
+are so obsessed with matsutake, he added. He ended with a funny story
+about a Japanese American matsutake hunter he met in Oregon who, in
+
+a badly garbled mixture of Japanese and English, saluted Dr. Ogawa’s
+research, saying, “We Japanese are matsutake crazy!”
+
+pág.49 - 50
+```
+
+Los hongos Matsutake son igual un producto de la nostalgia. Representa una epoca mejor para mcuhos japoneses.
+
+```ad-note
+
+While some Japanese may smell nostalgia in the forests made by
+their disturbances, this is not, of course, the only feeling that people
+bring to such wild places. Consider the smell of matsutake again. It is
+time to tell you that most people of European origin can’t stand the
+smell. A Norwegian gave the Eurasian species its first scientific name,
+Tricholoma nauseosum, the nauseating Trich. (In recent years, taxono-
+mists made an exception to usual rules of precedence to rename the
+mushroom, acknowledging Japanese tastes, as Tricholoma matsutake.)
+Americans of European descent tend to be equally unimpressed by the
+smell of the Pacific Northwest’s Tricholoma magnivelare. “Mold,” “tur-
+pentine,” “mud,” white pickers said, when I asked them to characterize
+the smell. More than one moved our conversation to the foul smell of
+rotting fungi. Some were familiar with California mycologist David
+Arora’s characterization of the smell as “a provocative compromise be-
+tween ‘red hots’ and dirty socks.”9 Not exactly something you would
+want to eat. When Oregon’s white pickers prepare the mushroom as
+food, they pickle it or smoke it. The processing masks the smell, making
+the mushroom anonymous.
+
+pág.51
+```
+
+El olor y sabor de un hongo tambei n representa una cultura, por ejemplo, muchos europeos y descendientes americanos de europeos no pueden soportar el olor del hongo.
+
+```ad-note
+
+It is not surprising, perhaps, that U.S. scientists have studied the
+smell of matsutake to see what it repels (slugs), but Japanese scientists
+have studied the smell to consider what it attracts (some flying insects).10
+Is it the “same” smell if people bring such different sensibilities to the
+encounter? Does that problem stretch to slugs and gnats as well as peo-
+ple? What if noses—as in my experience—change? What if the mush-
+room too can change through its encounters?
+
+pág.51
+```
+
+El punto de vista del olor es un paradigma. Los gringos buscan que repel
+
 ## Capítulo 4 
 
 
@@ -346,4 +453,4 @@ La escalabilidad es un proceso controlado y uniforme. Lo no escalable necesariam
 
 ## Conclusión del libro
 
-El hongo es un ejemplo de como existen alternativas al cappitalismo dominante. Por como el hong se enfrenta a las preconcepciones que tenemos de cultivar y trabajo. Asi como de la naturaleza al ser un ejemplo de lo que la autora llama "assemblages" (ensambles)  para salir de neustro horrible sistemas capitalista individualista.
+El hongo es un ejemplo de como existen alternativas al cappitalismo dominante. Por como el hong se enfrenta a las preconcepciones que tenemos de cultivar y trabajo. Asi como de la naturaleza al ser un ejemplo de lo que la autora llama "assemblages" (ensambles)  para salir de neustro horrible sistemas capitalista indivi
