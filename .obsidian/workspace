@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b77e7d348ec86c59",
+        "id": "eec64234023f2d0c",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Libros/12292021 - La seta al final del mundo.md",
-            "mode": "source"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -60,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Libros/12292021 - La seta al final del mundo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +117,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b77e7d348ec86c59",
+  "active": "eec64234023f2d0c",
   "lastOpenFiles": [
     "Libros/12292021 - La seta al final del mundo.md",
     "2022.md",

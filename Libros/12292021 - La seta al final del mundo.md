@@ -443,14 +443,273 @@ room too can change through its encounters?
 pág.51
 ```
 
-El punto de vista del olor es un paradigma. Los gringos buscan que repel
+El punto de vista del olor es un paradigma. Los gringos buscan que repele, y los japoneses que atrae.
 
-## Capítulo 4 
+```ad-note
+
+The smell of matsutake wraps and tangles memory and history—-
+and not just for humans. It assembles many ways of being in an affect--
+laden knot that packs its own punch. Emerging from encounter, it
+shows us history-in-ŧhe-making. Smell it.
+
+pág. 51
+```
+
+El resultado del olor cambia dependiendo del ambiente y la historia el hongo es un testigo de estos cambios. El olor del hongo es un ejemplo del llamado "assemble".
+
+---
+
+## Part II After Progress: Salvage Accumulation
+
+```ad-note
+
+This rift between U.S. and Japanese segments of the commodity
+chain guided my search. Different processes for making and accessing
+value characterized each segment. Given this diversity, what makes this
+part of that global economy we call capitalism?
+
+pág. 58
+```
+
+El mercado diverso entre los EEUU y Japón es una clara divergencia de lso que conocemos como capitalismo.
+
+---
+
+## Capítulo 4 Working on the Edge
+
+```ad-note
+
+Even in factories, however, there are other elements of accumulation.
+In the nineteenth century, when capitalism first became an object of
+inquiry, raw materials were imagined as an infinite bequest from Na-
+ture to Man. Raw materials can no longer be taken for granted. In our
+food procurement system, for example, capitalists exploit ecologies not
+only by reshaping them but also by taking advantage of their capaci-
+ties. Even in industrial farms, farmers depend on life processes outside
+their control, such as photosynthesis and animal digestion. In capitalist
+farms, living things made within ecological processes are coopted for
+the concentration of wealth. This is what I call “salvage,” that is, taking
+advantage of value produced without capitalist control. Many capitalist
+raw materials (consider coal and oil) came into existence long before
+capitalism. Capitalists also cannot produce human life, the prerequi-
+site of labor. “Salvage accumulation” is the process through which lead
+firms amass capital without controlling the conditions under which
+commodities are produced. Salvage is not an ornament on ordinary
+capitalist processes; it is a feature of how capitalism works.
+
+pág. 62 - 63
+```
+
+El capitalismo es un sistema que tiende a la acumulación del capital.
+Entre uno de los elemetos que ese tienden a acaumular es los recursos naturales. La caumulacion de recursos que no se pueden controlar su producción, "acumulación salvaje".
+
+```ad-note
+
+Before you conclude that salvage accumulation is archaic, let me
+turn to a contemporary example. Technological advances in managing
+inventory have energized today’s global supply chains; inventory man-
+agement allows lead firms to source their products from all kinds of
+economic arrangements, capitalist and otherwise. One firm that helped
+put such innovations in place is the retail giant Wal-Mart. Wal-Mart pi-
+oneered the required use of universal product codes (UPCs), the black--
+and-white bars that allow computers to know these products as inven-
+tory.7 The legibility of inventory, in turn, means that Wal-Mart is able to
+ignore the labor and environmental conditions through which its prod-
+ucts are made: pericapitalist methods, including theft and violence, may
+be part of the production process. With a nod to Woody Guthrie, we
+might think about the contrast between production and accounting
+through the two sides of the UPC tag.8 One side of the tag, the side with
+the black-and-white bars, allows the product to be minutely tracked and
+assessed. The other side of the tag is blank, indexing Wal-Mart’s total
+lack of concern with how the product is made, since value can be trans-
+lated through accounting. Wal-Mart has become famous for forcing its
+suppliers to make products ever more cheaply, thus encouraging savage
+labor and destructive environmental practices. Savage and salvage are
+often twins: Salvage translates violence and pollution into profit.
+
+cáp. 54
+```
+
+Wal Mart ha consolidado la cadena produccion capitalista a través de distintos factores siendo el ejemplo paradigmatico de la actualidad. Pues controla la producción no escalable y la escalabe a través de este proceso.
+Lo que conlleva obviamte porblema como colonización y contaminación.
+
+```ad-note
+Is capitalism a single, over-
+arching system that conquers all, or one segregated economic form
+among many?14 Between these two positions, we might see how capitalist
+and noncapitalist forms interact in pericapitalist spaces. Gibson-Graham
+advise us, quite correctly I think, that what they call “noncapitalist” forms
+can be found everywhere in the midst of capitalist worlds—rather than
+just in archaic backwaters. But they see such forms as alternatives to cap-
+italism. Instead, I would look for the noncapitalist elements on which
+capitalism depends.
+
+pág. 66
+```
+
+El capitalismo es un sistema de sistemas que ocnviven o unen en un posible "assemble", que bebe de sistemas que no son inherentemente capitalistas, pero que son aglutinados por este.
+
+```ad-note
+
+It takes concrete histories to make any concept come to life. And
+isn’t mushroom collecting a place to look, after progress? The rifts and
+bridges of the Oregon-ŧo-Japan matsutake commodity chain show capi-
+talism achieved through economic diversity. Matsutake foraged and
+sold in pericapitalist performances become capitalist inventory as they
+are sent to Japan a day later. Such translation is the central problem of
+many global supply chains. Let me begin by describing the first part of
+the chain.
+
+pág. 66
+```
+
+El capialismo absorbe las formas de pericapilismo.
+
+```ad-note
+
+It was this man’s expectation of the necessity of cultural translation
+that first alerted me to the problem of salvage accumulation. In the
+1970s, Americans expected the globalization of capital to mean the
+spread of U.S. business standards all over the world. In contrast, Japa-
+nese traders had become specialists in building international supply
+chains and using them as mechanisms of translation to bring goods
+into Japan without Japanese production facilities or employment stan-
+dards. As long as these goods could be made into legible inventory in
+their transit to Japan, Japanese traders could use them to accumulate
+capital. By the end of the century, Japanese economic power had slipped,
+and twentieth-century Japanese business innovations were eclipsed by
+neoliberal reforms. But no one cares to reform the matsutake commod-
+ity chain; it is too small and too “Japanese.” Here is a place, then, to look
+for the Japanese trading strategies that rocked the world. At their center
+is translation between diverse economies. Traders as translators become
+masters of salvage accumulation.
 
 
-==> Pág. 45 del libro
+```
 
+La cadena de insumo fromada por al relaciones japonesas fue eclipsada por el neoliberalismoa mericano, aunque por ser un nicho el mercado de los hongos nunca cambió. existe una posibiblidad fuera del capitalismo.
+
+### Conclusión del Capitulo 4
+
+El Capitalismo es un sistema que bajo sus alas conglomera disitntos sistemas, entre elos ha logrado capitalizar, nunca mejor dicho bajo un concepto escalable, sistemas de produccción no escalables. Así, la produccion acumulasa de hongos por parte de lso grandes productores se vermada por la cosecha un anto anarquica de hongos que se vuelve uniforme a través de los hombres que comercian con el.
+
+---
+
+## Capitulo 5 Open ticket, Oregon
+
+```ad-note
+
+Matsutake picking is not the city, although haunted by it. Picking is
+also not labor—or even “work.” Sai, a Lao picker, explained that “work”
+means obeying your boss, doing what he tells you to. In contrast, mat-
+sutake picking is “searching.” It is looking for your fortune, not doing
+your job. When a white campground owner, sympathetic to the pickers,
+talked to me about how the pickers deserved more because they work
+so hard, getting up at dawn and staying through sun and snow, some-
+thing nagged at me about her view. I had never heard a picker talk like
+that. No pickers I met imagined the money they gained from matsutake
+as a return on their labor. Even Nai Tong’s time babysitting was more
+akin to work than mushroom picking.
+
+pág. 77
+```
+
+Leo este fragmento y la visiónd eliebrtad que tiene estas personas va del emprendedurismo, hasta una visión un tanto del "Viejo Oeste", resulta interesante que convergen en el rechazo al trabajo o por lo menos al trabajo oficial.
+
+```ad-note
+
+Freedom/haunting: two sides of the same experience. Conjuring a
+future full of pasts, a ghost-ridden freedom is both a way to move on
+and a way to remember. In its fever, picking escapes the separation of
+persons and things so dear to industrial production. The mushrooms
+are not yet alienated commodities; they are effects of the pickers’ free-
+dom. Yet this scene only exists because the two-sided experience has
+purchase in a strange sort of commerce. Buyers translate freedom tro-
+phies into trade through dramatic performances of “free market com-
+petition.” Thus market freedom enters freedom’s jumble, making the
+holding in abeyance of concentrated power, labor, property, and alien-
+ation seem strong and effective.
+
+pág. 79 - 80
+```
+
+Esa llamada libertad no es más que un fantasma. Aunque los hongos aun no son un bien que aliena del trabajador.
+
+```ad-note
+
+Let’s say it’s dark now, and pickers are lined up to sell at a buying
+tent. They have picked this buyer not only because of his prices, but
+because they know he is a skilled sorter. Sorting is just as important as
+basic prices, because a buyer assigns a grade to each mushroom, and
+the price depends on the grade. And what an art sorting is! Sorting is
+an eye-catching, rapid-fire dance of the arms with the legs held still.
+White men make it look like juggling; Lao women—ŧhe other cham-
+pion buyers—make it look like Royal Lao dancing. A good sorter
+knows a lot about the mushrooms just from touching them. Matsutake
+with insect larvae will spoil the batch before it arrives in Japan; it is es-
+sential that the buyer refuse them. But only an inexperienced buyer
+cuts into the mushroom to look for larvae. Good buyers know from
+the feel. They can also smell the provenance of the mushroom: its host
+tree; the region it comes from; other plants, such as rhododendron,
+which affect the size and shape. Everyone enjoys watching a good buyer
+sort. It is a public performance full of prowess. Sometimes pickers pho-
+tograph the sorting. Sometimes they also photograph their best mush-
+rooms, or the money, especially when it is hundred dollar bills. These
+are trophies of the chase.
+
+pág. 81
+```
+
+El comprar hongos se ha vuelto un arte y me recuerda un poco un arte performatico.
+Algo muy parecido a el lobo de Wall Street o la bolsa de valores.
+
+```ad-note
+Once I told an economist about this buying scene, and he was ex-
+cited, telling me this was the true and basic form of capitalism, without
+the pollution of powerful interests and inequalities. This was real capi-
+talism, he said, where the playing field was level, as it should be. But is
+Open Ticket’s picking and buying capitalism? The problem is that there
+isn’t any capital. There is a lot of money changing hands, but it slips
+away, never forming an investment. The only accumulation is happen-
+ing downstream, in Vancouver, Tokyo, and Kobe, where exporters and
+importers use the matsutake trade to build their firms. Open Ticket’s
+mushrooms join streams of capital there, but they are not procured in
+what seems to me a capitalist formation.
+
+
+pág. 81
+```
+
+Es una forma de capitalismo sin capital. Aqupi no hay acumulación de capital
+
+```ad-note
+
+What is this “American psychology” then? There are too many peo-
+ple and histories in Open Ticket to plunge directly into the coherence
+through which we usually imagine “culture.” The concept of assem-
+blage—an open-ended entanglement of ways of being—is more useful.
+In an assemblage, varied trajectories gain a hold on each other, but in-
+determinacy matters. To learn about an assemblage, one unravels its
+knots. Open Ticket’s performances of freedom require following histo-
+ries that stretch far beyond Oregon but show how Open Ticket’s entan-
+glements might have come into being.7
+
+pág. 83
+```
+
+LA psocilogía de la practica ya mencionada es un ejemplo de "assemble".
+
+### Conlusión capitulo 5
+
+Existe un claro ejemplo de "assemble" en la forma enq ue se da el comercio de hongos. Desde su venta en el sitio en que son cosechados, hasta la manera gringa de negociar, con el acercamiento japonés que lo ve como algo perfomatico. Todo siendo más que una conjunción de factores que avanzan hacia un mismo fin de manera independiente.
+
+
+==> ==> pág. 85
+
+---
 
 ## Conclusión del libro
 
-El hongo es un ejemplo de como existen alternativas al cappitalismo dominante. Por como el hong se enfrenta a las preconcepciones que tenemos de cultivar y trabajo. Asi como de la naturaleza al ser un ejemplo de lo que la autora llama "assemblages" (ensambles)  para salir de neustro horrible sistemas capitalista indivi
+El hongo es un ejemplo de como existen alternativas al cappitalismo dominante. Por como el hong se enfrenta a las preconcepciones que tenemos de cultivar y trabajo. Asi como de la naturaleza al ser un ejemplo de lo que la autora llama "assemblages" (ensambles)  para salir de neustro horrible sistemas capitalista individualista.
+
+
