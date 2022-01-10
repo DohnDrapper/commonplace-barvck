@@ -1,10 +1,7 @@
 ---
-aliases:
-- Mememing of Mark Fisher
-- 
+aliases: [Mememing of Mark Fisher]
 
-Categoría:
-- Círculo de lectura 2021
+Categoría: [Círculo de lectura 2021]
 ---
 
 # The memeing of Mark Fisher
@@ -19,9 +16,8 @@ Categoría:
 [[#Capítulo 3 Adorno and Horkheimer Elements of QAnon]]
 [[]]
 
----
-
 ### Capitulo 1 Burn Down the Internet: Why the Online Left is Failing 
+---
 
 ```ad-note
 
@@ -152,11 +148,12 @@ La izquierdda debe de un usar un enfoque más pensado y lento que apele a la ref
 
 La derecha debe optar por el actuar de movimientos como el Dada o Fluxus.
 
----
+
 
 &ensp;
 
 ### Capítulo 2 The Work of Art in the Age of the Subscription Economy
+---
 
 ```ad-note
 

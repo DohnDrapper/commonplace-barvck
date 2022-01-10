@@ -18,9 +18,8 @@ Categoría:
 [[#Capitulo 3]]
 
 
----
-
 ### Prólogo
+---
 
 ```ad-note
 
@@ -34,9 +33,9 @@ pág. 3
 <h3> ●・○・●・○・● </h3>
 </div>
 
----
 
 ### Capítulo 1 "Art of noticing" "Arte de darte cuenta"
+---
 
 ```ad-note
 
@@ -149,18 +148,18 @@ Nuestra autora intrduce el concepto de "assemble", que creo en español podria c
 
 ### Conclusión Capitulo 1
 
-Para neustra autora el que se use el terminod eantropocenoresulta conrdictorio. En su popinon implica el domicio o el progreso de al raza humana, cosas que es dudosa. Desde su punto de vista es calro que vivimos en la precariedad, pues estamos vulnerables. Lo anteiro debido a que nuestrs idea de progreso no contempla a otras especies que contribuyen en nuestro tiempo. 
-El progresoe s un idea que ignora todos lao factores que influyen en nuestro plenata. 
-El llamado progreso ah desctruido incintables manera de trabaja ry esta po niedono en peligro de susbsisitir.
-Nuestr autora creee que debdemos de revisar loq ue ella llama "assembles", es decir reuniones, dondeo distintos entes interacuan en su porpio porposito pero que se juxtaponen.
+Para neustra autora el que se use el terminod antropoceno resulta conrdictorio. En su popinon implica el domicio o el progreso de al raza humana, cosas que es dudosa. Desde su punto de vista es calro que vivimos en la precariedad, pues estamos vulnerables. Lo anteiro debido a que nuestrs idea de progreso no contempla a otras especies que contribuyen en nuestro tiempo. 
+El progreso es un idea que ignora todos los factores que influyen en nuestro planeta. 
+El llamado progreso ha desctruido incintables manera de trabaja ry esta po niedono en peligro de susbsisitir.
+Nuestr autora cree que debdemos de revisar lo que ella llama "assembles", es decir reuniones, donde distintos entes interacuan en su porpio porposito pero que se juxtaponen.
 
 <div align='center'>
 <h1> ●・○・●・○・● </h1>
 </div>
 
----
 
-## Capítulo 2 "Contamianción como colaboración"
+## Capítulo 2 "Contaminación como colaboración"
+---
 
 ```ad-note
 
@@ -244,13 +243,15 @@ El proceso de contamianción y colaboracion desafía el algoritmo, un algortimo 
 
 Parar nuestra autora la contamionción y unoion de procesos es calve en el mundo, aqupi pone el ejemplo de dos grupos que colectan hongos que si bien sosn disitntos comparten caracteriticas que los relacionan y unen. 
 
+### Del circulo de lectura
+No existe purismo, toda crecimeito se da a través de la contaminación. Trabajar a través de la diferencia. 
+
 <div align='center'>
 <h3> ●・○・●・○・● </h3>
 </div>
 
----
-
 ## Capitulo 3 
+---
 
 ```ad-note
 
@@ -355,9 +356,12 @@ Nuestra utoridad señal como la esclabilidad es parte fundaenteal de la economí
 La capacidad de escalra llevo de las palantaciones de caña de azucar a las fabricas que conocemos el dái de hoy. En general son expandibles
 La escalabilidad es un proceso controlado y uniforme. Lo no escalable necesariamente es diverso y dificil de controlar.
 
-----
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
 ## Smelling
+---
 
 ```ad-note
 
@@ -457,9 +461,9 @@ pág. 51
 
 El resultado del olor cambia dependiendo del ambiente y la historia el hongo es un testigo de estos cambios. El olor del hongo es un ejemplo del llamado "assemble".
 
----
 
 ## Part II After Progress: Salvage Accumulation
+---
 
 ```ad-note
 
@@ -473,9 +477,9 @@ pág. 58
 
 El mercado diverso entre los EEUU y Japón es una clara divergencia de lso que conocemos como capitalismo.
 
----
 
 ## Capítulo 4 Working on the Edge
+---
 
 ```ad-note
 
@@ -593,9 +597,12 @@ La cadena de insumo fromada por al relaciones japonesas fue eclipsada por el neo
 
 El Capitalismo es un sistema que bajo sus alas conglomera disitntos sistemas, entre elos ha logrado capitalizar, nunca mejor dicho bajo un concepto escalable, sistemas de produccción no escalables. Así, la produccion acumulasa de hongos por parte de lso grandes productores se vermada por la cosecha un anto anarquica de hongos que se vuelve uniforme a través de los hombres que comercian con el.
 
----
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
 ## Capitulo 5 Open ticket, Oregon
+---
 
 ```ad-note
 
@@ -706,9 +713,12 @@ Existe un claro ejemplo de "assemble" en la forma enq ue se da el comercio de ho
 
 ==> ==> pág. 85
 
----
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
 ## Conclusión del libro
+---
 
 El hongo es un ejemplo de como existen alternativas al cappitalismo dominante. Por como el hong se enfrenta a las preconcepciones que tenemos de cultivar y trabajo. Asi como de la naturaleza al ser un ejemplo de lo que la autora llama "assemblages" (ensambles)  para salir de neustro horrible sistemas capitalista individualista.
 

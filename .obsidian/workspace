@@ -7,8 +7,11 @@
         "id": "eec64234023f2d0c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Libros/12292021 - La seta al final del mundo.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -73,6 +76,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +92,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md"
+              }
             }
           },
           {
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,14 +127,14 @@
   "active": "eec64234023f2d0c",
   "lastOpenFiles": [
     "Libros/12292021 - La seta al final del mundo.md",
+    "Libros/13112021 - Memeing Mark Fisher.md",
+    "Personal/100820211442 - 2021 Resumen del Año.md",
     "2022.md",
     "Libros/20212812 - Modernidad liquida.md",
-    "Libros/13112021 - Memeing Mark Fisher.md",
     "Ensayo 2021/Segundo borrador.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Referencia Mark down.md"
+    "Rol/TDA/Sesión 30 TDA - Log.md"
   ]
 }
