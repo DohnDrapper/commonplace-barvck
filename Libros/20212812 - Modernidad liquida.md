@@ -75,4 +75,33 @@ Bauman mencióna que la modernidad reslta en una era _pospanoptica_, pues el con
 ---
 
 
-## Capitulo 1
+## Capitulo 3 Espacio/Tiempo
+
+```ad-note
+
+Muchos psiquiatras han señalado que creer ser víctima de una conspi-ración no es nada novedoso; por cierto, es un estado que ha atormentado a algunos humanos en todas las épocas y en todos los lugares de la tierra. Nunca hubo, en ninguna parte, escasez de personas ansiosas por encon-trar una lógica a su desdicha, a sus humillantes derrotas y a las frustrado-nes de su vida, cargáridoles la responsabilidad a las malévolas intenciones y monstruosas conjuras de otros. Lo que resulta totalmente novedoso es que ahora se inculpa a los merodeadores (en compañía de otros vagos y holgazanes, personajes que no pertenecen al sitio donde aparecen), que re-presentan al diablo, los íncubos, los espíritus y los duendes malignos, el mal de ojo y las brujas. Si "las falsas víctimas" abusan "de la credibilidad pública", es porque los "merodeadores" ya se han convertido en un nom-bre popular para el miedo ambiente que acosa a nuestros contemporá-neos; de modo que la presencia ubicua de los merodeadores se ha vuelto creíble y el miedo de ser pérseguido se ha convertido en un sentimiento co-mún.
+
+pág. 101
+
+```
+
+El miedo al toro se ha convertiod en un miedo común.
+
+```ad-note
+
+Los extraños se encuentran de Ea mane-ra que corresponde a los extraños; un encuentro entre extraños no se parece a un encuentro entre familiares, amigos o conocidos —es, compa-rativamente, un desencuentro—. En el encuentro entre extraños no se re-torna el punto en el que quedó el último encuentro, ni se recuentan las pruebas y tribulaciones o las alegrías del ínterin, ni hay recuerdos comu-nes: no hay nada en qué basarse ni qué seguir en el curso del encuentro presente. El encuentro entre extraños es un acontecimiento sin pasado. Con frecuencia es también un acontecimiento sin futuro (se supone y se espera que esté libre de un futuro), una historia que, sin dudas, no "con-tinuará", una oportunidad única, que debe ser consumada plenamente mientras dura y en el acto, sin demora y sin postergaciones para otra ocasión. 
+
+pág. 103
+```
+
+No existe un sentido de comunidad ya. La gente solo tiene desencunetros.
+En las ciudades existen solo dos tipode contrucciones publicas las plazas y los templos de consumo.
+
+```ad-note
+
+En suma, el viaje a los "espacios de consumo" es un viaje hacia una anhe-lada comunidad que, al igual que la experiencia de comprar, está perma-nentemente "en otra parte". Durante los minutos u horas que pueda durar esa experiencia, es posible reunirse con "otras personas como uno", co-rreligionarios, feligreses de la misma iglesia; con otros cuya otredad, al menos en ese lugar, aquí y ahora, puede dejarse de lado, sin tenerla en cuenta. En todos los aspectos, ese lugar es puro, tan puro como las sedes de culto religioso y como la comunidad imaginada (o postulada).
+
+pág. 109
+```
+
+==> pág. 109
