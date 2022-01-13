@@ -14,6 +14,6 @@
   "attachmentFolderPath": "Adjuntos",
   "showLineNumber": true,
   "strictLineBreaks": false,
-  "legacyEditor": true,
-  "livePreview": true
+  "legacyEditor": false,
+  "livePreview": false
 }

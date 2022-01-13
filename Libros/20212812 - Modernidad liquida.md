@@ -94,7 +94,7 @@ Los extraños se encuentran de Ea mane-ra que corresponde a los extraños; un en
 pág. 103
 ```
 
-No existe un sentido de comunidad ya. La gente solo tiene desencunetros.
+No existe un sentido de comunidad ya. La gente solo tiene desencuentros.
 En las ciudades existen solo dos tipode contrucciones publicas las plazas y los templos de consumo.
 
 ```ad-note
