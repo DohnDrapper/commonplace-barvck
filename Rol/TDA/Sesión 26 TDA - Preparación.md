@@ -117,4 +117,32 @@ Wes
 + Sabe que Ras Nsi sufre de la maldición, y que hay conflictos entre el Anathema que esta determinado a tomar el continente, y una facción más conservadora que unicamente deses recuperar las ciudades de Omu y la selva cercana a ellos.
 + Sabe que 
 
----
+
+### Ejemplos peleas de dragones
+
+Deathwing - WoW Cataclysm  
+Ancient dragons of destruction - Borderlands  
+Bazelgeus - monster hunterworld  
+Xeno'jiva - monster hunterworld  
+Lunastra - mons...  
+Black Dragon Kalameet - Dark souls  
+Dark eater Midir - Darl souls  
+Ridley - Metroid Prime  
+Alduin - Skyrim  
+Ancient dragon - Dragon's crown  
+Dragon - The witcher 2  
+Zelda - twilit dragon  
+Grigory - Dragon dogma  
+Gore Magala - Monster Hunter 4  
+Onyxia - WoW  
+  
+---  
+  
+1er etapa suelo:  
+Música de combate: - Wings  
+  
+2da etapa volando:  
+Música de combate: - Dance of the curse  
+  
+Machine soldier - otro enfrentamiento  
+Shadow of doubt - Intriga
