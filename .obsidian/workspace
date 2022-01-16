@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Spiderman No way home.md",
+            "file": "Libros/12292021 - La seta al final del mundo.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiderman No way home.md",
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spiderman No way home.md"
+                "file": "Libros/12292021 - La seta al final del mundo.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spiderman No way home.md",
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +127,7 @@
   },
   "active": "288eeb8f0e429d36",
   "lastOpenFiles": [
+    "Libros/12292021 - La seta al final del mundo.md",
     "Spiderman No way home.md",
     "Rol/TDA/Sesión 26 TDA - Preparación.md",
     "Rol/TDA/Sesión 24 TDA  - Log.md",
@@ -135,7 +136,6 @@
     "Adjuntos/T3.jpg",
     "Adjuntos/T2.jpg",
     "Adjuntos/T1.jpg",
-    "Calendario 2022.md",
-    "Referencia Mark down.md"
+    "Calendario 2022.md"
   ]
 }
