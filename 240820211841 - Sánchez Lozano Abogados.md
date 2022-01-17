@@ -29,7 +29,14 @@ Tramites en general
 + Corrección de documentos (Actas, Curp, Registros)
 + Redacción de contratos (Civiles y Mercantiles)
 
+Paquetes?
++ Constitución de Empresas y situación fiscal
++ Redaccion de contratos de prestación de servicios
++ 
+
 Gestión ante Infonavit
+
+
 
 #### DIMENSION DE LA EMPRESA:
 

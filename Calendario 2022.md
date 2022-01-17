@@ -6,18 +6,7 @@ aliases: Calendario 2022
 ---
 
 
-## Enero
-
-#### $A$. Proyecto
-Tocar guitarra
-
-#### $B$. Películas:
-Spiderman No Way Home:
-Another round
-Terrorizers
-
-#### $\Gamma$. Acontecimientos
-Fiesta 6 años 
+[[Enero 2022]]
 
 
 &emsp;

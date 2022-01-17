@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "288eeb8f0e429d36",
+        "id": "962f4ed9a2b75611",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Libros/12292021 - La seta al final del mundo.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Libros/12292021 - La seta al final del mundo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,14 +98,13 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "c019c9fb0200c506",
+            "id": "69e932e5ffbd0fcb",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -125,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "288eeb8f0e429d36",
+  "active": "962f4ed9a2b75611",
   "lastOpenFiles": [
+    "2022.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
+    "Enero 2022.md",
+    "Calendario 2022.md",
+    "Libros/200820211558 -Introducciónn a la epistemología contemporanea.md",
+    "Formatos/Sesión en blanco.md",
     "Libros/12292021 - La seta al final del mundo.md",
     "Spiderman No way home.md",
     "Rol/TDA/Sesión 26 TDA - Preparación.md",
-    "Rol/TDA/Sesión 24 TDA  - Log.md",
-    "Adjuntos/310580170232 - Rol de Época.pdf",
-    "Adjuntos/Pasted image 20211016142034.png",
-    "Adjuntos/T3.jpg",
-    "Adjuntos/T2.jpg",
-    "Adjuntos/T1.jpg",
-    "Calendario 2022.md"
+    "Rol/TDA/Sesión 24 TDA  - Log.md"
   ]
 }
