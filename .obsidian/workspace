@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "962f4ed9a2b75611",
+        "id": "5b224c8ad36ba200",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "962f4ed9a2b75611",
+  "active": "5b224c8ad36ba200",
   "lastOpenFiles": [
+    "Bolillos parlantes 2022.md",
+    "Calendario 2022.md",
+    "2022.md",
     "Personal/Bolsas de trabajo.md",
     "Libros/12292021 - La seta al final del mundo.md",
     "Libros/080520210157 - Cita con Rama.md",
-    "2022.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Enero 2022.md",
-    "Calendario 2022.md",
     "Libros/200820211558 -Introducciónn a la epistemología contemporanea.md",
-    "Formatos/Sesión en blanco.md",
-    "Spiderman No way home.md"
+    "Formatos/Sesión en blanco.md"
   ]
 }

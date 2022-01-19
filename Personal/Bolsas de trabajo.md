@@ -8,6 +8,10 @@
 [Linkedin](https://www.linkedin.com/jobs)
 [indeed](https://mx.indeed.com/)
 [OCC](https://www.occ.com.mx/)
+[Portal del empleo](https://empleo.gob.mx/PortalDigital)
+[Jora](https://mx.jora.com/)
+[Jobtify](https://jobtify.com.mx/)
+
 [Bumeran](https://www.bumeran.com.mx/)
 [buscojobs](https://www.buscojobs.mx/)
 [Jooble](https://mx.jooble.org/)
@@ -18,9 +22,25 @@
 ---
 
 Habilidades:
++ Excel
++ GIS
++ Pyhton
++ Java
 
-Excel
-GIS
-Pyhton
-Java
+---
+
+Modificar al curriculum:
+
++ Iniciar con un párrafo que te describa
++ Menciona logros en tus trabajos
++ Habla de tus tres ultimos trabajos
++ (Mejore, Alcance, resolví)
++ Crea un logo
++ Usar viñetas
++ Trabajos: (Nombre del puesto, Empresa, Periodo, Descripcion de funciones y logros)
++ Nivel de Idiomas avanzado
++ Crear varios curriculums (inglés, juridico, administrativo, labor docente)
++ Usar el metodo [STAR](https://talently.tech/blog/metodo-star-pasar-entrevistas-programacion/)
++ Agregar la capacidad de trabajar de manera remota.
++ Tener un borrador de carta de presentación
 
