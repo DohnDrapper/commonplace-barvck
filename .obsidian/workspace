@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5b224c8ad36ba200",
+        "id": "45a330aec57fa531",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5b224c8ad36ba200",
+  "active": "45a330aec57fa531",
   "lastOpenFiles": [
+    "MOOC -.md",
     "Bolillos parlantes 2022.md",
     "Calendario 2022.md",
     "2022.md",
@@ -127,7 +128,6 @@
     "Libros/080520210157 - Cita con Rama.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Enero 2022.md",
-    "Libros/200820211558 -Introducciónn a la epistemología contemporanea.md",
-    "Formatos/Sesión en blanco.md"
+    "Libros/200820211558 -Introducciónn a la epistemología contemporanea.md"
   ]
 }
