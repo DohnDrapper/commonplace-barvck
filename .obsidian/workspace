@@ -7,8 +7,12 @@
         "id": "3738a147d85c92b3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -57,8 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -74,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,12 +127,12 @@
   },
   "active": "3738a147d85c92b3",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Control de peso 2022.md",
     "2022.md",
     "MOOC -.md",
     "Bolillos parlantes 2022.md",
     "Calendario 2022.md",
-    "Personal/Bolsas de trabajo.md",
     "Libros/12292021 - La seta al final del mundo.md",
     "Libros/080520210157 - Cita con Rama.md",
     "240820211841 - Sánchez Lozano Abogados.md",
