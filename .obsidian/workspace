@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "03d95a065b2d9de8",
+        "id": "4a28f755a8e53dbf",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -118,8 +118,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "03d95a065b2d9de8",
+  "active": "4a28f755a8e53dbf",
   "lastOpenFiles": [
+    "Asociación civil/Nombres asociación.md",
     "Personal/Bolsas de trabajo.md",
     "Enero 2022.md",
     "2022.md",
@@ -128,7 +129,6 @@
     "MOOC -.md",
     "Bolillos parlantes 2022.md",
     "Libros/12292021 - La seta al final del mundo.md",
-    "Libros/080520210157 - Cita con Rama.md",
-    "240820211841 - Sánchez Lozano Abogados.md"
+    "Libros/080520210157 - Cita con Rama.md"
   ]
 }
