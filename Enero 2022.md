@@ -31,6 +31,7 @@ Tocar guitarra
 ## $\Delta$. Laboral
 |Suceso|Fecha|
 |---|---|
-|Entrevista INM|27 Enero|
-|Presentación demanda Juana Dorado|27 Enero|
-|Presentación demanda Altos Jaliso|27 Enero|
+|Entrevista INM|26 Enero|
+|Presentación demanda Juana Dorado|26 Enero|
+|Presentación demanda Altos Jaliso|26 Enero|
+|1er pago Demando Altos Jalisco|28 Enero|

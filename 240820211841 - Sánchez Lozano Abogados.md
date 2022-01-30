@@ -32,6 +32,7 @@ Tramites en general
 Paquetes?
 + Constitución de Empresas y situación fiscal
 + Redaccion de contratos de prestación de servicios
++ Consitución de empresas (Acta constitutiva, Alta ante SAT)
 + 
 
 Gestión ante Infonavit
