@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "988454c26ff9ef94",
+        "id": "2dc525901d58ffb8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "290120221949 - Sobre aprender a tocar guitarra.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "290120221949 - Sobre aprender a tocar guitarra.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "290120221949 - Sobre aprender a tocar guitarra.md"
+              }
             }
           },
           {
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "290120221949 - Sobre aprender a tocar guitarra.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +127,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "988454c26ff9ef94",
+  "active": "2dc525901d58ffb8",
   "lastOpenFiles": [
+    "290120221949 - Sobre aprender a tocar guitarra.md",
+    "Referencia Mark down.md",
+    "Personal/210420212257 - Exlibris.md",
     "Enero 2022.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Notas diarias/2021-10-25 - Ace.md",
     "Asociación civil/Nombres asociación.md",
     "Personal/Bolsas de trabajo.md",
     "2022.md",
-    "Calendario 2022.md",
-    "Control de peso 2022.md",
-    "MOOC -.md",
-    "Bolillos parlantes 2022.md"
+    "Calendario 2022.md"
   ]
 }

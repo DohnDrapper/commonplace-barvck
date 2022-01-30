@@ -44,7 +44,7 @@ alias: [GTD]
 
 ### Corto Plazo
 - [ ] Corto
-- [ ] [[210420211057 - Exlibris|Ex libris]]
+- [ ] [[210420212257 - Exlibris|Ex libris]]
 - [ ] Ilustraciones
 	- [ ] NYC
 	- [ ] Peru

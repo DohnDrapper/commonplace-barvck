@@ -3,6 +3,7 @@ aliases: [Referencia Markdown]
 ---
 
 [[#Separador]]
+
 [[#Espacio]]
 [[#Copyrigt]]
 [[#Fondo negro]]
@@ -17,6 +18,20 @@ aliases: [Referencia Markdown]
 
 ## Markdown útil
 ---
+
+#### Separación de página
+
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+
+```
+<div style="page-break-after: always; visibility: hidden">
+\pagebreak
+</div>
+```
+
+
 
 #### Separador  
 
