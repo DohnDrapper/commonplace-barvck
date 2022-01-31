@@ -277,3 +277,17 @@ the dictionary of body language - joe navarro
 + The game - Alessandro Baricco
 
 ---
+
+### 2022
+
++ La politica de masas del cardenismo - Arnaldo Cordova
++ Lifetide - Lyall Watson
++ The Folkloresque: Reframing Folklore in a Popular Culture World—a volume edited by Michael Dylan Foster and Jeffrey A. Tolbert
++ Bruno Latour - _On the Modern Cult of the Factish Gods_
++ A essay on liberation - Herbert Marcuse
++ Matt Haig - Biblioteca de la media noche
++ Kyusaku Yumeno - El infierno de las chicas
++ Tiphaine Riviere - Maldita Tesis
++ Venas abiertas de altino america - Eduardo Galeano
++ The Existentialist's Survival Guide: How to Live Authentically in an Inauthentic Age - Gordon Marino
++ How to Live a Good Life: A Guide to Choosing Your Personal Philosophy - Massimo Pigliucci

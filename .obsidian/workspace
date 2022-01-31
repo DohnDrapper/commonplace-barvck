@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8a9e68e5c530dcfc",
+        "id": "5d45f1f40b6e1d9f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sobre la muerte de la abuela.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -53,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sobre la muerte de la abuela.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sobre la muerte de la abuela.md"
+              }
             }
           },
           {
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sobre la muerte de la abuela.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8a9e68e5c530dcfc",
+  "active": "5d45f1f40b6e1d9f",
   "lastOpenFiles": [
+    "Sobre la muerte de la abuela.md",
+    "Rol/Cyberpunk El apartamento.md",
+    "Personal/Libros a leer -.md",
+    "Personal/Para ver.md",
     "290120221949 - Sobre aprender a tocar guitarra.md",
     "Referencia Mark down.md",
     "Personal/210420212257 - Exlibris.md",
     "Enero 2022.md",
     "240820211841 - Sánchez Lozano Abogados.md",
-    "Notas diarias/2021-10-25 - Ace.md",
-    "Asociación civil/Nombres asociación.md",
-    "Personal/Bolsas de trabajo.md",
-    "2022.md",
-    "Calendario 2022.md"
+    "Notas diarias/2021-10-25 - Ace.md"
   ]
 }

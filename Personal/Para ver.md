@@ -24,6 +24,7 @@ kanban-plugin: basic
 - [ ] Mad god 2021
 - [ ] Man bites dog
 - [ ] Sekimatsu Occult Gaukin
+- [ ] Where the buffalo roam
 
 
 ## Documentales
