@@ -26,7 +26,7 @@ Tocar guitarra
 |---|---|
 |Fiesta 6 años ||
 |Descomposición celular | 15 enero|
-|Muerte de mi abuela |22 de Enero|
+|[[Sobre la muerte de la abuela]] |22 de Enero|
 
 ## $\Delta$. Laboral
 |Suceso|Fecha|
