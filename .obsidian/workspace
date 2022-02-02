@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f2df13110d2886aa",
+        "id": "350e1fbcd7aaec0d",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -53,7 +53,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -118,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f2df13110d2886aa",
+  "active": "350e1fbcd7aaec0d",
   "lastOpenFiles": [
-    "Sobre la muerte de la abuela.md",
     "Enero 2022.md",
+    "Referencia Mark down.md",
+    "Personal/Bolsas de trabajo.md",
+    "Sobre la muerte de la abuela.md",
     "Rol/Cyberpunk El apartamento.md",
     "Personal/Libros a leer -.md",
     "Personal/Para ver.md",
     "290120221949 - Sobre aprender a tocar guitarra.md",
-    "Referencia Mark down.md",
     "Personal/210420212257 - Exlibris.md",
-    "240820211841 - Sánchez Lozano Abogados.md",
-    "Notas diarias/2021-10-25 - Ace.md"
+    "240820211841 - Sánchez Lozano Abogados.md"
   ]
 }
