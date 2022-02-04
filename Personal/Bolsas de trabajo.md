@@ -44,3 +44,4 @@ Modificar al curriculum:
 + Agregar la capacidad de trabajar de manera remota.
 + Tener un borrador de carta de presentación
 
+[Habilidades en Inglés](https://www.pinterest.com.mx/pin/431853051775215503/)
