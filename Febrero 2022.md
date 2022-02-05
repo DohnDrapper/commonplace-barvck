@@ -17,6 +17,8 @@ Ilustraciones de Rol
 ## $\Gamma$. Acontecimientos
 |Acontecimiento|Fecha|
 |---|---|
+|Acontecimiento|Fecha|
+|Cumpleanos Jezabel|4 Febrero|
 
 
 ## $\Delta$. Laboral
