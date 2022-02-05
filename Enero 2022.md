@@ -11,16 +11,15 @@ Tocar guitarra
 
 ## $B$. Películas:
 
-|Pelicula|Año|Fuente|
-|---|---|---|
-|Spiderman: No Way Home| 2021 |Cinépolis|
-|Another round |2020| Netflix|
-|Terrorizers |1986| MUBI|
-|Waterloo |1970 |Youtube|
-|Vampire Hunter D|1985|Youtube|
-|Peligro, Deseo|2007|MUBI|
-|El poder del perro|2021|Netflix|
-|El callejón de las almas perdidas|2022|Cinépolis
+|Pelicula|Año|Fuente| Fecha|
+|---|---|---|---|
+|Spiderman: No Way Home| 2021 |Cinépolis|3 Enero|
+|Another round |2020| Netflix|6 Enero|
+|Terrorizers |1986| MUBI|10 Enero|
+|Waterloo |1970 |Youtube|14 Enero|
+|Vampire Hunter D|1985|Youtube|17 Enero|
+|Peligro, Deseo|2007|MUBI|21 Enero|
+|El poder del perro|2021|Netflix|24 Enero|
 
 ## $\Gamma$. Acontecimientos
 |Acontecimiento|Fecha|
@@ -28,6 +27,7 @@ Tocar guitarra
 |Fiesta 6 años ||
 |Descomposición celular | 15 enero|
 |[[Sobre la muerte de la abuela]] |22 de Enero|
+|Entierro de la Abuela|23 Enero|
 |Ataque de pánico|30 de Enero|
 
 ## $\Delta$. Laboral
@@ -38,6 +38,7 @@ Tocar guitarra
 |Presentación demanda Altos Jaliso|26 Enero|
 |1er pago Demando Altos Jalisco|28 Enero|
 |Radicacipon demanda Altos|31 de Enero|
+|Radicacipon demanda Dorado|31 de Enero|
 
 ## $E$. Internet
 |Suceso|Fecha|

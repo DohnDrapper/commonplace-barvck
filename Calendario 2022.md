@@ -11,10 +11,8 @@ aliases: Calendario 2022
 
 &emsp;
 
-## Febrero
+[[Febrero 2022]]
 
-#### $A$. Proyecto
-Ilustraciones de Rol
 
 &emsp;
 

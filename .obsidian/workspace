@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "21150cee40a665b5",
+        "id": "8eaf19f8280126ea",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "21150cee40a665b5",
+  "active": "8eaf19f8280126ea",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
     "Enero 2022.md",
+    "Febrero 2022.md",
+    "Calendario 2022.md",
     "Referencia Mark down.md",
+    "Control de peso 2022.md",
+    "2022.md",
+    "Personal/Bolsas de trabajo.md",
     "Sobre la muerte de la abuela.md",
     "Rol/Cyberpunk El apartamento.md",
-    "Personal/Libros a leer -.md",
-    "Personal/Para ver.md",
-    "290120221949 - Sobre aprender a tocar guitarra.md",
-    "Personal/210420212257 - Exlibris.md",
-    "240820211841 - Sánchez Lozano Abogados.md"
+    "Personal/Libros a leer -.md"
   ]
 }
