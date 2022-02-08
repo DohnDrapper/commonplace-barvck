@@ -19,6 +19,7 @@ Ilustraciones de Rol
 |---|---|
 |Acontecimiento|Fecha|
 |Cumpleanos Jezabel|4 Febrero|
+|Peda en San Luis de la Paz||
 
 
 ## $\Delta$. Laboral
@@ -30,6 +31,7 @@ Ilustraciones de Rol
 ## $E$. Internet
 |Suceso|Fecha|
 |---|---|
+|Envíe aplicación para MOD|6 Febrero|
 
 ## $Z$. Series
 |Serie|Fecha|
