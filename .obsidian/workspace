@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3cb49dabfb002d37",
+        "id": "3392edaa83f66b1c",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -118,8 +118,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3cb49dabfb002d37",
+  "active": "3392edaa83f66b1c",
   "lastOpenFiles": [
+    "Asociación Civil - 'Lluvia de Ideas'.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
     "Febrero 2022.md",
     "Enero 2022.md",
     "Calendario 2022.md",
@@ -127,8 +129,6 @@
     "Control de peso 2022.md",
     "2022.md",
     "Personal/Bolsas de trabajo.md",
-    "Sobre la muerte de la abuela.md",
-    "Rol/Cyberpunk El apartamento.md",
-    "Personal/Libros a leer -.md"
+    "Sobre la muerte de la abuela.md"
   ]
 }
