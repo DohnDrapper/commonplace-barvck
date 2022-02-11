@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "3392edaa83f66b1c",
+        "id": "36eb2804a072790a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,8 +126,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3392edaa83f66b1c",
+  "active": "36eb2804a072790a",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Asociación Civil - 'Lluvia de Ideas'.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Febrero 2022.md",
@@ -128,7 +137,6 @@
     "Referencia Mark down.md",
     "Control de peso 2022.md",
     "2022.md",
-    "Personal/Bolsas de trabajo.md",
     "Sobre la muerte de la abuela.md"
   ]
 }
