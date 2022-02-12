@@ -7,8 +7,12 @@
         "id": "a62072325dc6f6df",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Libros/13112021 - Memeing Mark Fisher.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "MARK",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md"
+              }
             }
           },
           {
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +129,7 @@
   },
   "active": "a62072325dc6f6df",
   "lastOpenFiles": [
+    "Libros/13112021 - Memeing Mark Fisher.md",
     "Personal/Bolsas de trabajo.md",
     "Ensayo Febrero 2022.md",
     "Asociación Civil - 'Lluvia de Ideas'.md",
@@ -128,7 +138,6 @@
     "Enero 2022.md",
     "Calendario 2022.md",
     "Referencia Mark down.md",
-    "Control de peso 2022.md",
-    "2022.md"
+    "Control de peso 2022.md"
   ]
 }

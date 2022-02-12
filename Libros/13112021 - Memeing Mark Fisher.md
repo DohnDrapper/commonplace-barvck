@@ -350,7 +350,7 @@ El exito de un movimiento como QAnon resulta de la sensación de triunfo de indi
 La racionalización viene de la necesidad del ser humano de control e identificar la naturaleza y a los demás.
 Lo alternativo, "la no identidad"  que se resiste a tener una narrativa se halla en lo abstracto y música.
 
-#### Conclusión cápitulo 4
+#### Conclusión cápitulo 3
 
 Qanon es el máximo esponente del uso del internet por parte de la derecha contemporanea. Qanon utiliza por un lado el manejo de la verdad, a su conveniencia, como un instrumento paar robarles a la gente la capacidad de opornerse al orden existente.
 Además, ha creado una especie de narativa colectiva que atrae a la gente que busca una guía y una identidad.
@@ -360,6 +360,302 @@ Adorno y H consideran que la respuesta a esta manera de pensar debe provenir de 
 
 ---
 
+&ensp;
+
+### Capítulo 4 The memeing of Mark Fisher
+ 
+```ad-note
+
+The question “Is there anything ‘new’ anymore?” might be otherwise phrased “Is there anything worth getting out of bed for?”, a question familiar to anyone who has
+ever experienced depression. Capitalism makes us into objects of labor, thereby nullifying meaning as the possibility of vibrancy, of newness is impeded. After all, what
+that is new can be brought about by unthinking worker-objects or consumers? Given this, refusing to get out from under the blankets is practically a logical adaptation.
+
+pág. 22
+
+```
+
+MArk Fisher habla de laimposibilidad de escapar del capitalismo debido a  la alieniacionsentido repecto de todo. nuestro autor considera un pararlelo de la situacipon pues la pandemia y sus encierros hanprovocado un edterioro en la salud tanot mental como fisica de la sociedad. Pues ya no parecer exisitir una razón suficiente para levantarse de la cama.
+
+``` ad-note
+
+As such, it won’t be addressed here, except to
+say that its critique of callout and cancel culture was correct in identifying the depressive psychological effects of online critiques, which make it virtually impossible to
+maneuver without double-checking if you may offend x, y, or z group (which can include tiny leftist factions even adjacent to your own position). It would appear that
+the very grievances which lead so many people to express themselves politically online — which amount in short to a lack of agency felt on the part of internet users in
+their daily life — in turn lead leftists to attack each other instead of the capitalist system. This becomes a vicious circle as the sheer amount of data distributed online
+raises the stakes in terms of how famous an individual could become by riding the crest of that angst-ridden data wave. Or conversely, how maligned they could
+become if they are called out for having the “wrong” opinion. The trouble is, it is very hard to choose to be the person riding that wave at any given time, a problem
+confounded by the fact that one could just as easily (or more probably) become a pariah instead, shunned by various factions of the online left rather than embraced
+by it
+
+pág. 23
+```
+
+El debate de quien ha sufrido o mas o de quien es un cancer. Es imposible en la derecha oopiniar sin tener una lista donde se amrque a uiqn o se ha ofendido. En el mundo en el que vivimos las figuras importantes de izquierdas es mas fácil que destruyan a alguien a que lo apoyen.
+
+```ad-note
+The speed of meme activity and the high turnover of YouTube video production and
+reception basically impede philosophical reflection. And this may go a long way to explaining why the left is more fragmented than ever in its online incarnation, aside
+from the gaming-like competitive nature of social media and online video platforms. With regard to the latter point, one can quite literally sense that some online
+leftists really do want to “win” the online left “game,” while a number of smaller “players” enjoy backing a given Breadtuber, for example, to “win” against another. It
+is not uncommon to see the fans of Destiny, Vaush, Peter Coffin, Angie Speaks, or other B- to A-list online left personas turn on an opponent of their preferred leftist
+protagonist on Twitter with the brute violence of a lynch mob. The way in which lesser interlocutors can get caught in the crossfire and permanently canceled is
+enough to make anyone of a slightly nervous disposition wary of engaging on Twitter at all. This goes on in spite of many of the prominent personas of the online left
+being openly opposed to such behavior, including those mentioned above. 
+
+pág. 23
+```
+
+En el mismo sentidoq ue lo anterior, la cultura de la cancelación mas que construir un futuro nos impide tener un dialogo, muchas veces  la misma izquierda es la que hace las labores de la derecha.}
+
+```ad-note
+
+In this sense, “shitposting” — its very name signifying a deliberate “race to the bottom” in terms of aesthetic values — is indicative of a tendency toward cynicism
+both in meme culture and millennial culture at large. This cynicism means that readily produced popular culture may be able to achieve what Adorno envisaged for
+high art abstraction in its basic refusal of any discernible value system: it basically exacerbates our discomfort, amplifying our discord with nature until the artifice we
+create around us comes tumbling down. The impossibility of capturing this moment in any sensible or reasoned way may be why it must come about via
+experimentations into the fundamentally unknowable and dark realms of cultural expression. It also favors a clumsiness present in Beckett’s theatre and in the
+haplessness of Kafka’s Gregor Samsa as he wakes to find he has metamorphosed into a giant bug.
+
+pág. 24
+```
+
+En la era en queno hay novedad el _shitposting_ surge como la reacción cínica  al siginificación dela imágen a através de transmitir incomodidad que la despoja de su artificio.
+
+``` ad-note
+
+We don’t deserve to be triumphant because we are wholly complicit with the system we despise. We know that minerals for our mobile devices are often mined by
+slaves on the African continent but are somehow able to countenance this fact. If Adorno saw virtually no hope left in the 1940s to 1960s, what hope can we now have
+for an escape from capitalism as we are constantly plugged into devices made by slaves that turn our leisure time into productive labor for the data economy? What
+today can resist the pervasive depression wrought by capitalism’s constant demands? 
+Fisher answers this question at the end of Capitalist Realism with a decidedly Adornian response. Namely, if nothing is to be found outside the dark madness of
+capitalism, the Doomers among us will have to make our sickness into a credible protest movement: 
+We must convert widespread mental health problems from medicalized conditions into effective antagonisms. Affective disorders are forms of captured discontent;this disaffection can and must be channeled outwards, directed towards its real cause, Capital. 28 
+In this case, it does matter that the online tools which might set us free by giving us a mode of expression are the same ones that feed our depression, as it is
+precisely out of our depression (or anxiety, or psychosis) that we might find the will to go on. And in going on we may find uses for the internet that challenge the
+data economy’s tendency toward competition. 
+Of course, Fisher departed us young and at his own hands, and so did Benjamin, but Adorno survived until a heart attack took him at 63, and Marcuse to the age of
+81. Above all, their words still inspire, and might help lead us to a new era of solidarity and creativity, if we can see past our own personal advancement online.
+
+pág. 24 - 25
+```
+
+
+#### Conclusión Capitulo 4
+
+El capitalismo se ha vuelto tan prminente que incluso ha logrado convertir en un meme a uno de sus masferevientes críticos, Mark Fisher.
+La cantidad de contenido digital impide que exista un reflexion respecto de lso temas de actualiddad como ya se habia proouesto, loq ue provoca que la derecha no tenga margen de actuación. Adempas el poner de manifiesto ¿quien ha sufrido mas? nos lleva a la cultura de la cancelación, que destruye a lso pequeños y polariza una izquierda ya separarda. 
+El mem como impgan resulta en un artifico que nos deprime.  La camoetitividad e hipervelocidad de contenid del internet evita que tengamos una capacidadd e reflexión.
+Pero surgen cosas como el shit posting que en su cinismo le quietan el artifcio a la imgen y nos acercan a la objeto natural.
+Siie internet es quien nos alimeta nuestra depresón y ansiedad pero tambien es el modo enque se peude salir d este circulo a través de él. 
+
+---
+
+### Capítulo 5 
+
+```ad-note
+The mixture of lassitude and objectless rage conveyed in Cobain’s voice was clearly not modeled for effect, yet he was paraded on MTV and countless other TV shows,
+radio broadcasts, and concert stages precisely as if it was. This is the same tendency that led Fisher himself to become a meme, reducing his theory to caricatured
+soundbites. 
+Though aside from capitalism aping our best musicians, theorists, and artists so that they become parodies of themselves, it threatens our very existence as living
+beings in the fullest and truest sense. Arguably a “life” requires new moments just as a heart cannot only beat once, but must beat constantly for the human body to
+function. Life without new moments becomes drab and objective, this being effectively Marx’s complaint against the alienating effect of repetitive labor. The purpose of
+what Adorno termed the “culture industry” is to rid from art the capacity to create new and shocking moments that might shake people from their objective
+complacency as workers whose sole purpose is to produce capital.
+
+pág. 26
+```
+
+El capitalismo se apropiea del arte y lo cnvierte en industrpia para controlar el cuero de als persoans y rpoducir plusvalía de ahpi al existencia de la industria del entretenimeito barato, que produce moemto de choque o de "novedad", complascientes.
+
+```ad-note
+Written in Minima Moralia, a book sub-headed “Reflections from Damaged life,” these lines indicate what has been lost to us as the capitalist system appropriates art
+as mere decoration meant to placate worker subjects so that they remain in their objectified state. Not long after Nirvana’s meteoric rise — spanning just 3 years from
+Nevermind’s release to Cobain’s death in April 1994 — major record labels stopped pushing bands grown in the garage by angry young guys and gals and started
+manufacturing bands, or at least carefully screening them to weed out any genuine rebelliousness. 
+
+pág.26
+```
+
+El capitalismo se apropia de la cultura al evitar que de nuevo surgiera un grupoa untentico y significativo como NIrvan, unicamente apoyando bandas pre manufacturadas.
+
+```ad-note
+
+After all, when is anyone ever reading Marx, or anything, especially today, without half a mind on something else? [...]  Indeed, if, as Adorno and Benjamin
+would agree, capitalism inflects all human experience, we have no choice but to conduct critiques of capitalism with an awareness of its intrusion on our thought.
+
+pág.27
+```
+
+El calpitulismo basa su exito en estar presente en cada aspectod e neustra vida, al punto de que toda actividad se realiza con el capitalismo presente.
+
+```ad-note
+Adorno’s term “shudder” signals the shock the viewer of art experiences as they
+relive the primal scream that primitive man voiced at his realization of our separation from nature. Whereas Benjamin’s phantasmagoria signals that all of history
+comprises our experience of the now thereby bringing an immediacy to our interaction both with art and consumer products as if, one could argue, the originary primal
+scream of our ancestors had not ended but was in fact being perpetually voiced in response to the accumulated debris of history arising from that scream.
+
+pág.27
+```
+
+Adorno mira comoe l hobre se sperar de al naturaleza a trvpes del arte.
+
+Benjamis ve el debros como la realizacion de nuestra historia perpetuada a travpes de un producto artitico.
+
+```ad-note
+
+Certainly, the idea of walking the glitzy streets of hyperspace with the intention of documenting it and thereby revealing its links to the history of capitalist
+domination would seem well-intentioned. There is, after all, a well-documented mass of young left-leaning meme producers, shitposters, YouTube video makers, and
+streamers who seem as yet unable or unready to manifest or get close to real political power (if we discount examples of Twitch streamers such as Hbomberguy or
+Lance from “The Serfs” appearing in Twitch streams with Alexandria Ocasio-Cortez). Perhaps, though, they could better understand power by taking a look around at
+the vast cultural depository they are embedded within — the internet. 
+Though before diving headlong into what would be a very long and involved project, it is worth asking if Benjamin’s basic formulation as outlined here holds true
+today. Do the characteristics of online media, which are quite distinct from any prior media form, not distinguish it from the Benjaminian phantasmagoria? Most
+importantly: can the audience reconfigure history in new constellations given the proximity of power to the act of viewing in a data economy (if such a possibility ever
+existed)? 
+
+pág.28
+```
+
+A travésd ela fantasmagoria podemos obtener un punto donde se salga de al produccion capitalista y hablemso de shot posting como metodo de entender la historia y cambair a nuestro favor.
+
+```ad-note
+
+In considering this question, it is important to note that, as with many terms in Benjamin’s output, the origins of the term phantasmagoria are not entirely defined.
+In one interpretation it represents a group of commodities that together have a spell-like effect on the viewer, similar to that of a phantasmagoric scene of the
+eighteenth century, wherein props and lighting would be used to create ghost-like effects. Yet in another, it simply describes the mechanism of commodity fetishism,
+the process by which the commodity exerts an influence on the human purchaser or owner based on assumed properties extraneous to it (for example, the toothpaste
+that makes you smile more). The distinction here is significant as, on the one hand, we have the possibility for assemblages of objects to create specific meanings, yet
+on the other, we have a blanket effect of commodification. The former allows for varied possibilities in terms of constellations of different objects producing different
+effects. The latter definition suggests an imposed homogeneity — i.e. the absolute commodification of society as people become slaves to objects. The key to
+understanding these two different versions of phantasmagoria with their wildly differing outcomes is another loosely defined term of Benjamin’s, the “dialectical
+image.” 
+The dialectical image is a notion that permeates The Arcades Project, and which was reportedly originally born from conversations between Benjamin and, variously,
+Adorno, Gretel Adorno, Horkheimer, and Benjamin’s long-term mistress, Asja Lacis. Aside from in The Arcades Project, it has no clear elucidation, meaning we are left
+with the notes that make up that opus to try and fathom what is meant by it. This has given many theorists a headache, as they try to piece together a method and
+potential praxis linked to the term. 
+
+```
+
+Fantamagosria(1): UN grupo de comunidad des en un objeto que tienen un efecto tipo hechizo en un sujeto.
+
+Fantasmagoría(2): Un efecto de la comodidad fetichista en la qu eun objeto tien un efecto enla persoasn basado en propiedad que aume que el objeto posee.
+
+```ad-note
+The moment of the dialectical image is the point at which we as viewers of the tomb or meme are snapped into ourselves as we feel the past intersect with the
+present finite moment, shocking us out of a complacent acceptance of our alienation at the hands of capital (though Cecil’s tomb as a memento mori was presumably
+supposed to shock the viewer out of their complacent life of sin and distance from God).
+
+pág.29
+```
+
+Imagen dialectica: es el punto en que como expectadores del meme de la tumba somos introducidos en nosotros mismos mientras sentimos como el pasado se interecciona con el momento finot del presente, shockeandonosde al aceptación complaciente de unuestra alineacion en la manos del capital.
+
+```ad-note
+Put otherwise, Adorno wished to state that any truth content emerging from the artwork would have to be on account of its materiality and not of the imagination
+either of its producer or the audience. It is the imagination, rather, that arises from the material conditions of an artwork or commodity and the world it was produced
+in. It is those material conditions, embedded in the artwork, that for Adorno result in a moment of shock for the viewer of the radically abstract artwork as they are
+exposed to the reality of the human’s link to the natural object and the impossibility of surpassing that link (and our mortality) via scientific discovery or capitalist
+production. This shock, or “shudder,” is felt as a feeling of oneness with the artwork, and therefore the wider natural object, is interrupted by the realization that the
+work comprises components that arise from human labor, and thereby reveal our estrangement from nature through capitalism. 
+
+pág.29
+```
+
+
+Para adorno ese moeto de qshock pertenece a la materialidad de objeto, deriva en un choque al darnos cuenta que el trabajo  es una extrañeza de la naturaleza a travles del capitalismo.
+
+
+```ad-note
+
+And one might agree with Adorno that quotes like these lack a sense of urgency as regards preparedness for Marxist-Leninist revolution (or anything approaching it) —
+except, of course, Adorno looked barely prepared himself. In any case, in a society where industrial building processes are key to the economy, who has time to take a
+tortoise for a walk? Only surely a beneficiary of capitalism. Indeed, tortoise walking (apparently a popular pastime in early-nineteenth century Paris) brings to mind
+some of the more frivolous meme formats, demonstrating the absolute dearth of purpose or meaning in the lives of young people living in developed nations. These
+include the practice of lip-synching to lines from movies or dancing to 15-second segments of songs (15 seconds being the maximum length of a TikTok video,
+although four videos can be strung together into a one-minute sequence). Specific dance routines include The WAP, based on thrusting moves from the video to Cardi
+B and Megan Thee Stallion’s hit song, and Tap In, set to SAweetie’s homonymous song. These moves are emulated by tens to hundreds of thousands of mostly female
+amateur dancers who can command as many as millions of views each. While incomparable to taking tortoises for a walk, in their utter uselessness and studied, even
+forced, casualness they share something in common with the flaneur. And here it is worth bearing in mind that only a perverse material reality could have made going
+for a walk with a tortoise “in 1839” seem like a good idea. These material realities are also what made, again, “The attitude of the flaneur,” the “epitome of the
+political attitude of the middle classes during the Second Empire.” This attitude, which is far from one of action, is arguably the same one that makes young women,
+and sometimes men, contort themselves today to fit the oblong frame of the smartphone (the dimensions of a TikTok video), the dimensions of which make theirsexualized movements appear hideously automated. 
+Anyone who has seen young people preparing a dance for social media will note the amount of time they put into rehearsing and re-enacting the dance, erasing the
+prior recording until they get it just right. As Mark Fisher observed in relation to SMS text messages during a talk given at the University of Warwick in 2011: 
+...it’s typical for teenagers to spend, you know, up to an hour comprising an sms text message of 150 characters just to assure they get the right level of
+nonchalance
+
+pág.30
+```
+
+El llevar a cabo un activiada que parece anodina, como grabar un tik tok resulta en una rebelión a los procesos industriales, como una muerte del proposito en la vida de la juventud en paises desarrollados.
+
+```ad-note
+
+What this tells us is that while what often appears relaxed is actually labor, this is only ultimately achievable due to there being a lack of a requirement to labor in the
+workplace, or at school. This is indeed the proverbial elephant in the room — that which cannot be said but which is more than apparent — that Benjamin reveals with
+both his fixation on flaneurism and the way he assembles factoids and quotes about bourgeois Paris without peppering them with calls to arms. That elephant in the
+room regards the level to which the cozy existence the bourgeois class enjoyed in Paris in the nineteenth century was equaled by Benjamin’s and Adorno’s existence,
+which while blighted by the horrors of World War Two, was relatively insulated compared to their working-class Jewish counterparts or to political dissidents in
+Germany. 
+
+pág. 30
+```
+
+Imagen dialectica de Walter Benjamisn: Loq ue para unos parece relajacion en trabajo, derivado de lafalta de al necesidad de trabajar ya sea en la escuela o en el trabajo.
+
+```ad-note
+
+For Benjamin, the heroic, the shock, the calamitous were not necessary marks of an awareness of the true conditions of capital, perhaps as he saw these conditions all
+around him and felt the bourgeois complicity with capitalism so much that he wished to enunciate it in all its banality. 
+This is not for a moment to equate bourgeois experience with working-class experience, in terms of awareness of the reality of class struggle. Yet, the ability for
+relatively privileged people to grasp the reality of class struggle remains as fundamental today as it always has been. This is because, however much the working class
+and lower-middle class of Western countries struggle, they are hugely more privileged than the productive classes of Asia, Africa, and South America. At the same
+time, it is worth considering the extent to which we today enjoy conveniences that were unimaginable to the affluent bourgeois scholars of the Frankfurt School. As
+such, parallels can be seen with Benjamin’s practice as a hash-addled flaneur taking in the sites of the Paris streets and arcades and today’s digital flaneur, who
+dedicates portions of her or his day to observing other people, their memes, and online stores: or with friendship duos who spend hours contorting themselves to fit
+the rectangular proportions of their phone screen in a manner that looks more-or-less effortless. All so they can share the resulting 15-second long TikTok video to
+gain the adoration of other friends, who have been doing the same thing all day. 
+
+pág.30
+```
+
+La imagen dialectica es como la burguesia se percibe en contraposicion con otras clases, y como encunrta que su mometo historico y futuro va mas alla.
+
+```ad-note
+
+That is to say, Benjamin has intended to apprehend via The Work of Art in the Age of Mechanical Reproduction, the material fact and sequence of events that led to
+the (then) current historical moment via a consideration of its specific media composition: TV, radio, mass publications. What he saw, as discussed here in Chapter 2,
+was the accumulation of uneven property relations coming to expression via the grievances of mass media audiences who felt cheated given the gap between what
+the media offered and what was actually available to them. Today, we take aloof flaneur-like walks through digital arcades replete with memes and videos co-opted as
+data commodities. In doing so, we might take time to assemble constellations of these image objects so as to reconstruct from them the history of capitalism and to
+allow possible future assemblages conducive to a socialist vision. This may require a slowing down of our media consumption, not to a turtle’s pace, but enough to
+make reflection upon the mechanisms underlying our current digital era of capitalism possible. In this way, as we look back on the accumulated debris of history, like
+Klee’s angel of history, we will be able to reconfigure it rather than be configured by it. This is how “each era may dream of the next,” and it comes about as a seizing
+of the truth of the material relations of the present through the apprehension of cultural or architectural objects (the moment of the dialectical image). The Dancing
+Coffin as a dialectical image may lead us to realize our mortality and the fact that we are alive now, and therefore need to make use of our short lifespans. Yet if you
+are truly a digital flaneur you’d stop to reflect on the masses of Western teens and adults who routinely laugh at the funereal rights of the people of Ghana (an ex
+Portuguese, then British colony) and the workers who dance as they carry coffins. Before then reflecting on the Western zoomers and millennials that contort
+themselves to achieve the right “look” for videos that serve to enrich the data economy, asking yourself, “How did history arrive here?” 
+
+```
+
+Existe un claro paralelo en tra la gran cantidad de media qu eocnsumismo y como este debe ser consumidoen menor medida para provicar un relfaxion en nosntros que diga qcomo ehemos  legado de querer tomarnos la foto que solo beneficia a la economia de lso datos a como ehmso lelgado ahasta aquí.
+
+#### Conclusion
+
+Se nos present ane esta capitulo varios conceptos que tienn cierta aplicacion en la actualidad.
+
+Por un lado se nos presenta "Shrured" de Adorno,  aquel mometo en el que un objeto artistico nos revela como estamos laenados de al naturaleza por el trabajo capitalista.
+
+Por otro la fantasmagoria de Benjamín, sinedoe elque un obejto provoque uen nosotros una reaccion similar a a algo hetereo, vamos que Benjamis ve el debros como la realizacion de nuestra historia perpetuada a travpes de un producto artitico.
+
+Pero sobre tod la imagen dialectica que si bien no hay una definición acordada, nuestr oauotr al ejemplicfica en el trabajo que  se hace al no existir el requerimiento del mismo, por ejemplo el bailar un tiktokm que parece diversio pero en realidad es unproceso rtadado y complicado.
+
+LA derecha debe provocar que todo este consumo de tuite, facebook, y demas se disminuya  para porvicar un relfaxión, donde podemaso ver como pasamos a eniquecer la econmia capitalista con nuestras "diversiones".
+
+
+---
 Algunos artpciulso de referencia:
 
 [[13112021 - Los dank memes, la reacción a una Internet invivible#^21f5c1]] :
