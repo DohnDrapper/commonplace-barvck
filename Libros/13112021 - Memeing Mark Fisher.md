@@ -654,8 +654,110 @@ Pero sobre tod la imagen dialectica que si bien no hay una definición acordada,
 
 LA derecha debe provocar que todo este consumo de tuite, facebook, y demas se disminuya  para porvicar un relfaxión, donde podemaso ver como pasamos a eniquecer la econmia capitalista con nuestras "diversiones".
 
+---
+
+### Capitulo 6
+
+```ad-note
+
+It’s hard to say who this reflects worse on in hindsight: Adorno for refusing to join his students in fermenting a societal uprising from campus, or Marcuse, as the
+very unlikely face of a new social and sexual permissiveness in America. Today we tend to perceive that the gender and civil rights movements should be led by
+representatives of the groups that seek empowerment. Black Lives Matter urge that white protestors yield to the authority of any present black comrades in any given
+situation. In this light, it’s hard to see what Marcuse had to offer the African-American Angela Davis. But when you consider that Adorno tried to deter Davis from
+returning from Frankfurt (where she studied at Frankfurt University) to the US to join the protest movement altogether, Marcuse immediately emerges as the more
+progressive of the two. As Davis has stated, Adorno “suggested that my desire to work directly in the radical movements of that period was akin to a media studies
+scholar deciding to become a radio technician.”
+
+pág.31
+```
+
+Adorno y Marcuse fueron unos tipos mas de palabras que de acciones.
+
+```ad-note
+
+Ultimately, their work is collectively concerned with the consideration of entirely harmless
+subject areas. Sure, they turned the focus of academia to popular culture and identified class subjugation at play in the offerings of the culture industry, yet aren’t
+endless reflections on media objects liable to detract precisely from any action that might be taken to overthrow the system itself? And here you see, perhaps,
+Adorno’s real interest (and lack of understanding) in comparing activism to becoming a radio technician. For Adorno, both activism and manual labor in the service of
+the culture industry amounted to tinkering at the service of a vast societal mechanism that would ultimately anyhow be subject to the antagonisms of class and race
+division. This was assured by a basically flawed mode of human thinking that leads us to “identify” and categorize nature and humans in a bid to control them. All that
+a protest might achieve, if anything, was to rejig the social spectrum so that one set of humans would have control of the mass, instead of another, as evidenced in
+the rise of European Fascism and Soviet Communism. But isn’t this the kind of judgment that only a comfortably middle-class person can make (even acknowledging
+the horror of being a German Jew who fled the Nazis)? 
+
+pág.31
+```
+
+Su trabajo se centra mas que nada en teoria y areas no tan controversiales. Muy burgueses.
+
+```ad-note
+
+Fast forward to the 2020s and this is still a paramount concern, and to a degree that Marcuse possibly couldn’t have foreseen. What passed for permissiveness in the
+1960s would appear staid by today’s standards, as graphic porn is readily available on ubiquitous devices, and mainstream TV and film feature a level of sexualization
+perpetually verging at least on salaciousness. Eroticism has itself assumed a memetic quality as amateur models frequently become “insta famous” by posting near
+nude selfie images, or make money on platforms such as OnlyFans, which allows models to charge a subscription for nude or semi-nude photos of themselves. These
+platforms of course bring in a level of choice and, potentially, an empowerment that is difficult to dismiss as somehow “controlled.” Perhaps here it makes sense to
+dispense with the relative notion of “freedom of choice” and to simply ask to what extent people are subjugated today, irrespective of the choices they make. Such an
+approach not only cuts right through the problem of people thinking they are free while being actually subjugated (as Marcuse argues they were in the 1960s), but is
+also particularly apt in the social media era, where constant choice is the motor of entertainment (rather than, say, choosing a film and then sitting still for 90
+minutes).
+
+pág.32
+```
+
+Esz el uso de OnlyFans una cosificación? Al fnal es una manera de satisfacer un deseo solo en un medida que sirva a capitalismo.
+
+```ad-note
+
+That is to say, if we all enjoy a certain level of comfort, it does not mean that we are all comfortable, but rather that capitalism has adjusted our base level of
+acceptable comfort. The same could be said, more or less, with regard to desire — in that any degree of satiation accords with a redefinition of desire itself. This is in
+part because desire is effectively something we can only feel toward things we don’t have. Though beyond this, even momentary satiation of sexual desire is today
+often achieved at the fulfillment of something so banal and easily achieved (the opening of a web page) that the sexual functioning is reduced to being just another
+human need that can be satisfied by a phone browser. 
+Of course, there is a debate over whether or not a woman’s, or man’s, ability to earn money from posting images of herself online might constitute empowerment,
+yet it would be a very specific desire that held as its principal aim the production of nude selfies for sale online. That is to say, there may be some degree of
+satisfaction in providing sexualized images to paying subscribers, but this doesn’t mean the provider is not subjugated. One only needs to recall the 19-year-old Belle
+Delphine selling her “used bathwater” as “Gamer Girl Bathwater” to fans on her Patreon account for $30 for a small bottle. After all, it is possible to conceive of a
+society in which Delphine wouldn’t want or need to sell her used bathwater in order to feel economically or sexually fulfilled. 
+
+pág. 32
+```
+
+La sexualida alservicio del capitalismo la ha convertido en una necesidad mas que se satisfacetan banalmente como abrir una pagina web.
+El capitalismo conveirte todo en progreso y rentabilidad.
+
+```ad-note
+
+From the purview of the male user of online sexual services and material (the market for Delphine’s bathwater), the meme “Are You Winning, Son?” speaks of the
+awkwardness of a culture that is both permissive and repressed. The meme, which derives from a comic panel probably first published in 2014 on 4Chan, features a
+crude MS Paint drawing of a father arriving home and asking “Are ya winning, Son?” to his gamer offspring. In the original comic the son has a VR headset on and is
+saying “please please play with my breasts” to a character that he is interacting with, in the virtual realm. 50 The meme resurfaced in 2020 in many variants, though
+what is most interesting here is the way in which the father in the meme inadvertently yet accurately describes the status of sex as an activity that can be “won” in the
+twenty-first century. Belle Delphine, who released a real sex video to her OnlyFans audience on Christmas Day 2020, would be an ostensible winner of the sex “game,”
+given the vast amounts of money she makes from male fans. However, her eventual making of a real porn video 18 months after teasing fans with deceptively titled
+videos uploaded to PornHub shows that she may not be entirely in control of her own image. While those earlier videos featured titles such as Belle Delphine Strokes
+Two BIG Cocks, leading to a video of Delphine stroking two live roosters, her Christmas Day porn video featured hardcore sex acts. For many, this signaled a fall from
+grace, not specifically because she performed real sex acts on camera, but because she lost her critical edge in doing so. After all, Delphine had previously been famed
+for hubristically offering everything to her fans and delivering nothing.
+
+```
+
+Belle delphine perdió su  reputacion al entregar lo que sus fans querian mas que solo tantearlos.
+
+```ad-note
+
+Indeed such platitudes to art will likely always remain true, perhaps becoming more poignant the further from utopia we become. This is because art — synonymous
+with imagination — becomes fantastical in inverse proportion to reality, explaining why our dreams in covid lockdown have become especially vivid. It may also be why
+both the main figures of the Frankfurt School and Fisher found themselves curiously restricted to making vague allusions to the power of art as their only remedy to
+the autocratic barbarity of capitalism. As capitalism aims to reduce both the stimulus we encounter and our desire for it, such that our desires can be easily exhausted,
+it is our duty and biological imperative to fight back with more elaborate desires — be they political, erotic, or plain fantastical. 
+
+```
+
+El arte es l amenra de salir del cappitalismo pero en su nivel mas mental en conraste cone l capitalsimo qu ees real. El arte se mueve en un mundo más fantastico fuera de la realidad.
 
 ---
+
 Algunos artpciulso de referencia:
 
 [[13112021 - Los dank memes, la reacción a una Internet invivible#^21f5c1]] :
