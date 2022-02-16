@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "948d63b0569cefad",
+        "id": "ceb0611dba398585",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
             "file": "Personal/Bolsas de trabajo.md",
-            "mode": "source",
+            "mode": "preview",
             "source": true
           }
         }
@@ -126,7 +126,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "948d63b0569cefad",
+  "active": "ceb0611dba398585",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "Febrero 2022.md",
