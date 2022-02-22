@@ -1,0 +1,49 @@
+{
+  "theme": "obsidian",
+  "pluginEnabledStatus": {
+    "File explorer": true,
+    "Search": true,
+    "Quick switcher": true,
+    "Graph view": true,
+    "Backlinks": true,
+    "Command palette": true,
+    "Markdown format importer": true,
+    "Word count": true,
+    "Page preview": true,
+    "Custom CSS": true
+  },
+  "isSidebarCollapsed": false,
+  "isRightSidedockCollapsed": true,
+  "lastOpenSidebarTab": "File explorer",
+  "workspaceLayout": {
+    "id": "f2bfbd6333499922",
+    "type": "split",
+    "dimension": null,
+    "direction": "vertical",
+    "children": [
+      {
+        "id": "e91a1d96fc7fefe9",
+        "type": "leaf",
+        "dimension": null,
+        "active": true,
+        "master": "",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "_Maps of Contents MOC.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ]
+  },
+  "lastOpenFiles": [
+    "_Maps of Contents MOC.md",
+    "Habits MOC - Stage 2 - pt2.md",
+    "_IncubationMOCs/Habits MOC - Stage 3.md",
+    "_IncubationHabits/Like begets like.md",
+    "_IncubationHabits/Cobwebs into Cables.md"
+  ],
+  "lastOpenRightSidedockTab": "Backlinks",
+  "promptDelete": false
+}
