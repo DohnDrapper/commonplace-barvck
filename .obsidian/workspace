@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c3d517f944ea11",
+        "id": "8fdc445b2f94d049",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tarot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -75,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -99,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5c3d517f944ea11",
+  "active": "8fdc445b2f94d049",
   "lastOpenFiles": [
-    "lectura tarot.md",
     "Personal/Bolsas de trabajo.md",
     "Febrero 2022.md",
-    "Referencia Mark down.md",
-    "Libros/13112021 - Memeing Mark Fisher.md",
-    "Control de peso 2022.md",
+    "Personal/100820211442 - 2021 Resumen del Año.md",
     "Calendario 2022.md",
+    "Para redactar en Discord.md",
     "2022.md",
-    "Ensayo Febrero 2022.md",
-    "Asociación Civil - 'Lluvia de Ideas'.md"
+    "Referencia Mark down.md",
+    "lectura tarot.md",
+    "Libros/13112021 - Memeing Mark Fisher.md",
+    "Control de peso 2022.md"
   ]
 }

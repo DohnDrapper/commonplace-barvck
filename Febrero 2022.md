@@ -9,12 +9,19 @@ aliases: [Febrero 2022]
 ##  $A$. Proyecto
 Ilustraciones de Rol
 
+&emsp;
+
 ## $B$. Películas:
-|Pelicula|Año|Fuente|
+|Pelicula|Año|Fuente|fecha|
 |---|---|---|---|
 |El callejón de las almas perdidas|2022|Cinépolis|1 febrero|
-|Jimmy Carr: His dark material|Netflix|9 febrero|
-|Jim Jefferies|Netflix|10 febrero|
+|Jimmy Carr: His dark material|2021|Netflix|9 febrero|
+|Jim Jefferies: Intolerant|2020|Netflix|10 febrero|
+|The wind rises|2013|Netflix|14 febrero|
+|Jackass Forever|2022|Cinepolis|18 febrero|
+|Love hard|2021|Netflix|18 febrero|
+
+&emsp;
 
 ## $\Gamma$. Acontecimientos
 |Acontecimiento|Fecha|
@@ -25,12 +32,18 @@ Ilustraciones de Rol
 |Viaje San Miguel de Allende|7 Febrero|
 |Desvirgue|14 Febrero|
 
+&emsp;
+
 ## $\Delta$. Laboral
 |Suceso|Fecha|
 |---|---|
 |Acompañamiento INFONAVIT|3 Febrero|
 |Presentación demanda Nombres Abuela|4 Febrero|
 |Entrega de Documentos Edgar Morales|15 febrero|
+|Cita Raquel Coopeg|15 febrero|
+|Presentación demanda Edgar Morales|18 febrero|
+
+&emsp;
 
 ## $E$. Internet
 |Suceso|Fecha|
@@ -39,14 +52,21 @@ Ilustraciones de Rol
 |Yuggie Stream Outdoor Completo|10 febrero (11 febrero KST)|
 |Auntie SSS Solo show|12 febrero (13 febrero KST)|
 |Primer donacion Yuggie|15 febrero (16 febrero KST)|
+|Primer donación auntie|17 febrero (18 febrero KST)|
+
+&emsp;
 
 ## $Z$. Series
 |Serie|Fecha|
 |---|---|
 |Dinero en gestación T1|2 Febrero|
+|Search WWW T1|21 febrero|
+
+&emsp;
 
 ## $H$. Francés
 |Suceso|Fecha|
 |---|---|
 |Primer módulo Lección 1 de Frncés|12 Febrero|
 |Primer módulo Leccion 2 de Francés|15 febrero|
+|Primer módulo Lección 3 de Francés|18 febrero|
