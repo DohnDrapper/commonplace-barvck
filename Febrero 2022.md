@@ -31,6 +31,7 @@ Ilustraciones de Rol
 |Peda en San Luis de la Paz|5,6 febrero|
 |Viaje San Miguel de Allende|7 Febrero|
 |Desvirgue|14 Febrero|
+|Miriam rimpió conmigo|21 febrero|
 
 &emsp;
 
@@ -42,6 +43,7 @@ Ilustraciones de Rol
 |Entrega de Documentos Edgar Morales|15 febrero|
 |Cita Raquel Coopeg|15 febrero|
 |Presentación demanda Edgar Morales|18 febrero|
+|Presentación Nulidad juicio altos jalisco|21 febrero|
 
 &emsp;
 
@@ -70,3 +72,4 @@ Ilustraciones de Rol
 |Primer módulo Lección 1 de Frncés|12 Febrero|
 |Primer módulo Leccion 2 de Francés|15 febrero|
 |Primer módulo Lección 3 de Francés|18 febrero|
+

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "84d5a6855d9512aa",
+        "id": "0c1ef43fa3aaa431",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 321.0007801055908
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "84d5a6855d9512aa",
+  "active": "0c1ef43fa3aaa431",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
     "Febrero 2022.md",
-    "Personal/100820211442 - 2021 Resumen del Año.md",
-    "Calendario 2022.md",
-    "Para redactar en Discord.md",
-    "2022.md",
-    "Referencia Mark down.md",
-    "lectura tarot.md",
-    "Libros/13112021 - Memeing Mark Fisher.md",
-    "Control de peso 2022.md"
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 3.md",
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 2.md",
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 1.md",
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/The 3 stages of MOCs.md",
+    "On the process of making MOCs/document.pdf",
+    "On the process of making MOCs/acuseBuzon829202116148.pdf",
+    "On the process of making MOCs/On the process of making MOCs/_IncubationHabits/Words I've used to describe important habits.md",
+    "Personal/Bolsas de trabajo.md"
   ]
 }
