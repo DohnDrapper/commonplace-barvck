@@ -7,8 +7,12 @@
         "id": "0c1ef43fa3aaa431",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Asociación Civil - 'Lluvia de Ideas'.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Asociación Civil - 'Lluvia de Ideas'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Asociación Civil - 'Lluvia de Ideas'.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Asociación Civil - 'Lluvia de Ideas'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +127,7 @@
   },
   "active": "0c1ef43fa3aaa431",
   "lastOpenFiles": [
+    "Asociación Civil - 'Lluvia de Ideas'.md",
     "Febrero 2022.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 3.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 2.md",
@@ -127,7 +136,6 @@
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/The 3 stages of MOCs.md",
     "On the process of making MOCs/document.pdf",
     "On the process of making MOCs/acuseBuzon829202116148.pdf",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationHabits/Words I've used to describe important habits.md",
-    "Personal/Bolsas de trabajo.md"
+    "On the process of making MOCs/On the process of making MOCs/_IncubationHabits/Words I've used to describe important habits.md"
   ]
 }
