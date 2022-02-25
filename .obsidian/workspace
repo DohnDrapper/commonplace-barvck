@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asociación Civil - 'Lluvia de Ideas'.md",
-            "mode": "source",
+            "file": "Asociación civil/Indice asociacion.md",
+            "mode": "preview",
             "source": true
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asociación Civil - 'Lluvia de Ideas'.md",
+                "file": "Asociación civil/Indice asociacion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asociación Civil - 'Lluvia de Ideas'.md"
+                "file": "Asociación civil/Indice asociacion.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asociación Civil - 'Lluvia de Ideas'.md",
+                "file": "Asociación civil/Indice asociacion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +127,8 @@
   },
   "active": "0c1ef43fa3aaa431",
   "lastOpenFiles": [
+    "Asociación civil/Indice asociacion.md",
+    "Asociación civil/Nombres asociación.md",
     "Asociación Civil - 'Lluvia de Ideas'.md",
     "Febrero 2022.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 3.md",
@@ -134,8 +136,6 @@
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 1.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/The 3 stages of MOCs.md",
-    "On the process of making MOCs/document.pdf",
-    "On the process of making MOCs/acuseBuzon829202116148.pdf",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationHabits/Words I've used to describe important habits.md"
+    "On the process of making MOCs/document.pdf"
   ]
 }
