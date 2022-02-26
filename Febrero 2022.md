@@ -44,6 +44,7 @@ Ilustraciones de Rol
 |Cita Raquel Coopeg|15 febrero|
 |Presentación demanda Edgar Morales|18 febrero|
 |Presentación Nulidad juicio altos jalisco|21 febrero|
+|Reunión Daniel y Lupita|24 febrero|
 
 &emsp;
 
@@ -72,4 +73,9 @@ Ilustraciones de Rol
 |Primer módulo Lección 1 de Frncés|12 Febrero|
 |Primer módulo Leccion 2 de Francés|15 febrero|
 |Primer módulo Lección 3 de Francés|18 febrero|
+
+## $\Theta$. Japonés
+|Suceso|Fecha|
+|---|---|
+|Primer lección de Japonés|24 febrero|
 

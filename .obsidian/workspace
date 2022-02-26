@@ -4,13 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0c1ef43fa3aaa431",
+        "id": "8109241ae7d139dc",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Asociación civil/Indice asociacion.md",
+            "file": "Calendario 2022.md",
             "mode": "preview",
+            "source": true
+          }
+        }
+      },
+      {
+        "id": "dbe9befd0fde87d0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Febrero 2022.md",
+            "mode": "source",
             "source": true
           }
         }
@@ -40,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ikig",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -57,11 +69,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 321.0007801055908
+    "width": 321.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Asociación civil/Indice asociacion.md",
+                "file": "Febrero 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +108,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Asociación civil/Indice asociacion.md"
+                "file": "Febrero 2022.md"
               }
             }
           },
@@ -104,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Asociación civil/Indice asociacion.md",
+                "file": "Febrero 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +139,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0c1ef43fa3aaa431",
+  "active": "dbe9befd0fde87d0",
   "lastOpenFiles": [
+    "Febrero 2022.md",
+    "Referencia Mark down.md",
+    "Enero 2022.md",
+    "Calendario 2022.md",
+    "2022.md",
     "Asociación civil/Indice asociacion.md",
     "Asociación civil/Nombres asociación.md",
     "Asociación Civil - 'Lluvia de Ideas'.md",
-    "Febrero 2022.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 3.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 2.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 1.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/The 3 stages of MOCs.md",
-    "On the process of making MOCs/document.pdf"
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 2.md"
   ]
 }
