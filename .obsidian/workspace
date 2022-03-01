@@ -4,25 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8109241ae7d139dc",
+        "id": "8eee2107e70ba400",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Calendario 2022.md",
+            "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md",
             "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "dbe9befd0fde87d0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Febrero 2022.md",
-            "mode": "source",
             "source": true
           }
         }
@@ -52,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ikig",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +57,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -91,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Febrero 2022.md",
+                "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +95,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Febrero 2022.md"
+                "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md"
               }
             }
           },
@@ -118,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Febrero 2022.md",
+                "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "dbe9befd0fde87d0",
+  "active": "8eee2107e70ba400",
   "lastOpenFiles": [
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Sesión 30 TDA - Log.md",
+    "Rol/TDA/Sesión 29 TDA - Preparación.md",
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Formatos/Sesión 31 TDA - Log.md",
+    "Formatos/Sesión en blanco.md",
+    "Calendario 2022.md",
     "Febrero 2022.md",
     "Referencia Mark down.md",
-    "Enero 2022.md",
-    "Calendario 2022.md",
-    "2022.md",
-    "Asociación civil/Indice asociacion.md",
-    "Asociación civil/Nombres asociación.md",
-    "Asociación Civil - 'Lluvia de Ideas'.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 3.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Habits MOC - Stage 2.md"
+    "Enero 2022.md"
   ]
 }

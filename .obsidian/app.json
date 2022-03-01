@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "fileSortOrder": "byCreatedTime",
+  "fileSortOrder": "alphabetical",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,

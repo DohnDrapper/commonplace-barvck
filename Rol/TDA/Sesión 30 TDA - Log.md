@@ -27,6 +27,8 @@ https://screenrant.com/dnd-most-powerful-spells/
 2. Darle más información a Estoicoro sobre Ubtao.
 3. Rhin rolea que se acercó a un marinero al ver que usó el Astrolabio y aquí puede completar otra parte de su mapa.
 4. Rhin decidió comprar varias pociones.
+5. ¿Que va a pasar con la tortuga?
+6. Les dan mucha infromación sorbre los piratas.
 
 **Música**
 
@@ -34,6 +36,8 @@ https://screenrant.com/dnd-most-powerful-spells/
 ---
 
 ### _Sesión_
+
+>"En las tierras que un dia Ubtao caminó, los siete buscan cumplir la misión que La dama enmascarada les dió, aqui sus cronicas. La sesión pasada nuestros heroes dejamos a nuestros heroes en..."
 
 Esto es un texto de ejemplo
 
@@ -54,3 +58,7 @@ Un texto de ejmplo más.
 
 
 ---
+
+[[TDA - A]]
+
+[[Sesión 29 TDA - Log|Sesión 29]]
