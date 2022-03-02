@@ -14,6 +14,18 @@
             "source": true
           }
         }
+      },
+      {
+        "id": "74502feab5f4a3d7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "240820211841 - Sánchez Lozano Abogados.md",
+            "mode": "preview",
+            "source": true
+          }
+        }
       }
     ],
     "direction": "vertical"
@@ -78,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "240820211841 - Sánchez Lozano Abogados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "240820211841 - Sánchez Lozano Abogados.md"
               }
             }
           },
@@ -105,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "240820211841 - Sánchez Lozano Abogados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,8 +138,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8eee2107e70ba400",
+  "active": "74502feab5f4a3d7",
   "lastOpenFiles": [
+    "240820211841 - Sánchez Lozano Abogados.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 30 TDA - Log.md",
@@ -136,7 +149,6 @@
     "Formatos/Sesión 31 TDA - Log.md",
     "Formatos/Sesión en blanco.md",
     "Calendario 2022.md",
-    "Febrero 2022.md",
-    "Referencia Mark down.md"
+    "Febrero 2022.md"
   ]
 }
