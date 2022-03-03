@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8eee2107e70ba400",
+        "id": "a62ce82777592963",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
-      },
-      {
-        "id": "74502feab5f4a3d7",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "240820211841 - Sánchez Lozano Abogados.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -90,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "240820211841 - Sánchez Lozano Abogados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "240820211841 - Sánchez Lozano Abogados.md"
-              }
+              "state": {}
             }
           },
           {
@@ -117,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "240820211841 - Sánchez Lozano Abogados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,10 +118,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "74502feab5f4a3d7",
+  "active": "a62ce82777592963",
   "lastOpenFiles": [
-    "240820211841 - Sánchez Lozano Abogados.md",
     "Personal/Bolsas de trabajo.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 30 TDA - Log.md",
     "Rol/TDA/Sesión 29 TDA - Preparación.md",
