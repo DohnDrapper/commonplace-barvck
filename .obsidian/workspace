@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a16a3d2515f245d",
+        "id": "7062756d0420d678",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Control de peso 2022.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.0007801055908
+    "width": 321.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Control de peso 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Control de peso 2022.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Control de peso 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,8 +118,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2a16a3d2515f245d",
+  "active": "7062756d0420d678",
   "lastOpenFiles": [
+    "Febrero 2022.md",
+    "Marzo 2022.md",
     "Control de peso 2022.md",
     "Personal/Bolsas de trabajo.md",
     "240820211841 - Sánchez Lozano Abogados.md",
@@ -134,8 +129,6 @@
     "Rol/TDA/Sesión 30 TDA - Log.md",
     "Rol/TDA/Sesión 29 TDA - Preparación.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Formatos/Sesión 31 TDA - Log.md",
-    "Formatos/Sesión en blanco.md",
-    "Calendario 2022.md"
+    "Formatos/Sesión 31 TDA - Log.md"
   ]
 }

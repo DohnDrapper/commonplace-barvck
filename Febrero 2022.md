@@ -7,7 +7,7 @@ aliases: [Febrero 2022]
 
 
 ##  $A$. Proyecto
-Ilustraciones de Rol
+Ilustraciones Rol
 
 &emsp;
 
@@ -20,6 +20,8 @@ Ilustraciones de Rol
 |The wind rises|2013|Netflix|14 febrero|
 |Jackass Forever|2022|Cinepolis|18 febrero|
 |Love hard|2021|Netflix|18 febrero|
+|Licorice pizza|2022|Cinepolis|26 de febrero|
+|The card counter|2022|Cinepolis|27 de febrero de 2022|
 
 &emsp;
 
@@ -32,6 +34,8 @@ Ilustraciones de Rol
 |Viaje San Miguel de Allende|7 Febrero|
 |Desvirgue|14 Febrero|
 |Miriam rimpió conmigo|21 febrero|
+|Comida Don Tano|28 febrero|
+|Pago multa Don Tano|28 febreo|
 
 &emsp;
 
@@ -45,6 +49,8 @@ Ilustraciones de Rol
 |Presentación demanda Edgar Morales|18 febrero|
 |Presentación Nulidad juicio altos jalisco|21 febrero|
 |Reunión Daniel y Lupita|24 febrero|
+|Revisión Caso Graciano|28 febrero|
+|Notificación Juana Dorado|28 febrero|
 
 &emsp;
 
