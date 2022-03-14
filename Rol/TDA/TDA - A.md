@@ -50,6 +50,9 @@ alias: [Tumba de la Aniquilación, TDA Indice]
 [[Sesión 27 TDA - Log|Sesión 27]]
 [[Sesión 28 TDA - Log|Sesión 28]]
 
+### _Temporada "4"_
+[[Sesión 30 TDA - Log|TDA S30]]
+
 <div align='center'>
 <h3> * </h3>
 </div>

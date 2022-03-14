@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0fd71a36bf55c63d",
+        "id": "6fad18ed8d07251c",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0fd71a36bf55c63d",
+  "active": "6fad18ed8d07251c",
   "lastOpenFiles": [
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+    "Rol/SDC/Sesión 6 SDC - Log.md",
+    "Sobre la temporada 1 SDC.md",
+    "Rol/SDC/Pleneación general SDC.md",
+    "Rol/SDC/Sesión 5 SDC - Log.md",
+    "Rol/SDC/SDC - A.md",
+    "Rol/TDA/TDA - A.md",
     "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Rol/TDA/Sesión 28 TDA - Log.md",
-    "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Rol/TDA/Sesión 26 TDA - Log.md",
-    "Rol/TDA/Sesión 23 TDA - Log.md",
-    "Rol/TDA/Sesión 22 TDA - Preparación.md",
-    "Rol/TDA/Sobre la encuesta T4.md",
-    "Referencia Mark down.md"
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
+    "Rol/TDA/Sesión 29 TDA - Log.md"
   ]
 }

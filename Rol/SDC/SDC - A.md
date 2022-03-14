@@ -30,6 +30,9 @@ alias: [Serpiente de dos cabezas, SDC Indice]
 [[Sesión 2 SDC - Log|SDC S3]]
 [[Sesión 3 SDC - Log|SDC S4]]
 
+### _Temporada 2_
+[[Sesión 6 SDC - Log|Sesión 6]]
+
 <div align='center'>
 <h3> *** </h3>
 </div>
