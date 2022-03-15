@@ -7,8 +7,12 @@
         "id": "6fad18ed8d07251c",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +128,7 @@
   },
   "active": "6fad18ed8d07251c",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 6 SDC - Log.md",
     "Sobre la temporada 1 SDC.md",
@@ -128,7 +137,6 @@
     "Rol/SDC/SDC - A.md",
     "Rol/TDA/TDA - A.md",
     "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 29 TDA - Log.md"
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
   ]
 }
