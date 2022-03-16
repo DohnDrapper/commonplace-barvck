@@ -51,7 +51,7 @@
 46. _Inter folia, fructus_ Fruta entre las hojas.
 47. _Timendi causa est nescire_ La ignorancia causa el miedo.
 48. _Ipsa scientia potestas est_ El conocimiento en si mismo es poder.
-49. _Semper alere flamman_ Siempre alentando la llama.
+49. _Semper alere flammam_ Siempre alentando la llama.
 50. _Si hortum in biblioteca habes deerit nihil_ "Si tienes un jardín y una biblioteca nada te faltará".
 51. _Arte mea capta est: arte tenenda mea est_ (Con mis artes la he cautivado, con mis artes he de retenerla) - Ovidio
 52. _Fas est ab hoste doceri.__ (Uno debería aprender de los enemigos) - Ovidio

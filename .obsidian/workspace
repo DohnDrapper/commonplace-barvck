@@ -7,8 +7,12 @@
         "id": "05c1f5844a4187d3",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Frases/Frases en latin.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -36,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "latin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Frases/Frases en latin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Frases/Frases en latin.md"
+              }
             }
           },
           {
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Frases/Frases en latin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +129,8 @@
   },
   "active": "05c1f5844a4187d3",
   "lastOpenFiles": [
+    "Frases/Frases en latin.md",
+    "Marzo 2022.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 6 SDC - Log.md",
@@ -127,8 +138,6 @@
     "Rol/SDC/Pleneación general SDC.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
     "Rol/SDC/SDC - A.md",
-    "Rol/TDA/TDA - A.md",
-    "Rol/TDA/Sesión 30 TDA - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
+    "Rol/TDA/TDA - A.md"
   ]
 }
