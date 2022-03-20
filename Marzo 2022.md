@@ -27,6 +27,7 @@ Aprender coreografía 24K -  Only you
 |Miriam canceló|8 Marzo|
 |Sesión 30 Tumba de la Aniquilación|12 marzo|
 |Sesión 6 Serpiente de Dos Cabezas|13 Marzo|
+|Por fin termine Ex Libris|17 marzo|
 
 &emsp;
 

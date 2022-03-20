@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "eac4f15a5750223d",
+        "id": "171aeb37ccbc46ca",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eac4f15a5750223d",
+  "active": "171aeb37ccbc46ca",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 23 TDA - Preparación.md",
     "Marzo 2022.md",
+    "Personal/210420212257 - Exlibris.md",
+    "Febrero 2022.md",
+    "Enero 2022.md",
     "Frases/Frases en latin.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 6 SDC - Log.md",
-    "Sobre la temporada 1 SDC.md",
-    "Rol/SDC/Pleneación general SDC.md",
-    "Rol/SDC/Sesión 5 SDC - Log.md",
-    "Rol/SDC/SDC - A.md",
-    "Rol/TDA/TDA - A.md"
+    "Sobre la temporada 1 SDC.md"
   ]
 }
