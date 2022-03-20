@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "171aeb37ccbc46ca",
+        "id": "46c75be73ec21fce",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "171aeb37ccbc46ca",
+  "active": "46c75be73ec21fce",
   "lastOpenFiles": [
+    "Libros/13112021 - Memeing Mark Fisher.md",
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
     "Marzo 2022.md",
     "Personal/210420212257 - Exlibris.md",
@@ -127,7 +128,6 @@
     "Frases/Frases en latin.md",
     "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/SDC/Sesión 6 SDC - Log.md",
-    "Sobre la temporada 1 SDC.md"
+    "Rol/SDC/Sesión 6 SDC - Log.md"
   ]
 }
