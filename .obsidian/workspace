@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9114680c6e6c84f0",
+        "id": "ae08121818f27035",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "9114680c6e6c84f0",
+  "active": "ae08121818f27035",
   "lastOpenFiles": [
+    "290120221949 - Sobre aprender a tocar guitarra.md",
     "Personal/Bolsas de trabajo.md",
     "Libros/13112021 - Memeing Mark Fisher.md",
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
@@ -127,7 +128,6 @@
     "Febrero 2022.md",
     "Enero 2022.md",
     "Frases/Frases en latin.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/SDC/Sesión 6 SDC - Log.md"
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
   ]
 }

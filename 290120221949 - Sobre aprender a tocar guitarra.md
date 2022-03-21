@@ -33,5 +33,10 @@ La meta de este proyecto es que antes de cumplir los 30 años, es decir, antes d
 |Romance te puedo dar|Bulma||
 
 
+### Artículos importantes
+
+[Pasos guitarra](https://elblogdetrinity.com/pasos-fundamentales-para-aprender-a-tocar-guitarra/)
+[Guitarra consejos](https://guitarradesdecero.com/tocar-guitarra/)
+
 
 ---
