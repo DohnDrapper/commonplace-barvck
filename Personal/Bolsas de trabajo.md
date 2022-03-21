@@ -45,3 +45,4 @@ Modificar al curriculum:
 + Tener un borrador de carta de presentación
 
 [Habilidades en Inglés](https://www.pinterest.com.mx/pin/431853051775215503/)
+[Borrar del curriculum](https://www.forwardthinkcareers.com/17-things-to-delete-from-your-resume-effective-immediately/?utm_medium=social&utm_source=pinterest&utm_campaign=tailwind_tribes&utm_content=tribes&utm_term=588498702_20776934_495622)
