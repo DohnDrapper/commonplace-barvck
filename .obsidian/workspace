@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "ae08121818f27035",
+        "id": "d3b0671bc504cbaa",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Libros/13112021 - Memeing Mark Fisher.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.0007801055908
+    "width": 321.0007801055908,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md"
+              }
             }
           },
           {
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,11 +126,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "ae08121818f27035",
+  "active": "d3b0671bc504cbaa",
   "lastOpenFiles": [
-    "290120221949 - Sobre aprender a tocar guitarra.md",
-    "Personal/Bolsas de trabajo.md",
     "Libros/13112021 - Memeing Mark Fisher.md",
+    "Personal/Bolsas de trabajo.md",
+    "290120221949 - Sobre aprender a tocar guitarra.md",
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
     "Marzo 2022.md",
     "Personal/210420212257 - Exlibris.md",

@@ -118,8 +118,7 @@ Para contrarrestar el avance tan rápido y con simbolos ya consolidados de la de
 
 ```ad-note
 
-In forging a new path, we have much to learn from historical absurdist and abstract movements such as Dada, Surrealism, Fluxus, Cubism, and Abstract Expressionism, that while facing down heinous right-wing and industrialist capitalist movements, sought
-answers in reflective works appealing to the subconscious or to some nonsensical abstract language that resisted the rationalist and capitalist injunction to produce ever more stuff, ever quicker. The efficacy of such movements can be seen in attempts to stifle them by totalitarian regimes or in the US government’s efforts to co-opt abstraction in the 1950s and 1960s, despite Pollock’s communism. 
+In forging a new path, we have much to learn from historical absurdist and abstract movements such as Dada, Surrealism, Fluxus, Cubism, and Abstract Expressionism, that while facing down heinous right-wing and industrialist capitalist movements, sought answers in reflective works appealing to the subconscious or to some nonsensical abstract language that resisted the rationalist and capitalist injunction to produce ever more stuff, ever quicker. The efficacy of such movements can be seen in attempts to stifle them by totalitarian regimes or in the US government’s efforts to co-opt abstraction in the 1950s and 1960s, despite Pollock’s communism. 
 
 pp. 14
 
@@ -295,6 +294,8 @@ pág.18
 
 En la época en que vivimos no es muy difici entender los motivos por los que la Derecha se ha intentado apropiar de la definición de verdad. A partir de la apropiacion de la verdad, controla como la gente puede oponerse a las estructuras de poder dominantes.
 
+&nbsp
+
 ```ad-note
 "The QAnon movement would appear to be psychologically different. Despite the existence of varied mythic, paranoid, or basically speculative assertions of its origins, it appears to have grown up of its own accord from a singular 4Chan post in 2017 written by a shadowy 4Chan user, claiming to be a government agent with Q level security clearance. The original post was deliberately spread around the internet via Reddit and YouTube by a group of three individuals, with numerous social media meme accounts acting as hubs. These memes, while often obscure, encoded to some degree and sprawling in their range and output, tend very broadly to state that the world is run by a shady internationalist neoliberal cabal who practice satanism, child sex trafficking, and the drinking of human blood. Elements of this lowest common denominator conspiracy are traceable to Pizzagate, an online conspiracy that went viral in 2016, linking the Clintons to a satanic pedophile ring that operated out of Comet Ping Pong, a genuine pizzeria in Washington, D.C., which became the subject of hate mail and a gun attack following the allegations. The QAnon variant of this basically archetypal conspiracy builds upon this narrative, adding that Donald Trump is destined to save the US and world from the evil embodied in the neoliberal elite."
 
@@ -307,6 +308,8 @@ El origen de Qanon, viene como no de una serie de memes. a partir de distintos m
 Relacionarlo con el video de Wisecrack de la narrativa de los horoscopos. <==
 
 La gente crea o piensa que su vida sigue una narativa, así Qanon llena un vacio existecial y le daun sentido a su vida.
+
+&nbsp
 
 ```ad-note
 It is the all-encompassing nature of QAnon that sets it apart from the initially disturbing yet ultimately dated and anyhow limited practice of the alt-right meme kid.
@@ -321,6 +324,8 @@ Qanon crece a partir de la narrativa de varias personas al mismo tiempo como si 
 
 Lo que sirve como una narrativa para distraer al publico de de derecha.
 
+&nbsp
+
 ```ad-note
 This function appears to be dualistic, serving both the elite’s need to sidetrack the public from discovering the basic dysfunctionality of capitalism by scapegoating the left, and the public’s need for a political narrative to follow in lieu of the one that would make the most sense — i.e. the Marxist analysis that is denied to them by the capitalist mass media.
 
@@ -329,6 +334,8 @@ pág. 19
 ```
 
 El poder dominante usa la naartiva para impedir la radicalización de la población.
+
+&nbsp
 
 ```ad-note
 
@@ -341,6 +348,8 @@ pág. 19
 
 El fascismo viene como una rebelión a la naturaleza de lo que no podemos cambiar, como un esfuerzo para evadir una situación que no es imposible evitar. 
 Resulta interesante como los protestantes del capitolio iban armados como una especie de escudo contra nada.
+
+&nbsp
 
 ```ad-note
 
@@ -377,6 +386,8 @@ pág. 22
 
 MArk Fisher habla de laimposibilidad de escapar del capitalismo debido a  la alieniacionsentido repecto de todo. nuestro autor considera un pararlelo de la situacipon pues la pandemia y sus encierros hanprovocado un edterioro en la salud tanot mental como fisica de la sociedad. Pues ya no parecer exisitir una razón suficiente para levantarse de la cama.
 
+&nbsp
+
 ``` ad-note
 
 As such, it won’t be addressed here, except to say that its critique of callout and cancel culture was correct in identifying the depressive psychological effects of online critiques, which make it virtually impossible to
@@ -387,13 +398,17 @@ pág. 23
 
 El debate de quien ha sufrido o mas o de quien es un cancer. Es imposible en la derecha oopiniar sin tener una lista donde se amrque a uiqn o se ha ofendido. En el mundo en el que vivimos las figuras importantes de izquierdas es mas fácil que destruyan a alguien a que lo apoyen.
 
+&nbsp
+
 ```ad-note
 The speed of meme activity and the high turnover of YouTube video production and reception basically impede philosophical reflection. And this may go a long way to explaining why the left is more fragmented than ever in its online incarnation, aside from the gaming-like competitive nature of social media and online video platforms. With regard to the latter point, one can quite literally sense that some online leftists really do want to “win” the online left “game,” while a number of smaller “players” enjoy backing a given Breadtuber, for example, to “win” against another. It is not uncommon to see the fans of Destiny, Vaush, Peter Coffin, Angie Speaks, or other B- to A-list online left personas turn on an opponent of their preferred leftist protagonist on Twitter with the brute violence of a lynch mob. The way in which lesser interlocutors can get caught in the crossfire and permanently canceled is enough to make anyone of a slightly nervous disposition wary of engaging on Twitter at all. This goes on in spite of many of the prominent personas of the online left being openly opposed to such behavior, including those mentioned above. 
 
 pág. 23
 ```
 
-En el mismo sentidoq ue lo anterior, la cultura de la cancelación mas que construir un futuro nos impide tener un dialogo, muchas veces  la misma izquierda es la que hace las labores de la derecha.}
+En el mismo sentidoq ue lo anterior, la cultura de la cancelación mas que construir un futuro nos impide tener un dialogo, muchas veces  la misma izquierda es la que hace las labores de la derecha.
+
+&nbsp
 
 ```ad-note
 
@@ -404,6 +419,8 @@ pág. 24
 ```
 
 En la era en queno hay novedad el _shitposting_ surge como la reacción cínica  al siginificación dela imágen a através de transmitir incomodidad que la despoja de su artificio.
+
+&nbsp
 
 ``` ad-note
 
@@ -444,6 +461,8 @@ pág. 26
 
 El capitalismo se apropiea del arte y lo cnvierte en industrpia para controlar el cuero de als persoans y rpoducir plusvalía de ahpi al existencia de la industria del entretenimeito barato, que produce moemto de choque o de "novedad", complascientes.
 
+&nbsp
+
 ```ad-note
 Written in Minima Moralia, a book sub-headed “Reflections from Damaged life,” these lines indicate what has been lost to us as the capitalist system appropriates art as mere decoration meant to placate worker subjects so that they remain in their objectified state. Not long after Nirvana’s meteoric rise — spanning just 3 years from Nevermind’s release to Cobain’s death in April 1994 — major record labels stopped pushing bands grown in the garage by angry young guys and gals and started manufacturing bands, or at least carefully screening them to weed out any genuine rebelliousness. 
 
@@ -451,6 +470,8 @@ pág.26
 ```
 
 El capitalismo se apropia de la cultura al evitar que de nuevo surgiera un grupoa untentico y significativo como NIrvan, unicamente apoyando bandas pre manufacturadas.
+
+&nbsp
 
 ```ad-note
 
@@ -461,6 +482,8 @@ pág.27
 
 El calpitulismo basa su exito en estar presente en cada aspectod e neustra vida, al punto de que toda actividad se realiza con el capitalismo presente.
 
+&nbsp
+
 ```ad-note
 Adorno’s term “shudder” signals the shock the viewer of art experiences as they relive the primal scream that primitive man voiced at his realization of our separation from nature. Whereas Benjamin’s phantasmagoria signals that all of history comprises our experience of the now thereby bringing an immediacy to our interaction both with art and consumer products as if, one could argue, the originary primal scream of our ancestors had not ended but was in fact being perpetually voiced in response to the accumulated debris of history arising from that scream.
 
@@ -470,6 +493,8 @@ pág.27
 Adorno mira comoe l hobre se sperar de al naturaleza a trvpes del arte.
 
 Benjamis ve el debros como la realizacion de nuestra historia perpetuada a travpes de un producto artitico.
+
+&nbsp
 
 ```ad-note
 
@@ -484,6 +509,8 @@ pág.28
 
 A travésd ela fantasmagoria podemos obtener un punto donde se salga de al produccion capitalista y hablemso de shot posting como metodo de entender la historia y cambair a nuestro favor.
 
+&nbsp
+
 ```ad-note
 
 In considering this question, it is important to note that, as with many terms in Benjamin’s output, the origins of the term phantasmagoria are not entirely defined. In one interpretation it represents a group of commodities that together have a spell-like effect on the viewer, similar to that of a phantasmagoric scene of the eighteenth century, wherein props and lighting would be used to create ghost-like effects. Yet in another, it simply describes the mechanism of commodity fetishism, the process by which the commodity exerts an influence on the human purchaser or owner based on assumed properties extraneous to it (for example, the toothpaste that makes you smile more). The distinction here is significant as, on the one hand, we have the possibility for assemblages of objects to create specific meanings, yet on the other, we have a blanket effect of commodification. The former allows for varied possibilities in terms of constellations of different objects producing different effects. The latter definition suggests an imposed homogeneity — i.e. the absolute commodification of society as people become slaves to objects. The key to understanding these two different versions of phantasmagoria with their wildly differing outcomes is another loosely defined term of Benjamin’s, the “dialectical image.” 
@@ -497,6 +524,8 @@ Fantamagosria(1): UN grupo de comunidad des en un objeto que tienen un efecto ti
 
 Fantasmagoría(2): Un efecto de la comodidad fetichista en la qu eun objeto tien un efecto enla persoasn basado en propiedad que aume que el objeto posee.
 
+&nbsp
+
 ```ad-note
 The moment of the dialectical image is the point at which we as viewers of the tomb or meme are snapped into ourselves as we feel the past intersect with the present finite moment, shocking us out of a complacent acceptance of our alienation at the hands of capital (though Cecil’s tomb as a memento mori was presumably
 supposed to shock the viewer out of their complacent life of sin and distance from God).
@@ -505,6 +534,8 @@ pág.29
 ```
 
 Imagen dialectica: es el punto en que como expectadores del meme de la tumba somos introducidos en nosotros mismos mientras sentimos como el pasado se interecciona con el momento finot del presente, shockeandonosde al aceptación complaciente de unuestra alineacion en la manos del capital.
+
+&nbsp
 
 ```ad-note
 Put otherwise, Adorno wished to state that any truth content emerging from the artwork would have to be on account of its materiality and not of the imagination either of its producer or the audience. It is the imagination, rather, that arises from the material conditions of an artwork or commodity and the world it was produced in. It is those material conditions, embedded in the artwork, that for Adorno result in a moment of shock for the viewer of the radically abstract artwork as they are exposed to the reality of the human’s link to the natural object and the impossibility of surpassing that link (and our mortality) via scientific discovery or capitalist production. This shock, or “shudder,” is felt as a feeling of oneness with the artwork, and therefore the wider natural object, is interrupted by the realization that the work comprises components that arise from human labor, and thereby reveal our estrangement from nature through capitalism. 
@@ -515,6 +546,7 @@ pág.29
 
 Para adorno ese moeto de qshock pertenece a la materialidad de objeto, deriva en un choque al darnos cuenta que el trabajo  es una extrañeza de la naturaleza a travles del capitalismo.
 
+&nbsp
 
 ```ad-note
 
@@ -529,6 +561,8 @@ pág.30
 
 El llevar a cabo un activiada que parece anodina, como grabar un tik tok resulta en una rebelión a los procesos industriales, como una muerte del proposito en la vida de la juventud en paises desarrollados.
 
+&nbsp
+
 ```ad-note
 
 What this tells us is that while what often appears relaxed is actually labor, this is only ultimately achievable due to there being a lack of a requirement to labor in the workplace, or at school. This is indeed the proverbial elephant in the room — that which cannot be said but which is more than apparent — that Benjamin reveals with both his fixation on flaneurism and the way he assembles factoids and quotes about bourgeois Paris without peppering them with calls to arms. That elephant in the room regards the level to which the cozy existence the bourgeois class enjoyed in Paris in the nineteenth century was equaled by Benjamin’s and Adorno’s existence, which while blighted by the horrors of World War Two, was relatively insulated compared to their working-class Jewish counterparts or to political dissidents in Germany. 
@@ -537,6 +571,8 @@ pág. 30
 ```
 
 Imagen dialectica de Walter Benjamisn: Loq ue para unos parece relajacion en trabajo, derivado de lafalta de al necesidad de trabajar ya sea en la escuela o en el trabajo.
+
+&nbsp
 
 ```ad-note
 
@@ -550,6 +586,8 @@ pág. 30
 ```
 
 La imagen dialectica es como la burguesia se percibe en contraposicion con otras clases, y como encunrta que su mometo historico y futuro va mas alla.
+
+&nbsp
 
 ```ad-note
 
@@ -587,6 +625,8 @@ pág.31
 
 Adorno y Marcuse fueron unos tipos mas de palabras que de acciones.
 
+&nbsp
+
 ```ad-note
 
 Ultimately, their work is collectively concerned with the consideration of entirely harmless subject areas. Sure, they turned the focus of academia to popular culture and identified class subjugation at play in the offerings of the culture industry, yet aren’t endless reflections on media objects liable to detract precisely from any action that might be taken to overthrow the system itself? And here you see, perhaps, Adorno’s real interest (and lack of understanding) in comparing activism to becoming a radio technician. For Adorno, both activism and manual labor in the service of the culture industry amounted to tinkering at the service of a vast societal mechanism that would ultimately anyhow be subject to the antagonisms of class and race division. This was assured by a basically flawed mode of human thinking that leads us to “identify” and categorize nature and humans in a bid to control them. All that a protest might achieve, if anything, was to rejig the social spectrum so that one set of humans would have control of the mass, instead of another, as evidenced in
@@ -596,6 +636,8 @@ pág. 31
 ```
 
 Su trabajo se centra mas que nada en teoria y areas no tan controversiales. Muy burgueses.
+
+&nbsp
 
 ```ad-note
 
@@ -609,6 +651,8 @@ pág.32
 
 Esz el uso de OnlyFans una cosificación? Al fnal es una manera de satisfacer un deseo solo en un medida que sirva a capitalismo.
 
+&nbsp
+
 ```ad-note
 
 That is to say, if we all enjoy a certain level of comfort, it does not mean that we are all comfortable, but rather that capitalism has adjusted our base level of acceptable comfort. The same could be said, more or less, with regard to desire — in that any degree of satiation accords with a redefinition of desire itself. This is in part because desire is effectively something we can only feel toward things we don’t have. Though beyond this, even momentary satiation of sexual desire is today often achieved at the fulfillment of something so banal and easily achieved (the opening of a web page) that the sexual functioning is reduced to being just another human need that can be satisfied by a phone browser. 
@@ -621,6 +665,8 @@ pág. 32
 La sexualidad al servicio del capitalismo la ha convertido en una necesidad mas que se satisfacetan banalmente como abrir una pagina web.
 El capitalismo conveirte todo en progreso y rentabilidad.
 
+&nbsp
+
 ```ad-note
 
 From the purview of the male user of online sexual services and material (the market for Delphine’s bathwater), the meme “Are You Winning, Son?” speaks of the awkwardness of a culture that is both permissive and repressed. The meme, which derives from a comic panel probably first published in 2014 on 4Chan, features a crude MS Paint drawing of a father arriving home and asking “Are ya winning, Son?” to his gamer offspring. In the original comic the son has a VR headset on and is saying “please please play with my breasts” to a character that he is interacting with, in the virtual realm. 50 The meme resurfaced in 2020 in many variants, though what is most interesting here is the way in which the father in the meme inadvertently yet accurately describes the status of sex as an activity that can be “won” in the twenty-first century. Belle Delphine, who released a real sex video to her OnlyFans audience on Christmas Day 2020, would be an ostensible winner of the sex “game,”
@@ -632,6 +678,8 @@ pág.32
 
 Belle delphine perdió su  reputacion al entregar lo que sus fans querian mas que solo tantearlos.
 
+&nbsp
+
 ```ad-note
 
 Indeed such platitudes to art will likely always remain true, perhaps becoming more poignant the further from utopia we become. This is because art — synonymous with imagination — becomes fantastical in inverse proportion to reality, explaining why our dreams in covid lockdown have become especially vivid. It may also be why
@@ -641,6 +689,8 @@ pág.34
 ```
 
 El arte es la menra de salir del cappitalismo pero en su nivel mas mental en conraste cone l capitalsimo qu ees real. El arte se mueve en un mundo más fantastico fuera de la realidad.
+
+&nbsp
 
 ```ad-note
 
@@ -652,6 +702,8 @@ pág.35
 ```
 
 La creatividad en repuesta al conformidad es la respuesta de la derecha.
+
+&nbsp
 
 ```ad-note
 
