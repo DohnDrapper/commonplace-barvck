@@ -184,6 +184,11 @@ pp. 15
 
 Walter Banjamin alegó la necesidad de que las personas de todas clases pudieran tener un experiencia estetica, aunuque la reproducciones perderían su "aura".
 
+_21/03/2022_ 
+Simepre que no exista un cambio en las relaciones materiales entre clases
+la idea de cultura para todas más que una expresión se vuelve una 
+explotacion.
+
 &nbsp
 
 ```ad-note
@@ -196,7 +201,7 @@ pp.15
 
 Podríamos relacionar el culto a la imágen con la aparicón de los influencer y la fama instantanea en internet. Al final es una ilusión a menos que tengas el suficiente público.
 
-   Nota: Mientras leía el parrafo sobre Twitch en la página 19, literalmente tenía de fondo a un streamer coreana, Tyongeee. Todo esta a las 9:31 pm del día 8 de Noviembre de 2021.
+Nota: Mientras leía el parrafo sobre Twitch en la página 19, literalmente tenía de fondo a un streamer coreana, Tyongeee. Todo esta a las 9:31 pm del día 8 de Noviembre de 2021.
 
 Podría relacionarse con el clip de José Ortuno sobre la invasión zombie, donde al final se ven los zombies reflejados en la pantalla.
 

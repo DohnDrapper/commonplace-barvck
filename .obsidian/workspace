@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d3b0671bc504cbaa",
+        "id": "db58700ff16df548",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Libros/13112021 - Memeing Mark Fisher.md",
-            "mode": "source",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Libros/13112021 - Memeing Mark Fisher.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Libros/13112021 - Memeing Mark Fisher.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +118,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d3b0671bc504cbaa",
+  "active": "db58700ff16df548",
   "lastOpenFiles": [
     "Libros/13112021 - Memeing Mark Fisher.md",
     "Personal/Bolsas de trabajo.md",
