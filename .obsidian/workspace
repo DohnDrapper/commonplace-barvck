@@ -7,8 +7,12 @@
         "id": "57376ccecd18d622",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Sanchez Lozano Abogados.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sanchez Lozano Abogados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sanchez Lozano Abogados.md"
+              }
             }
           },
           {
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sanchez Lozano Abogados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,6 +128,8 @@
   },
   "active": "57376ccecd18d622",
   "lastOpenFiles": [
+    "Sanchez Lozano Abogados.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
     "Sesión 30 TDA - Log.md",
     "Rol/TDA/Sesión 29 TDA - Preparación.md",
@@ -127,8 +137,6 @@
     "Rol/SDC/Sesión 6 SDC - Log.md",
     "Personal/Bolsas de trabajo.md",
     "Libros/13112021 - Memeing Mark Fisher.md",
-    "Referencia Mark down.md",
-    "Marzo 2022.md",
-    "Febrero 2022.md"
+    "Referencia Mark down.md"
   ]
 }
