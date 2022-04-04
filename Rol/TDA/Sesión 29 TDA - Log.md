@@ -120,3 +120,5 @@ _Up all night to get lucky!_ de Mahali y Dark.
 [[TDA - A]]
 
 [[Sesión 28 TDA - Log|TDA S28]]
+
+[[Sesión 30 TDA - Log|Sesión 30]]
