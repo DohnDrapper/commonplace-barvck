@@ -86,19 +86,59 @@ https://docs.google.com/presentation/d/1ARh6lVC-fJOrHjWNpEhvIo_vbFdJEv8ieLbVbRGn
 Esto es un texto de ejemplo
 
 
-#### $a$. Escena 1
+#### $A$. Llegada a Nueva York
+El helicoptero los lleva a un hotel:
+- Mañana hay reunión con Quentin Shapiro
+- Abdul se despide y descansa Intenta leer el pergamino que halló pero no sabe más al respecto.
+- Daniel se dirige al techo del edifico y contempla la hermosa ciudad de NY (en medio de su sueño escucho un grito de )
+- Pasan los de Caduceos por ellos y piden los lleven a un puesto de Hot dogs
 
-Este es otro texto de ejemplo.
+#### $B$. Edificio Meadham
+- Los recibe Teddy Ross y pregunta por el Doctor.
+- Caduceo tiene un aire a oficina de periodico.
+- Sarah vuelve a la vida:
+	- Tiene escena retrospectivas de doctores, luces y estar sumergida.
+	- Al tomar una ducha se da cuenta estan saliendole escamas
+	- Victor Gonzalvez le explica que se le aplicó un proceso llamado "Hibridación"
+	- Se encuentra con Robert Howard, quien le dice que se cuide pues las cosas no son lo que parecen
+	- Sus compañeros están claramente sorprendidos, por la vuelt a la vida de Sarah.
 
 
-#### $b$. Escena 2
+#### $\gamma$.  Encuentro con Quentin Shapiro
+- Shapiro les pide un reporte de la misión:
+	- Sarah dice que tiene un apagón respecto de la misión y le reclama no se le diera la información completa
+	- Abdul le cuenta los enfrentamientos y la serpiente, además le enseña el pergamino que encontró.
 
-Este es otro texto de ejemplo.
+- El party llegó al Segundo Nivel en la Organización de Caduceo.
+	- Recibirán un pago para que puedan vivir con comodidad en los EU por seis meses.
 
+- Segundo nivel de Caduceo: 
+	- Caduceo sabe de al existencia de la gente serpiente
+	- Aparecieron antes de la Humanidad, y tuvieron su auge y apogeo en esa epoca.
+	- Adoraban a Yig el padre de las serpeintes, y a Shagua, quine se recrea en cosas viles.
+	- Los que adoran a *Yig* se esconden de la humanidad, *Tsathoggua*, buscan destruir a la humanidad.
 
-#### $\gamma$. Escena 3
+ - Resultados de la Misión:
+	 - Tyraniss esta sellada y siendo estudiada.
+	 - Antay decidió no ir a la reunión y se le pagó su dinero.
 
-Un texto de ejmplo más.
+- El Party pidió:
+	- Abdul saber Naacal
+	- Sarah usar armas
+	- Daniel lo enviaron al taller mecánico03
+
+- Tras la reunión con Quentin Shapiro:
+	- Abdul fue a la biblioteca.
+	- Daniel conoce el Taller Mecánico de Filemone Casale
+	- Sarah va con el Dr. Gonzalez:
+		- El Dr. más bien tiene oficina de psicológo.
+		- Su oficina tiene varias estatuas de serpientes.
+		- Sarah no puede identificar el mapa que tiene en su oficina.
+
+- De vuelta al hotel:
+	- Abdul le envió carne al tigre gris
+	- Los miembros del Prty fueron al Cine a ver Cabalgata
+
 
 
 ---
