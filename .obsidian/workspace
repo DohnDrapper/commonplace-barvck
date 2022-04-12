@@ -26,18 +26,6 @@
             "source": true
           }
         }
-      },
-      {
-        "id": "401b3bb5d71c7b6c",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-            "mode": "preview",
-            "source": true
-          }
-        }
       }
     ],
     "direction": "vertical"
@@ -102,7 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "file": "Rol/SDC/Sesión 6 SDC - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
+                "file": "Rol/SDC/Sesión 6 SDC - Log.md"
               }
             }
           },
@@ -129,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "file": "Rol/SDC/Sesión 6 SDC - Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +138,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "401b3bb5d71c7b6c",
+  "active": "a3b1cac50d388d2e",
   "lastOpenFiles": [
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 6 SDC - Log.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Sesión 7 SDC - Log.md",
     "Rol/TDA/Sesión 27 TDA - Log.md",
     "Rol/SDC/Sesión 5 SDC - Log.md",
