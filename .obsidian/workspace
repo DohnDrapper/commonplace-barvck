@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d9137699d34ec343",
+        "id": "69fe223f58d1f922",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "musica",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,11 +53,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -117,17 +119,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d9137699d34ec343",
+  "active": "69fe223f58d1f922",
   "lastOpenFiles": [
+    "Rol/SDC/Pleneación general SDC.md",
+    "Rol/Música.md",
+    "Rol/SDC/Sesión 8 SDC - Log.md",
+    "Rol/SDC/Sesión 6 SDC - Log.md",
+    "Rol/SDC/Sesión 7 SDC - Log.md",
     "Rol/TDA/Sesión 31 TDA - Preparación.md",
     "Rol/TDA/Sesión 30 TDA - Preparación.md",
     "MOOC -.md",
     "Personal/Bolsas de trabajo.md",
-    "Spiderman No way home.md",
-    "Rol/SDC/Sesión 7 SDC - Log.md",
-    "Rol/SDC/Sesión 6 SDC - Log.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Rol/SDC/Sesión 5 SDC - Log.md"
+    "Spiderman No way home.md"
   ]
 }
