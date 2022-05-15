@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "69fe223f58d1f922",
+        "id": "eb9453940acdaa31",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -36,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "musica",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,13 +53,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -119,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69fe223f58d1f922",
+  "active": "eb9453940acdaa31",
   "lastOpenFiles": [
+    "Rol/Cyberpunk El apartamento.md",
     "Rol/SDC/Pleneación general SDC.md",
     "Rol/Música.md",
     "Rol/SDC/Sesión 8 SDC - Log.md",
@@ -129,7 +128,6 @@
     "Rol/TDA/Sesión 31 TDA - Preparación.md",
     "Rol/TDA/Sesión 30 TDA - Preparación.md",
     "MOOC -.md",
-    "Personal/Bolsas de trabajo.md",
-    "Spiderman No way home.md"
+    "Personal/Bolsas de trabajo.md"
   ]
 }
