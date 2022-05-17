@@ -7,15 +7,10 @@ aliases: Calendario 2022
 
 
 [[Enero 2022]]
-
-
-&emsp;
-
 [[Febrero 2022]]
-
+[[Marzo 2022|Marzo 2022]]
 
 &emsp;
-
 ## Marzo
 #### $A$. Proyecto
 Exlibris

@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "eb9453940acdaa31",
+        "id": "2dbfd2194b8d21e8",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Untitled.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "eb9453940acdaa31",
+  "active": "2dbfd2194b8d21e8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Formatos/Mayo 2022.md",
+    "Abril 2022.md",
+    "2022.md",
+    "Marzo 2022.md",
+    "Febrero 2022.md",
+    "Calendario 2022.md",
+    "Enero 2022.md",
     "Rol/Cyberpunk El apartamento.md",
-    "Rol/SDC/Pleneación general SDC.md",
-    "Rol/Música.md",
-    "Rol/SDC/Sesión 8 SDC - Log.md",
-    "Rol/SDC/Sesión 6 SDC - Log.md",
-    "Rol/SDC/Sesión 7 SDC - Log.md",
-    "Rol/TDA/Sesión 31 TDA - Preparación.md",
-    "Rol/TDA/Sesión 30 TDA - Preparación.md",
-    "MOOC -.md",
-    "Personal/Bolsas de trabajo.md"
+    "Rol/SDC/Pleneación general SDC.md"
   ]
 }
