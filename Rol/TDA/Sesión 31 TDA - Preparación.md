@@ -115,4 +115,4 @@ Zarpar para encontrarse con uno delso barcos pirtas al azar.
 
 [[TDA - A]]
 
-[[Sesión 29 TDA - Log|Sesión 29]]
+[[Sesión 30 TDA - Log]]

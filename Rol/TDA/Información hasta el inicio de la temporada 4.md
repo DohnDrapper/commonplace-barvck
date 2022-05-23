@@ -509,10 +509,10 @@ Flying monkey
 7.  Firefinger
 
 -   Mezro  
-    Ciudad Abandonada.
+    Ciudad Abandonada. Es solo una ilusión los elegido s de Ubtao la llevarón a un un paraíso donde conviven con Ubtao.
     
 -   Nangalore  
-    Aquí estuvo Estoicoro.
+    Aquí estuvo Estoicoro. Es un jardín enorme y centenario.
     
 -   Orolunga  
     Aquí esta el Naga adivino.  

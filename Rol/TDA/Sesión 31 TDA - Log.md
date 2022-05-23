@@ -2,7 +2,7 @@
 aliases: [Sesión 31, TDA S31]
 ---
 
-## Sesión 31 "" 
+## Sesión 31 "Al abordaje" 
 ---
 
 ### _Indice_
@@ -18,11 +18,6 @@ aliases: [Sesión 31, TDA S31]
 <div align='center'>
    <h3> * * * </h3>
 </div>
-
-#### _Orden del día_
-
-1. Ejemplo
-2. Ejemplo 2
 
 
 **Música**

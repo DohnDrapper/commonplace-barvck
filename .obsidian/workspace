@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "12cd89f3fd8fe18c",
+        "id": "747c42f30ac5c308",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tinder",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "12cd89f3fd8fe18c",
+  "active": "747c42f30ac5c308",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
-    "Untitled.md",
-    "Mayo 2022.md",
-    "Abril 2022.md",
-    "2022.md",
-    "Marzo 2022.md",
-    "Febrero 2022.md",
-    "Calendario 2022.md",
-    "Enero 2022.md",
-    "Rol/Cyberpunk El apartamento.md"
+    "Rol/TDA/Sesión 32 TDA - Preparación.md",
+    "Rol/TDA/Sesión 29 TDA - Log.md",
+    "Rol/TDA/Sesión 29 TDA - Preparación.md",
+    "Rol/TDA/Sesión 27 TDA - Log.md",
+    "Rol/TDA/Sesión 28 TDA - Log.md",
+    "Rol/TDA/Sesión 30 TDA - Preparación.md",
+    "Rol/TDA/Sesión 31 TDA - Log.md",
+    "Rol/TDA/Sesión 31 TDA - Preparación.md",
+    "Sesión 30 TDA - Log.md",
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
   ]
 }
