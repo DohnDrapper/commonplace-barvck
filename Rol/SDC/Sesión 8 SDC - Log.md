@@ -6,7 +6,7 @@ aliases: [Sesión 7, SDC S7]
 ## Sesión 8
 ---
 
-_Fecha de la sesión 24/04/2022_
+_Fecha de la sesión 22/05/2022_
 _Fecha interna de la campaña: 20 de Marzo de 1934_
 
 ### _Indice_

@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "747c42f30ac5c308",
+        "id": "3381338e3acb4e79",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,8 +117,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "747c42f30ac5c308",
+  "active": "3381338e3acb4e79",
   "lastOpenFiles": [
+    "Rol/SDC/Sesión 8 SDC - Log.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/TDA/Sesión 32 TDA - Preparación.md",
     "Rol/TDA/Sesión 29 TDA - Log.md",
     "Rol/TDA/Sesión 29 TDA - Preparación.md",
@@ -127,8 +128,6 @@
     "Rol/TDA/Sesión 28 TDA - Log.md",
     "Rol/TDA/Sesión 30 TDA - Preparación.md",
     "Rol/TDA/Sesión 31 TDA - Log.md",
-    "Rol/TDA/Sesión 31 TDA - Preparación.md",
-    "Sesión 30 TDA - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
+    "Rol/TDA/Sesión 31 TDA - Preparación.md"
   ]
 }
