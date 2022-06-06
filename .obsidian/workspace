@@ -7,8 +7,12 @@
         "id": "1efdf306a4ed45df",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +128,7 @@
   },
   "active": "1efdf306a4ed45df",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Libros/Libros.md",
     "Libros/El hombre duplicado.md",
     "000 Indice.md",
@@ -127,7 +137,6 @@
     "Notas diarias/2021-11-07 - Sobre el Joker II.md",
     "Notas diarias/2021-10-31 - Crush.md",
     "Notas diarias/2021-10-25 - Ace.md",
-    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
-    "Adjuntos/ex libris rayos 1-5.jpg"
+    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md"
   ]
 }
