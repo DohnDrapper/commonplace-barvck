@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3381338e3acb4e79",
+        "id": "1efdf306a4ed45df",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3381338e3acb4e79",
+  "active": "1efdf306a4ed45df",
   "lastOpenFiles": [
-    "Rol/SDC/Sesión 8 SDC - Log.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/TDA/Sesión 32 TDA - Preparación.md",
-    "Rol/TDA/Sesión 29 TDA - Log.md",
-    "Rol/TDA/Sesión 29 TDA - Preparación.md",
-    "Rol/TDA/Sesión 27 TDA - Log.md",
-    "Rol/TDA/Sesión 28 TDA - Log.md",
-    "Rol/TDA/Sesión 30 TDA - Preparación.md",
-    "Rol/TDA/Sesión 31 TDA - Log.md",
-    "Rol/TDA/Sesión 31 TDA - Preparación.md"
+    "Libros/Libros.md",
+    "Libros/El hombre duplicado.md",
+    "000 Indice.md",
+    "Notas diarias/2021-10-26 - Organizar obsidian.md",
+    "Notas diarias/2021-10-27 Influentes.md",
+    "Notas diarias/2021-11-07 - Sobre el Joker II.md",
+    "Notas diarias/2021-10-31 - Crush.md",
+    "Notas diarias/2021-10-25 - Ace.md",
+    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md",
+    "Adjuntos/ex libris rayos 1-5.jpg"
   ]
 }
