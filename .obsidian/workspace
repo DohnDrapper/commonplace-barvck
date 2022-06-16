@@ -7,8 +7,12 @@
         "id": "1ec1f4cc623cd99f",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview",
+            "source": true
+          }
         }
       }
     ],
@@ -57,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -73,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -97,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
