@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1ec1f4cc623cd99f",
+        "id": "e5009a84805a7ae1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview",
-            "source": true
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -61,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -78,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +88,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -105,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1ec1f4cc623cd99f",
+  "active": "e5009a84805a7ae1",
   "lastOpenFiles": [
+    "Junio 2022.md",
+    "Mayo 2022.md",
+    "Referencia Mark down.md",
+    "Notas diarias/2021-11-07 - Sobre el Joker II.md",
     "Personal/Bolsas de trabajo.md",
     "Libros/Libros.md",
     "Libros/El hombre duplicado.md",
     "000 Indice.md",
     "Notas diarias/2021-10-26 - Organizar obsidian.md",
-    "Notas diarias/2021-10-27 Influentes.md",
-    "Notas diarias/2021-11-07 - Sobre el Joker II.md",
-    "Notas diarias/2021-10-31 - Crush.md",
-    "Notas diarias/2021-10-25 - Ace.md",
-    "Notas diarias/2021-10-24 - I'm Sorry, I Love You.md"
+    "Notas diarias/2021-10-27 Influentes.md"
   ]
 }
