@@ -5,6 +5,7 @@ aliases: Calendario 2022
 # Calendario 2022
 ---
 
+[[Control de peso 2022|Control de peso 2022]]
 
 [[Enero 2022]]
 [[Febrero 2022]]

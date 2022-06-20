@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "e5009a84805a7ae1",
+        "id": "d60e99b1570baf2a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e5009a84805a7ae1",
+  "active": "d60e99b1570baf2a",
   "lastOpenFiles": [
+    "Abril 2022.md",
+    "Control de peso 2022.md",
+    "2022.md",
+    "Calendario 2022.md",
+    "Referencia Mark down.md",
     "Junio 2022.md",
     "Mayo 2022.md",
-    "Referencia Mark down.md",
     "Notas diarias/2021-11-07 - Sobre el Joker II.md",
     "Personal/Bolsas de trabajo.md",
-    "Libros/Libros.md",
-    "Libros/El hombre duplicado.md",
-    "000 Indice.md",
-    "Notas diarias/2021-10-26 - Organizar obsidian.md",
-    "Notas diarias/2021-10-27 Influentes.md"
+    "Libros/Libros.md"
   ]
 }
