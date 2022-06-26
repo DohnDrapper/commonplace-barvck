@@ -7,8 +7,11 @@
         "id": "d60e99b1570baf2a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Personal/Bolsas de trabajo.md",
+            "mode": "preview"
+          }
         }
       }
     ],
@@ -57,7 +60,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,6 +127,7 @@
   },
   "active": "d60e99b1570baf2a",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Abril 2022.md",
     "Control de peso 2022.md",
     "2022.md",
@@ -127,7 +136,6 @@
     "Junio 2022.md",
     "Mayo 2022.md",
     "Notas diarias/2021-11-07 - Sobre el Joker II.md",
-    "Personal/Bolsas de trabajo.md",
     "Libros/Libros.md"
   ]
 }
