@@ -1,12 +1,12 @@
 [
-  "better-word-count",
-  "note-refactor-obsidian",
-  "obsidian-kanban",
-  "css-snippets",
-  "obsidian-vault-statistics-plugin",
-  "graph-analysis",
-  "wikilinks-to-mdlinks-obsidian",
-  "obsidian-git",
   "obsidian-admonition",
-  "obsidian-text-format"
+  "better-word-count",
+  "css-snippets",
+  "obsidian-text-format",
+  "wikilinks-to-mdlinks-obsidian",
+  "graph-analysis",
+  "obsidian-kanban",
+  "note-refactor-obsidian",
+  "obsidian-git",
+  "obsidian-vault-statistics-plugin"
 ]
