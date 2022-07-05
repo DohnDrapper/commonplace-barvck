@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Personal/Bolsas de trabajo.md",
+            "file": "Sanchez Lozano Abogados.md",
             "mode": "preview"
           }
         }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Sanchez Lozano Abogados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "Sanchez Lozano Abogados.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Sanchez Lozano Abogados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,6 +127,7 @@
   },
   "active": "23866436636d2e99",
   "lastOpenFiles": [
+    "Sanchez Lozano Abogados.md",
     "Personal/Bolsas de trabajo.md",
     "Abril 2022.md",
     "Control de peso 2022.md",
@@ -135,7 +136,6 @@
     "Referencia Mark down.md",
     "Junio 2022.md",
     "Mayo 2022.md",
-    "Notas diarias/2021-11-07 - Sobre el Joker II.md",
-    "Libros/Libros.md"
+    "Notas diarias/2021-11-07 - Sobre el Joker II.md"
   ]
 }
