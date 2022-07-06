@@ -10,7 +10,7 @@
 |Convenio de Menores|||
 
 
-### *Juicios en Materia Civil*
+### Juicios en Materia Civil
 -   Recuperación de inmuebles
 -   Herencias
 -   Desalojo de inmuebles
@@ -18,18 +18,18 @@
 -   Factura judicial por Oficina Estatal de rentas
 -   Jurisdicción voluntaria de propiedad de vehículo
 
-### *Juicios en Materia Familiar*
+### Juicios en Materia Familiar
 -   Pensión alimenticia
 -   Divorcios por Mutuo
 -   Divorcio sin expresión de causa
 -   Divorcio internacional o interestatal
 -   Reconocimiento de paternidad
 
-### *Tramites en general*
+### Tramites en general
 -   Corrección de documentos (Actas, Curp, Registros)
 -   Redacción de contratos (Civiles y Mercantiles)
 
-### *Paquetes?*
+### Paquetes?
 -   Constitución de Empresas y situación fiscal
 -   Redaccion de contratos de prestación de servicios
 -   Consitución de empresas (Acta constitutiva, Alta ante SAT)
