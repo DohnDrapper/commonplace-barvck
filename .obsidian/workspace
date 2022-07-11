@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "23866436636d2e99",
+        "id": "307a7789f7701210",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Sanchez Lozano Abogados.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sanchez Lozano Abogados.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sanchez Lozano Abogados.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sanchez Lozano Abogados.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "23866436636d2e99",
+  "active": "307a7789f7701210",
   "lastOpenFiles": [
+    "Calendario 2022.md",
+    "Junio 2022.md",
+    "Julio 2022.md",
+    "2022.md",
     "Sanchez Lozano Abogados.md",
     "Personal/Bolsas de trabajo.md",
     "Abril 2022.md",
     "Control de peso 2022.md",
-    "2022.md",
-    "Calendario 2022.md",
     "Referencia Mark down.md",
-    "Junio 2022.md",
-    "Mayo 2022.md",
-    "Notas diarias/2021-11-07 - Sobre el Joker II.md"
+    "Mayo 2022.md"
   ]
 }
