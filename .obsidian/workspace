@@ -4,14 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "307a7789f7701210",
+        "id": "b47e518f40e527e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Personal/Bolsas de trabajo.md",
-            "mode": "preview"
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -77,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -104,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +118,7 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "307a7789f7701210",
+  "active": "b47e518f40e527e8",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "Calendario 2022.md",
