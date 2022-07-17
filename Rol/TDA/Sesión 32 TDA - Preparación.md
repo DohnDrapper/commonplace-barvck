@@ -7,6 +7,8 @@ aliases: [Sesión 32, TDA]
 
 ### _Indice_
 
+
+
 <div align='center'>
    <h3> * * * </h3>
 </div>
@@ -89,7 +91,7 @@ Presentación Sesión 32:
 
 #### $b$. Acercandose a Jahaka Bay
 
-La balsa unusa un echizo de _Wind Walk_ para poder escapar rápido del barco.
+La balsa un usa un hechizo de _Wind Walk_ para poder escapar rápido del barco.
 
 Cosas que hallan en el barco:
 - Una bandera de Baldur's gate
@@ -100,7 +102,7 @@ Cosas que hallan en el barco:
 		- Enviar hombres a la zona llamada Shilku, esta cerca del volcán pero es posible haya algo valioso ahí.
 			- Está tachado no vale la pena.
 	- La _sending stone_ ha dejado de funcionar para este barco
-	- Encuentran un ejemplar de una novela llamada: "Crepusculo en Chult" donde al parecer se habla del romance de una mujer de Chult con un Yuan-ti y un hombre que transforma en Tigre. En las ultimas páginas del libro viene un adelanto de qu
+	- Encuentran un ejemplar de una novela llamada: "Crepusculo en Chult" donde al parecer se habla del romance de una mujer de Chult con un Yuan-ti y un hombre que transforma en Tigre. En las ultimas páginas del libro viene un adelanto Luna Nueva.
 - _Sending stone_ que al parecer dejo serivr
 
 Si buscan mucho más pueden encontrar una persona que se encuentra prisionera.
