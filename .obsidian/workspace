@@ -4,39 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b47e518f40e527e8",
+        "id": "08fad0797479a0a9",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Formatos/Sesión 33 TDA - Preparación.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "f4e8f94a689e12e8",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/TDA/Sesión 32 TDA - Preparación.md",
-            "mode": "source",
-            "source": false
-          }
-        }
-      },
-      {
-        "id": "5658bb7d050baca3",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -102,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Formatos/Sesión 33 TDA - Preparación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +89,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Formatos/Sesión 33 TDA - Preparación.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Formatos/Sesión 33 TDA - Preparación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,10 +118,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b47e518f40e527e8",
+  "active": "08fad0797479a0a9",
   "lastOpenFiles": [
-    "Rol/TDA/Sesión 32 TDA - Preparación.md",
     "Formatos/Sesión 33 TDA - Preparación.md",
+    "Rol/TDA/Sesión 32 TDA - Preparación.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/Llamada de Cthulhu/070520211946 - One Shot llamada de Cthulhu.md",
     "Rol/Llamada de Cthulhu/Terapía de grupo - Notas de Master.md",
