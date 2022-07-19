@@ -7,8 +7,12 @@
         "id": "08fad0797479a0a9",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Referencia Mark down.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -53,7 +57,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -74,6 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Referencia Mark down.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Referencia Mark down.md"
+              }
             }
           },
           {
@@ -98,6 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Referencia Mark down.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
