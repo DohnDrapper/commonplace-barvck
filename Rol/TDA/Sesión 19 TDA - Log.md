@@ -74,6 +74,21 @@ El Party sube por la meseta de Bala, encuentra que la ladera está llena de pter
 
 ---
 
+#### Sesión 19 
+
+--> la sesión se grabo en video:
+Funcionó. Pude ver als reacciones dle grupo. me di ceunta el grupo no hace nada mientras los demás juegan.
+
+--> Divide al grupo para que pudieran destacar
+Sin embargo, no funciona tambie´n el grupo tardó mucho en jugar y en general no les pareció tan bien
+
+--> Obtener  respuesta de alguein detro
+Funciona, pero fue muy directo
+
+>--> Aplicar un cronometro para las acciones
+
+---
+
 [[TDA - A|IndiceTDA]]
 
 [[Sesión 18 TDA - Log|TDA S18]]

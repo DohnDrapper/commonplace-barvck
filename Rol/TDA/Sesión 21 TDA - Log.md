@@ -77,6 +77,30 @@ Los jugadores:
 
 ---
 
+--> El combate con el Nightwalker
+Creo que los jugadores l odisfrutaron. Aunque al principio huyeron, encontraron la manera de neutralizar. L apelea fue digan de un jefe.
+
+--> Forcé una fogata para que lso juagdores rolearan
+Cada uno pudo rolear . Se me olvidó Estoicoro pero aún aspi roleo esto
+
+--> El impacto de la muerte del NPC
+- A pesar de que no desarrolle tan bien a Otirianne la party si sintió su perdida
+- Fue buena idea utilizarlo con Ancalagón, al parecer el si sintipo la perdida de su amigo.
+- Mau guió a los demás para sentir su perdida
+
+--> La música fue la correcta para la ocasión
+- La música de Escaflowne usada nunca antes, fue la apropiada para la batalla
+- La música triste de Inuyasha sirvió para llenar las emociones de los jugadores y que hubiera una conexión
+
+--> El montaje al parecer les gusto
+Fue una buena ocasión para que los personajes rolearán y lo hicieron
+
+--> Mal interpretaron una pista
+"Lo comparaste con un Dios" , no era el Nightwalker era Acererak.
+
+---
+
+
 [[TDA - A|IndiceTDA]]
 
 [[Sesión 20 TDA - Log|TDA S20]]

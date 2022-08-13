@@ -121,6 +121,18 @@ Al revisar a Nanny Pupu hallan un diario. Y le logran sacar el corazón, que est
 Kashak ve una rupia como la que ya habían visto antes en la entrada de la cueva.
 
 ---
+
+---> Buscar una mejor manera de plantear los combates
+Era muy claro que los golems de carne no les interesaban y la bruja sí
+
+--> Como manejar mejor las visiones
+- Pedirle al jugador describe un poco como era tal.
+- Hay cosas que chocar en las visiones, el jugador las nota y ahí es donde hace un tirada para volver en si
+- ¿Qué hacer los demás mientras esta teniendo la visión? ¿Pueden ayudarlo? ¿La visión afecta a los demás?
+
+---
+
+
 [[TDA - A|IndiceTDA]]
 
 [[Sesión 19 TDA - Log|TDA S19]]

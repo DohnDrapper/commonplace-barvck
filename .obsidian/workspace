@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1652e22d1fb40d14",
+        "id": "35df7c7128192d84",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "1652e22d1fb40d14",
+  "active": "35df7c7128192d84",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 21 TDA - Log.md",
+    "Rol/TDA/Sesión 20 TDA - Log.md",
+    "Rol/Cyberpunk Entrega Especial.md",
+    "Referencia Mark down.md",
+    "Rol/200 Juegos de Rol.md",
+    "Rol/TDA/Sesión 19 TDA - Log.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Personal/Evolución font.md",
     "Personal/Bolsas de trabajo.md",
-    "Rol/TDA/TDA - A.md",
-    "Rol/TDA/Sesión 33 TDA - Preparación.md",
-    "On the process of making MOCs/document.pdf",
-    "On the process of making MOCs/acuseBuzon829202116148.pdf",
-    "On the process of making MOCs/On the process of making MOCs/_Maps of Contents MOC.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationHabits/An asymptotic curve models the development of skills, strength, habits, and more.md",
-    "On the process of making MOCs/On the process of making MOCs/_IncubationHabits/201502201713 Habit Concepts and Theory.md"
+    "Rol/TDA/TDA - A.md"
   ]
 }

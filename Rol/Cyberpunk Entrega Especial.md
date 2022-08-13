@@ -1,6 +1,12 @@
 ## "ENTREGA ESPECIAL"
 ---
 
+ [[#ENTREGA ESPECIAL]]
+[[#SESION 2]]
+[[#CONCLUSIONES]]
+
+---
+
 **Inicio**
 Reglas
 Stats copiar
@@ -56,30 +62,30 @@ Logo de la organización.
 
 **MUSICA**
 Intro/Chill: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BJ2Rxb0RsPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/BJ2Rxb0RsPs>
 
 Por la ciudad:
-<iframe width="695" height="469" src="https://www.youtube.com/embed/PJdjmAIdx40?list=PLu0STGboGJntFr6so8mvJLrORGq_j4eYG" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/PJdjmAIdx40?list=PLu0STGboGJntFr6so8mvJLrORGq_j4eYG>
 
 ---
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/EEOkRSlD79w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/EEOkRSlD79w>
 
 ---------
 
 Música para club:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oRSijEW_cDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/oRSijEW_cDM>
 
 -----------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Y5B8-vrAqKo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/Y5B8-vrAqKo>
 
 ----------
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vrmjkFObXOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/vrmjkFObXOA>
 
 ----------
 
 Combate:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F4eccPBFEjE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/F4eccPBFEjE>
 
 &nbsp;
 
@@ -98,14 +104,14 @@ Uno de estos toca en la ventana del conductor,
 Tras esto los tipo de la limosina, bajan la ventana del copiloto, y pueden oir que suena la siguiente música:
 
 Música de los Yakuza: 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-DXtTDYfg8?start=201" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/Q-DXtTDYfg8?start=201>
 
 > Por supuesto, danos un mometo para darte tu peaje.
 
 Las ventanas del automovil bajan todas, y de repente una lluvia de disparos cae sobre los pandilleros griegos.
 
 Disparos:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/muM5RKfZGkI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/muM5RKfZGkI" >
 
 &thinsp;
 
@@ -121,9 +127,9 @@ Puede ver el rockerboy como los tipos miran un dispositivo en su muñeca, ajusta
 Debe hacer una tirada de stealth para lograr pasar y pasar desapercibido.
 
 Musica de la coregografía:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7XZvN-EuW2g?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/7XZvN-EuW2g?start=12>
 
-https://youtu.be/7XZvN-EuW2g
+<https://youtu.be/7XZvN-EuW2g>
 
 &thinsp;
 
@@ -145,9 +151,9 @@ Tech media: Puede ver uno,actua raro, y dos, no tiene el tatuaje de los "Aqueos"
 
 #### ESCENA 3
 Música fondo:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Nv-ZiL6E_r8?start=12" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<https://www.youtube.com/embed/Nv-ZiL6E_r8?start=12>
 
-https://youtu.be/Nv-ZiL6E_r8
+<https://youtu.be/Nv-ZiL6E_r8>
 
 Puedes oir una pelea de un tipo por la entrada:
 
@@ -169,3 +175,19 @@ ___
 ### CONCLUSIONES:
 
 A mejorar:
+
+--> A los jugadores les llegó l les gusto la escena introductoria
+Considero se aprovecho para crear atmosfera, creo también sirvió parar presentar al malo
+
+--> Falta explicar bien que es lo que cada arquetipo realiza
+Los jugadores deseaban realizar actividades que no eran de su perfil
+
+--> Incluir las existencia de publicidad en la ciudad o como las corporaciones controlan el mundo
+Aquí considero crear playlist especificas para acciones, describir o tener una descripción de la ciudad
+
+--> Usar el holograma fue una buena idea pero al final se cambio la campaña
+- Valdria la pena aplicar en las sesión, los videos de darthsynth para el club
+- Mapa de la ciudad}
+
+---
+
