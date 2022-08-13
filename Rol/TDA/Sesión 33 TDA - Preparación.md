@@ -1,5 +1,5 @@
 ---
-aliases: [Sesión 33, TDA]
+aliases: [Sesión 33, TDA P33]
 ---
 
 ## Sesión 33  

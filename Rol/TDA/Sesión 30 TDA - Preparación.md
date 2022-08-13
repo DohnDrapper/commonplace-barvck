@@ -1,5 +1,5 @@
 ---
-aliases: [Sesión 30, TDA S30]
+aliases: [Sesión 30, TDA P30]
 ---
 
 ## Sesión 30 "Jahaka Bay"
@@ -104,3 +104,5 @@ Zarpar para encontrarse con uno delso barcos pirtas al azar.
 [[TDA - A]]
 
 [[Sesión 29 TDA - Log|Sesión 29]]
+
+[[Sesión 31 TDA - Log]]

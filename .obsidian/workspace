@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "35df7c7128192d84",
+        "id": "b59182c3e759126a",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rol/SDC/Sesión 9 SDC - Log.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/SDC/Sesión 9 SDC - Log.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,7 +93,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/SDC/Sesión 9 SDC - Log.md"
+              }
             }
           },
           {
@@ -97,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rol/SDC/Sesión 9 SDC - Log.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "35df7c7128192d84",
+  "active": "b59182c3e759126a",
   "lastOpenFiles": [
-    "Rol/TDA/Sesión 21 TDA - Log.md",
-    "Rol/TDA/Sesión 20 TDA - Log.md",
-    "Rol/Cyberpunk Entrega Especial.md",
-    "Referencia Mark down.md",
-    "Rol/200 Juegos de Rol.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md",
-    "240820211841 - Sánchez Lozano Abogados.md",
-    "Personal/Evolución font.md",
-    "Personal/Bolsas de trabajo.md",
-    "Rol/TDA/TDA - A.md"
+    "Rol/SDC/Sesión 8 SDC - Log.md",
+    "Rol/SDC/Sesión 9 SDC - Log.md",
+    "Rol/TDA/Sesión 34 TDA - Preparación.md",
+    "Rol/TDA/Sesión 33 TDA - Preparación.md",
+    "Rol/TDA/Sesión 32 TDA - Preparación.md",
+    "Rol/TDA/Sesión 30 TDA - Preparación.md",
+    "Rol/TDA/Sesión 31 TDA - Log.md",
+    "Rol/TDA/Sesión 29 TDA - Preparación.md",
+    "Rol/TDA/Sesión anterior a los Yuan - ti.md",
+    "Rol/TDA/Sesión 31 TDA - Preparación.md"
   ]
 }

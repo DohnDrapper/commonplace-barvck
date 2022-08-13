@@ -1,5 +1,5 @@
 ---
-aliases: [Sesión 32, TDA]
+aliases: [Sesión 32, TDA P32]
 ---
 
 ## Sesión  32
@@ -174,9 +174,11 @@ also fire its ballista if it is equipped with one. If it has half
 its crew or fewer, it moves at half speed and can’t use  
 its ballista
 
+---
+
 [[TDA - A]]
 
 [[Sesión 31 TDA - Preparación]]
 
----
+[[Sesión 33 TDA - Preparación|TDA P33]]
 

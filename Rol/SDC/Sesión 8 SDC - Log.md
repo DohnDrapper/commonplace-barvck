@@ -1,5 +1,5 @@
 ---
-aliases: [Sesión 7, SDC S7]
+aliases: [Sesión 8, SDC S8]
 ---
 
 
@@ -25,7 +25,7 @@ _Fecha interna de la campaña: 20 de Marzo de 1934_
 	+ Aquí hay gente de Inteligencia Militar, oficianas de periodicos, firmas de investigación privadas, y academicos.
 	+ 
 
-+ Abdul se enceuntra con su contacto de "Los tigres grises"
++ Abdul se encuentra con su contacto de "Los tigres grises"
 	+ 
 
 <div align='center'>

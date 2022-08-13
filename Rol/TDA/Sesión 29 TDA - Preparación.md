@@ -73,3 +73,8 @@ Canción marineros:
 
 ---
 
+[[TDA - A]]
+
+[[Sesión 28 TDA - Log|TDA S28]]
+
+[[Sesión 30 TDA - Log|TDA S30]]

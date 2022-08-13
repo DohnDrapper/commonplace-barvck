@@ -1,5 +1,5 @@
 ---
-aliases: [Sesión 31, TDA S31]
+aliases: [Sesión 31, TDA P31]
 ---
 
 ## Sesión 31 "Stirge"

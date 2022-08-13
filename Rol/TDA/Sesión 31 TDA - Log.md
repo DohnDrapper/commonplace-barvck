@@ -44,6 +44,10 @@ Este es otro texto de ejemplo.
 
 Un texto de ejmplo más.
 
-
 ---
 
+[[TDA - A]]
+
+[[Sesión 30 TDA - Log|Sesión 30]]
+
+[[Sesión 32 TDA - Preparación|TDA P32]]
