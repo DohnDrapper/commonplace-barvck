@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "b59182c3e759126a",
+        "id": "12ca939c80a70d3e",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rol/SDC/Sesión 9 SDC - Log.md",
+            "file": "Rol/TDA/Sesión 34 TDA - Preparación.md",
             "mode": "source",
             "source": true
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/SDC/Sesión 9 SDC - Log.md",
+                "file": "Rol/TDA/Sesión 34 TDA - Preparación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/SDC/Sesión 9 SDC - Log.md"
+                "file": "Rol/TDA/Sesión 34 TDA - Preparación.md"
               }
             }
           },
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/SDC/Sesión 9 SDC - Log.md",
+                "file": "Rol/TDA/Sesión 34 TDA - Preparación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,10 +125,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b59182c3e759126a",
+  "active": "12ca939c80a70d3e",
   "lastOpenFiles": [
-    "Rol/SDC/Sesión 8 SDC - Log.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
+    "Rol/SDC/Sesión 8 SDC - Log.md",
     "Rol/TDA/Sesión 34 TDA - Preparación.md",
     "Rol/TDA/Sesión 33 TDA - Preparación.md",
     "Rol/TDA/Sesión 32 TDA - Preparación.md",
