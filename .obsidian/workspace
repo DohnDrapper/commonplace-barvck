@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef592869c50d5e6",
+        "id": "4514f9189614911f",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -117,8 +117,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0ef592869c50d5e6",
+  "active": "4514f9189614911f",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Rol/TDA/Sesión 34 TDA - Preparación.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
     "Rol/SDC/Sesión 8 SDC - Log.md",
@@ -127,7 +128,6 @@
     "Rol/TDA/Sesión 30 TDA - Preparación.md",
     "Rol/TDA/Sesión 31 TDA - Log.md",
     "Rol/TDA/Sesión 29 TDA - Preparación.md",
-    "Rol/TDA/Sesión anterior a los Yuan - ti.md",
-    "Rol/TDA/Sesión 31 TDA - Preparación.md"
+    "Rol/TDA/Sesión anterior a los Yuan - ti.md"
   ]
 }
