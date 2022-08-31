@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "f056f162a285885d",
+        "id": "9739a70664b6c3a7",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -53,12 +53,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,8 +118,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f056f162a285885d",
+  "active": "9739a70664b6c3a7",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Referencia Mark down.md",
     "Para redactar en Discord.md",
     "Untitled.md",
@@ -128,7 +129,6 @@
     "Ensayo 2021/Referencias ensayo 2021.md",
     "Ensayo 2021/Primer borrador.md",
     "Ensayo 2021/Planeación ensayo Noviembre 2021.md",
-    "Ensayo 2021/Indice primer borrador.md",
-    "Ensayo 2021/Enviado a concurso ensayo 2021.md"
+    "Ensayo 2021/Indice primer borrador.md"
   ]
 }
