@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "3ac5ce039d521294",
+        "id": "5a3f6a90b0ee7b36",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,7 +57,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -117,13 +118,13 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "3ac5ce039d521294",
+  "active": "5a3f6a90b0ee7b36",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Indices Maestría Ensayo Constitucional.md",
     "Inicio maestría Ensayo constitucional.md",
     "Temas Maestría Ensayo constitucional.md",
     "Untitled.md",
-    "Personal/Bolsas de trabajo.md",
     "Referencia Mark down.md",
     "Para redactar en Discord.md",
     "Ensayo 2021/Sobre el esqueleto u estructura del ensayo.md",
