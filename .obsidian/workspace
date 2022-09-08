@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "5a3f6a90b0ee7b36",
+        "id": "d6ecb5ed47d8808a",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -57,8 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
-    "collapsed": true
+    "width": 318
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,17 +117,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "5a3f6a90b0ee7b36",
+  "active": "d6ecb5ed47d8808a",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
     "Indices Maestría Ensayo Constitucional.md",
     "Inicio maestría Ensayo constitucional.md",
-    "Temas Maestría Ensayo constitucional.md",
     "Untitled.md",
+    "Diario de investigación Maestria Ensayo Constitucional.md",
+    "Personal/The strokes.md",
+    "Personal/Bolsas de trabajo.md",
+    "Temas Maestría Ensayo constitucional.md",
     "Referencia Mark down.md",
     "Para redactar en Discord.md",
-    "Ensayo 2021/Sobre el esqueleto u estructura del ensayo.md",
-    "Ensayo 2021/Segundo borrador.md",
-    "Ensayo 2021/Referencias ensayo 2021.md"
+    "Ensayo 2021/Sobre el esqueleto u estructura del ensayo.md"
   ]
 }

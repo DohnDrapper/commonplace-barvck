@@ -13,7 +13,7 @@ como el nuevo medio de expresion y paradigma de la lucha social
 [ B ]
 Temas: Protesta digital, sobre la proteccion de los Derechos Humanos en el internet
 
-[ C ]
+[ C  ]
 Temas: Panorama de los derechos humanos en el México, sobre la necesidad de un medio 
 juridico para su regulacion y protección más no para su cuarteamiento
 
