@@ -24,4 +24,30 @@ Se analizó como un tema mas a poder señalar:
 - "Sobre la relación existente entre el uso de TIC's y el ejercicio de DDHH en el Estado de Guanajuato"
 - Buscar portestas de rebelión informatica en el estado de Guanajuato
 
+---
+
+#### _09/09/2022_
+
+El día de hoy se leyó el primer libro para tomar en cuenta de la investigación "Enseñar a investigar Libro de profesorado de Manuel Belmonte". El libro lamentablemente viene en dos volúmenes el del profesorado y el del alumnado, mismo que no existe al momento en la Ibero, y el autor hace muchas referencias a él. A pesar de ello los conceptos que explica los deja claros, por lo que no es tan necesario. 
+
+El libro me parece muy claro en sus explicaciones y me dio varias cosa que considerar entre ellas explica los conceptos de investigación por su tipo siendo que creo que mi investigación encaje en los conceptos '4.1.06.1.5. Estudio de casos' y '4.1.06.1.6.  Metodologías orientadas a la práctica' más acordes a lo orientado a ciencias sociales.
+
+Por otro lado el concepto de memoria de investigación me parece algo brillante, es un concepto donde registras el progreso y cualquier idea que aparezca y no la pierdas más adelante.  De aquí la existencia de esta. Además al parecer checar ejemplos me resulto inspirador para el titulo
+
+Se me ocurrió que en el proyecto que ya tengo las variables podrían ser:
+- Como se clasifican los derechos
+- Que define a  un derecho humano
+- Como es aplicable un derecho en la realidad
+- Como es aplicable un derecho en el Internet
+
+Después revise el cuaderno que tengo de recortes y vi dos enforques de "Examinar evidencia nueva desde una perspectiva ya existente "y el de "Combinar evidencia y enfoques prexistentes de una manera no realizada o novedosa" y creo tal vez sería interesante agregar un autor en particular a mi proyecto de investigación entre ellos Foucault, Adorno u Alexy parar apoyar el derecho a la protesta, es algo que analizare cunado termine de leer los libros que saque de la biblioteca de la Ibero, así podría agregar un poco más de teoría.
+
+Leer el cuento: "Las dudas de Martin Gowin" por si acaso
+
+Se encontró un tema más para analizar:
+"Existe una relación entre la muertes y la violación derechos humanos en Guanajuato"
+
+---
+
+
 
