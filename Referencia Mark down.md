@@ -3,7 +3,6 @@ aliases: [Referencia Markdown]
 ---
 
 [[#Separador]]
-
 [[#Espacio]]
 [[#Copyrigt]]
 [[#Fondo negro]]
@@ -14,7 +13,7 @@ aliases: [Referencia Markdown]
 [[#Comentarios]]
 [[#YAML header]]
 [[#Alfabeto griego]]
-
+[[#Callout Blocks]]
 
 ## Markdown útil
 ---
@@ -283,6 +282,7 @@ Este es un comentario.
 ```
 
 ---
+
  #### YAML header
 
 Insert, at the top of your R Markdown document, a bit of text like the following:
@@ -512,4 +512,32 @@ oO `$o O$` (omicron)
 
 ```
 <progress value="6" max="10"></progress>
+
 ```
+
+---
+
+#### Callout Blocks
+
+> [! NOTE]- Ejemplo 1
+> Este es un ejemplo de una nota
+
+
+> [! QUOTE]- Ejemplo 1
+> Este es un ejemplo de una nota
+
+>[! TLDR]- blah
+>esto solo es blah blah blah
+
+-   note
+-   abstract, summary, tldr
+-   info, todo
+-   tip, hint, important
+-   success, check, done
+-   question, help, faq
+-   warning, caution, attention
+-   failure, fail, missing
+-   danger, error
+-   bug
+-   example
+-   quote, cite
