@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "d20cc375dc579ebf",
+        "id": "137c0095f99e778f",
         "type": "leaf",
         "state": {
           "type": "empty",
@@ -53,12 +53,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 318
+    "width": 318,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,17 +118,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "d20cc375dc579ebf",
+  "active": "137c0095f99e778f",
   "lastOpenFiles": [
+    "Inicio maestría Ensayo constitucional.md",
+    "Diario de investigación Maestria Ensayo Constitucional.md",
+    "Indices Maestría Ensayo Constitucional.md",
+    "Temas Maestría Ensayo constitucional.md",
     "Untitled.md",
     "Referencia Mark down.md",
     "MOOC -.md",
-    "Diario de investigación Maestria Ensayo Constitucional.md",
-    "Inicio maestría Ensayo constitucional.md",
-    "Indices Maestría Ensayo Constitucional.md",
     "Personal/The strokes.md",
     "Personal/Bolsas de trabajo.md",
-    "Temas Maestría Ensayo constitucional.md",
     "Para redactar en Discord.md"
   ]
 }

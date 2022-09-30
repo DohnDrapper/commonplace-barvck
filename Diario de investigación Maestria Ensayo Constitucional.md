@@ -49,5 +49,29 @@ Se encontró un tema más para analizar:
 
 ---
 
+#### _10/09/2022_
 
+- Caso concreto: Sacar preguntas de ahí
+- Realizar un estado del Arte (libros, videos, documentales, periódicos, tesis)
+- A partir de una pregunta iniciar la búsqueda e inventario de materiales
+- Ley Telecomm
+- Revisar Esquema del como planear los tiempos de investigación
+
+---
+
+#### _11/09/2022_
+
+- CONRICYT
+- Revisar bases de dato de acceso abierto
+- www.opendoar.org
+- Tema: "Sobre el derecho humano a la alfabetización mediática e informacional"
+- Tema: "Sobre la importancia de la alfabetización digital como un derecho humano en la era post-covid"
+- Tema: "Sobre a quienes no vimos: el internet como barrera de la educación en la pandemia del covid 19"
+
+---
+
+#### _27/09/2022_
+
+- Tema: "¿Es la alfabetización digital un nuevo Derecho Humano?"
+- Tema: "Un caso especifico de los Derechos Humanos en la Era Digital"0
 
