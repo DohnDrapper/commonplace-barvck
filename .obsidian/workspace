@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "137c0095f99e778f",
+        "id": "0554b5f62cd9feff",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Indices Maestría Ensayo Constitucional.md",
+            "mode": "source",
+            "source": true
+          }
         }
       }
     ],
@@ -57,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318,
+    "width": 315,
     "collapsed": true
   },
   "right": {
@@ -74,6 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Indices Maestría Ensayo Constitucional.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +94,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Indices Maestría Ensayo Constitucional.md"
+              }
             }
           },
           {
@@ -98,6 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Indices Maestría Ensayo Constitucional.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,17 +126,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "137c0095f99e778f",
+  "active": "0554b5f62cd9feff",
   "lastOpenFiles": [
-    "Inicio maestría Ensayo constitucional.md",
-    "Diario de investigación Maestria Ensayo Constitucional.md",
+    "2022-09-29.md",
     "Indices Maestría Ensayo Constitucional.md",
     "Temas Maestría Ensayo constitucional.md",
     "Untitled.md",
+    "Inicio maestría Ensayo constitucional.md",
+    "Diario de investigación Maestria Ensayo Constitucional.md",
+    "000 Indice.md",
     "Referencia Mark down.md",
     "MOOC -.md",
-    "Personal/The strokes.md",
-    "Personal/Bolsas de trabajo.md",
-    "Para redactar en Discord.md"
+    "Personal/The strokes.md"
   ]
 }
