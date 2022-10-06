@@ -15,7 +15,7 @@ aliases: [Junio 2022]
 |Top Gun: Maverick|2022|Cinépolis|6 Junio|
 |Todo en todas partes al mismo tiempo|2022|Cinépolis|9 Junio|
 |Doctor Strange in the multiverse of madness|2022|Cinépolis|10 Junio|
-|El faro|2019|25 Junio|
+|El faro|2019|Netflix|25 Junio|
 |Bully|2001|MUBI|27 Junio|
          
 &emsp;
