@@ -6,6 +6,7 @@ alias: [Gratis]
 ---
 
 ### Musica
+---
 
 Web
 + [Musopen](https://musopen.org/music/)
@@ -38,9 +39,10 @@ Canales de Youtube (Efectos)
 + [Free Sounds Effects / Efectos de Sonidos Gratis](https://www.youtube.com/user/SinMachinimas)
 + [AV Productions](https://www.youtube.com/user/JustAudio2008/videos)
 
----
+&emsp;
 
 ### Imágenes
+---
 
 Imágenes Creative Commons
 + [CC del Met](https://www.metmuseum.org/art/collection)
@@ -48,9 +50,10 @@ Imágenes Creative Commons
 + [CC del Rijksstudio](https://www.rijksmuseum.nl/en)
 + [CC del Smithsonian design Museum](https://www.cooperhewitt.org/)
 
----
+&emsp;
 
 ### Video
+---
 
 Video sin Derechos reservados
 + [NoCopyrightVideoHD](https://www.youtube.com/channel/UC0T9mnsMtb9X0SGX3Uy1hew)
@@ -59,9 +62,10 @@ Video sin Derechos reservados
 Ensayos
 + [Archivo Centro de Cultura Contemporanea de Barcelona](https://www.cccb.org/es/multimedia/listas-reproduccion)
 
----
+&emsp;
 
 ### Libros
+---
 
 Español
 + [70 libros sobre feminismo](https://malsalvaje.com/2018/10/05/megapost-70-libros-gratuitos-sobre-feminismo-cultura-y-estudios-de-genero/) ~~algunos caidos~~
@@ -74,46 +78,54 @@ Inglés
 + [Steal this book](http://tenant.net/Community/steal/steal.html#2.01.0)
 + [Freeditoral](https://freeditorial.com/)
 
-
----
+&emsp;
 
 ### DIY
-
-
 ---
 
+&emsp;
+
 ### Cursos Online
+---
 
 + [Taquigrafía](http://www.mailxmail.com/curso-taquigrafia)
 + [Mecanografía](https://www.mecanografia-online.com/)
 + [C#](https://capacitateparaelempleo.org/pages.php?r=.tema&tagID=12989)
 + [Odin project](https://www.theodinproject.com/)
 
-
----
+&emsp;
 
 ### Juegos de mesa
+---
 
 + [Jot Down](https://www.jotdown.es/2020/03/descarga-este-juego-de-mesa-gratuito-y-quedateencasa/)
 
-
----
+&emsp;
 
 ### Videojuegos
-
+---
 + [Ren'Py (Motor de novela visual)](https://www.renpy.org/)
 
-
----
+&emsp;
 
 ### Audio
-
+---
 Programas de grabación de audio
 + [Cleanfeed](https://cleanfeed.net/)
 
-
----
+&emsp;
 
 ### Varios
-
+---
 [Calendarios](https://incompetech.com/gallimaufry/)
+
+&emsp;
+
+### Infografías
+---
++ [Canva](https://www.canva.com/es_419/)
++ [Datavisual](https://datavisu.al/)
++ [Easel.ly](https://www.easel.ly/)
++ [Inforgram](https://infogram.com/es/)
++ [piktochart](https://piktochart.com/)
++ [Visme](https://www.visme.co/es/)
