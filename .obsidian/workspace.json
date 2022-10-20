@@ -4,12 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "abfea9b56df6f227",
-        "type": "leaf",
-        "state": {
-          "type": "empty",
-          "state": {}
-        }
+        "id": "19bcc9942a2f48b0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6f30367ced46825c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +33,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -58,7 +66,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -118,8 +127,12 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "abfea9b56df6f227",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6f30367ced46825c",
   "lastOpenFiles": [
+    "Notas diarias/2021-10-28 Odio Joker.md",
     "Recursos gratuitos.md",
     "Bolillos parlantes 2022.md",
     "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
@@ -128,7 +141,6 @@
     "Personal/GTD - On going.md",
     "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md",
     "Rol/Premiaciones/2021/151120211725 - Bolillos parlantes redux.md",
-    "Rol/TDA/Sesión 35 TDA - Preparación 1.md",
-    "Rol/TDA/Sesión 34 TDA - Preparación.md"
+    "Rol/TDA/Sesión 35 TDA - Preparación 1.md"
   ]
 }

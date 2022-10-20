@@ -4,5 +4,6 @@
   "translucency": false,
   "enabledCssSnippets": [
     "font"
-  ]
+  ],
+  "accentColor": ""
 }
