@@ -9,7 +9,6 @@ kanban-plugin: basic
 - [ ] 84 Chalie Mopic (1989)
 - [ ] The foruth kind (2009)
 - [ ] The dirties (2013)
-- [ ] Utoya. 22 de Julio (2018)
 - [ ] Saint Maud (2020)
 - [ ] Never rarely sometimes always (2020)
 - [ ] Undine (2020)

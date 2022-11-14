@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7fe809df40008340",
+        "id": "32e07a20a85000e3",
         "type": "tabs",
         "children": [
           {
-            "id": "f3a0ecb8b5a9675c",
+            "id": "4a8f5a345306cf02",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -125,17 +125,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f3a0ecb8b5a9675c",
+  "active": "4a8f5a345306cf02",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
-    "Rol/TDA/Sesión 25 TDA - Log.md",
-    "Rol/TDA/Sesión 28 TDA - Log.md",
-    "Ensayo 2021/Segundo borrador.md",
-    "Rol/TDA/Sesión 20 TDA - Log.md",
-    "Rol/TDA/Sesión 11 TDA - Log.md",
-    "Rol/TDA/Sesión 36 TDA - Preparación.md",
-    "Rol/TDA/Sesión 19 TDA - Log.md",
-    "Rol/TDA/Sesión 2 TDA - Log.md",
-    "Rol/TDA/Sesión 1 TDA - Log.md"
+    "Artículos/13112021 - Los dank memes, la reacción a una Internet invivible.md",
+    "240820211841 - Sánchez Lozano Abogados.md",
+    "Control de peso 2022.md",
+    "Diario desarrollo juego de rol.md",
+    "Agosto 2022.md",
+    "Marzo 2022.md",
+    "Sobre la muerte de la abuela.md",
+    "video/190320210224 - Let’s talk about the Japanese Schoolgirl.md",
+    "Libros/020320210339 - El nombre de la rosa.md",
+    "Libros/241120211729 - Cumbres Borrascosas.md"
   ]
 }

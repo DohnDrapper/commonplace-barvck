@@ -24,9 +24,9 @@ Yuggie Collage 4 años_
 |Dragon ball: Super|2022|Cinépolis|22 Agosto|
 |Oslo, Agosto 31|2011|MUBI|23 Agosto|
 |Thelma|2017|MUBI|23 Agosto|
-|The alphabeth|MUBI|1969|25 Agosto|
-|The grandmother|Internet|1970|25 agosto|
-|Nop!|Cinepolis|2022|30 agosto|
+|The alphabeth|1969|MUBI|25 Agosto|
+|The grandmother|1970|Internet|25 agosto|
+|Nop!|2022|Cinepolis|30 agosto|
  
 &emsp;
 
@@ -66,7 +66,7 @@ Yuggie Collage 4 años_
 &emsp;
 
 ## $E$. Internet
-|Suceso|Fecha|Duración|
+|**Suceso**|Fecha|Duración|
 |---|---|---|
 |Stream Auntie 30th birthday | 4 Agosto |
 |Stream Yuggie tv Belguim D+1 (noche)|6 agosto|
