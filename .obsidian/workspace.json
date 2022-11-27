@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32e07a20a85000e3",
+        "id": "b19cabbc73066284",
         "type": "tabs",
         "children": [
           {
-            "id": "4a8f5a345306cf02",
+            "id": "41ec6f361479a83c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -125,8 +125,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a8f5a345306cf02",
+  "active": "41ec6f361479a83c",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Artículos/13112021 - Los dank memes, la reacción a una Internet invivible.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Control de peso 2022.md",
@@ -135,7 +136,6 @@
     "Marzo 2022.md",
     "Sobre la muerte de la abuela.md",
     "video/190320210224 - Let’s talk about the Japanese Schoolgirl.md",
-    "Libros/020320210339 - El nombre de la rosa.md",
-    "Libros/241120211729 - Cumbres Borrascosas.md"
+    "Libros/020320210339 - El nombre de la rosa.md"
   ]
 }
