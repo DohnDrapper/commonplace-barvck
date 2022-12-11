@@ -4,17 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "b19cabbc73066284",
+        "id": "bef28a3b227a05b9",
         "type": "tabs",
         "children": [
           {
-            "id": "41ec6f361479a83c",
+            "id": "596615b183781fe1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
-                "mode": "preview",
+                "file": "Formatos/Sesión 39 TDA - Preparación.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "8b85c1eb00040d69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rol/TDA/Sesión 36 TDA - Preparación.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "635d74d6293f571e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rol/TDA/Sesión 33 TDA - Preparación.md",
+                "mode": "source",
                 "source": true
               }
             }
@@ -69,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Formatos/Sesión 39 TDA - Preparación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md"
+                "file": "Formatos/Sesión 39 TDA - Preparación.md"
               }
             }
           },
@@ -112,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
+                "file": "Formatos/Sesión 39 TDA - Preparación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,17 +158,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "41ec6f361479a83c",
+  "active": "596615b183781fe1",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 36 TDA - Preparación.md",
+    "Formatos/Sesión 39 TDA - Preparación.md",
+    "Rol/TDA/Sesión 33 TDA - Preparación.md",
+    "Formatos/Sesion en Blanco.md",
     "Personal/Bolsas de trabajo.md",
     "Artículos/13112021 - Los dank memes, la reacción a una Internet invivible.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Control de peso 2022.md",
     "Diario desarrollo juego de rol.md",
-    "Agosto 2022.md",
-    "Marzo 2022.md",
-    "Sobre la muerte de la abuela.md",
-    "video/190320210224 - Let’s talk about the Japanese Schoolgirl.md",
-    "Libros/020320210339 - El nombre de la rosa.md"
+    "Agosto 2022.md"
   ]
 }
