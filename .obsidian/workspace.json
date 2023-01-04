@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b3955197f3ad15b3",
+        "id": "514183e95933c6d8",
         "type": "tabs",
         "children": [
           {
-            "id": "4a6956c6e60c1cbe",
+            "id": "f4f877a006139bba",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "preguntas final 2021",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -65,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -126,17 +125,29 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "4a6956c6e60c1cbe",
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir quick switcher": false,
+      "graph:Abrir vista de gráfico": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "random-note:Abrir nota al azar": false
+    }
+  },
+  "active": "f4f877a006139bba",
   "lastOpenFiles": [
-    "Rol/Música.md",
-    "Formatos/Sesión 39 TDA - Preparación.md",
-    "Rol/TDA/Sesión 36 TDA - Preparación.md",
-    "Rol/TDA/Sesión 33 TDA - Preparación.md",
-    "Formatos/Sesion en Blanco.md",
-    "Personal/Bolsas de trabajo.md",
-    "Artículos/13112021 - Los dank memes, la reacción a una Internet invivible.md",
-    "240820211841 - Sánchez Lozano Abogados.md",
-    "Control de peso 2022.md",
-    "Diario desarrollo juego de rol.md"
+    "2022/Diciembre 2022.md",
+    "2022/Noviembre 2022.md",
+    "2022/Octubre 2022.md",
+    "2022/2022.md",
+    "2022/Septiembre 2022.md",
+    "2022-09-29.md",
+    "Personal/Preguntas final de 2022.md",
+    "Personal/100820211442 - 2021 Resumen del Año.md",
+    "Personal/Preguntas final de 2021.md",
+    "Personal/100820211442 - 2021 Resumen del Año 1.md"
   ]
 }
