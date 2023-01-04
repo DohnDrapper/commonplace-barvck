@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "dae6740fd2f57b50",
+        "id": "b3955197f3ad15b3",
         "type": "tabs",
         "children": [
           {
-            "id": "f0440516bef1c75a",
+            "id": "4a6956c6e60c1cbe",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -126,8 +126,9 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "f0440516bef1c75a",
+  "active": "4a6956c6e60c1cbe",
   "lastOpenFiles": [
+    "Rol/Música.md",
     "Formatos/Sesión 39 TDA - Preparación.md",
     "Rol/TDA/Sesión 36 TDA - Preparación.md",
     "Rol/TDA/Sesión 33 TDA - Preparación.md",
@@ -136,7 +137,6 @@
     "Artículos/13112021 - Los dank memes, la reacción a una Internet invivible.md",
     "240820211841 - Sánchez Lozano Abogados.md",
     "Control de peso 2022.md",
-    "Diario desarrollo juego de rol.md",
-    "Agosto 2022.md"
+    "Diario desarrollo juego de rol.md"
   ]
 }
