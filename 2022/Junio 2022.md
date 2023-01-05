@@ -17,7 +17,7 @@ aliases: [Junio 2022]
 |Doctor Strange in the multiverse of madness|2022|Cinépolis|10 Junio|
 |El faro|2019|Netflix|25 Junio|
 |Bully|2001|MUBI|27 Junio|
-         
+
 &emsp;
 
 ## $\Gamma$. Acontecimientos
