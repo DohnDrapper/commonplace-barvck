@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "56a83f528444791d",
+        "id": "6a0a42a08007ecb9",
         "type": "tabs",
         "children": [
           {
-            "id": "f96aa8207fbcb5db",
+            "id": "0ca70a39817e84c0",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,17 +138,17 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "f96aa8207fbcb5db",
+  "active": "0ca70a39817e84c0",
   "lastOpenFiles": [
+    "Personal/Preguntas final de 2021.md",
+    "Personal/Preguntas final de 2022.md",
+    "Personal/100820211442 - 2021 Resumen del Año.md",
+    "Rol/TDA/Sesión 0 TDA - Log.md",
+    "Rol/TDA/Sesión 1 TDA - Log.md",
+    "2022/Abril 2022.md",
+    "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
     "Recomendaciones de 2022.md",
     "2022/Cine 2022.md",
-    "2022/Diciembre 2022.md",
-    "2022/Enero 2022.md",
-    "2022/Mayo 2022.md",
-    "2022/Noviembre 2022.md",
-    "2022/Octubre 2022.md",
-    "2022/Septiembre 2022.md",
-    "2022/Agosto 2022.md",
-    "2022/Julio 2022.md"
+    "2022/Diciembre 2022.md"
   ]
 }

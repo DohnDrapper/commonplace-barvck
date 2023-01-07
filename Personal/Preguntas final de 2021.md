@@ -1,12 +1,11 @@
 ---
 aliases: [Preguntas 2021]
 
+date: [10-01-2022]
 ---
 
 ## Preguntas final de 2021
 ---
-
-date: [10-01-2022]
 
 #### 1. ¿Qué hiciste este año que nunca antes habías hecho?
 + Este año empece a llevar mi propio negocio.
