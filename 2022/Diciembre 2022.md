@@ -6,8 +6,6 @@ aliases: "Diciembre 2022"
 ---
 
 ##  $A$. Proyecto
-
-
 &emsp;
 
 ## $B$. Películas:
