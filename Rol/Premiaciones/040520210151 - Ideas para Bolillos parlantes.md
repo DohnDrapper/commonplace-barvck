@@ -52,7 +52,7 @@ _Otorgado a los One Shot que la mayoría de su contenido es un libro/modulo_
 * Aldea de los Krippli
 * La alegría de los espacios interdimensionales	
 * Fiasco
-	
+
 2. **MEJOR ONE SHOT ORIGINAL**
 _Otorgado a los One Shot que la mayoría de su contenido es original del GM_
 * Lolis 2020
