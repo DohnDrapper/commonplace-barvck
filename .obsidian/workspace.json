@@ -4,59 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "f9755b32ebdd5bc3",
+        "id": "b1549257c94e2856",
         "type": "tabs",
         "children": [
           {
-            "id": "aa7842547fb86b12",
+            "id": "dc9485148f69af4e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Bolillos parlantes 2022.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "67c5fbe7711205db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Preguntas final de 2022.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "116ad04f3a5db92c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sobre la muerte de la abuela.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "5430a14edbacbcea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Referencia Mark down.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -124,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Preguntas final de 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,9 +98,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Preguntas final de 2022.md"
-              }
+              "state": {}
             }
           },
           {
@@ -151,7 +107,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Preguntas final de 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,13 +139,13 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "67c5fbe7711205db",
+  "active": "dc9485148f69af4e",
   "lastOpenFiles": [
-    "Bolillos parlantes 2022.md",
+    "Referencia Mark down.md",
     "Sobre la muerte de la abuela.md",
+    "Bolillos parlantes 2022.md",
     "Personal/Preguntas final de 2022.md",
     "2022/Enero 2022.md",
-    "Referencia Mark down.md",
     "Notas diarias/2021-10-26 - Organizar obsidian.md",
     "2022/2022.md",
     "2022/Cine 2022.md",
