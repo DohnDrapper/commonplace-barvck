@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b1549257c94e2856",
+        "id": "c41e301676115dc9",
         "type": "tabs",
         "children": [
           {
-            "id": "dc9485148f69af4e",
+            "id": "143f40dd767744a5",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -139,17 +139,17 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "dc9485148f69af4e",
+  "active": "143f40dd767744a5",
   "lastOpenFiles": [
+    "Personal/Preguntas final de 2022.md",
+    "Untitled 1.md",
     "Referencia Mark down.md",
     "Sobre la muerte de la abuela.md",
     "Bolillos parlantes 2022.md",
-    "Personal/Preguntas final de 2022.md",
     "2022/Enero 2022.md",
     "Notas diarias/2021-10-26 - Organizar obsidian.md",
     "2022/2022.md",
     "2022/Cine 2022.md",
-    "2022/Calendario 2022.md",
-    "2022-09-29.md"
+    "2022/Calendario 2022.md"
   ]
 }
