@@ -1,6 +1,16 @@
 ---
 alias: [The strokes]
 ---
+**Indice**
+1. [[#Primera escucha|Primera escucha]]
+	1. [[#Primera escucha#"Is this it"|"Is this it"]]
+	1. [[#Primera escucha#"Room on fire"|"Room on fire"]]
+	1. [[#Primera escucha#"First impressions of Earth"|"First impressions of Earth"]]
+	1. [[#Primera escucha#"Angles"|"Angles"]]
+	1. [[#Primera escucha#"Comedown machine"|"Comedown machine"]]
+	1. [[#Primera escucha#"The new abnormal"|"The new abnormal"]]
+
+
 
 # The strokes
 ---

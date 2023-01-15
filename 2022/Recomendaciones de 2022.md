@@ -1,3 +1,8 @@
+---
+title: "Recomendaciones de 2022"
+tags: #2022
+---
+
 ### > Frase
 
 2022, fue uno de los mejores años en cine para mi. Fui al cine la mayor cantidad de veces que había ido en mi vida. Este año fue uno de los mejores para mi en la calidad de material audiovisual que vi en general.

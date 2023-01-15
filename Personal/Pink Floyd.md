@@ -4,6 +4,14 @@ alias: [Pink Floyd]
 
 ## Pink Floyd
 ---
+**Indice**
+1. [[#The piper at the gates of down|The piper at the gates of down]]
+1. [[#A saucerful of secrets|A saucerful of secrets]]
+1. [[#More|More]]
+1. [[#Ummagumma|Ummagumma]]
+
+
+---
 
 ### The piper at the gates of down  
   
@@ -46,7 +54,7 @@ _Al principio de oirlo mensuena muy jazz. _
 <div align='center'>
   <h3> * * * </h3>
 </div>
- 
+
 ### Ummagumma 
 
 _25/10/2021_

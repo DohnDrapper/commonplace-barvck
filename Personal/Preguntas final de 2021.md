@@ -1,10 +1,53 @@
 ---
 aliases: [Preguntas 2021]
 
-date: [10-01-2022]
+date: "10-01-2022"
 ---
 
 ## Preguntas final de 2021
+---
+**Indice**
+1. [[#1. ¿Qué hiciste este año que nunca antes habías hecho?|1. ¿Qué hiciste este año que nunca antes habías hecho?]]
+1. [[#2. ¿Cumpliste tus propósitos de año nuevo?|2. ¿Cumpliste tus propósitos de año nuevo?]]
+1. [[#3. ¿Alguien cercano a ti dio a luz?|3. ¿Alguien cercano a ti dio a luz?]]
+1. [[#4. ¿Murió alguien cercano a ti?|4. ¿Murió alguien cercano a ti?]]
+1. [[#5. ¿Qué ciudades/estados/países visitaste?|5. ¿Qué ciudades/estados/países visitaste?]]
+1. [[#6. ¿Qué te gustaría tener el próximo año que te faltó este año?|6. ¿Qué te gustaría tener el próximo año que te faltó este año?]]
+1. [[#7. ¿Qué fecha(s) de este año quedará(n) grabada(s) en su memoria y por qué?|7. ¿Qué fecha(s) de este año quedará(n) grabada(s) en su memoria y por qué?]]
+1. [[#8. ¿Cuál fue su mayor logro del año?|8. ¿Cuál fue su mayor logro del año?]]
+1. [[#9. ¿Cuál fue su mayor fracaso?|9. ¿Cuál fue su mayor fracaso?]]
+1. [[#10. ¿Qué otras dificultades enfrentó?|10. ¿Qué otras dificultades enfrentó?]]
+1. [[#11. ¿Sufriste alguna enfermedad o lesión?|11. ¿Sufriste alguna enfermedad o lesión?]]
+1. [[#12. ¿Qué fue lo mejor que compró?|12. ¿Qué fue lo mejor que compró?]]
+1. [[#13. ¿El comportamiento de quién merecía ser celebrado?|13. ¿El comportamiento de quién merecía ser celebrado?]]
+1. [[#14. ¿De quién fue el comportamiento que te horrorizó?|14. ¿De quién fue el comportamiento que te horrorizó?]]
+1. [[#15. ¿A dónde fue la mayor parte de tu dinero?|15. ¿A dónde fue la mayor parte de tu dinero?]]
+1. [[#16. ¿Qué fue lo que te emocionó mucho, mucho, mucho?|16. ¿Qué fue lo que te emocionó mucho, mucho, mucho?]]
+1. [[#17. ¿Qué canción te recordará siempre a este año?|17. ¿Qué canción te recordará siempre a este año?]]
+1. [[#18. Comparado con esta época del año pasado, ¿estás más feliz o más triste? ¿Más delgado o más gordo? ¿Más rico o más pobre?|18. Comparado con esta época del año pasado, ¿estás más feliz o más triste? ¿Más delgado o más gordo? ¿Más rico o más pobre?]]
+1. [[#19. ¿Qué desearías haber hecho más?|19. ¿Qué desearías haber hecho más?]]
+1. [[#20. ¿Qué desearías haber hecho menos?|20. ¿Qué desearías haber hecho menos?]]
+1. [[#21. ¿Cómo estás pasando la Navidad?|21. ¿Cómo estás pasando la Navidad?]]
+1. [[#22. ¿Te has enamorado este año?|22. ¿Te has enamorado este año?]]
+1. [[#23. ¿Odias a alguien ahora que no odiabas en esta época el año pasado?|23. ¿Odias a alguien ahora que no odiabas en esta época el año pasado?]]
+1. [[#24. ¿Cuál fue tu programa favorito?|24. ¿Cuál fue tu programa favorito?]]
+1. [[#25. ¿Cuál fue el mejor libro que leíste?|25. ¿Cuál fue el mejor libro que leíste?]]
+1. [[#26. ¿Cuál fue tu mayor descubrimiento musical del año?|26. ¿Cuál fue tu mayor descubrimiento musical del año?]]
+1. [[#27. ¿Cuál fue tu película favorita?|27. ¿Cuál fue tu película favorita?]]
+1. [[#28. ¿Cuál fue su comida favorita?|28. ¿Cuál fue su comida favorita?]]
+1. [[#29. ¿Qué querías y obtuviste?|29. ¿Qué querías y obtuviste?]]
+1. [[#30. ¿Qué querías y no conseguiste?|30. ¿Qué querías y no conseguiste?]]
+1. [[#31. ¿Qué hiciste en tu cumpleaños?|31. ¿Qué hiciste en tu cumpleaños?]]
+1. [[#32. ¿Qué cosa habría hecho tu año inconmensurablemente más satisfactorio?|32. ¿Qué cosa habría hecho tu año inconmensurablemente más satisfactorio?]]
+1. [[#33. ¿Cómo describirías tu moda personal este año?|33. ¿Cómo describirías tu moda personal este año?]]
+1. [[#34. ¿Qué te mantuvo cuerdo?|34. ¿Qué te mantuvo cuerdo?]]
+1. [[#35. ¿Qué celebridad o figura pública admiraste más?|35. ¿Qué celebridad o figura pública admiraste más?]]
+1. [[#36. ¿Qué tema político te ha conmovido más?|36. ¿Qué tema político te ha conmovido más?]]
+1. [[#37. ¿A quién echaste de menos?|37. ¿A quién echaste de menos?]]
+1. [[#38. ¿Quién fue la mejor persona nueva que conociste?|38. ¿Quién fue la mejor persona nueva que conociste?]]
+1. [[#39. ¿Qué valiosa lección de vida aprendiste este año?|39. ¿Qué valiosa lección de vida aprendiste este año?]]
+1. [[#40. ¿Qué cita resume tu año?|40. ¿Qué cita resume tu año?]]
+
 ---
 
 #### 1. ¿Qué hiciste este año que nunca antes habías hecho?

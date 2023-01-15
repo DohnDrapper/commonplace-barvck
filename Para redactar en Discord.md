@@ -4,6 +4,24 @@ aliases: "Discord útil"
 
 ### Para redactar en Discord
 
+**Indice**
+1. [[#Itálica|Itálica]]
+1. [[#Negrita|Negrita]]
+1. [[#Tachado|Tachado]]
+1. [[#Subrayado|Subrayado]]
+1. [[#Spoilers|Spoilers]]
+1. [[#Citas|Citas]]
+1. [[#Citas varias lineas|Citas varias lineas]]
+1. [[#Bloques de código|Bloques de código]]
+1. [[#Varios bloques de código|Varios bloques de código]]
+1. [[#Colores|Colores]]
+	1. [[#Colores#Rojo|Rojo]]
+	1. [[#Colores#Verde|Verde]]
+	1. [[#Colores#Naranja|Naranja]]
+	1. [[#Colores#Cyan|Cyan]]
+	1. [[#Colores#Azul oscuro|Azul oscuro]]
+	1. [[#Colores#Texto amarillo|Texto amarillo]]
+
 ---
 
 #### Itálica

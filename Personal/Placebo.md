@@ -1,8 +1,20 @@
 ---
+title: "Placebo"
 alias: [Placebo]
 ---
+**Indice**
+1. [[#Placebo|Placebo]]
+	1. [[#Placebo#*Primer escucha melódica*|*Primer escucha melódica*]]
+		1. [[#*Primer escucha melódica*#"Placebo"|"Placebo"]]
+		1. [[#*Primer escucha melódica*#"Without you, I'm nothing"|"Without you, I'm nothing"]]
+		1. [[#*Primer escucha melódica*#"Black market music"|"Black market music"]]
+		1. [[#*Primer escucha melódica*#"Sleeping with ghosts"|"Sleeping with ghosts"]]
+		1. [[#*Primer escucha melódica*#"Covers"|"Covers"]]
+		1. [[#*Primer escucha melódica*#"Meds"|"Meds"]]
+		1. [[#*Primer escucha melódica*#"Battle for the sun"|"Battle for the sun"]]
+		1. [[#*Primer escucha melódica*#"Loud like love"|"Loud like love"]]
+	1. [[#Placebo#*Segunda escucha temática*|*Segunda escucha temática*]]
 
-## Placebo
 ---
 
 ### *Primer escucha melódica*

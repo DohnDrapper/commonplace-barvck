@@ -5,64 +5,34 @@ aliases: Calendario 2022
 # Calendario 2022
 ---
 
-[[Control de peso 2022|Control de peso 2022]]
+## [[Control de peso 2022|Control de peso 2022]]
 
-[[Enero 2022]]
-[[Febrero 2022]]
-[[Marzo 2022|Marzo 2022]]
-[[Abril 2022|Abril 2022]]
-[[Mayo 2022|Mayo 2022]]
-[[Junio 2022|Junio 2022]]
-[[Julio 2022|Julio 2022]]
-[[Agosto 2022|Agosto 2022]]
-[[Septiembre 2022]]
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
-&emsp;
+## [[Enero 2022]]
+## [[Febrero 2022]]
+## [[Marzo 2022|Marzo 2022]]
+## [[Abril 2022|Abril 2022]]
+## [[Mayo 2022|Mayo 2022]]
+## [[Junio 2022|Junio 2022]]
+## [[Julio 2022|Julio 2022]]
+## [[Agosto 2022|Agosto 2022]]
+## [[Septiembre 2022]]
+## [[Octubre 2022]]
+## [[Noviembre 2022]]
+## [[Diciembre 2022]]
 
-## Marzo
-#### $A$. Proyecto
-Exlibris
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
+## [[Cine 2022]]
 
-## Abril
+<div align='center'>
+<h3> ●・○・●・○・● </h3>
+</div>
 
-#### $A$. Proyecto
-Pixel art
-
-
-
-## Mayo
-#### $A$. Proyecto
-Escritura Gallifreyan
-
-
-## Junio
-#### $A$. Proyecto
-Lenguajes de programación
-
-
-## Julio
-#### $A$. Proyecto
-Comic de Llamada
-
-
-
-## Agosto
-#### $A$. Proyecto
-Postmorten TOA
-
-
-
-## Septiembre
-
-
-## Octubre
-
-
-## Noviembre
-
-
-## Diciembre
-#### $A$. Proyecto
-[[Bolillos parlantes 2022]]
-
+## [[Bolillos parlantes 2022]]
+---

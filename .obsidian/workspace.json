@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c41e301676115dc9",
+        "id": "6afdbebfd20d609b",
         "type": "tabs",
         "children": [
           {
-            "id": "143f40dd767744a5",
+            "id": "ee6285e23fe1c14b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -34,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTimeReverse"
               }
             }
           },
@@ -61,13 +61,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -139,17 +137,17 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "143f40dd767744a5",
+  "active": "ee6285e23fe1c14b",
   "lastOpenFiles": [
-    "Personal/Preguntas final de 2022.md",
-    "Untitled 1.md",
-    "Referencia Mark down.md",
-    "Sobre la muerte de la abuela.md",
-    "Bolillos parlantes 2022.md",
-    "2022/Enero 2022.md",
-    "Notas diarias/2021-10-26 - Organizar obsidian.md",
+    "2022/Bolillos parlantes 2022.md",
+    "2022/Calendario 2022.md",
     "2022/2022.md",
-    "2022/Cine 2022.md",
-    "2022/Calendario 2022.md"
+    "Notas diarias/2021-10-28 Odio Joker.md",
+    "Notas diarias/2021-11-12 - Ensayo 2021.md",
+    "Notas diarias/2021-11-07 - Sobre el Joker II.md",
+    "Notas diarias/2021-10-31 - Crush.md",
+    "Notas diarias/2021-10-26 - Organizar obsidian.md",
+    "Notas diarias/2021-10-27 Influentes.md",
+    "Notas diarias/2021-10-25 - Ace.md"
   ]
 }

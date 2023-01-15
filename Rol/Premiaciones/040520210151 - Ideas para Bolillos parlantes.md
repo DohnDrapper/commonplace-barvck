@@ -4,6 +4,13 @@ alias: [bolillos 2021]
 # Bolillos parlantes 2021
 ---
 
+**Índice**
+1. [[#Preguntas|Preguntas]]
+1. [[#Aplicables|Aplicables]]
+1. [[#Reconocimientos|Reconocimientos]]
+1. [[#Categorias|Categorias]]
+
+---
 ### Preguntas
 ¿Quien es mas probable que...?
 ¿Con que persoanje de ficcion de identificas?

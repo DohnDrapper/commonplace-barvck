@@ -2,9 +2,9 @@
 alias: [Top 10]
 ---
 
-### Top 10
+# Top 10
 
-*10 artistas de comic*
+### 10 artistas de comic*
 -   Frank Quitely
 -   Phil Noto
 -   Neil Addams

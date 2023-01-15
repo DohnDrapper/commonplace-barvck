@@ -9,6 +9,13 @@ _Fecha de la sesión: 29/08/2021
 _Fecha interna en la campaña: 7 de Marzo de 1934_
 
 ---
+**Indice*
+1. [[#Preparación|Preparación]]
+	1. [[#Preparación#Orden del día:|Orden del día:]]
+	1. [[#Preparación#La cena en la Propiedad|La cena en la Propiedad]]
+1. [[#Presagios|Presagios]]
+
+---
 
 ### Preparación
 

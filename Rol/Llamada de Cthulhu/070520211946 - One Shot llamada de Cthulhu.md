@@ -5,12 +5,22 @@ alias: [Sobre dirigir un One Shot]
 ---
 
 ## Proyecto "One Shot" 15 de Mayo de 2021
+---
+
+**Indice**
+1. [[#Diferencias entre dirigir _D&D_ y _Llamada de Cthulhu_|Diferencias entre dirigir _D&D_ y _Llamada de Cthulhu_]]
+1. [[#Pros del módulo de One Shot|Pros del módulo de One Shot]]
+1. [[#Por que no se eligió "Más frío que el acero de una Thompson"|Por que no se eligió "Más frío que el acero de una Thompson"]]
+1. [[#Conclusiones|Conclusiones]]
+		1. [[#==Aquí la notas que se tomaron para preparar el One Shot:==|==Aquí la notas que se tomaron para preparar el One Shot:==]]
+1. [[#A mejorar|A mejorar]]
+
 
 ---
 
 ### Diferencias entre dirigir _D&D_ y _Llamada de Cthulhu_
 
-*05/05/2021*
+**05/05/2021**
 
 A partir de la confimación de que un miembro del grupo vendría a León desde la CDMX, se habló de que querían que yo dirigierá un _One Shot_ del juego de rol de "Llamada de Cthulhu". Cosa que si bien me entusiasmaba, también me ponía nervioso. Debpia desarrollar unas habilidades distintas a las que ya tenía.
 
@@ -30,7 +40,7 @@ Por lo que, la atmosfera y la sensación de juego no pueden ser mas diferentes. 
  
  ### Pros del módulo de One Shot
  
- *06/05/2021*
+ **06/05/2021**
  
  Por ser la primera vez, que dirigiría decidí que lo mejor sería usar un modulo de One Shot, por lo menos esta sesión. Pregunté al Master regular de la mesa que ONe Shot ya había leido par aque fueran una sopresa y no pudiera recordar o tomar ventaja. de la nbusqueda que ya habia realizado en ese momento (reddit), ya había leído los claves. Por lo que por un lado fue bueno aun no decidierá uno de ellos y no lo haya leído en profundidad, pero tuve que buscar más opciones.
  
@@ -50,7 +60,7 @@ Por lo que, la atmosfera y la sensación de juego no pueden ser mas diferentes. 
 
 ### Por que no se eligió "Más frío que el acero de una Thompson"
 
-*07/05/2021*
+**07/05/2021**
 
 En virtud de que leí varios análisis del módulo "Más frío que el acero de una Thompson" que hablaban de que se jugaría mejor en varias sesiones, decidí revisar que tan largo era y si en verdad funcionaria como un One Shot. Cosa que determiné que no es el mejor modulo para lo que planeo:
 * Primero, si bien el one shot solo tiene diez páginas es larguísimo. Hay por lo menos cinco cambios de escena, hay una escena en la calle, en una mansión, en un casino, otra en un tren y en un manicomio, para llegar a una mansión de nuevo. 
@@ -92,7 +102,7 @@ Al final esto no se ocupo, el Diagrama de flujo lo senti innnecesario al ya tene
 ---
 ### A mejorar
 
-*03/08/2021*
+**03/08/2021**
 
  La sesión se llevo a cabo en dia viernes 30 de Julio debido a  adiversos retrasos del grupo de calabozos.
  

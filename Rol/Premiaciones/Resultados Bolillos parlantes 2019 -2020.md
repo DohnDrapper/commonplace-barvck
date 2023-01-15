@@ -4,13 +4,26 @@ alias: [bolillos 19-20]
 
 # Escaleta Bolillos Parlantes 2019 -2021
 ---
-### Presentación
+**Índice**
+1. [[#Presentación|Presentación]]
+1. [[#Música:|Música:]]
+1. [[#Categorias:|Categorias:]]
+	1. [[#Categorias:#_(Luis y Sawaa)_|_(Luis y Sawaa)_]]
+	1. [[#Categorias:#_(Christian y Emiliano)_|_(Christian y Emiliano)_]]
+	1. [[#Categorias:#_(Mel y Alan)_|_(Mel y Alan)_]]
+	1. [[#Categorias:#_(Mau)_|_(Mau)_]]
+	1. [[#Categorias:#_(Master de ceremonias)_|_(Master de ceremonias)_]]
+1. [[#Preguntas intercategorias|Preguntas intercategorias]]
+---
+
+
+## Presentación
 
 Premiación:
 https://docs.google.com/presentation/d/1A5Yfea5sXGj5eFqpI_EyWt4iwXAjeuXjBKx3m7nisCM/edit?usp=sharing
 
 ---
-### Música:
+## Música:
 
 Musica:
 https://www.youtube.com/watch?v=EB9e7EhLQqo
@@ -33,34 +46,34 @@ Ending:
 https://www.youtube.com/watch?v=Sr68je80OO0
 
 ---
-### Categorias:
+## Categorias:
 
-_(Luis y Sawaa)_
+### _(Luis y Sawaa)_
 + ONE SHOT: Kingdom Hearts
 + TRAMA SIN RESOLVER: Adso
 + MOMENTO MAS EPICO: Ancalagon gana la carrera de dinosaurios
 
-_(Christian y Emiliano)_
+### _(Christian y Emiliano)_
 + MEJOR COMBATE: Encuentro final en las minas de Phandelver
 + MOMENTO MAS TRISTE: Muerte de Tizoc
 + MOMENTO DE ACCION: Persecución en auto
 
-_(Mel y Alan)_
+### _(Mel y Alan)_
 + MOMENTO MAS IDIOTA: Pew pew y el Uber Eats
 + MOMENTO MAS GOOFY: No salvar al mundo en Kingdom Hearts
 + MEJOR ROLEO: Sawaa y su dos personajes
 
-_(Mau)_
+### _(Mau)_
 + MEJOR PERSONAJE JUGABLE: Tizoc
 + MOMENTO EN QUE EL MASTER MAS SE MOLESTO: Campamento goblin
 + PEOR DESACUERDO ENTRE LOS JUGADORES: La llama
 
-_(Master de ceremonias)_
+### _(Master de ceremonias)_
 + MEJOR CAMPAÑA: Minas de Phandelver
 + MEJOR DIRECTOR DE JUEGO: Alan
 
 ---
-### Preguntas intercategorias
+## Preguntas intercategorias
 
 - [ ] Defínete en un único adjetivo
 - [ ] Ejercito que rango serias

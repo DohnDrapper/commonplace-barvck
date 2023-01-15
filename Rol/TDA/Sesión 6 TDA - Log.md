@@ -13,6 +13,14 @@ alias: [Sesión 6, TDA S6]
 <h3> *** </h3>
 </div>
 
+**Indice**
+1. [[#Sucesos|Sucesos]]
+	1. [[#Sucesos#1.|1.]]
+	1. [[#Sucesos#2.|2.]]
+	1. [[#Sucesos#3.|3.]]
+	1. [[#Sucesos#4.|4.]]
+1. [[#Carreras de Dinosaurios|Carreras de Dinosaurios]]
+---
 ### Sucesos
 
 #### 1.

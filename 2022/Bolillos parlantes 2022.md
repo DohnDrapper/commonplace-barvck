@@ -4,11 +4,19 @@ aliases: Bolillos parlantes 2022
 
 # Bolillos Parlantes 2022
 ---
-
-## Temática: Elfos.
----
-
-##  Música de elfos
+**Índice**
+1. [[#Introducción|Introducción]]
+1. [[#Premios|Premios]]
+	1. [[#Premios#Reconocimientos|Reconocimientos]]
+	1. [[#Premios#Categorias|Categorias]]
+			1. [[#_(Luis y Sawaa)_|_(Luis y Sawaa)_]]
+			1. [[#_(Christian y Emiliano)_|_(Christian y Emiliano)_]]
+			1. [[#_(Mel y Alan)_|_(Mel y Alan)_]]
+1. [[#Dinámica|Dinámica]]
+		1. [[#Categorias#¿Quien es mas probable que...?|¿Quien es mas probable que...?]]
+			1. [[#¿Quien es mas probable que...?#_(Mau)_|_(Mau)_]]
+			1. [[#¿Quien es mas probable que...?#_(Master de ceremonias)_|_(Master de ceremonias)_]]
+1. [[#Conclusión|Conclusión]]
 ---
 
 ## Introducción

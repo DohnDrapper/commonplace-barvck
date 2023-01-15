@@ -1,42 +1,54 @@
 ---
 aliases: [preguntas finales de los 20's]
-
+date: "10-01-2022"
 ---
 
 ## Preguntas finales de los 20's
 ---
+**Indice**
 
-date:[10-01-2022]
 
-#### 1. _¿Qué harías si tuvieras 6 meses de vida?_
+---
+
+
+
+#### ( 1. ) _¿Qué harías si tuvieras 6 meses de vida?_
 Si tuviera seis meses de vida, dedicaría mi vida a ver la mayor cantidad de pelícuals que pudiera. por una parte y por otro em gustaría poder escribir un comic orginal, o debido a que no tengo aun no tengo una idea clara de él, me gustaría escribir un comic basado en el cuento de Lovecraft "Llamada de Cthulhu".
 
-#### 2. _¿Qué harías si tuvieras mil millones de dólares?_
+&nbsp;
+#### ( 2. ) _¿Qué harías si tuvieras mil millones de dólares?_
 Lo usarpia en tres cosas: 
 Primero, quisiera pagar las deudadas que tengo tanto de la tarjeta de credito como de mi automobil. Así como las deudaas con mis papás.
 Segundo, quisiera poder comprar un casa decente para ya no tener que vivir confinado en el cuartito que tenog en la casa de mi madre.
 Tercero, quiesiera poder viajar por el mundo. Iría a Rusia, a Japón y definitivamente viajaría por México.
 
-#### 3. _¿Qué consejo te darías a ti mismo hace 10 años?_
+&nbsp;
+#### ( 3. ) _¿Qué consejo te darías a ti mismo hace 10 años?_
 Ninguno, creo que las decisiones que he tomado me han hecho quien soy. Aunque si tuviera que decir uno sería definitivamente, sería sigue más tu conrazón y tus intintos, ESA gente que dice que sabe todo de la vida y que te quiere "enseñar", esta mintiendo con todos los dientes.
 
-#### 4. _¿Qué esperas que sea lo mismo dentro de 10 años?_
+&nbsp;
+#### ( 4. ) _¿Qué esperas que sea lo mismo dentro de 10 años?_
 Creo que la situación de pobreza y desigualdad en el mundo seguirá igual. No creo que podemaos cambiarla en los siguientes diez años pues no la comprendemos del todo.
 
-#### 5. _¿Qué esperas que sea diferente dentro de 10 años?_
+&nbsp;
+#### ( 5. ) _¿Qué esperas que sea diferente dentro de 10 años?_
 No creo poder prever los cambios que nos traerá la tecnología, que consideró será clve en diez años. Si del inició de la decada nos trajo las redes sociales y la manipulaciondel internet, creo que lso espacios virtuales encarecerán aun mas las relaciones sociales y la manera en que nos relacionamos.
 
-#### 6. _¿Cuál es tu idea de la felicidad perfecta?_
+&nbsp;
+#### ( 6. ) _¿Cuál es tu idea de la felicidad perfecta?_
 No creo en la felicidad perfecta. Creo en poder tener tranquilidad: un trabajo que de un salario suficiente para vivir bien, que me de el tiempo para poder dedicarme a mis pasatiempos y ya. No le pido más a la vida.
 
-#### 7. _¿Cuándo y dónde fuiste más feliz?_
+&nbsp;
+#### ( 7. ) _¿Cuándo y dónde fuiste más feliz?_
 Definitivamente, recuerdo que me encantaba ir a CESCOM. Recuerdo que me sentía útil. Creo que me era posible ayudar a persoans, podía ver a Angie casi todos los días y me daba el tiempo para poder realizar mis pasatiempos. 2012 fue uno de mis mejore años.
 Recuerdo igual que los primeros días que entre en el Despacho de la Ibero, me sentía pleno y capz de hacer cosas, tenía deseos de seguir trabajando ahí, Además, fue inmediatamente después de que me operaran por lo que me dio una gran felicidad sentirme util y que valorarán mi experiencia. Ese trabajo me dio dinero para ser independiente y para poder comprarme cosas.
 
-#### 8. _¿Por qué te levantas de la cama por la mañana?_
+&nbsp;
+#### ( 8. ) _¿Por qué te levantas de la cama por la mañana?_
 Quiero terminar mi campaña de "Tumba de la Aniquilación". Tengo que terminarla, si no la termino estoy convencido de que como DM jamás teminaré otra. Es una de las cosas que más seguimeitnos le he dado en mi vida en los ultimos tres años. 
 Deseo leer más libros y poder escribir mejor. No estoy interesado en narrativa. Me encantaría poder vivir de escribir ensayos.
 
+&nbsp;
 #### 9. _¿Cuál consideras que es el nivel más bajo de miseria?_
 El no poder ser libre. No poder tomar las decisiones que crees importantes. Vivir atado a algo, alguien y creer que no encontrarás a alguien o algo así de nuevo. Eso es lo peor que me podría pasar, valoro mucho mi individualidad y el ser capaz de ser como deseo.
 

@@ -2,18 +2,25 @@
 aliases: [Referencia Markdown]
 ---
 
-[[#Separador]]
-[[#Espacio]]
-[[#Copyrigt]]
-[[#Fondo negro]]
-[[#Teletipo]]
-[[#Subinidice y Superindice]]
-[[#Alinear]]
-[[#Tablas]]
-[[#Comentarios]]
-[[#YAML header]]
-[[#Alfabeto griego]]
-[[#Callout Blocks]]
+**Indice**
+1. [[#Markdown útil|Markdown útil]]
+		1. [[#Separación de página|Separación de página]]
+		1. [[#Separador|Separador]]
+		1. [[#Salto de página|Salto de página]]
+		1. [[#Espacio|Espacio]]
+		1. [[#Copyrigt|Copyrigt]]
+	1. [[#Markdown útil#Fondo negro|Fondo negro]]
+		1. [[#Fondo negro#Subinidice y Superindice|Subinidice y Superindice]]
+	1. [[#Markdown útil#Teletipo|Teletipo]]
+		1. [[#Teletipo#Alinear|Alinear]]
+		1. [[#Teletipo#Tablas|Tablas]]
+		1. [[#Teletipo#Comentarios|Comentarios]]
+		1. [[#Teletipo#YAML header|YAML header]]
+		1. [[#Teletipo#Alfabeto griego|Alfabeto griego]]
+		1. [[#Teletipo#Barra de progreso|Barra de progreso]]
+		1. [[#Teletipo#Callout Blocks|Callout Blocks]]
+
+---
 
 ## Markdown útil
 ---
@@ -324,31 +331,30 @@ You can leave off the author and date if you want; you can leave off the title, 
 
 |Mayúscula |Código |En minúscula |Código|
 |---|---|---|---|
-|A|	$A$ \$A$| 	α \alpha α |	\$\alpha$|
-|B B B 	$B$ 	β \beta β 	$\beta$
-|Γ \Gamma Γ 	$\Gamma$ 	γ \gamma γ 	$\gamma$
-|Δ \Delta Δ 	$\Delta$ 	δ \delta δ 	$\delta$
-|E E E 	$E$ 	ϵ \epsilon ϵ 	$\epsilon$
-		ε \varepsilon ε 	$\varepsilon$
-Z Z Z 	$Z$ 	ζ \zeta ζ 	$\zeta$
-H H H 	$H$ 	η \eta η 	$\eta$
-Θ \Theta Θ 	$\Theta$ 	θ \theta θ 	$\theta$
-I I I 	$I$ 	ι \iota ι 	$\iota$
-K K K 	$K$ 	κ \kappa κ 	$\kappa$
-Λ \Lambda Λ 	$\Lambda$ 	λ \lambda λ 	$\lambda$
-M M M 	$M$ 	μ \mu μ 	$\mu$
-N N N 	$N$ 	ν \nu ν 	$\nu$
-Ξ \Xi Ξ 	$\Xi$ 	ξ \xi ξ 	$\xi$
-O O O 	$O$ 	ο \omicron ο 	$\omicron$
-Π \Pi Π 	$\Pi$ 	π \pi π 	$\pi$
-P P P 	$P$ 	ρ \rho ρ 	$\rho$
-Σ \Sigma Σ 	\Sigma$ 	σ \sigma σ 	$\sigma$
-T T T 	$T$ 	τ \tau τ 	$\tau$
-Υ \Upsilon Υ 	$\Upsilon$ 	υ \upsilon υ 	$\upsilon$
-Φ \Phi Φ 	$\Phi$ 	ϕ \phi ϕ 	$\phi$
-X X X 	$X$ 	χ \chi χ 	$\chi$
-Ψ \Psi Ψ 	$\Psi$ 	ψ \psi ψ 	$\psi$
-Ω \Omega Ω 	$\Omega$ 	ω \omega ω 	$\omega$
+|A|	$A$ \$A$ |	α \alpha α |	\$\alpha$|
+|B B B| 	$B$ 	β \beta β 	$\beta$
+|Γ| \Gamma Γ 	$\Gamma$ 	γ \gamma γ 	$\gamma$
+|Δ| \Delta Δ 	$\Delta$ 	δ \delta δ 	$\delta$
+|E E E| 	$E$ 	ϵ \epsilon ϵ 	$\epsilon$ ε \varepsilon ε 	$\varepsilon$
+| Z Z Z| 	$Z$ 	ζ \zeta ζ 	$\zeta$
+|H H H | 	$H$ 	η \eta η 	$\eta$
+|Θ| \Theta Θ 	$\Theta$ 	θ \theta θ 	$\theta$
+| I I I | 	$I$ 	ι \iota ι 	$\iota$
+| K K K | 	$K$ 	κ \kappa κ 	$\kappa$
+| Λ| \Lambda Λ 	$\Lambda$ 	λ \lambda λ 	$\lambda$
+| M M M | 	$M$ 	μ \mu μ 	$\mu$
+| N N N |	$N$ 	ν \nu ν 	$\nu$
+| Ξ \Xi Ξ | 	$\Xi$ 	ξ \xi ξ 	$\xi$
+| O O O | 	$O$ 	ο \omicron ο 	$\omicron$
+| Π | \Pi Π 	$\Pi$ 	π \pi π 	$\pi$
+| P P P |	$P$ 	ρ \rho ρ 	$\rho$
+|Σ | \Sigma Σ 	\Sigma$ 	σ \sigma σ 	$\sigma$
+|T T T | 	$T$ 	τ \tau τ 	$\tau$
+|Υ |\Upsilon Υ 	$\Upsilon$ 	υ \upsilon υ 	$\upsilon$
+|Φ |\Phi Φ 	$\Phi$ 	ϕ \phi ϕ 	$\phi$
+|X X X |	$X$ 	χ \chi χ 	$\chi$
+|Ψ |\Psi Ψ 	$\Psi$ 	ψ \psi ψ 	$\psi$
+|Ω| \Omega Ω 	$\Omega$ 	ω \omega ω 	$\omega$
 
 
 ```

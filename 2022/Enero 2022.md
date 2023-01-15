@@ -4,6 +4,15 @@ aliases: [Enero 2022]
 
 # Enero 2022
 ---
+**Indice**
+1. [[#$A$. Proyecto|$A$. Proyecto]]
+1. [[#$B$. Películas:|$B$. Películas:]]
+1. [[#$\Gamma$. Acontecimientos|$\Gamma$. Acontecimientos]]
+1. [[#$\Delta$. Laboral|$\Delta$. Laboral]]
+1. [[#$E$. Internet|$E$. Internet]]
+
+
+---
 
 
 ##  $A$. Proyecto

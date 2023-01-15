@@ -4,6 +4,19 @@ alias: Terapía de grupo
 
 # Terapía de grupo
 ---
+**Indice**
+1. [[#Pendientes|Pendientes]]
+1. [[#Tirada inicial|Tirada inicial]]
+1. [[#Tirada inicial#Invitación a los jugadores|Invitación a los jugadores]]
+1. [[#Musica|Musica]]
+1. [[#Páginas importantes|Páginas importantes]]
+1. [[#_Dramatis Personae_|_Dramatis Personae_]]
+1. [[#Locaciones|Locaciones]]
+1. [[#Pistas|Pistas]]
+1. [[#Pistas#Pesadillas|Pesadillas]]
+1. [[#Pistas#El anuncio|El anuncio]]
+
+---
 
 #### Pendientes
 
@@ -25,31 +38,33 @@ Esperamos confirme su presencia.
 ## Musica
 ==Oficina==
 https://cutt.ly/AQa6sHI / https://cutt.ly/AQa6vhI / https://cutt.ly/iQa6Da2
-<iframe width="756" height="425" src="https://www.youtube.com/embed/l8ZiGMLY12Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"https://www.youtube.com/embed/l8ZiGMLY12Y" 
 
-<iframe width="756" height="425" src="https://www.youtube.com/embed/ts7gfm1o5RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"https://www.youtube.com/embed/ts7gfm1o5RM" 
 
-<iframe width="756" height="425" src="https://www.youtube.com/embed/qzVF5BUuLyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"https://www.youtube.com/embed/qzVF5BUuLyI" 
 
 ==Pesadillas==              
 https://cutt.ly/IQa5rKq
-<iframe width="756" height="425" src="https://www.youtube.com/embed/jjPWHj7RqIw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"https://www.youtube.com/embed/jjPWHj7RqIw" 
 
 ==Smithfield ==
 
 ==Tugurio==      
 https://cutt.ly/6QsrhME
-<iframe width="756" height="425" src="https://www.youtube.com/embed/j5bHkamyLyE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"https://www.youtube.com/embed/j5bHkamyLyE" 
 
 ==Iglesia de St. James==
 https://cutt.ly/aQaU3YH / https://cutt.ly/kQa5EQL
-<iframe width="756" height="425" src="https://www.youtube.com/embed/z5w5ztr63wE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<iframe width="756" height="425" src="https://www.youtube.com/embed/43cEoEgIO2s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+"https://www.youtube.com/embed/z5w5ztr63wE" 
+
+"https://www.youtube.com/embed/43cEoEgIO2s" 
 
 ==Combate==                    
 https://cutt.ly/WQaIa3M
-<iframe width="756" height="425" src="https://www.youtube.com/embed/O45Xo8wBLUI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+"https://www.youtube.com/embed/O45Xo8wBLUI" 
 
 ## Páginas importantes
 - 3 Info del DM
