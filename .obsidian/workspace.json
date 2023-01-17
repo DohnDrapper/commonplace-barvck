@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6afdbebfd20d609b",
+        "id": "c1e25f9012687939",
         "type": "tabs",
         "children": [
           {
-            "id": "ee6285e23fe1c14b",
+            "id": "3faf6e91769c0caf",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -137,8 +137,10 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "ee6285e23fe1c14b",
+  "active": "3faf6e91769c0caf",
   "lastOpenFiles": [
+    "2022/Preguntas final de 2022.md",
+    "2022/Cine 2022.md",
     "2022/Bolillos parlantes 2022.md",
     "2022/Calendario 2022.md",
     "2022/2022.md",
@@ -146,8 +148,6 @@
     "Notas diarias/2021-11-12 - Ensayo 2021.md",
     "Notas diarias/2021-11-07 - Sobre el Joker II.md",
     "Notas diarias/2021-10-31 - Crush.md",
-    "Notas diarias/2021-10-26 - Organizar obsidian.md",
-    "Notas diarias/2021-10-27 Influentes.md",
-    "Notas diarias/2021-10-25 - Ace.md"
+    "Notas diarias/2021-10-26 - Organizar obsidian.md"
   ]
 }
