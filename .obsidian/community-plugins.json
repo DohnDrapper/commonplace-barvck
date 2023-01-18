@@ -1,5 +1,4 @@
 [
-  "obsidian-admonition",
   "better-word-count",
   "css-snippets",
   "obsidian-text-format",
@@ -9,5 +8,6 @@
   "note-refactor-obsidian",
   "obsidian-git",
   "obsidian-vault-statistics-plugin",
-  "obsidian-plugin-toc"
+  "obsidian-plugin-toc",
+  "obsidian-full-calendar"
 ]

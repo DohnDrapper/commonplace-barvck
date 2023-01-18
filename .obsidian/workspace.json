@@ -11,8 +11,12 @@
             "id": "3faf6e91769c0caf",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2022/Bolillos parlantes 2022.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2022/Bolillos parlantes 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2022/Bolillos parlantes 2022.md"
+              }
             }
           },
           {
@@ -105,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2022/Bolillos parlantes 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,10 +143,11 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "random-note:Abrir nota al azar": false
+      "random-note:Abrir nota al azar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3faf6e91769c0caf",
+  "active": "b1f8eea1007e62c1",
   "lastOpenFiles": [
     "2022/Preguntas final de 2022.md",
     "2022/Cine 2022.md",
