@@ -1,3 +1,7 @@
+---
+date: "18-01-2023"
+---
+
 ¡Hola! Sean bienvenidos a esta iteracion de los Bolillos parlantes 2022 - 2023.
 En ella recordamos los mejores momentos y platicamos sobre las actividades de este año 2022.
 
