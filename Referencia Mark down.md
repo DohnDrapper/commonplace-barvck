@@ -512,7 +512,7 @@ oO `$o O$` (omicron)
 
 ---
 
-#### Barra de progreso
+### Barra de progreso
 
 <progress value="6" max="10"></progress>
 
@@ -523,7 +523,7 @@ oO `$o O$` (omicron)
 
 ---
 
-#### Callout Blocks
+### Callout Blocks
 
 > [! NOTE]- Ejemplo 1
 > Este es un ejemplo de una nota
@@ -547,3 +547,4 @@ oO `$o O$` (omicron)
 -   bug
 -   example
 -   quote, cite
+

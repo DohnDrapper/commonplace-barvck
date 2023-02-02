@@ -11,8 +11,12 @@
             "id": "4418564e35c96e8c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -62,12 +66,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -83,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -107,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,15 +149,15 @@
   },
   "active": "4418564e35c96e8c",
   "lastOpenFiles": [
+    "Referencia Mark down.md",
+    "Untitled.md",
+    "2022-09-29.md",
     "Rol/TDA/Sesión 12 TDA - Log.md",
     "Rol/TDA/Sesión 41 TDA - Preparación.md",
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 35 TDA - Preparación.md",
     "Rol/TDA/Sesión 13 TDA - Log.md",
     "Rol/TDA/Sesión 9 TDA -Log.md",
-    "Rol/TDA/Sesión 26 TDA - Preparación.md",
-    "Rol/TDA/Sesión 36 TDA - Preparación.md",
-    "Recursos gratuitos.md",
-    "Personal/Placebo.md"
+    "Rol/TDA/Sesión 26 TDA - Preparación.md"
   ]
 }
