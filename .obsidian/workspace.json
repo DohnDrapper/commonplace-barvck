@@ -11,8 +11,12 @@
             "id": "d561d837fd950ddd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "seta",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md"
+              }
             }
           },
           {
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Libros/12292021 - La seta al final del mundo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,6 +149,7 @@
   },
   "active": "d561d837fd950ddd",
   "lastOpenFiles": [
+    "Notas diarias/2021-10-31 - Crush.md",
     "Untitled.md",
     "Referencia Mark down.md",
     "2022-09-29.md",
@@ -149,7 +158,6 @@
     "Rol/TDA/Información hasta el inicio de la temporada 4.md",
     "Rol/TDA/Sesión 35 TDA - Preparación.md",
     "Rol/TDA/Sesión 13 TDA - Log.md",
-    "Rol/TDA/Sesión 9 TDA -Log.md",
-    "Rol/TDA/Sesión 26 TDA - Preparación.md"
+    "Rol/TDA/Sesión 9 TDA -Log.md"
   ]
 }
