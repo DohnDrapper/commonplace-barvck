@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "29b93a203dd87b80",
+            "id": "fbfb2ca551326986",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rol/TDA/Sesión 43 TDA - Preparación.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/TDA/Sesión 43 TDA - Preparación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +102,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/TDA/Sesión 43 TDA - Preparación.md"
+              }
             }
           },
           {
@@ -106,6 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rol/TDA/Sesión 43 TDA - Preparación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,17 +147,17 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b1f8eea1007e62c1",
+  "active": "fbfb2ca551326986",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 42 TDA - Preparación.md",
+    "Rol/TDA/Sesión 43 TDA - Preparación.md",
+    "Untitled 1.md",
     "Libros/12292021 - La seta al final del mundo.md",
     "Notas diarias/2021-10-31 - Crush.md",
     "Untitled.md",
     "Referencia Mark down.md",
     "2022-09-29.md",
     "Rol/TDA/Sesión 12 TDA - Log.md",
-    "Rol/TDA/Sesión 41 TDA - Preparación.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md",
-    "Rol/TDA/Sesión 35 TDA - Preparación.md",
-    "Rol/TDA/Sesión 13 TDA - Log.md"
+    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
   ]
 }
