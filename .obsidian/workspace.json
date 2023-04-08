@@ -4,29 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "25ef636e00f4083e",
+        "id": "e7526a8b3009b8ae",
         "type": "tabs",
         "children": [
           {
-            "id": "7278b2fbd387b167",
+            "id": "5675ba20358c9216",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Escaleta Analisis Película Calabozos y Dragones (2023).md",
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "6be2fb57ec3fa0ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Referencia Mark down.md",
-                "mode": "preview",
                 "source": true
               }
             }
@@ -77,13 +65,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -99,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Escaleta Analisis Película Calabozos y Dragones (2023).md",
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +102,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Escaleta Analisis Película Calabozos y Dragones (2023).md"
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
               }
             }
           },
@@ -126,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Escaleta Analisis Película Calabozos y Dragones (2023).md",
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,8 +146,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7278b2fbd387b167",
+  "active": "b1f8eea1007e62c1",
   "lastOpenFiles": [
+    "Rol/SDC/Sesión 9 SDC - Log.md",
+    "Rol/SDC/SDC -Probable organización.md",
+    "Rol/SDC/Pleneación general SDC.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+    "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Referencia Mark down.md",
     "Escaleta Analisis Película Calabozos y Dragones (2023).md",
     "Untitled.md",
