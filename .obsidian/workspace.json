@@ -11,8 +11,12 @@
             "id": "0bbff0af2b7ede88",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -89,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
+                "file": "Personal/Bolsas de trabajo.md"
               }
             }
           },
@@ -116,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,6 +156,8 @@
   },
   "active": "0bbff0af2b7ede88",
   "lastOpenFiles": [
+    "Personal/Para ver.md",
+    "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
     "Rol/SDC/SDC -Probable organización.md",
     "Rol/SDC/Pleneación general SDC.md",
