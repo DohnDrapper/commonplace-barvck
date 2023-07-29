@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5cc6c849a07cfdb8",
+        "id": "43d8af5891caa226",
         "type": "tabs",
         "children": [
           {
-            "id": "0bbff0af2b7ede88",
+            "id": "11173e7eb16af3b9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,10 +147,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0bbff0af2b7ede88",
+  "active": "11173e7eb16af3b9",
   "lastOpenFiles": [
-    "Personal/Para ver.md",
     "Personal/Bolsas de trabajo.md",
+    "Personal/Para ver.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
     "Rol/SDC/SDC -Probable organización.md",
     "Rol/SDC/Pleneación general SDC.md",
