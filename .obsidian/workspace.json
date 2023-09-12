@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "43d8af5891caa226",
+        "id": "1e45a8e8c2f4bc7d",
         "type": "tabs",
         "children": [
           {
-            "id": "11173e7eb16af3b9",
+            "id": "bcff5ede474b53a8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -147,8 +147,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "11173e7eb16af3b9",
+  "active": "bcff5ede474b53a8",
   "lastOpenFiles": [
+    "2022/Preguntas final de 2022.md",
     "Personal/Bolsas de trabajo.md",
     "Personal/Para ver.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
