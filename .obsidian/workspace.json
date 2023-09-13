@@ -14,8 +14,19 @@
               "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "25aa9f54e2b1ab7f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,9 +147,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Abrir quick switcher": false,
-      "graph:Abrir vista de gráfico": false,
-      "canvas:Create new canvas": false,
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
@@ -147,7 +158,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bcff5ede474b53a8",
+  "active": "25aa9f54e2b1ab7f",
   "lastOpenFiles": [
     "2022/Preguntas final de 2022.md",
     "Personal/Bolsas de trabajo.md",
