@@ -16,12 +16,12 @@
             }
           },
           {
-            "id": "25aa9f54e2b1ab7f",
+            "id": "b891ab3db193dca4",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.4.12"
+                "currentVersion": "1.4.13"
               }
             }
           }
@@ -158,7 +158,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "25aa9f54e2b1ab7f",
+  "active": "b891ab3db193dca4",
   "lastOpenFiles": [
     "2022/Preguntas final de 2022.md",
     "Personal/Bolsas de trabajo.md",
