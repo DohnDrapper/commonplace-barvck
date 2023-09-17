@@ -11,8 +11,12 @@
             "id": "bcff5ede474b53a8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Blog/030320210338.md",
+                "mode": "source",
+                "source": true
+              }
             }
           },
           {
@@ -160,6 +164,7 @@
   },
   "active": "b891ab3db193dca4",
   "lastOpenFiles": [
+    "Blog/030320210338.md",
     "2022/Preguntas final de 2022.md",
     "Personal/Bolsas de trabajo.md",
     "Personal/Para ver.md",
