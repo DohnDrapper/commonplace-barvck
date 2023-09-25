@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ab33b951139592a7",
+            "id": "5034ff6a1c206e11",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +165,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ab33b951139592a7",
+  "active": "5034ff6a1c206e11",
   "lastOpenFiles": [
+    "Rol/SDC/Introducción a Pulp Cthulhu.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "2022-09-29.md",
     "Frases/290420211131 - Frases de Mad Men.md",
     "Blog/030320210338.md",
@@ -168,8 +178,6 @@
     "Rol/SDC/Sesión 9 SDC - Log.md",
     "Rol/SDC/SDC -Probable organización.md",
     "Rol/SDC/Pleneación general SDC.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Referencia Mark down.md",
     "Escaleta Analisis Película Calabozos y Dragones (2023).md",
     "Untitled.md",
