@@ -18,8 +18,19 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c56de58d9c9ac15f",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.14"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,7 +176,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "5034ff6a1c206e11",
+  "active": "c56de58d9c9ac15f",
   "lastOpenFiles": [
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
