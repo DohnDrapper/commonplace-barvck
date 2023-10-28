@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7fbb6734dbc4ffb7",
+            "id": "3f28a6d00cb5dade",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Quiubole con  Vampiro.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Quiubole con  Vampiro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Quiubole con  Vampiro.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Quiubole con  Vampiro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,8 +165,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7fbb6734dbc4ffb7",
+  "active": "3f28a6d00cb5dade",
   "lastOpenFiles": [
+    "0002-10-28.md",
+    "Quiubole con  Vampiro.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "2022-09-29.md",
