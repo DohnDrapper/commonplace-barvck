@@ -4,33 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "fb3230ac58e7f472",
+        "id": "3f1259ea465cfd6c",
         "type": "tabs",
         "children": [
           {
-            "id": "5034ff6a1c206e11",
+            "id": "7fbb6734dbc4ffb7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "c56de58d9c9ac15f",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.14"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
-              }
+              "state": {}
             }
           },
           {
@@ -132,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,10 +157,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c56de58d9c9ac15f",
+  "active": "7fbb6734dbc4ffb7",
   "lastOpenFiles": [
-    "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
+    "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "2022-09-29.md",
     "Frases/290420211131 - Frases de Mad Men.md",
     "Blog/030320210338.md",
