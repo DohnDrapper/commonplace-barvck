@@ -5,7 +5,7 @@ title: quiubole con vampiro
 date: 2023-10-28
 ---
 
-## Trasfondo
+## Quiubole con Vampiro
 ---
 
 ### Mundo de Tinieblas
@@ -30,12 +30,33 @@ El mundo de vampiro sucede en un variación del nuestro donde todo es peor:
 ---
 
 ### Las tradiciones
-1. La mascarada
-2. El dominio
-3. La progenie
-4. La responsabilidad
-5. La hospitalidad
-6.  La destruccion
+
+---
+>*No revelarás tu verdadera naturaleza a quienes no sean de la Sangre. Si lo hicieres, renunciarás a tus derechos de Sangre.*
+- La mascarada, 
+
+---
+
+>*Tu Dominio es tu responsabilidad. Todos los demás te deben respeto en él. Nadie puede desafiar tu palabra cuando esté en tu Dominio.*
+- El dominio, 
+
+---
+
+>*Sólo serás el Sire de otro con el permiso de tu Antiguo. Si creares otro sin el consentimiento de tu Antiguo, tú y tu Progenie seréis eliminados.*
+- La progenie, 
+
+---
+> *Quienes creares serán tus propios hijos. Hasta que tu Progenie fuere Liberada, deberás gobernarlos en todas las cosas. Sus pecados son también los tuyos.*
+- La responsabilidad, 
+
+---
+> *Honra el dominio de otro. Cuando llegares a una ciudad extranjera, deberás presentarte a quien gobernare allí. Sin su palabra de aceptación,*
+- La hospitalidad, 
+
+---
+
+>*Te está prohibido destruir a otro de tu especie. El derecho de destrucción pertenece sólo a tu Antiguo. Sólo el más Antiguo de entre vosotros podrá invocar la Caza de Sangre.*
+- La destrucción, 
 
 ---
 
@@ -45,9 +66,9 @@ El mundo de vampiro sucede en un variación del nuestro donde todo es peor:
 
 ### La Camarilla
 Son lo que han mantenido la camarada desde siempre
-- Jerarquica, respeta a tus mayores
+- Jerárquica, respeta a tus mayores
 - Sociedad feudal, hay siervos y señores
-- Unicamente en ciudades
+- Únicamente en ciudades
 
 ---
 
@@ -66,10 +87,11 @@ Enemigos jurados de la Mascarada
 ---
 
 ### La Segunda inquisición
-- Alguien cometió un error
-- Cazavampiros
-- Un paso en falso fuera de la Mascarada y te conviertes en pollo asado
+- Ellos los saben
 - Imposible para un vampiro usar tecnología por miedo a ser descubierto
+
+>Cualquier Vástago que sea sorprendido contactando con otro en línea perderá la protección de la Camarilla y será declarado desleal, con la amenaza de una Caza de Sangre sobre él si se considera que la comunicación compromete la Mascarada
+
 ---
 
 ## Los clanes
@@ -108,10 +130,27 @@ Enemigos jurados de la Mascarada
 ### Ventrue
 - El 1%
 - La sangre azul vampírica
-- Ocupan los altos cargos en la civilización vampirica
+- Ocupan los altos cargos en la civilización vampírica
 
 ---
 
 ## Vocabulario importante
 **Vastagos:** Cualquier vampiro
 **Chiquillo** Vampiro creado
+
+
+---
+## Partida:
+### "Los muchachos perdidos"
+
+%%
+Pág. 57
+
+Una escena donde se habla de esta reunion y de la prohibición de usar celulares. 
+Su sire se opone y es ejecutado frente a ellos.
+Ahora tendrán que escapar de Praga llena de señores de la Segunda Inquisición.
+
+Han sufrido una trampa, su sire ha muerto su Sire a mano de la Segunda Inquisición y alguien ha dicho que se encuentran un clan de vampiros y alguien les ha hablado de que el siguiente lugar a donde podrían huir esta cruzando el distrito en que se encuentran.
+%%
+
+---
