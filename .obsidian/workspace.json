@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "841ab45caa7563e6",
+        "id": "b856105ae76190a4",
         "type": "tabs",
         "children": [
           {
-            "id": "50144ffff63c608b",
+            "id": "65a547cc347e20da",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Bolsas de trabajo.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +165,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "50144ffff63c608b",
+  "active": "65a547cc347e20da",
   "lastOpenFiles": [
     "Quiubole con  Vampiro.md",
     "0002-10-28.md",
