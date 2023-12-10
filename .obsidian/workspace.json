@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "b856105ae76190a4",
+        "id": "e359245686f1e54a",
         "type": "tabs",
         "children": [
           {
-            "id": "65a547cc347e20da",
+            "id": "7b49f8fd839325bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,8 +157,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "65a547cc347e20da",
+  "active": "7b49f8fd839325bc",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "Quiubole con  Vampiro.md",
     "0002-10-28.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
@@ -175,7 +168,6 @@
     "Frases/290420211131 - Frases de Mad Men.md",
     "Blog/030320210338.md",
     "2022/Preguntas final de 2022.md",
-    "Personal/Bolsas de trabajo.md",
     "Personal/Para ver.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
     "Rol/SDC/SDC -Probable organización.md",
