@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e359245686f1e54a",
+        "id": "669ab391bf96d0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "7b49f8fd839325bc",
+            "id": "95fec3b462dc3a5b",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -157,13 +157,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7b49f8fd839325bc",
+  "active": "95fec3b462dc3a5b",
   "lastOpenFiles": [
+    "Rol/SDC/Introducción a Pulp Cthulhu.md",
+    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Personal/Bolsas de trabajo.md",
     "Quiubole con  Vampiro.md",
     "0002-10-28.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "2022-09-29.md",
     "Frases/290420211131 - Frases de Mad Men.md",
     "Blog/030320210338.md",
