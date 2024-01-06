@@ -22,6 +22,7 @@ _Otorgado a los One Shot que la mayoría de su contenido es un libro/modulo._
 - El festival de la cosecha
 - One shot de lolis: Una difícil despedida
 - Fiasco en Navidad
+- One shot Dia de Muertos
 
 ### Momento más épico individual en general
 _Otorgado a un momento sobresaliente de las sesiones logrado por un jugador especifico._
