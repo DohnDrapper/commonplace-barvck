@@ -11,11 +11,64 @@
             "id": "04e2581671329279",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Descripción Youtube Bolillos parlantes 2022 - 2023.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "5f5a117601ab248e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "2623555749dcf858",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022/Bolillos parlantes 2022.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "245200a503fb38a4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "499acaab55d0cc94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bolillos parlantes 2023.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -44,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "ideas",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,8 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315,
-    "collapsed": true
+    "width": 315
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -90,6 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Bolillos parlantes 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +158,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Bolillos parlantes 2023.md"
+              }
             }
           },
           {
@@ -114,6 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Bolillos parlantes 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +215,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "04e2581671329279",
+  "active": "499acaab55d0cc94",
   "lastOpenFiles": [
+    "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
+    "Bolillos parlantes 2023.md",
+    "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md",
+    "Descripción Youtube Bolillos parlantes 2022 - 2023.md",
+    "2022/Bolillos parlantes 2022.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Personal/Bolsas de trabajo.md",
@@ -181,7 +242,6 @@
     "Rol/TDA/Sesión 42 TDA - Preparación.md",
     "Libros/12292021 - La seta al final del mundo.md",
     "Notas diarias/2021-10-31 - Crush.md",
-    "Rol/TDA/Sesión 12 TDA - Log.md",
-    "Rol/TDA/Información hasta el inicio de la temporada 4.md"
+    "Rol/TDA/Sesión 12 TDA - Log.md"
   ]
 }

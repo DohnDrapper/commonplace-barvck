@@ -76,7 +76,7 @@ _Otorgado a esa linea de sucesos en campaña que nos marcó de manera profunda_
 El dedo de Fuego
 La balada del Clan Lei
 La guerra de los Yuan ti
-	
+
 4. **TRAMA SIN RESOLVER**
 _Otorgado a aquellas historias que quedaron sin una resolución clara_
 * ¿Que era la criatura que trasportamos en Vampiro?
