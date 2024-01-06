@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "669ab391bf96d0ca",
+        "id": "7175ca912c528b58",
         "type": "tabs",
         "children": [
           {
-            "id": "95fec3b462dc3a5b",
+            "id": "04e2581671329279",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.3"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -161,7 +159,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "95fec3b462dc3a5b",
+  "active": "04e2581671329279",
   "lastOpenFiles": [
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
