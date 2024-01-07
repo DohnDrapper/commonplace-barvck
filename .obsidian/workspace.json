@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bolillos parlantes 2023.md",
+                "file": "2022/Bolillos parlantes 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bolillos parlantes 2023.md"
+                "file": "2022/Bolillos parlantes 2022.md"
               }
             }
           },
@@ -169,7 +169,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bolillos parlantes 2023.md",
+                "file": "2022/Bolillos parlantes 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -215,13 +215,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "499acaab55d0cc94",
+  "active": "2623555749dcf858",
   "lastOpenFiles": [
-    "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
     "Bolillos parlantes 2023.md",
+    "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
+    "2022/Bolillos parlantes 2022.md",
     "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md",
     "Descripción Youtube Bolillos parlantes 2022 - 2023.md",
-    "2022/Bolillos parlantes 2022.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Personal/Bolsas de trabajo.md",

@@ -14,53 +14,69 @@ Esta vez con temática de Evangelio.
 En ella recordamos los mejores momentos y platicamos sobre las actividades de este año 2023.
 ¡Espero lo disfruten!
 
+> [! question] 
+> ¿Cuál es su opinión general de este año?
+> ¿Cuál fue su momento favorito y cual su peor momento?
+> ¿Qué esperan de la mesa en 2023?
+
 ## Premiación
 
 ### Mejor One Shot
 _Otorgado a los One Shot que la mayoría de su contenido es un libro/modulo._
-- El rastro de la expedición
-- El festival de la cosecha
-- One shot de lolis: Una difícil despedida
-- Fiasco en Navidad
-- One shot Dia de Muertos
+- El festival de la cosecha en el Sistema Lamentaciones de la princesa del cabello de Fuego ()
+- One shot de lolis: "Una difícil despedida"
+- Fiasco: "Navidad en la Guarida del lobo"
+- One shot "El demonio de la Mina hueca"
+- One shot de Pulp Cthulhu: "Esperando el huracán"
 
-### Momento más épico individual en general
+### Momento más épico
 _Otorgado a un momento sobresaliente de las sesiones logrado por un jugador especifico._
-- Vengarse del mago cruel castrandolo
-- 
+- Vengarse del mago cruel castrándolo
+- Rebelarse contra los científicos en España
+- Sostener el aspa del molino de piedra en la Tumba de la Aniquilación
+- Vencer el puzzle del piso en Tumba de la Aniquilación
 
 ### Mejor combate
 _Otorgado a una pelea que se volvió memorable._
 - Combate con las hidra en Theros
-- Combate con la bestia lovecraftiana en el museo
-- Combate con el ente invisible en la Tumba del a aniquilación
+- Combate con la bestia lovecraftiana en el museo en Theros
+- Combate con el ente invisible en la Tumba de la aniquilación
+- Combate contra el búho en El demonio de la Mina Hueca
 
 ### Momento más triste
 _Otorgado a ese momento que más llegó a todos al Kokoro._
 - No pudimos encontrar a Jun Goto y despedirnos
-- 
+- La caída del avión del Lince Siberiano
+
 ### Momento más goofy
-_Otorgado al momento o decisión bobo que salío del tono del juego._
+_Otorgado al momento o decisión bobo que salió del tono del juego._
 - 
-## In memorian
 
 ## Intermedio
 
+Categorías para el Basta!
+(Nombre, Apelllido, Lugar, Animal, Objeto, Hechizo)
+
 ### Mejor frase fuera de rol
-_Otorgado a ese intante en que la gente es "Real"._
+_Otorgado a ese instante en que la gente es "Real"._
 - [Cristian]: No puedes ver el espejo de Tarkovsky y platicar? [Aran] ¡Pero si puedes verla y dormir al mismo tiempo!
 - [Mauricio]: Si no es así, entonces esta bien. Hay que spreder a aceptar la realidad tal cual es y no poner expectativas exageradas sobre cosas que no stán en nuestro control. Cómo la falta de cojones del DM para poner esa escana en al partida. 
 - [Baruch]: ¡Uy que padre! 
 - [Aran]: Cada día en Latinoamerica es una tirada de cordura
 - [Baruch]: Guanajuato son los Goron obviamentetodos ignorantes y babosos
+- [Mauricio]: ¡Es mi don! ¡mi maldición!
 
 ### Mejor roleo
 _Otorgado al jugador que llevo el roleo a otro nivel._
 - Reona de Sawaa
 - 
-### Peor desacuerdo entre los jugadores
+### Mejor momento en Campaña
+_Otorgado a un momento qu erecordaremso por mucho tiempo._
+- La revelación del plan de Xenagos
 - 
 ### Mejor campaña
+- El rastro de la expedición 
+(Por que se prometió jugar se organizo y al final solo uno jugo todas las sesiones)
 - Theros: Sesiones finales del primer arco
 - The wild beyond the witchlight
 - Tumba de la Aniquilación
@@ -74,6 +90,9 @@ _Otorgado a aquel Director de Juegos que llevo nuestra imaginación a limites in
 - Emiliano
 
 ## Palabras finales
+Un año más que se pasa y seguimos en la mesa.
+
+Ojalá la mesa dure mucho más,
 
 --
 
