@@ -33,7 +33,7 @@ Es algo que en otros años me hubiera costado aceptar y hubiera dado todo por in
 &nbsp;
 
 ###  ( 2. ) ¿Cumpliste tus propósitos de año nuevo?
-**Desde el 2022, deje de hacer propósitos de año nuevo** En 2023, no tuve un objetivo pero lo que deseo era conocerme y lo logré. Vi mucho errores mios y cosa que deseo cambiar.
+**Desde el 2022, deje de hacer propósitos de año nuevo** En 2023, no tuve un objetivo pero lo que deseo era conocerme y lo logré. Vi mucho errores míos y cosa que deseo cambiar. Una de las cosas que creo es importante cambiar es hacer evaluaciones y planes, y otra ver como puedo aprovechar el tiempo que no estoy haciendo nada o que pierdo esperando cosas. 
 
 &nbsp;
 
@@ -48,136 +48,150 @@ Es algo que en otros años me hubiera costado aceptar y hubiera dado todo por in
 &nbsp;
 
 ### ( 5. ) ¿Qué ciudades/estados/países visitaste?
-1. **Viaje a Matehuala**. Fue una gran experiencia el poder ir a otro estado a conocer otra ciudad y otras gentes.
-2. **Viaje por el Estado de Guanajuato**. Viaje a Acámbaro, Uriangato,  Apaseo el Alto, Irapuato, y Celaya.
-3.  **Viaje a San Luis Potosí**. Fui a ver un hermoso templo y a visitar a la Virgen de San Juan.
+&bull; **Viaje a Matehuala**. Fue una gran experiencia el poder ir a otro estado a conocer otra ciudad y otras gentes.
+
+&bull; **Viaje por el Estado de Guanajuato**. Viaje a Acámbaro, Guanajuato, Salvatierra, Purísima del Rincón, Romita, Uriangato,  Apaseo el Alto, Irapuato, Valle de Santiago, Cortázar y Celaya.
+
+&bull; **Trabajo más claro** Debo de propiciar mejores oportunidades de trabajo, eso es algo que deseo y que pienso empezar a buscar.
+
+&bull; **Viaje a San Luis Potosí**. Fui a ver un hermoso templo y a visitar a la Virgen de San Juan.
 
 &nbsp;
 
 ### ( 6. ) ¿Qué te gustaría tener el próximo año que te faltó este año?
-Debo decir que este año fue muy bueno en comparación con el anterior, pasaron mas cosas buenas que malas. Aún así hay varias cosa que me gustarían.
+Fue uno de mis mejores años, disfrute mucho lo que hice, y hay muchas memorias que recordar.
 
-&bull; **tener estabilidad económica**
+&bull; **Tener estabilidad económica** Sigo en la búsqueda de una manera de dejar de preocuparme de que no tengo dinero y que mi unica solución a eso es pedir prestamos o tarjetas de crédito y si bien aún no me afecta de manera clara, no tarda mucho en hacerlo.
 ~
-&bull; **tener un pareja** Se que el año pasado desee tener un pareja pero este creo que una ocas que desearía más sería el poder disfrutar de mi soledad.
+&bull; **Disfrutar de mi soledad** Se que el año pasado desee tener una pareja pero este creo que una cosa que desearía más sería el poder disfrutar de mi soledad. Preocuparme por mejorarme a mi mismo.
 
-&nbsp;
+&bull; **Trabajo más claro** Debo de propiciar mejores oportunidades de trabajo, eso es algo que deseo y que pienso empezar a buscar.
+
+&nbsp; 
 
 ### ( 7. ) ¿Qué fecha(s) de este año quedará(n) grabada(s) en su memoria y por qué?
-**La boda de Aran** Fue un viaje que disfrute mucho. Una gran experiencia que definitivamente me gustó. Pude igual concer a Luis y Silvia otros jugadores de Calabozos y dragones
+Este año específicamente hay muchas cosas que de verdad creo que recordaré con gusto. 
+
+&bull; **La boda de Aran** Fue un viaje que disfrute mucho. Una gran experiencia que definitivamente me gustó. Pude igual concer a Luis y Silvia otros jugadores de Calabozos y dragones
+
+&bull; **Inicio de Terapía** A la fecha ya son más de 6 mese asistiendo a terapía ha sido un proceso difícil y largo. A veces hay sesiones que son más duras que otras pero en general he sentido qu etodo pinta para mejor.
+
+&bull; **Inicio de pago de la Maestría** Ha sido una salida a mis problemas y un apoyo enorme para mis deseos. Un logro de esos pocos que hay en la vida. Y de los que de verdad me siento muy orgulloso.
+
+&bull; **Flamingos** La primera vez que acudí a un club de striptease fue muy interesante, si bien no me sentí con la confianza de pedir un baile privado, si fue muy interesante todo lo que pude ver y me sentí liberado de muchas cosas. Ojalá este año pueda darse de nuevo.
+
+&bull; **Primera vez que le pedí su teléfono a una chica** Fue una cosa que jamás había hecho, nunca tuve la confianza de hacerlo y creo que fue genial. Ojalá me hubiera contestado pero me sentí como un ganador tan solo con que deseará seguir en contacto conmigo. Agradezco eso.
+
+&bull; **Los paquetes de Yuggie** Me encanta recibir sus cartas firmadas a mano. Me encanta recibir sus regalos y que piense en mi. Se que esta relación no va ir a más jamás pero en verda valoro como me hace sentir. es la primera vez que recibo un paquete y una carta de alguien. 
+
+&bull; **Senderismo en Guanajuato** Una de las cosas que más he disfrutado es salir a la naturaleza y disfrutar del aire fresco que pude respirar ese día además de dejar de lado varias de mis preocupaciones.
 
 &nbsp;
 
 ### ( 8. ) ¿Cuál fue su mayor logro del año?
 &bull; **Le pedí su teñefno a una chica** ha sido uno de mis momentos destacados del año. 
-
-Se que poner tu felicidad en eventos externos, pero pues fue algo por lo que me estuve esforzando casi la mitad del año.
-
 ~
 
 &bull; **Bajar mis niveles de ansiedad.** desde hace unos años mi ansiedad se había disparado aniveles que ya me contaba no imaginarme siento esa horrible sensación el estómago. Tener días donde esa sensación desaparece o tengo la confianza de que podré controlarla es reconfortante y me hace sentir como un un gran triunfo. 
 
 &nbsp;
 
-#### ( 9. ) ¿Cuál fue su mayor fracaso?
-&bull; **No lograr tener una relación duradera con Miriam.** Creo que no tuve la madurez para poder tener una relación y cobre todo creo que decepcioné a Miriam, quiero creer que ella lo que busccaba era alguien más independiente algo que no tengo. Ella me dijo que me tendría paciencia y que podríamos practicar, incluso me mencionó lenciarái y faldas, y de verda em quede con la boca abierta de que alguien me dijera que se pndría esas cosa para mí. El que elal me dijera que quepria tener sexo con migo y que de verdad lo hiciera fue una de las mejores sensacioens de mi vida. Ojalá hubiera sabido manejar la situación de una mejor manera.
+### ( 9. ) ¿Cuál fue su mayor fracaso?
+&bull; **Endeudarse mucho.** Me ha sido imposible salir de mis deudas.
+~
+&bull; **Fallar en el juicio con Andrés Guarneros** Debí saber que algo estaba fallando, debió ser más precavido, pero me confíe. era un juicio muy fácil y no logré ganarlo.
+
+&nbsp;
+
+### ( 10. ) ¿Qué otras dificultades enfrentó?
+&bull; He estado **batallando con dinero**. Estoy endeudado. Y a pesar de la beca veo que no saldré pronto de mis deudas.
+
+&bull; Siento que **jurídico me quita el tiempo**. Podría hacer muchas más cosa pero es un lastre que aún cargo.
+
+&nbsp;
+
+### ( 11. ) ¿Sufriste alguna enfermedad o lesión?
+**Este año no.**
+
+&nbsp;
+
+### ( 12. ) ¿Qué fue lo mejor que compró?
+&bull; **Donar a Yuggie** y conseguir lo paquetes ha sido una de las cosas que más me ha hecho feliz en mucho tiempo.
+
+&bull; Las **refacciones a la bicicleta** me han sido muy útiles.
+
+&nbsp;
+
+### ( 13. ) ¿El comportamiento de quién merecía ser celebrado?
+Me he acercado mucho a mis amigos. Desde Christian, hasta Mauricio y los demás del grupo de 
+
+&nbsp;
+
+### ( 14. ) ¿De quién fue el comportamiento que te horrorizó?
+Es muy complicado decirlo creo que no puedo decir alguien en especifico.
+
+&nbsp;
+
+### ( 15. ) ¿A dónde fue la mayor parte de tu dinero?
+Si, mi dinero se fue apagar deudas en tarjetas de crédito, pero disfrute mucho. Igual gaste más en donaciones a una streamer.
+
+&nbsp;
+
+### ( 16. ) ¿Qué fue lo que te emocionó mucho, mucho, mucho?
+&bull; **La boda de Aran** Definitivamente, fue lo más destacado del año. Pude viajar, me acerque a un amigo, conocí a personas que tenia tiempo buscando concer en persona  disfrute mucho. Son cosas que no pasan con frecuencia.
 
 ~
 
-&bull; **Fallar en impartir clases de inglés.** creq ue uno de msi grandes fracasos fue que me despidiera nde de dar clases de inglpes en la academaia Europea, se que eso causo que bucará otras oportunidades en mi vida  yq ue viera la maestría como una posibilidad. Auqneu no puede odejar de pensar que serai muy chico estar ganado una part de dinero que noo estaba ganandoe n jurídico. Creía que serpía una buena oportunidad para conocer más gente pero al final no lo fue. Definitivamente algo que hubiera mejorado mi vda pero al fianl no paso. 
-
-A veces las cosas simplente no son para uno, las cosas que te pertenecen no debes de persegurilas o batlalr para obtenerlas.
-
-~
-
-&bull; **Perder el caso de Andrés Guarneros**
-
+&bull; **Participar en el Recap 2023 de Yuggie_TV** De nuevo pude participar en el video de Recap de este año. Fue una experiencia un poco menos estresante pues ya tenía las marcas de tiempo y me relaje, además tenía una mejor idea de lo que deseaba hacer y un conocimiento mejor del software que usaba. Eso me hizo sentir que incluso mis ediciones fueron un poco mejores, con ritmo en algunas, y efectos interesantes. Este año en particular parece que le gusto mucho a Yuggie. Insisto no me importa que no se suba a Youtube mi trabajo y dedicación fueron recompensados.
 
 &nbsp;
 
-#### ( 10. ) ¿Qué otras dificultades enfrentó?
-He estado **batallando con dinero**. Las cosas no se me han dado de distitnas formas.
+### ( 17. ) ¿Qué canción te recordará siempre a este año?
+Este año en particular escuche mucho K-pop, creo que fue el año que más Musica he oído de ese género, **Love on fire** definitivamente es la canción que más oí este año. Descubrí mi amor por este género y como lo disfruto mucho. Incluso me hice de un calendario de el grupo Twice.
 
 &nbsp;
 
-#### ( 11. ) ¿Sufriste alguna enfermedad o lesión?
-Receintemente tuve un **accidente en bicicleta**, ese accidnete me ha impedido hacer ejercicio y moverme de una manera normal. Es la primera vez que tengo un accidente en mi bicicleta. Creo que me ha servid para darme cuenta de que debo de tener más cuidado con el movimiento en ella.
+### ( 18. ) Comparado con esta época del año pasado, ¿estás más feliz o más triste? ¿Más delgado o más gordo? ¿Más rico o más pobre?
+Comparado con el año 2022:
+- Me siento definitivamente más tranquilo, tengo poca ansiedad, me siento menos preocupado, y no podría decir optimista, pero si más calmado.
+- Estoy relativamente más pobre, pero creo que los gastos que he llevado a cabo los he disfrutado.
+- Estoy más calmado en general.
 
 &nbsp;
 
-#### ( 12. ) ¿Qué fue lo mejor que compró?
-Debido a cumplir 30 año he buscado meter el deporte en mi vida y ser una persona mucho más sana. Empecé por comprarme unos pares de tenis mejores pues los que tengo ya han terminado su ciclo de vida.
-
-Me compré **unos patines y he estado comprando cosas para la bicicleta**, lo que ha mejorado la manera en que llevo a cabo esas actividades.
-
-&nbsp;
-
-#### ( 13. ) ¿El comportamiento de quién merecía ser celebrado?
-Creo que muchos de mis amigos me ha ayudado este año de diversas formas, desde **Daniel** siendo mi socio por una parte de año, **Jezabel** apoyándome con asesorías y sobre todo **Paty**, quien me ayudado con casos que hemos llevado juntos.
+### ( 19. ) ¿Qué desearías haber hecho más?
+- Reflexionar más sobre las cosas que no me han dado resultado, y como cambiarlas.
+- Planificar mis gastos mejor.
+- Ver más a Yuggie y Tyongee.
+- Trabajar en mis proyectos personales y artísticos.
+- Ser menos inseguro, más confiado en mi mismo, tener menos miedo de tonterías.
 
 &nbsp;
 
-#### ( 14. ) ¿De quién fue el comportamiento que te horrorizó?
-La manera en que **mi hermana** ha manejado muchas cosas respecto de sus hijos y la dependencia con mi madre, me ha hecho decidirme a no tener hijos.
+### ( 20. ) ¿Qué desearías haber hecho menos?
+- Gastar dinero que no tengo.
 
 &nbsp;
 
-#### ( 15. ) ¿A dónde fue la mayor parte de tu dinero?
-Definitivamente **mi dinero se fue a pagar las deudas**, desde mi préstamo para poder pagar el carro, el mismo automóvil, y las tarjetas de crédito.
+### ( 21. ) ¿Cómo estás pasando la Navidad?
+Repetí pasarla descansando y solo. En este año también quise hacerlo para poder tomarme un descanso y despejarme de mi vida.
 
 &nbsp;
 
-#### ( 16. ) ¿Qué fue lo que te emocionó mucho, mucho, mucho?
-&bull; **El concierto de DJ Tiesto, y Martin Garrix** fue de lo mejor que me pasó este año. A pesar de que todo ese día salió mal, desde mi boleto que no sirvió, no encontrar a mis amigos, mojarme en la lluvia; pero al final fue genial estar solo ahí entre al gente al momento de oír la canción que deseaba: _the only way is up_, me recordó grandes momentos de mi vida y que a pesar de que paso muchísimo tiempo solo, yo soy mi mejor compañía.
+### ( 22. ) ¿Te has enamorado este año?
+&bull; Si bien sigo con mi fascinación con **Yuggie**, que tengo bien claro que no va ningún lado. Lo disfruto me deja experimentar cosa desde la perspectiva de otra persona, alguein como ella.
 
-~
-
-&bull; **Participar en el Recap 2022 de Yuggie_TV** Desde hace tiempo me hace ilusión aprender a editar video y poder usarlo como un medie de expresión creativo. Además, de que quería poder homenajear a Yuggie y como me ha dado motivación en mi vida. Asíque el participar en el reca fue de lso mejor que pasó este año. PAra variar estuve a punto de autosaotearme pero al final logré algo muy bueno, y parece que le gustó mucho tanto a Yuggie como al chat. Fue un triunfo pues fue al primera vez que dite video en Premier Pro. Aunque a la parecer no se subira a Youtube, por lo enos no pronto pues Yuggie lo guardo como VOD en Twitch y no en Youtube, ni modo.
+&bull; Creí que podía haber algo con **la chica que le pedí su número de teléfono** pero no pasó.
 
 &nbsp;
 
-#### ( 17. ) ¿Qué canción te recordará siempre a este año?
-**_The only way is up_ de Martin Garrix y Dj Tiesto**, asi como todo el K-pop que este año fue la música de fondo de mi vida, sobre todo **_Playing with fire_ de Blackpink**, incluso la canción mas oída de este año: **All the rage back home** de Interpoll.
+### ( 23. ) ¿Odias a alguien ahora que no odiabas en esta época el año pasado?
+Es difícil para mí poder seguir odiando a alguien.
 
 &nbsp;
 
-#### ( 18. ) Comparado con esta época del año pasado, ¿estás más feliz o más triste? ¿Más delgado o más gordo? ¿Más rico o más pobre?
-Comparado con el año pasado:
-- Estoy más feliz, me siento menos ansioso creo que este año pinta mejor que el otro
-- Estoy mas gordo,  debido a dejar de hacer ejercicio tan seguido y cuidar menos lo que como he notado esto.
-- Estoy más pobre, mi deudas han aumentado mucho.
-
-&nbsp;
-
-#### ( 19. ) ¿Qué desearías haber hecho más?
-Más ejercicio, ver más stream de Yuggie y Tyongeee, sentirme mal o inseguro por no hacer estas cosas.
-
-&nbsp;
-
-#### ( 20. ) ¿Qué desearías haber hecho menos?
-Preocupado meno por gene que ni me topa o que no debería de importarme.
-
-&nbsp;
-
-#### ( 21. ) ¿Cómo estás pasando la Navidad?
-La pase descansando y solo. Decidí hacerlo para poder tomarme un descanso y despejarme de mi vida.
-
-&nbsp;
-
-#### ( 22. ) ¿Te has enamorado este año?
-&bull; Ha seguido esta fascinación con **Yuggie**, la streamer. La veo casi diario y así, pero pues no va ningún lado. Es puro amor platónico. He estado lidiando con esta idea de que por un lado entiendo que nunca va asar nada ay que incluso si la llego a  conocer es imposible que haya algo entre nosotros, pues nuestras circunstancias son muy diferentes, pero mis senttimeitos estan ahí. Lo disfrutaré mientras pueda.
-
-&bull; He reencontrado a **Karla**, si bien siempre me había gustado no deseaba hacer algún movimiento más con ella. creo que hay la oportunidad de tener algo mas pero sigo en la busqueda de ver si sucde algo ahí. No lo sé.
-
-&nbsp;
-
-#### ( 23. ) ¿Odias a alguien ahora que no odiabas en esta época el año pasado?
-El odio no es lo mío.
-
-&nbsp;
-
-#### ( 24. ) ¿Cuál fue tu programa favorito?
-El final de **Better Call Saul** fue una de las mejores cosa que he visto no solo este año sino en mi vida. La serie logró unir las tres lineas de tiempo que manejaba y a pesar de que el final ni fue feliz, fue el correcto.
+### ( 24. ) ¿Cuál fue tu programa favorito?
+Este año redescubrí el anime de **Ju jutsu kaisen**, que estaba interesado en verlo, pero me pareció muy bueno e interesante. Este año me daré el timepo para ver más televi
 
 &nbsp;
 
