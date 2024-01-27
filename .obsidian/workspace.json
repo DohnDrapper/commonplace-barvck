@@ -31,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2022/Preguntas final de 2022.md",
+                "file": "Pregunta final de 2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2022/Preguntas final de 2022.md"
+                "file": "Pregunta final de 2023.md"
               }
             }
           },
@@ -133,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2022/Preguntas final de 2022.md",
+                "file": "Pregunta final de 2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -179,10 +180,10 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "4f5391c759275e9c",
+  "active": "07d31488bc1fe6ad",
   "lastOpenFiles": [
-    "Pregunta final de 2023.md",
     "2022/Preguntas final de 2022.md",
+    "Pregunta final de 2023.md",
     "2022/Enero 2022.md",
     "2022/Cine 2022.md",
     "Bolillos parlantes 2023.md",
