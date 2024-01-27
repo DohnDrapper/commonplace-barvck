@@ -5,6 +5,50 @@ aliases:
 date: 2024-01-12
 tags:
 ---
+# Preguntas final de 2023
+---
+
+1. [[#( 1. )  ¿Qué hiciste este año que nunca antes habías hecho?|( 1. )  ¿Qué hiciste este año que nunca antes habías hecho?]]
+1. [[#( 2. ) ¿Cumpliste tus propósitos de año nuevo?|( 2. ) ¿Cumpliste tus propósitos de año nuevo?]]
+1. [[#( 3. ) ¿Alguien cercano a ti dio a luz?|( 3. ) ¿Alguien cercano a ti dio a luz?]]
+1. [[#( 4. ) ¿Murió alguien cercano a ti?|( 4. ) ¿Murió alguien cercano a ti?]]
+1. [[#( 5. ) ¿Qué ciudades/estados/países visitaste?|( 5. ) ¿Qué ciudades/estados/países visitaste?]]
+1. [[#( 6. ) ¿Qué te gustaría tener el próximo año que te faltó este año?|( 6. ) ¿Qué te gustaría tener el próximo año que te faltó este año?]]
+1. [[#( 7. ) ¿Qué fecha(s) de este año quedará(n) grabada(s) en su memoria y por qué?|( 7. ) ¿Qué fecha(s) de este año quedará(n) grabada(s) en su memoria y por qué?]]
+1. [[#( 8. ) ¿Cuál fue su mayor logro del año?|( 8. ) ¿Cuál fue su mayor logro del año?]]
+1. [[#( 9. ) ¿Cuál fue su mayor fracaso?|( 9. ) ¿Cuál fue su mayor fracaso?]]
+1. [[#( 10. ) ¿Qué otras dificultades enfrentó?|( 10. ) ¿Qué otras dificultades enfrentó?]]
+1. [[#( 11. ) ¿Sufriste alguna enfermedad o lesión?|( 11. ) ¿Sufriste alguna enfermedad o lesión?]]
+1. [[#( 12. ) ¿Qué fue lo mejor que compró?|( 12. ) ¿Qué fue lo mejor que compró?]]
+1. [[#( 13. ) ¿El comportamiento de quién merecía ser celebrado?|( 13. ) ¿El comportamiento de quién merecía ser celebrado?]]
+1. [[#( 14. ) ¿De quién fue el comportamiento que te horrorizó?|( 14. ) ¿De quién fue el comportamiento que te horrorizó?]]
+1. [[#( 15. ) ¿A dónde fue la mayor parte de tu dinero?|( 15. ) ¿A dónde fue la mayor parte de tu dinero?]]
+1. [[#( 16. ) ¿Qué fue lo que te emocionó mucho, mucho, mucho?|( 16. ) ¿Qué fue lo que te emocionó mucho, mucho, mucho?]]
+1. [[#( 17. ) ¿Qué canción te recordará siempre a este año?|( 17. ) ¿Qué canción te recordará siempre a este año?]]
+1. [[#( 18. ) Comparado con esta época del año pasado, ¿estás más feliz o más triste? ¿Más delgado o más gordo? ¿Más rico o más pobre?|( 18. ) Comparado con esta época del año pasado, ¿estás más feliz o más triste? ¿Más delgado o más gordo? ¿Más rico o más pobre?]]
+1. [[#( 19. ) ¿Qué desearías haber hecho más?|( 19. ) ¿Qué desearías haber hecho más?]]
+1. [[#( 20. ) ¿Qué desearías haber hecho menos?|( 20. ) ¿Qué desearías haber hecho menos?]]
+1. [[#( 21. ) ¿Cómo estás pasando la Navidad?|( 21. ) ¿Cómo estás pasando la Navidad?]]
+1. [[#( 22. ) ¿Te has enamorado este año?|( 22. ) ¿Te has enamorado este año?]]
+1. [[#( 23. ) ¿Odias a alguien ahora que no odiabas en esta época el año pasado?|( 23. ) ¿Odias a alguien ahora que no odiabas en esta época el año pasado?]]
+1. [[#( 24. ) ¿Cuál fue tu programa favorito?|( 24. ) ¿Cuál fue tu programa favorito?]]
+1. [[#( 25. ) ¿Cuál fue el mejor libro que leíste?|( 25. ) ¿Cuál fue el mejor libro que leíste?]]
+1. [[#( 26. ) ¿Cuál fue tu mayor descubrimiento musical del año?|( 26. ) ¿Cuál fue tu mayor descubrimiento musical del año?]]
+1. [[#( 27. ) ¿Cuál fue tu película favorita?|( 27. ) ¿Cuál fue tu película favorita?]]
+1. [[#( 28. ) ¿Cuál fue su comida favorita?|( 28. ) ¿Cuál fue su comida favorita?]]
+1. [[#( 29. ) ¿Qué querías y obtuviste?|( 29. ) ¿Qué querías y obtuviste?]]
+1. [[#( 30. ) ¿Qué querías y no conseguiste?|( 30. ) ¿Qué querías y no conseguiste?]]
+1. [[#( 31. ) ¿Qué hiciste en tu cumpleaños?|( 31. ) ¿Qué hiciste en tu cumpleaños?]]
+1. [[#( 32. ) ¿Qué cosa habría hecho tu año inconmensurablemente más satisfactorio?|( 32. ) ¿Qué cosa habría hecho tu año inconmensurablemente más satisfactorio?]]
+1. [[#( 33. ) ¿Cómo describirías tu moda personal este año?|( 33. ) ¿Cómo describirías tu moda personal este año?]]
+1. [[#( 34. ) ¿Qué te mantuvo cuerdo?|( 34. ) ¿Qué te mantuvo cuerdo?]]
+1. [[#( 35. ) ¿Qué celebridad o figura pública admiraste más?|( 35. ) ¿Qué celebridad o figura pública admiraste más?]]
+1. [[#( 36. ) ¿Qué tema político te ha conmovido más?|( 36. ) ¿Qué tema político te ha conmovido más?]]
+1. [[#( 37.) ¿A quién echaste de menos?|( 37.) ¿A quién echaste de menos?]]
+1. [[#( 38. ) ¿Quién fue la mejor persona nueva que conociste?|( 38. ) ¿Quién fue la mejor persona nueva que conociste?]]
+1. [[#( 39. ) ¿Qué valiosa lección de vida aprendiste este año?|( 39. ) ¿Qué valiosa lección de vida aprendiste este año?]]
+1. [[#( 40. ) ¿Qué cita resume tu año?|( 40. ) ¿Qué cita resume tu año?]]
+
 
 ### ( 1. )  ¿Qué hiciste este año que nunca antes habías hecho?
 
@@ -191,150 +235,139 @@ Es difícil para mí poder seguir odiando a alguien.
 &nbsp;
 
 ### ( 24. ) ¿Cuál fue tu programa favorito?
-Este año redescubrí el anime de **Ju jutsu kaisen**, que estaba interesado en verlo, pero me pareció muy bueno e interesante. Este año me daré el timepo para ver más televi
+Este año redescubrí el anime de **Ju jutsu kaisen**, que estaba interesado en verlo, pero me pareció muy bueno e interesante. Este año me daré el timepo para ver más cosas audiovisuales que el año pasado.
 
 &nbsp;
 
-#### ( 25. ) ¿Cuál fue el mejor libro que leíste?
-No leí este año.
+### ( 25. ) ¿Cuál fue el mejor libro que leíste?
+No leí nada este año.
 
 &nbsp;
 
-#### ( 26. ) ¿Cuál fue tu mayor descubrimiento musical del año?
-Este año descubrí **el K- pop** como un género musical que vale la pena y que me ha dado muchas cosas que disfrutar. Me gusta la energía de los grupos tanto cantando como bailando. Aunque claro es una industria que acaba con la juventud de estas pobres chicas y con muchos de sus sueños.
+### ( 26. ) ¿Cuál fue tu mayor descubrimiento musical del año?
+No tuve uno en especifico o destacable.
 
 &nbsp;
 
-#### ( 27. ) ¿Cuál fue tu película favorita?
+### ( 27. ) ¿Cuál fue tu película favorita?
 
-| No. |Pelicula|Año|Fuente| Fecha|
-|---|---|---|---|---|
-| 1 | [La peor persona del mundo](https://boxd.it/oyws) | 2021 | Cinépolis | 17 Marzo |
-| 2 | [Todo en todas partes al mismo tiempo](https://boxd.it/jUk4)|2022|Cinépolis|9 Junio|
-| 3 | [El hombre del norte](https://boxd.it/nK2s)|2022|Cinépolis|14 Abril|
-| 4 | [The Batman](https://boxd.it/eDGs)| 2022|Cinépolis|5 febrero|
-| 5 | [The card counter](https://boxd.it/nTH0) |2022|Cinepolis|27 de febrero de 2022|
-| 6 | [Drive my car ](https://boxd.it/sv94) | 2022|MUBI|1 Abril|
-| 7 | [Men](https://boxd.it/tlc0) | 2022 | Cinépolis | 19 Diciembre |
-| 8 | [Swallow](https://boxd.it/lA0i)|2019 |MUBI|25 Mayo|
-| 9 | [Peligro, Deseo](https://boxd.it/244k)|2007|MUBI|21 Enero|
-| 10 | [Oslo, Agosto 31](https://boxd.it/2xQC)|2011|MUBI|23 Agosto |
-| 11 | [Love exposure](https://boxd.it/1pDe)| 2008| Internet |18 Septiembre|
+| No. | Película | Año | Fecha | Fuente | Letterboxd |
+|---|---|---|---|---|---|
+|1|Guadianes de la Galaxia volumen 3|2023|3/05/2023|Cinépolis|[https://boxd.it/4jtXwr](https://boxd.it/4jtXwr)|
+|2|Calabozos y Dragones: Honor entre ladrones|2023|29/03/2023|Cinépolis|[https://boxd.it/4785fh](https://boxd.it/4785fh)|
+|3|Godzilla minus one|2023|29/12/2023|Cinépolis|[https://boxd.it/5xRKfz](https://boxd.it/5xRKfz)|
+|4|John Wick 4|2023|11/03/2023|Cinépolis|[https://boxd.it/4527MH](https://boxd.it/4527MH)|
+|5|Tàr|2022|21/03/2023|Cinépolis|[https://boxd.it/44z2jH](https://boxd.it/44z2jH)|
+|6|Buena suerte, mala suerte|2022|4/07/2023|Cinépolis|[https://boxd.it/4xiLgl](https://boxd.it/4xiLgl)|
+|7|Dracula: Mar de sangre|2023|28/08/2023|Cinépolis|[https://boxd.it/59Dzj7](https://boxd.it/59Dzj7)|
+|8|El poder de los centavos|2023|2/11/2023|Cinépolis|[https://boxd.it/5xR14V](https://boxd.it/5xR14V)|
+|9|Napoleón|2023|6/12/2023|Cinépolis|[https://boxd.it/5xRGlN](https://boxd.it/5xRGlN)|
+|10|La señora Harris va a Paris|2022|4/02/2023|Cinépolis|[https://boxd.it/3NW18L](https://boxd.it/3NW18L)|
+
+| No. | Película | Año | Fecha | Fuente | Letterboxd |
+|---|---|---|---|---|---|
+|*|Barbie|2023|21/07/2023|Cinépolis|[https://boxd.it/4A558F](https://boxd.it/4A558F)|
+|*|Mission impossible: Phantom thread|2023|22/08/2023|Cinépolis|[https://boxd.it/58X1TL](https://boxd.it/58X1TL)|
+|*|Indiana Jones y el dial del destino|2023|5/07/2023|Cinépolis|[https://boxd.it/4xiSxj](https://boxd.it/4xiSxj)|
+|*|Trigal|2022|24/04/2023|Cinépolis|[https://boxd.it/4gdtr3](https://boxd.it/4gdtr3)|
+|*|Oppenheimer|2023|20/07/2023|Cinépolis|[https://boxd.it/4A0DAN](https://boxd.it/4A0DAN)|
+|*|Renfield: Asistente de Vampiro|2023|9/05/2023|Cinépolis|[https://boxd.it/479sRF](https://boxd.it/479sRF)|
+|*|Flash|2023|15/06/2023|Cinépolis|[https://boxd.it/4xhpNP](https://boxd.it/4xhpNP)|
+
+| | A N I M A D A S  |   |   |   |   |
+|---|---|---|---|---|---|
+|+|El gato con botas: El último deseo|2022|23/01/2023|Cinépolis|[https://boxd.it/3KT0a9](https://boxd.it/3KT0a9)|
+|+|Spider man: A través del spiderverso|2023|1/06/2023|Cinépolis|[https://boxd.it/4oI1Vj](https://boxd.it/4oI1Vj)|
+|+|Slam Dunk!|2023|27/07/2023|Cinépolis|[https://boxd.it/4RDHU9](https://boxd.it/4RDHU9)|
+
+
+| | D E  O T R O S  A Ñ O S  |   |   |   |   |
+|---|---|---|---|---|---|
+|*|La asesina|2015|22/01/2023|MUBI|[https://boxd.it/3KSGrT](https://boxd.it/3KSGrT)|
+|*|La villana|2017|31/01/2023|MUBI|[https://boxd.it/3NUX7x](https://boxd.it/3NUX7x)|
+|*|Battle Royale|2000|17/02/2023|MUBI|[https://boxd.it/3NW18L](https://boxd.it/3NW18L)|
+|*|El descenso|2023|11/05/2023|MUBI|[https://boxd.it/4maFl5](https://boxd.it/4maFl5)|
+|*|The misseducation of Cameron Post|2018|21/08/2023|MUBI|[https://boxd.it/53gXo1](https://boxd.it/53gXo1)|
+|*|Senderos de gloria|1957|9/09/2023|Internet|[https://boxd.it/59G7gF](https://boxd.it/59G7gF)|
+|*|De Rusia con amor|1963|13/09/2023|Internet|[https://boxd.it/59GSw1](https://boxd.it/59GSw1)|
+|*|Holy spider|2022|16/09/2023|MUBI|[https://boxd.it/5xPSF7](https://boxd.it/5xPSF7)|
 
 &emsp;
 
-%%
-| No. |Pelicula|Año|Fuente| Fecha|
-|---|---|---|---|---|
-| 1 | [La peor persona del mundo](https://boxd.it/oyws) | 2021 | Cinépolis | 17 Marzo |
-| 2 | [Swallow](https://boxd.it/lA0i)|2019 |MUBI|25 Mayo|
-| 3 | [Peligro, Deseo](https://boxd.it/244k)|2007|MUBI|21 Enero|
-| 4 | [Oslo, Agosto 31](https://boxd.it/2xQC)|2011|MUBI|23 Agosto |
-| 5 | [Love exposure](https://boxd.it/1pDe)| 2008| Internet |18 Septiembre|
-| 6 | Why don't you play in hell| 2013 |MUBI|12 febrero|
-| 7 | Paprika | 2006 | Internet | 3 Agosto |
-| 8 | Posession | 1981 | Cinemex | 3 Octubre |
-| 9 | Una pastelería en Tokio | 2015 | MUBI | 21 Noviembre |
-
-&emsp;
-
-| No. |Pelicula|Año|Fuente| Fecha|
-|---|---|---|---|---|
-| 1 | [Todo en todas partes al mismo tiempo](https://boxd.it/jUk4)|2022|Cinépolis|9 Junio|
-| 2 | [El hombre del norte](https://boxd.it/nK2s)|2022|Cinépolis|14 Abril|
-| 3 | [The Batman](https://boxd.it/eDGs)| 2022|Cinépolis|5 febrero|
-| 4 | Thor: Love and Thunder | 2022 | Cinepolis | 6 de Julio |
-| 5 | [The card counter](https://boxd.it/nTH0) |2022|Cinepolis|27 de febrero de 2022|
-| 6 | [Men](https://boxd.it/tlc0) | 2022 | Cinépolis | 19 Diciembre |
-| 7 | [Drive my car ](https://boxd.it/sv94) | 2022|MUBI|1 Abril|
-| 8 | Nop!|2022|Cinepolis|30 agosto|
-| 9 | Black adam | 2022 | Cinepolis | 21 Octubre |
-| 10 | Aftersun | 2022 | Cinépolis | 1 Diciembre |
-| 11 | Observada | 2022 | Cinépolis | 4 Noviembre |
-| 12| Dragon ball: Super|2022|Cinépolis|22 Agosto|
-| 13 | Soy tu fan: la película|2022|Cine´polis|20 septiembre|
-%%
-
-
-#### ( 28. ) ¿Cuál fue su comida favorita?
-Este año pude visitar distintos restaurantes, pero creo que el que más disfrute fue **"Harbor's"**. La comida estuvo deliciosa y pasar tiempo con las personas que conzco fue una cosa genial.
+### ( 28. ) ¿Cuál fue su comida favorita?
+Acudí al reaturante llamado "Mochomos" que fue una las comidas más ricas que tuve.
 
 &nbsp;
 
-#### ( 29. ) ¿Qué querías y obtuviste?
-&bull;  Pude **participar en el Recap 2022 de Yuggie_tv**
+### ( 29. ) ¿Qué querías y obtuviste?
+&bull;  Pude **participar en el Recap 2023 de Yuggie_tv** de nuevo y mejore mis tiempos.
 
-&bull; **Entre a la maestría de "Maestría** Interinstitucional de Derechos Humanos"
-
-&nbsp;
-
-#### ( 30. ) ¿Qué querías y no conseguiste?
-&bull; Tener una relación un poco más seria con Miriam.
-
-&bull; Dar las clases de Inglés en la Academia Europea. 
+&bull; **Usar el dinero de la maestría para hacer mis gastos** Me aliviano mucho y me dio mucha tranquilidad.
 
 &nbsp;
 
-#### ( 31. ) ¿Qué hiciste en tu cumpleaños?
-Había pensado muchísimas cosa para mi cumpleaños quería hacer un fiesta grande y que viniera mucha gente y comer cosas ricas y a las 12 de noche escuchar cierta canción, pero no pudo ser. La reunión al final fue de menos gente y con menos comida y así. 
+### ( 30. ) ¿Qué querías y no conseguiste?
+&bull; Tener algo con la chica que le pedí su teléfono.
 
-**Lo importante fue que las personas que vinieron de verdad las aprecio y las que no vinieron también, yo disfrute de la fiesta, la comida y el baile. Y eso es lo importante.**
+&bull; Tener más trabajo para pagar mis deudas. 
 
 &nbsp;
 
-#### ( 32. ) ¿Qué cosa habría hecho tu año inconmensurablemente más satisfactorio?
-&bull; Haber **tenido sexo de verdad con Miriam** y poder repetirlo, no simplemente no lograrlo como siempre me pasa.
+### ( 31. ) ¿Qué hiciste en tu cumpleaños?
+Fueron muchas cosas, desde ir a comer, Yuggie me felicitó en mu cumpleaños, comí pastel, mucha gente interesante me felicitó, disfrute mucho de cumplir 31 años en verdad.
+
+&nbsp;
+
+### ( 32. ) ¿Qué cosa habría hecho tu año inconmensurablemente más satisfactorio?
+&bull; Tener un poco más de efectivo y poder utilizar mi tiempo de una mejor manera..
 
 &bull; Haber **bajado más de peso**
 
-&bull; **Dejar la maldita ansiedad y esa sensación idiota de tener como miedo o inquietud de hacer o ver ciertas cosas.**
+&bull; **Quitarme ese sentimiento de no querer ver los VOD's**
 
 &nbsp;
 
-#### ( 33. ) ¿Cómo describirías tu moda personal este año?
-La misma de cada año.
+### ( 33. ) ¿Cómo describirías tu moda personal este año?
+Igual que los pasados nada específicamente destacable.
 
 &nbsp;
 
-#### ( 34. ) ¿Qué te mantuvo cuerdo?
-La meditación.
+### ( 34. ) ¿Qué te mantuvo cuerdo?
+La meditación,  la bicicleta, salir a comer o solo salir a hacer cosas.
 
 &nbsp;
 
-#### ( 35. ) ¿Qué celebridad o figura pública admiraste más?
-Fui muy fan de como Yuggie y Tyongee manejaron su depresión. Creo que verlas me inspiro a ser una mejor persona y buscar tener mi felicidad en mi mismo y no en cosas externas. 
-
-&nbsp;
-
-#### ( 36. ) ¿Qué tema político te ha conmovido más?
-La guerra de Ucrania.
-
-&nbsp;
-
-#### ( 37.) ¿A quién echaste de menos?
-Decidí pasar tiempo solo por decisión propia. Y ha sido algo bueno para mí. No extrañe a nadie en particular.
-
-&nbsp;
-
-#### ( 38. ) ¿Quién fue la mejor persona nueva que conociste?
+### ( 35. ) ¿Qué celebridad o figura pública admiraste más?
 Nadie en particular.
 
 &nbsp;
 
-#### ( 39. ) ¿Qué valiosa lección de vida aprendiste este año?
-&bull; A poner limites, no cargar cosa que la gente me ha dicho, no más.
+### ( 36. ) ¿Qué tema político te ha conmovido más?
+El genocidio que Israel está cometiendo contra los palestinos y que es muy posible se inicien conflictos armados en varias partes del mundo.
+
+&nbsp;
+
+### ( 37.) ¿A quién echaste de menos?
+Nadie, disfruto y debo empezar a disfrutar mi soledad.
+
+&nbsp;
+
+### ( 38. ) ¿Quién fue la mejor persona nueva que conociste?
+Nadie específico.
+
+&nbsp;
+
+### ( 39. ) ¿Qué valiosa lección de vida aprendiste este año?
+&bull; La terapía me ha dado mucho y creoque la puse arriba, hay muchas cosa que aun tengo que aprender a manejar.
 
 &bull; A disfrutar más las cosas y a relajarme.
 
 &nbsp;
 
-#### ( 40. ) ¿Qué cita resume tu año?
-Este año o que he visto muchas publicaciones sobre la ansiedad y la meditación me ha impactado de distintas maneras pero creo que uno que deseo recordar es el de Ana Akana, es decir, los grandes objetivos de la vida y poner la felicidad en cosas externas es inútil, al final no sirven de nada: los verdaderos placeres de la vida son las pequeñas cosas que tenemos todos los días y que damos por sentadas
-
-Aunque convencernos de ello es una tarea muy difícil.
+### ( 40. ) ¿Qué cita resume tu año?
+No creo que hay auna pero creo que sería el evitar el control. Es imposible controlar la vida o tener certeza.
 
 ---
-
-Sigo sin tener un meta clara en mi vida. Sin ser feliz o dejar de sentirme solo o con vacío en mi interior. Pero definitivamente este año he aprendido a dejar de sobre pensar y creo que este año la vida ha sido más llevadera. Espero esto solo mejore en 2023. Será un mejor año de manera definitiva. Lo será.
+Ya no creo exista una meta o un lugar en mi vida. La vivo al momento y lo que siento. 2023 fue un gran año, 2024 solo pinta muchísimo mejor.
 
 ---
