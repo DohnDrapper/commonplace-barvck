@@ -11,8 +11,12 @@
             "id": "209de25e6c986572",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Sesion 'ojo del Beholder'.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ideas",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Sesion 'ojo del Beholder'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Sesion 'ojo del Beholder'.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Sesion 'ojo del Beholder'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,6 +169,11 @@
   },
   "active": "209de25e6c986572",
   "lastOpenFiles": [
+    "Rol/TDA/Sesión 20 TDA - Preparación.md",
+    "Rol/TDA/Sesión 23 TDA - Preparación.md",
+    "Sesion 'ojo del Beholder'.md",
+    "Rol/Música.md",
+    "Rol/TDA/Sesión 22 TDA - Preparación.md",
     "Personal/Bolsas de trabajo.md",
     "2022/Preguntas final de 2022.md",
     "Pregunta final de 2023.md",
@@ -181,11 +194,6 @@
     "Personal/Para ver.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
     "Rol/SDC/SDC -Probable organización.md",
-    "Rol/SDC/Pleneación general SDC.md",
-    "Referencia Mark down.md",
-    "Escaleta Analisis Película Calabozos y Dragones (2023).md",
-    "Untitled.md",
-    "Rol/TDA/Sesión 43 TDA - Preparación.md",
-    "Rol/TDA/Sesión 42 TDA - Preparación.md"
+    "Rol/SDC/Pleneación general SDC.md"
   ]
 }
