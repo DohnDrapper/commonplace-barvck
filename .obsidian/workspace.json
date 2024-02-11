@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "42549213c9f986d3",
+        "id": "4369d593c234267d",
         "type": "tabs",
         "children": [
           {
-            "id": "adde9757fa9e08a9",
+            "id": "209de25e6c986572",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,8 +159,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "adde9757fa9e08a9",
+  "active": "209de25e6c986572",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "2022/Preguntas final de 2022.md",
     "Pregunta final de 2023.md",
     "2022/Enero 2022.md",
@@ -180,7 +173,6 @@
     "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Personal/Bolsas de trabajo.md",
     "Quiubole con  Vampiro.md",
     "0002-10-28.md",
     "2022-09-29.md",
