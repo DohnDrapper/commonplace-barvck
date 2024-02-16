@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4369d593c234267d",
+        "id": "d2bae236b2d0b151",
         "type": "tabs",
         "children": [
           {
-            "id": "209de25e6c986572",
+            "id": "50fb93a78c858768",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesion 'ojo del Beholder'.md",
-                "mode": "source",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesion 'ojo del Beholder'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Sesion 'ojo del Beholder'.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesion 'ojo del Beholder'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +159,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "209de25e6c986572",
+  "active": "50fb93a78c858768",
   "lastOpenFiles": [
+    "Sesion 'ojo del Beholder'.md",
     "Rol/TDA/Sesión 20 TDA - Preparación.md",
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
-    "Sesion 'ojo del Beholder'.md",
     "Rol/Música.md",
     "Rol/TDA/Sesión 22 TDA - Preparación.md",
     "Personal/Bolsas de trabajo.md",
