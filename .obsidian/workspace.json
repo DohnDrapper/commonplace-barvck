@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d2bae236b2d0b151",
+        "id": "bdf37285bd08f01f",
         "type": "tabs",
         "children": [
           {
-            "id": "50fb93a78c858768",
+            "id": "1a51ccbe311ad234",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -90,6 +90,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Personal/Para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +106,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Personal/Para ver.md"
+              }
             }
           },
           {
@@ -114,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Personal/Para ver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +163,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "50fb93a78c858768",
+  "active": "b1f8eea1007e62c1",
   "lastOpenFiles": [
+    "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
     "Sesion 'ojo del Beholder'.md",
     "Rol/TDA/Sesión 20 TDA - Preparación.md",
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
@@ -185,7 +190,6 @@
     "Blog/030320210338.md",
     "Personal/Para ver.md",
     "Rol/SDC/Sesión 9 SDC - Log.md",
-    "Rol/SDC/SDC -Probable organización.md",
-    "Rol/SDC/Pleneación general SDC.md"
+    "Rol/SDC/SDC -Probable organización.md"
   ]
 }
