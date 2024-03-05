@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "bdf37285bd08f01f",
+        "id": "a21520942c479cf7",
         "type": "tabs",
         "children": [
           {
-            "id": "1a51ccbe311ad234",
+            "id": "bb75ad1c9b972f64",
             "type": "leaf",
             "state": {
-              "type": "kanban",
-              "state": {
-                "file": "Personal/Para ver.md"
-              }
-            }
-          },
-          {
-            "id": "7a733ece3c5d0f9c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -86,7 +73,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 315,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -102,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Para ver.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Para ver.md"
-              }
+              "state": {}
             }
           },
           {
@@ -129,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Para ver.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,8 +159,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "7a733ece3c5d0f9c",
+  "active": "bb75ad1c9b972f64",
   "lastOpenFiles": [
+    "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
+    "Rol/SDC/Sesión 1 SDC - Log.md",
+    "Personal/Para ver.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
     "Sesion 'ojo del Beholder'.md",
     "Rol/TDA/Sesión 20 TDA - Preparación.md",
@@ -196,12 +183,9 @@
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
     "Quiubole con  Vampiro.md",
-    "0002-10-28.md",
     "2022-09-29.md",
     "Frases/290420211131 - Frases de Mad Men.md",
     "Blog/030320210338.md",
-    "Personal/Para ver.md",
-    "Rol/SDC/Sesión 9 SDC - Log.md",
-    "Rol/SDC/SDC -Probable organización.md"
+    "Rol/SDC/Sesión 9 SDC - Log.md"
   ]
 }
