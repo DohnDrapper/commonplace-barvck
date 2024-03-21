@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a21520942c479cf7",
+        "id": "327ae0659ed89860",
         "type": "tabs",
         "children": [
           {
-            "id": "bb75ad1c9b972f64",
+            "id": "44bd5dee95524fdb",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,8 +159,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "bb75ad1c9b972f64",
+  "active": "44bd5dee95524fdb",
   "lastOpenFiles": [
+    "Personal/Bolsas de trabajo.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
     "Personal/Para ver.md",
@@ -170,7 +171,6 @@
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
     "Rol/Música.md",
     "Rol/TDA/Sesión 22 TDA - Preparación.md",
-    "Personal/Bolsas de trabajo.md",
     "2022/Preguntas final de 2022.md",
     "Pregunta final de 2023.md",
     "2022/Enero 2022.md",
