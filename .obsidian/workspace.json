@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "327ae0659ed89860",
+        "id": "ea0457f4d3bc3acd",
         "type": "tabs",
         "children": [
           {
-            "id": "44bd5dee95524fdb",
+            "id": "ef45bfb975d4eb3d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -159,7 +159,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "44bd5dee95524fdb",
+  "active": "ef45bfb975d4eb3d",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
