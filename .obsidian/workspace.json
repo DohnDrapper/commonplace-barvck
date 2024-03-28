@@ -18,8 +18,17 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "d726591b448bcde6",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Juegos de rol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Juegos de rol.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Juegos de rol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +172,11 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "3c12a1bd8fe149a9",
+  "active": "d726591b448bcde6",
   "lastOpenFiles": [
+    "Juegos de rol.md",
     "Para redactar en Discord.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
-    "Juegos de rol.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "Untitled.md",
     "2022-09-29.md",
