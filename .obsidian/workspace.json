@@ -8,11 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ef45bfb975d4eb3d",
+            "id": "3c12a1bd8fe149a9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Juegos de rol.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Juegos de rol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Juegos de rol.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Juegos de rol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,10 +167,15 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ef45bfb975d4eb3d",
+  "active": "3c12a1bd8fe149a9",
   "lastOpenFiles": [
-    "Personal/Bolsas de trabajo.md",
+    "Para redactar en Discord.md",
+    "Rol/SDC/Introducción a Pulp Cthulhu.md",
+    "Juegos de rol.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
+    "Untitled.md",
+    "2022-09-29.md",
+    "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
     "Personal/Para ver.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
@@ -180,12 +193,7 @@
     "Descripción Youtube Bolillos parlantes 2022 - 2023.md",
     "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md",
     "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
-    "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "Rol/SDC/Uso de suerte en Pulp cthulhu.md",
-    "Quiubole con  Vampiro.md",
-    "2022-09-29.md",
-    "Frases/290420211131 - Frases de Mad Men.md",
-    "Blog/030320210338.md",
-    "Rol/SDC/Sesión 9 SDC - Log.md"
+    "Quiubole con  Vampiro.md"
   ]
 }
