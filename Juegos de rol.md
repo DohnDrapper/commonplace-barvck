@@ -19,9 +19,7 @@ alias: presentacion juegos de rol
 
 - Es una alucinación colectiva basada en una narración.
 
-- No hay nada escrito como en un videojuego, un libro o una película.
-
-- Depende totalmente de las interacciones de los jugadores y el director de juego.  (tono, inmersión, resultado)
+- No hay nada escrito como en un videojuego, un libro o una película. Depende totalmente de las interacciones de los jugadores y el director de juego.  (tono, inmersión, resultado)
 
 - Metajuego, el jugador conoce todo lo que sabe le personaje, pero el personaje no sabe todo lo que sabe el jugador.
 
