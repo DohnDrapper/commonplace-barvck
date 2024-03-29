@@ -18,21 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "d726591b448bcde6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sesión 'Relámpago en el castillo'.md",
-                "mode": "source",
-                "source": true
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sesión 'Relámpago en el castillo'.md",
+                "file": "Juegos de rol.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +111,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sesión 'Relámpago en el castillo'.md"
+                "file": "Juegos de rol.md"
               }
             }
           },
@@ -134,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sesión 'Relámpago en el castillo'.md",
+                "file": "Juegos de rol.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,16 +167,16 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "d726591b448bcde6",
+  "active": "3c12a1bd8fe149a9",
   "lastOpenFiles": [
     "Sesión 'Relámpago en el castillo'.md",
+    "Personal/Bolsas de trabajo.md",
     "Juegos de rol.md",
     "Para redactar en Discord.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "Untitled.md",
     "2022-09-29.md",
-    "Personal/Bolsas de trabajo.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
     "Personal/Para ver.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
