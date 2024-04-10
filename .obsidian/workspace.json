@@ -18,19 +18,8 @@
                 "source": true
               }
             }
-          },
-          {
-            "id": "c65260097f9325e5",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,7 +167,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "c65260097f9325e5",
+  "active": "6af0c53d992cd6ef",
   "lastOpenFiles": [
     "Juegos de rol.md",
     "Sesión 'Relámpago en el castillo'.md",
