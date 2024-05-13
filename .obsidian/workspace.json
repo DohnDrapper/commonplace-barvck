@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5abc58d903a70c85",
+        "id": "f0ae917088d58d7f",
         "type": "tabs",
         "children": [
           {
-            "id": "6af0c53d992cd6ef",
+            "id": "06c11854208600b1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md",
-                "mode": "preview",
-                "source": true
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,9 +105,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Personal/Bolsas de trabajo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -121,7 +114,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,11 +159,13 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "6af0c53d992cd6ef",
+  "active": "06c11854208600b1",
   "lastOpenFiles": [
     "Juegos de rol.md",
-    "Sesión 'Relámpago en el castillo'.md",
+    "Reseña Letterboxd 2024.md",
+    "Ejemplo Reseña 2023 Letterboxd.md",
     "Personal/Bolsas de trabajo.md",
+    "Sesión 'Relámpago en el castillo'.md",
     "Para redactar en Discord.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
@@ -192,8 +186,6 @@
     "Bolillos parlantes 2023.md",
     "2022/Bolillos parlantes 2022.md",
     "Descripción Youtube Bolillos parlantes 2022 - 2023.md",
-    "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md",
-    "Rol/Premiaciones/040520210151 - Ideas para Bolillos parlantes.md",
-    "Rol/SDC/Uso de suerte en Pulp cthulhu.md"
+    "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md"
   ]
 }
