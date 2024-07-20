@@ -20,12 +20,12 @@
             }
           },
           {
-            "id": "ad3ea80d1efbe03f",
+            "id": "738cde5cda8818b4",
             "type": "leaf",
             "state": {
               "type": "release-notes",
               "state": {
-                "currentVersion": "1.6.5"
+                "currentVersion": "1.6.7"
               }
             }
           }
@@ -178,7 +178,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "ad3ea80d1efbe03f",
+  "active": "738cde5cda8818b4",
   "lastOpenFiles": [
     "Juegos de rol.md",
     "Reseña Letterboxd 2024.md",
