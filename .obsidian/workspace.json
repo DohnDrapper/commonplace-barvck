@@ -11,8 +11,12 @@
             "id": "9c3aea3695fec94e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "retorno de las estrellas - reseña.md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "retorno de las estrellas - reseña.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +110,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "retorno de las estrellas - reseña.md"
+              }
             }
           },
           {
@@ -114,6 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "retorno de las estrellas - reseña.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -159,8 +167,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "b1f8eea1007e62c1",
+  "active": "9c3aea3695fec94e",
   "lastOpenFiles": [
+    "retorno de las estrellas - reseña.md",
     "Personal/Bolsas de trabajo.md",
     "Juegos de rol.md",
     "Reseña Letterboxd 2024.md",
@@ -185,7 +194,6 @@
     "2022/Cine 2022.md",
     "Bolillos parlantes 2023.md",
     "2022/Bolillos parlantes 2022.md",
-    "Descripción Youtube Bolillos parlantes 2022 - 2023.md",
-    "Rol/Premiaciones/2021/Bolillis 2021- Categorías Resumen.md"
+    "Descripción Youtube Bolillos parlantes 2022 - 2023.md"
   ]
 }
