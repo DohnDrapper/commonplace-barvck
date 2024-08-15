@@ -4,11 +4,11 @@ alias: [Pink Floyd]
 
 ## Pink Floyd
 ---
-**Indice**
 1. [[#The piper at the gates of down|The piper at the gates of down]]
 1. [[#A saucerful of secrets|A saucerful of secrets]]
 1. [[#More|More]]
 1. [[#Ummagumma|Ummagumma]]
+
 
 
 ---
