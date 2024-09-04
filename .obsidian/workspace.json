@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8600042f82317c05",
+        "id": "9aa5d33e81393e92",
         "type": "tabs",
         "children": [
           {
-            "id": "c87e34667723e2f3",
+            "id": "2457958a053d2f25",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.6.7"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -169,8 +167,9 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "458c5fed125a3aef",
+  "active": "2457958a053d2f25",
   "lastOpenFiles": [
+    "Taller memetica.md",
     "Personal/Pink Floyd.md",
     "Personal/100820211442 - 2021 Resumen del Año.md",
     "Personal/Rammstein.md",
@@ -178,7 +177,6 @@
     "Sin título 1.canvas",
     "Sin título 2.canvas",
     "retorno de las estrellas - reseña.md",
-    "2024-01-08.md",
     "Personal/Bolsas de trabajo.md",
     "Juegos de rol.md",
     "Reseña Letterboxd 2024.md",
