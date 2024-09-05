@@ -1,14 +1,37 @@
 
-Protocolo de investigación
+[[A buscar para protocolo de investigación]]
+
+AUTOR
+Isaac Baruch Sánchez Hernández
+
+UNIVERSIDAD DE GUANAJUATO
+División de Derecho, Política y Gobierno
+Guanajuato, Guanajuato
+Septiembre de 2024
+
+---
+
+PROTOCOLO DE INVESTIGACION
 
 Isaac Baruch Sánchez Hernández
-Licenciado en Derecho por la Universidad Iberoamericana de León
+Licenciado en derecho por la universidad iberoamericana de León
 
-**Tema de Investigación**
-Tema: Derechos digitales en México
-Tema elegido: Sobre como mejorar los fallos en las leyes emitidas por el Estado mexicano para la regulación del Internet
+TEMA DE INVESTIGACION
+Tema: Derechos Digitales en México
 
-**Planteamiento y delimitación del problema**
+Tema elegido: Ley Olimpia: Antecedentes, Formación y Actualidad
+
+PLANTEAMIENTO Y DELIMITACION DEL PROBLEMA
+
 Planteamiento inicial:
 
-Desde hace algunos, pero concretamente desde el gran encierro que nos vimos obligados a  aceptar de amenra 
+
+
+Indice
+Contexto 
+Usar una línea de tiempo
+
+
+
+
+
