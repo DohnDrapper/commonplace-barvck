@@ -16,11 +16,11 @@ Antes cual era la estadística,  en el momento, actualidad
 
 ### Fuentes
 
-- [Revista del consumidor  Marzo 2021](https://www.profeco.gob.mx/revista/RevistaDelConsumidor_529_Marzo_2021.pdf)
-- [Ni porno, ni venganza: violencia digital, afirma la inspiradora de la Ley Olimpia en México](https://news.un.org/es/story/2023/03/1519217)
-- [FICHA TÉCNICA LEY OLIMPIA](http://ordenjuridico.gob.mx/violenciagenero/LEY%20OLIMPIA.pdf)
-- [Introducción: Ley Olimpia, una realidad nacional y en CDMX](https://semujeres.cdmx.gob.mx/storage/app/media/ViolenciaDigital/Manual_Contenidos_Lab_Ley_Olimpia.pdf)
-- [Reflexionan sobre Ley Olimpia y violencia digital](https://portalanterior.ieepcnl.mx/comunicacion/boletines/2022/LEY%20OLIMPIA.CONFERENCIA.pdf)
+1. [Revista del consumidor  Marzo 2021](https://www.profeco.gob.mx/revista/RevistaDelConsumidor_529_Marzo_2021.pdf)
+2.  [Ni porno, ni venganza: violencia digital, afirma la inspiradora de la Ley Olimpia en México](https://news.un.org/es/story/2023/03/1519217)
+3. [FICHA TÉCNICA LEY OLIMPIA](http://ordenjuridico.gob.mx/violenciagenero/LEY%20OLIMPIA.pdf)
+4. [Introducción: Ley Olimpia, una realidad nacional y en CDMX](https://semujeres.cdmx.gob.mx/storage/app/media/ViolenciaDigital/Manual_Contenidos_Lab_Ley_Olimpia.pdf)
+5. [Reflexionan sobre Ley Olimpia y violencia digital](https://portalanterior.ieepcnl.mx/comunicacion/boletines/2022/LEY%20OLIMPIA.CONFERENCIA.pdf)
 - [Hombre beneficiado por ley Olimpia](https://www.youtube.com/watch?v=p_sXZ5EnM8E)
 - [Ley Olimpia Bufete juridico](https://www.bufetejuridicogratuito.org.mx/2022/07/18/ley-olimpia/)
 - [Juez revierte Ley Olimpia](https://vanguardia.com.mx/coahuila/juez-revierte-historico-caso-de-ley-olimpia-hacia-una-mujer-en-coahuila-HI8596328)
@@ -47,6 +47,19 @@ Antes cual era la estadística,  en el momento, actualidad
 - [https://www.zocalo.com.mx/ley-olimpia-asunto-pendiente-reabre-caso-debate-sobre-la-justicia-de-genero/](https://www.zocalo.com.mx/ley-olimpia-asunto-pendiente-reabre-caso-debate-sobre-la-justicia-de-genero/)
 - [Ley Olimpia en BCS: 33 casos, cero sanciones](https://zetatijuana.com/2020/10/ley-olimpia-en-bcs-33-casos-cero-sanciones/)
 - [Violencia digital en México: Ley Olimpia](file:///C:/Users/barvc/Downloads/111-Texto%20del%20art%C3%ADculo-346-1-10-20210323-1.pdf)
+- [Ley Olimpia.com](https://leyolimpia.com.mx/)
+
+- - -
+
+### Variables
+
+- Delitos de carácter sexual aumento o descenso
+- Cifras de distintas tipos de violencia contra las mujeres
+- definir que es la porno venganza
+- que avances trajo al creacion de la ley
+	- definio varios tipos de violencia
+	- establecio como apiyar psicologicamente
+
 
 
 
