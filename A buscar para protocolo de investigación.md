@@ -22,11 +22,11 @@ Antes cual era la estadística,  en el momento, actualidad
 4. [Introducción: Ley Olimpia, una realidad nacional y en CDMX](https://semujeres.cdmx.gob.mx/storage/app/media/ViolenciaDigital/Manual_Contenidos_Lab_Ley_Olimpia.pdf
 3.1 Retos que implica la aplicacion de la ley
 5. [Reflexionan sobre Ley Olimpia y violencia digital](https://portalanterior.ieepcnl.mx/comunicacion/boletines/2022/LEY%20OLIMPIA.CONFERENCIA.pdf)
-- [Hombre beneficiado por ley Olimpia](https://www.youtube.com/watch?v=p_sXZ5EnM8E)
-- [Ley Olimpia Bufete juridico](https://www.bufetejuridicogratuito.org.mx/2022/07/18/ley-olimpia/)
-- [Juez revierte Ley Olimpia](https://vanguardia.com.mx/coahuila/juez-revierte-historico-caso-de-ley-olimpia-hacia-una-mujer-en-coahuila-HI8596328)
-- [Monterrey Ley Olmipia](https://conecta.tec.mx/es/noticias/nacional/institucion/basta-impulsora-de-ley-olimpia-da-consejos-vs-violencia-digital)
-- [Alumna de la UNAM denuncia y logra el primer caso de vinculación a proceso por la Ley Olimpia](https://www.gaceta.unam.mx/alumna-de-la-unam-denuncia-y-logra-el-primer-caso-de-vinculacion-a-proceso-por-la-ley-olimpia/)
+6.  [Hombre beneficiado por ley Olimpia](https://www.youtube.com/watch?v=p_sXZ5EnM8E)
+7. [Ley Olimpia Bufete juridico](https://www.bufetejuridicogratuito.org.mx/2022/07/18/ley-olimpia/)
+8. [Juez revierte Ley Olimpia](https://vanguardia.com.mx/coahuila/juez-revierte-historico-caso-de-ley-olimpia-hacia-una-mujer-en-coahuila-HI8596328)
+9.  [Alumna de la UNAM denuncia y logra el primer caso de vinculación a proceso por la Ley Olimpia](https://www.gaceta.unam.mx/alumna-de-la-unam-denuncia-y-logra-el-primer-caso-de-vinculacion-a-proceso-por-la-ley-olimpia/)
+
 - [Sujeto en Irapuato](https://www.elfinanciero.com.mx/estados/2023/04/19/ley-olimpia-detienen-en-irapuato-a-sujeto-por-grabar-a-mujeres-y-difundir-los-videos-por-telegram/)
 - [Ley Olimpia - Wikipedia](https://es.wikipedia.org/wiki/Ley_Olimpia#V%C3%A9ase_tambi%C3%A9n)
 - [La culpa NO es mía | Olimpia, la de la Ley olimpia.](https://www.youtube.com/watch?v=90ax_KAo8Jw)
