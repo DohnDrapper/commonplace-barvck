@@ -26,12 +26,13 @@ Antes cual era la estadística,  en el momento, actualidad
 7. [Ley Olimpia Bufete juridico](https://www.bufetejuridicogratuito.org.mx/2022/07/18/ley-olimpia/)
 8. [Juez revierte Ley Olimpia](https://vanguardia.com.mx/coahuila/juez-revierte-historico-caso-de-ley-olimpia-hacia-una-mujer-en-coahuila-HI8596328)
 9.  [Alumna de la UNAM denuncia y logra el primer caso de vinculación a proceso por la Ley Olimpia](https://www.gaceta.unam.mx/alumna-de-la-unam-denuncia-y-logra-el-primer-caso-de-vinculacion-a-proceso-por-la-ley-olimpia/)
+10. [Sujeto en Irapuato](https://www.elfinanciero.com.mx/estados/2023/04/19/ley-olimpia-detienen-en-irapuato-a-sujeto-por-grabar-a-mujeres-y-difundir-los-videos-por-telegram/)
+11. [Ley Olimpia - Wikipedia](https://es.wikipedia.org/wiki/Ley_Olimpia#V%C3%A9ase_tambi%C3%A9n)
 
-- [Sujeto en Irapuato](https://www.elfinanciero.com.mx/estados/2023/04/19/ley-olimpia-detienen-en-irapuato-a-sujeto-por-grabar-a-mujeres-y-difundir-los-videos-por-telegram/)
-- [Ley Olimpia - Wikipedia](https://es.wikipedia.org/wiki/Ley_Olimpia#V%C3%A9ase_tambi%C3%A9n)
-- [La culpa NO es mía | Olimpia, la de la Ley olimpia.](https://www.youtube.com/watch?v=90ax_KAo8Jw)
-- [Académica de la IBERO explica por qué la Ley Olimpia no es suficiente](https://ibero.mx/prensa/academica-de-la-ibero-explica-por-que-la-ley-olimpia-no-es-suficiente)
-- [Sentencias por "Ley Olimpia" se investigan en 1& de los casos investigados](https://serendipia.digital/violencia-contra-las-mujeres/sentencias-por-ley-olimpia/)
+12. [La culpa NO es mía | Olimpia, la de la Ley olimpia.](https://www.youtube.com/watch?v=90ax_KAo8Jw)
+
+13. [Académica de la IBERO explica por qué la Ley Olimpia no es suficiente](https://ibero.mx/prensa/academica-de-la-ibero-explica-por-que-la-ley-olimpia-no-es-suficiente)
+14. [Sentencias por "Ley Olimpia" se investigan en 1& de los casos investigados](https://serendipia.digital/violencia-contra-las-mujeres/sentencias-por-ley-olimpia/)
 - [OLIMPIA: El camino de la aprobación de la Ley Olimpia](https://uo.edu.mx/olimpia-el-camino-de-la-aprobacion-de-la-ley-olimpia/)
 - [LA LEY OLIMPIA TIPIFICÓ COMO ILEGAL EL CIBERACOSO EN MÉXICO: ESPECIALISTAS](https://infocdmx.org.mx/index.php/2-boletines/7551-dcs-047-2022.html)
 - [LEY OLIMPIA. LA VIOLENCIA DIGITAL CONTRA LAS MUJERES. UN PROBLEMA MUNDIAL Y DE CARÁCTER ESTRUCTURAL](https://acupsi.org/ley-olimpia-la-violencia-digital-contra-las-mujeres-un-problema-mundial-y-de-caracter-estructural/)
