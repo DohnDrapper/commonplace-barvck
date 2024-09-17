@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6127d1f636fe2e62",
+        "id": "d324e87712cf39b7",
         "type": "tabs",
         "children": [
           {
-            "id": "87f0121f7a4b9e84",
+            "id": "401d20b9be2700de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A buscar para protocolo de investigación.md",
+                "file": "Sesión cog of blood.md",
                 "mode": "preview",
                 "source": true
               }
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922,
-    "collapsed": true
+    "width": 317.5110321044922
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -94,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A buscar para protocolo de investigación.md",
+                "file": "Sesión cog of blood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +110,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "A buscar para protocolo de investigación.md"
+                "file": "Sesión cog of blood.md"
               }
             }
           },
@@ -121,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A buscar para protocolo de investigación.md",
+                "file": "Sesión cog of blood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,8 +175,14 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "87f0121f7a4b9e84",
+  "active": "401d20b9be2700de",
   "lastOpenFiles": [
+    "Pasted image 20240916182849.png",
+    "Pasted image 20240916182719.png",
+    "Sesión cog of blood.md",
+    "2022-09-29.md",
+    "Quiubole con  Vampiro.md",
+    "Untitled.md",
     "A buscar para protocolo de investigación.md",
     "Personal/Bolsas de trabajo.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
@@ -195,17 +200,12 @@
     "Sesión 'Relámpago en el castillo'.md",
     "Para redactar en Discord.md",
     "Rol/SDC/Introducción a Pulp Cthulhu.md",
-    "Untitled.md",
-    "2022-09-29.md",
     "Rol/SDC/Sesión 1 SDC - Log.md",
     "Personal/Para ver.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
     "Sesion 'ojo del Beholder'.md",
     "Rol/TDA/Sesión 20 TDA - Preparación.md",
     "Rol/TDA/Sesión 23 TDA - Preparación.md",
-    "Rol/Música.md",
-    "Rol/TDA/Sesión 22 TDA - Preparación.md",
-    "2022/Preguntas final de 2022.md",
-    "Pregunta final de 2023.md"
+    "Rol/Música.md"
   ]
 }
