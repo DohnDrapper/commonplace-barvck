@@ -33,9 +33,10 @@ Antes cual era la estadística,  en el momento, actualidad
 
 13. [Académica de la IBERO explica por qué la Ley Olimpia no es suficiente](https://ibero.mx/prensa/academica-de-la-ibero-explica-por-que-la-ley-olimpia-no-es-suficiente)
 14. [Sentencias por "Ley Olimpia" se investigan en 1& de los casos investigados](https://serendipia.digital/violencia-contra-las-mujeres/sentencias-por-ley-olimpia/)
-- [OLIMPIA: El camino de la aprobación de la Ley Olimpia](https://uo.edu.mx/olimpia-el-camino-de-la-aprobacion-de-la-ley-olimpia/)
-- [LA LEY OLIMPIA TIPIFICÓ COMO ILEGAL EL CIBERACOSO EN MÉXICO: ESPECIALISTAS](https://infocdmx.org.mx/index.php/2-boletines/7551-dcs-047-2022.html)
-- [LEY OLIMPIA. LA VIOLENCIA DIGITAL CONTRA LAS MUJERES. UN PROBLEMA MUNDIAL Y DE CARÁCTER ESTRUCTURAL](https://acupsi.org/ley-olimpia-la-violencia-digital-contra-las-mujeres-un-problema-mundial-y-de-caracter-estructural/)
+15. [OLIMPIA: El camino de la aprobación de la Ley Olimpia](https://uo.edu.mx/olimpia-el-camino-de-la-aprobacion-de-la-ley-olimpia/)
+16. [LA LEY OLIMPIA TIPIFICÓ COMO ILEGAL EL CIBERACOSO EN MÉXICO: ESPECIALISTAS](https://infocdmx.org.mx/index.php/2-boletines/7551-dcs-047-2022.html)
+17. [LEY OLIMPIA. LA VIOLENCIA DIGITAL CONTRA LAS MUJERES. UN PROBLEMA MUNDIAL Y DE CARÁCTER ESTRUCTURAL](https://acupsi.org/ley-olimpia-la-violencia-digital-contra-las-mujeres-un-problema-mundial-y-de-caracter-estructural/)
+
 - [Todo lo que necesitas saber sobre la Ley Olimpia en México](https://www.pandasecurity.com/es/mediacenter/ley-olimpia-mexico/)
 - [Noticias de proceso](https://www.proceso.com.mx/temas/ley-olimpia-482.html)
 - [El caso de la Ley Olimpia que reabrió el debate sobre la justicia ‘de género’](https://www.infonor.com.mx/articulo/entry/el-caso-de-la-ley-olimpia-que-reabrio-el-debate-sobre-la-justicia-de-genero)
