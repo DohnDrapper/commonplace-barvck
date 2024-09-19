@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0dd940aaf6209edc",
+        "id": "df5e134b2ba6df7a",
         "type": "tabs",
         "children": [
           {
-            "id": "7dd3e461f966d9a2",
+            "id": "d0929de6d553e011",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -89,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spiderman No way home.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,9 +104,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Spiderman No way home.md"
-              }
+              "state": {}
             }
           },
           {
@@ -116,7 +113,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spiderman No way home.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,8 +167,9 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "b1f8eea1007e62c1",
+  "active": "d0929de6d553e011",
   "lastOpenFiles": [
+    "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "A buscar para protocolo de investigación.md",
     "Sesión cog of blood.md",
     "Pasted image 20240916182849.png",
@@ -181,7 +178,6 @@
     "Quiubole con  Vampiro.md",
     "Untitled.md",
     "Personal/Bolsas de trabajo.md",
-    "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "Taller memetica.md",
     "Personal/Pink Floyd.md",
     "Personal/100820211442 - 2021 Resumen del Año.md",

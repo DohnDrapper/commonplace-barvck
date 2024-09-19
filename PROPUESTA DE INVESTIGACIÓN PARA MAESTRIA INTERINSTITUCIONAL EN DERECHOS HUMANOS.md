@@ -11,6 +11,24 @@ Septiembre de 2024
 
 ---
 
+Indice
+
+Introduccion
+
+Antecedentes
+Sentencia Campo algodonero
+Ley de Acceso de las Mujeres a un vida lIbre de Violencia
+
+Ley Olimpia
+Caso Olimpia Coral
+Reformas
+
+
+
+
+
+
+
 PROTOCOLO DE INVESTIGACION
 
 Isaac Baruch Sánchez Hernández
