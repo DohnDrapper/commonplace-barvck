@@ -11,8 +11,24 @@
             "id": "d0929de6d553e011",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "A buscar para protocolo de investigación.md",
+                "mode": "preview",
+                "source": true
+              }
+            }
+          },
+          {
+            "id": "074d56e717d72c2e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -89,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A buscar para protocolo de investigación.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "A buscar para protocolo de investigación.md"
+              }
             }
           },
           {
@@ -113,6 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A buscar para protocolo de investigación.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -171,10 +191,10 @@
   "lastOpenFiles": [
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "A buscar para protocolo de investigación.md",
+    "2022-09-29.md",
     "Sesión cog of blood.md",
     "Pasted image 20240916182849.png",
     "Pasted image 20240916182719.png",
-    "2022-09-29.md",
     "Quiubole con  Vampiro.md",
     "Untitled.md",
     "Personal/Bolsas de trabajo.md",
