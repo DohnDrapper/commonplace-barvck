@@ -16,10 +16,25 @@
                 "file": "Personal/Bolsas de trabajo.md",
                 "mode": "preview",
                 "source": true
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Bolsas de trabajo"
+            }
+          },
+          {
+            "id": "857c8379f288217b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.4"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -39,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTimeReverse"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
             }
           },
           {
@@ -54,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
             }
           },
           {
@@ -62,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "starred",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Complemento no activo"
             }
           },
           {
@@ -70,7 +91,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
             }
           }
         ]
@@ -101,7 +124,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Bolsas de trabajo"
             }
           },
           {
@@ -111,7 +136,9 @@
               "type": "outline",
               "state": {
                 "file": "Personal/Bolsas de trabajo.md"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Bolsas de trabajo"
             }
           },
           {
@@ -123,7 +150,9 @@
                 "file": "Personal/Bolsas de trabajo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Bolsas de trabajo"
             }
           },
           {
@@ -131,7 +160,9 @@
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
-              "state": {}
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           },
           {
@@ -143,7 +174,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
             }
           },
           {
@@ -151,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
-              "state": {}
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
             }
           }
         ],
@@ -175,7 +210,7 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "b1f8eea1007e62c1",
+  "active": "857c8379f288217b",
   "lastOpenFiles": [
     "A buscar para protocolo de investigación.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
