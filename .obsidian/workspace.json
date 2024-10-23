@@ -146,10 +146,10 @@
             "id": "d39f54806fffa67b",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -175,9 +175,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "62b4f75047dd2a64",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -197,7 +207,7 @@
       "random-note:Abrir nota al azar": false
     }
   },
-  "active": "8b0cbf34f43c6ff5",
+  "active": "62b4f75047dd2a64",
   "lastOpenFiles": [
     "Personal/Bolsas de trabajo.md",
     "A buscar para protocolo de investigación.md",
