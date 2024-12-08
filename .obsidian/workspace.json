@@ -170,14 +170,44 @@
             "id": "458c5fed125a3aef",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
             "id": "62b4f75047dd2a64",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "532e6bb3401e31a8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
+          },
+          {
+            "id": "f9ce2555c65e3f2b",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
+          },
+          {
+            "id": "94fc28b506598466",
             "type": "leaf",
             "state": {
               "type": "graph-analysis",
@@ -187,7 +217,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
@@ -196,7 +226,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
       "canvas:Crear nuevo lienzo": false,
@@ -204,11 +233,13 @@
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
       "markdown-importer:Abrir el importador de Markdown": false,
-      "random-note:Abrir nota al azar": false
+      "random-note:Abrir nota al azar": false,
+      "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "62b4f75047dd2a64",
+  "active": "94fc28b506598466",
   "lastOpenFiles": [
+    "Rol/Música.md",
     "Personal/Bolsas de trabajo.md",
     "A buscar para protocolo de investigación.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
@@ -237,7 +268,6 @@
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
     "Sesion 'ojo del Beholder'.md",
     "Rol/TDA/Sesión 20 TDA - Preparación.md",
-    "Rol/TDA/Sesión 23 TDA - Preparación.md",
-    "Rol/Música.md"
+    "Rol/TDA/Sesión 23 TDA - Preparación.md"
   ]
 }
