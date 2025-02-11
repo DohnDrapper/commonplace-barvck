@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "040520211249 - Sobre como hacer un personaje memorable"
             }
+          },
+          {
+            "id": "a1dacf8bb0ffbee4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.4"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +53,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTimeReverse"
+                "sortOrder": "byModifiedTimeReverse",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de archivos"
@@ -200,10 +214,10 @@
             "id": "f9ce2555c65e3f2b",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -215,9 +229,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "15be24e53c48040e",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
@@ -237,7 +261,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "8b0cbf34f43c6ff5",
+  "active": "15be24e53c48040e",
   "lastOpenFiles": [
     "Rol/Música.md",
     "Personal/Bolsas de trabajo.md",
