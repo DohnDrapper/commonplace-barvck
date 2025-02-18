@@ -25,12 +25,14 @@
             "id": "a1dacf8bb0ffbee4",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.8.4"
+                "file": "Personal/Bolsas de trabajo.md",
+                "mode": "preview",
+                "source": true
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.8.4"
+              "icon": "lucide-file",
+              "title": "Bolsas de trabajo"
             }
           }
         ],
@@ -261,8 +263,9 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "15be24e53c48040e",
+  "active": "a1dacf8bb0ffbee4",
   "lastOpenFiles": [
+    "Artículos/030420211222 - Why the beauty community on YouTube is one of the most turbulent and drama filled places on the internet.md",
     "Rol/Música.md",
     "Personal/Bolsas de trabajo.md",
     "A buscar para protocolo de investigación.md",
