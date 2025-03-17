@@ -103,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5110321044922
+    "width": 317.5110321044922,
+    "collapsed": true
   },
   "right": {
     "id": "c7f84e22265f9f0f",
@@ -226,10 +227,10 @@
             "id": "94fc28b506598466",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -241,9 +242,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "0a7c7d53dcfcc9ac",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 10
+        "currentTab": 11
       }
     ],
     "direction": "horizontal",
@@ -263,7 +274,7 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "a1dacf8bb0ffbee4",
+  "active": "0a7c7d53dcfcc9ac",
   "lastOpenFiles": [
     "Artículos/030420211222 - Why the beauty community on YouTube is one of the most turbulent and drama filled places on the internet.md",
     "Rol/Música.md",
