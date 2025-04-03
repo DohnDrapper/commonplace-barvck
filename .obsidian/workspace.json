@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b0cbf34f43c6ff5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rol/040520211249 - Sobre como hacer un personaje memorable.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "040520211249 - Sobre como hacer un personaje memorable"
-            }
-          },
-          {
             "id": "a1dacf8bb0ffbee4",
             "type": "leaf",
             "state": {
@@ -33,6 +19,18 @@
               },
               "icon": "lucide-file",
               "title": "Bolsas de trabajo"
+            }
+          },
+          {
+            "id": "3cd927e842fd2e64",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
         ],
@@ -237,10 +235,10 @@
             "id": "15be24e53c48040e",
             "type": "leaf",
             "state": {
-              "type": "graph-analysis",
+              "type": "empty",
               "state": {},
-              "icon": "GA-ICON",
-              "title": "Graph Analysis"
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
             }
           },
           {
@@ -252,9 +250,19 @@
               "icon": "GA-ICON",
               "title": "Graph Analysis"
             }
+          },
+          {
+            "id": "31203dae366073a3",
+            "type": "leaf",
+            "state": {
+              "type": "graph-analysis",
+              "state": {},
+              "icon": "GA-ICON",
+              "title": "Graph Analysis"
+            }
           }
         ],
-        "currentTab": 11
+        "currentTab": 12
       }
     ],
     "direction": "horizontal",
@@ -274,11 +282,12 @@
       "obsidian-full-calendar:Open Full Calendar": false
     }
   },
-  "active": "0a7c7d53dcfcc9ac",
+  "active": "31203dae366073a3",
   "lastOpenFiles": [
+    "Rol/040520211249 - Sobre como hacer un personaje memorable.md",
+    "Personal/Bolsas de trabajo.md",
     "Artículos/030420211222 - Why the beauty community on YouTube is one of the most turbulent and drama filled places on the internet.md",
     "Rol/Música.md",
-    "Personal/Bolsas de trabajo.md",
     "A buscar para protocolo de investigación.md",
     "PROPUESTA DE INVESTIGACIÓN PARA MAESTRIA INTERINSTITUCIONAL EN DERECHOS HUMANOS.md",
     "2022-09-29.md",
@@ -305,7 +314,6 @@
     "Personal/Para ver.md",
     "On the process of making MOCs/On the process of making MOCs/_IncubationMOCs/Walking through the 3 stages of MOCs.md",
     "Sesion 'ojo del Beholder'.md",
-    "Rol/TDA/Sesión 20 TDA - Preparación.md",
-    "Rol/TDA/Sesión 23 TDA - Preparación.md"
+    "Rol/TDA/Sesión 20 TDA - Preparación.md"
   ]
 }
